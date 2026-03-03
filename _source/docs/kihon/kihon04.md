@@ -1,97 +1,58 @@
-# Menko (Menshi) 和牌牌 Toshi (Toko)
+# 面子和搭子
 
-## 科茨（Kokuko）和牌牌舒茨（Junko）
+## 刻子和顺子
 
-麻将的Waryo Kata需要四张脸，
-有两种类型的面孔：（Koko）Coates 和牌牌（Junko）Schuntz。
+麻将的和牌形需要四个面子，
+面子有刻子（コーツ）和顺子（シュンツ）的2种方式。
 
-[纯子]<img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />...一组 3 个连续的图块
+【顺子】<img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" />　<img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" />　…　连续的牌3枚组合
 
-[纪子]<img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/ton.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/ton.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/ton.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />...一组 3 个相同的瓷砖
+【刻子】<img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" />　<img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" />　…　相同的牌3枚组合
 
+基本上刻子比顺子更容易制作。
+麻将中相同的牌只有4枚。
+从其中收集3枚，所以刻子难以制作是理所当然的。
 
-基本上，Schunz 比 Coates 更容易制作。
-马雀士中只有 4 张相同的牌。
-由于您需要收集其中三件，因此外套的制作自然很困难。
+但是在鸣牌中，
+吃只能从上家进行，而碰可以从任何家进行。
+鸣牌的情况下刻子变得稍微容易制作。
+（即使如此也不会说比顺子更容易制作）
 
+不鸣牌而是自力凑齐3张的刻子叫做暗刻（アンコー）。
+暗刻虽然难以制作，但准备了三暗刻·四暗刻这样的役种，
+不过这些手役很难做。
 
-然而，在瓷砖上，
-你只能在上议院唱歌，但你可以在任何地方演奏一辉。
-如果它发出尖叫声，外套就更容易制作了。
-（不过，这并不比 Schuntz 更容易做到）
+麻将的面子应该以顺子为基本来考虑。
 
-能自行收集三层外套而不发出声音的外套称为“anko”。
-由于雕刻难度较大，有三刻和牌牌四刻可供选择。
-这些类型的角色很难实现。
+### 总结·理论
 
-毕竟，正雄的脸应该是以顺茨为原型的。
+麻将中有刻子和顺子2种面子。
+刻子比顺子遥遥难以制作，所以
+应该以顺子为基本来进行手牌制作。
 
-### 总结/理论
+## 搭子とは？
 
-马修有两个侧面，科茨和牌牌顺茨。
-Schunz 比 Coats 更容易制作，所以
-应该是在 Schunz 的基础上手工制作的。
+再摸一张就能成为顺子的2张组合叫做搭子（ターツ），
+搭子有以下的3种类。
 
-## 什么是东光？
+| 形 | 名字 | 有效牌 | 有效牌的枚数 |
+|------|------|--------|--------------|
+| <img src="../hai/man1.gif" /><img src="../hai/man2.gif" /> | 边张<br />（ペンチャン） | <img src="../hai/man3.gif" /> | 4枚 |
+| <img src="../hai/pin6.gif" /><img src="../hai/pin8.gif" /> | 嵌张<br />（カンチャン） | <img src="../hai/pin7.gif" /> | 4枚 |
+| <img src="../hai/sou1.gif" /><img src="../hai/sou3.gif" /> | 两面听<br />（リャンメン） | <img src="../hai/sou2.gif" /><img src="../hai/sou4.gif" /> | 8枚 |
 
-一组两个圆盘可以通过添加一个圆盘制成 Schunz，称为 toshi。
-toshi 共有三种类型：
+边张和嵌张被称为坏搭子（悪いターツ），两面听被称为好搭子（良いターツ）。
 
-搭子
-姓名
-有效卡
-有效卡张数
+有效牌（有效牌）
+是指摸牌后能改善手牌状态或到达听牌状态的牌。
 
+有效牌的枚数越多，到达听牌的可能性就越高。
 
+## 总结·理论
 
-亨巴里 (Penchan)
-　
-4 件
+搭子有边张、嵌张、两面听3种。
+两面听有8张有效牌，是最优秀的搭子。
+边张和嵌张只有4张有效牌，是劣势的搭子。
 
-
-
-　张昌
-　
-4 件
-
-
-
-两侧（连门）
-　
-8 件
-
-从这张表中可以看出，凉门是最受欢迎的形式，接受程度是碰禅和牌牌楚禅的两倍。是。
-
-“做凉门”是手工烹饪的基础。
-
-## penchan 和牌牌 kuchan 的比较
-
-现在，我们来比较一下 Penchan 和牌牌 Kuchan，乍一看似乎没有什么区别。
-转手梁门就会有不同的结果。
-
-彭昌<img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" /><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" />为了使其双面<img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" />→<img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" />你需要提出来。
-
-<img src="../images/005.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:330px; height:67px;" />
-
-他和牌牌朝志改变两个动作的可能性是相当渺茫的。是。
-朋禅很难想象会变成梁门。
-
-杠陈<img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" />如果是这样，<img src="../pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" />如果你拉，它会立即改变到两侧。
-
-<img src="../images/006.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:217px; height:67px;" />
-
-如果你改变一个动作，你就可以期待一些东西。
-
-而且<img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" />如果你是这样的粉丝，<img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" /><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" />无论拉哪一个，两边都会发生变化。考虑到梁门的变化，强禅比彭禅更有优势。
-
-而且，论角色类型，彭禅奇绝对是无敌的。Penchan 是一种糟糕的形式理解这一点就好了。
-
-### 总结/理论
-
-斗士分为三种：“penchan”、“barchan”、“liangmen”。
-
-梁门 >> 盆禅 >> 盆禅
-
-价值上有差异。
-创建梁门是武将的基础之一。
-
+以牌效的角度来看手牌时，
+需要一边考虑有效牌的枚数和进张，一边考虑打牌。
