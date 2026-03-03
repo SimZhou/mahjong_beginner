@@ -4,48 +4,26 @@
 
 ## 1. 基本瓷砖
 
-所有 34 种类型都有相同的概率成为 Shoko Coates。
- 
+对子・コーツになる確率は３４種全て同じです。
 不过，从Koko到Coates的变化很容易打（很容易出现在比赛中）
- 
 最靠近边缘的瓷砖具有优势。
 
 然而，Schunz 组合能力对于靠近中间的瓷砖更有利。
- 
-说到人物瓷砖，只有科茨可以制作。 
-
+说到人物瓷砖，只有科茨可以制作。
 假设面对面，
 
-**＜打脸能力＞**
+**<打脸能力>**
 
-<img src="/hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> ＞<img src="/hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> ＞<img src="/hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 人物图块**
-你可以这样对它们进行排名。 
+<img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />＞<img src="../hai/man2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />＞<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />＞**字母瓷砖**你可以这样对它们进行排名。 
 图像是男人的，但剑和别针当然是一样的。 
-请记住，内部瓷砖更有价值。
-人物瓷砖的价值简单来说就是可以当外套的瓷砖价值高。
-Dub East/Dub South > 角色瓷砖 > 宅男风格瓷砖
-是的。通过喊话就能吸引 1 名粉丝的胜牌价值相当高。
+请记住，内部瓷砖更有价值。人物瓷砖的价值简单来说就是可以当外套的瓷砖价值高。Dub East/Dub South > 角色瓷砖 > 宅男风格瓷砖是。通过喊话就能吸引 1 名粉丝的胜牌价值相当高。
 有很多东西比老头牌（19牌）更重要。
 即使场上只有一张牌被切掉，它的价值也会大幅下降，
-如果你看到第二个，那就没什么用了。
-在大多数情况下，如果您有一块，您会将其保留为安全瓷砖。
-2. 磁贴交互
-即使几块瓷砖是孤立的，三块瓷砖的组合也被认为是不利的。
-特别地，在1、4、6和9的组合中，图块1和9分别几乎没有价值。
-→验收是～（与验收一张相同，不包括重叠）
-→验收是～（与验收一张相同，不包括重叠）
-
- 　
-仅当您抓到 4 张牌（例如 2356 和 2335）并获得两张牌时，14 中的 1 才有用。
-相隔三块瓷砖的几块瓷砖的组合称为条纹瓷砖。
-有一条规则，如果你持有带有条纹牌的牌，那么一张牌的价值就会减少。
-最值得注意的组合是 1-4、6-9、
+如果你看到第二个，那就没什么用了。在大多数情况下，如果您有一块，您会将其保留为安全瓷砖。2. 磁贴交互即使几块瓷砖是孤立的，三块瓷砖的组合也被认为是不利的。特别地，在1、4、6和9的组合中，图块1和9分别几乎没有价值。→验收是～（与验收一张相同，不包括重叠）→验收是～（与验收一张相同，不包括重叠）仅当您抓到 4 张牌（例如 2356 和 2335）并获得两张牌时，14 中的 1 才有用。相隔三块瓷砖的几块瓷砖的组合称为条纹瓷砖。
+有一条规则，如果你持有带有条纹牌的牌，那么一张牌的价值就会减少。最值得注意的组合是 1-4、6-9、
 同样，组合 2-5、3-6、4-7 和 5-8 在被接受时也会产生负面影响（可以形成棋盘的瓷砖类型）。
 
-如果持有固定牌的牌，则接受的牌张数会重复，结果，接受的牌张数会减少。
-
-
-手板砖
+如果持有固定牌的牌，则接受的牌张数会重复，结果，接受的牌张数会减少。手板砖
 可以形成塔的 Tsumo 瓷砖
 
 
@@ -83,22 +61,7 @@ Dub East/Dub South > 角色瓷砖 > 宅男风格瓷砖
 
 
 
-（比较）
-
-
-
-
-
-
-
-
-
-
-
-
-当你看表时就很明显了。
- 在 的情况下，合并结果中的有效图块数量会减少，因为 ・ 的接受是重复的。
-如果它说2-5，接受1将是一种倾向，所以我不太高兴。您应该知道，持有 2-5 意味着留下 2 以便抽 3 并瞄准双方。这意味着如果 1 很薄并且
+（比较）当你看表时就很明显了。在 的情况下，合并结果中的有效图块数量会减少，因为 ・ 的接受是重复的。如果它说2-5，接受1将是一种倾向，所以我不太高兴。您应该知道，持有 2-5 意味着留下 2 以便抽 3 并瞄准双方。这意味着如果 1 很薄并且
 5 是
 如果是红色，2的值就会减少。 5-8 中的 8 也是如此。
 

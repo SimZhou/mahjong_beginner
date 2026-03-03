@@ -20,17 +20,17 @@
 
 我们来实际看看那个梁门旗。
 
-<img src="/hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>・・・・**１－４听**
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>・・・・**１－４听**
 
-<img src="/hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>・・・・**２－５听**
+<img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>・・・・**２－５听**
 
-<img src="/hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>・・・・**３－６听**
+<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>・・・・**３－６听**
 
-<img src="/hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>・・・・**4－7听**
+<img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>・・・・**4－7听**
 
-<img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>・・・・**5－8听**
+<img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>・・・・**5－8听**
 
-<img src="/hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>・・・・**6－9听**
+<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>・・・・**6－9听**
 
 这六个就是一切。这六点一定要记住。
 
@@ -44,13 +44,13 @@
 
 而且，当我想到三门坡时，
 
-<img src="/hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
 ...**1-4-7 听**
 
-<img src="/hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
 ・・・**2-5-8听**
 
-<img src="/hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
 ...**3-6-9 听**
 
 それぞれの听が合わさったものが三面听だと分かります。
@@ -75,23 +75,23 @@
 
 从这两个中，你可以看出哪些牌是双面的，永远不会是罗恩。
 
-<img src="/images/28.gif"/>
+<img src="../images/28.gif"/>
 
 再次考虑这个例子。
 
-玩具人是 <img src="/hai/pin7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>，Shimoie 是 <img src="/hai/man5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 我在启动后立即通过它
+玩具人是 <img src="../hai/pin7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>，Shimoie 是 <img src="../hai/man5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 我在启动后立即通过它
 
 这是一块“素吉瓷砖”，因此它是一块切割瓷砖。
 
-恢复后的 Azuma 家族有 <img src="/hai/pin4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>，所以 <img src="/hai/pin5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 没有两条边。
+恢复后的 Azuma 家族有 <img src="../hai/pin4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>，所以 <img src="../hai/pin5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 没有两条边。
 
-<img src="/hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 剪了至少不会两边都转移
+<img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 剪了至少不会两边都转移
 
-<img src="/hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> は、<img src="/hai/man2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> ２つの牌から導ける「筋牌」です。
+<img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> は、<img src="../hai/man2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> ２つの牌から導ける「筋牌」です。
 
-<img src="/hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 是 <img src="/hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> src="/hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 和 <img src="/hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>可以是两种类型的双面长瓷砖，
+<img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 是 <img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 和 <img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>可以是两种类型的双面长瓷砖，
 
-Azuma 家族是 <img src="/hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 由于它也被切割，因此无论哪种情况它都将是Furiten。
+Azuma 家族是 <img src="../hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 由于它也被切割，因此无论哪种情况它都将是Furiten。
 
-したがって<img src="/hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> はわりあい安全な牌と言えます。 
+したがって<img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> はわりあい安全な牌と言えます。 
 

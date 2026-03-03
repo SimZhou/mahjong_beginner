@@ -33,7 +33,7 @@
 
 ![](/hai/sou9.gif)
 
-<img src="/hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> Tsumo<img src="/hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> Tsumo<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
 
 比如像易向奇这样的，
 你会减少接受度并留下安全的瓷砖吗？
@@ -43,19 +43,19 @@
 
 Shanpe Uke 可以理解为“无法离开它”。
 
-（ただし、場に<img src="/hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>が２枚切れているような状況では信頼度が大きく下がります。）
+（ただし、場に<img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>が２枚切れているような状況では信頼度が大きく下がります。）
 
-假设附加一个 <img src="/hai/man5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 站立后立即通过。如果发生这种情况， <img src="/hai/man8.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 将成为廉价的瓷砖。
+假设附加一个 <img src="../hai/man5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 站立后立即通过。如果发生这种情况， <img src="../hai/man8.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 将成为廉价的瓷砖。
 
-通常 <img src="/hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が通っても シャン碰听や杠チャン听の可能性があるため
+通常 <img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が通っても シャン碰听や杠チャン听の可能性があるため
 
 油断できないのですが手出しで安全牌を切っての立直なら話は別です。
 
 很难想象剩下的选项会进一步缩小接受度。
 
-ましてや<img src="/hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> から先に <img src="/hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> を切る人がいたら「かなり変わった人」です。
+ましてや<img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> から先に <img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> を切る人がいたら「かなり変わった人」です。
 
-同様に<img src="/hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> と <img src="/hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> の中筋 <img src="/hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> も杠チャン听がありえないため、
+同様に<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> と <img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> の中筋 <img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> も杠チャン听がありえないため、
 
 通常よりも安全度大と考えてよいでしょう。
 
@@ -74,34 +74,34 @@ Shanpe Uke 可以理解为“无法离开它”。
 
 现在，您能找到除实际瓷砖之外的安全瓷砖吗？
 
-ポイントは杠チャン落としで、<img src="/hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が安全度の高い牌です。
+ポイントは杠チャン落としで、<img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が安全度の高い牌です。
 
 首先，考虑双方的风险程度。
 
-もし<img src="/hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> とあれば・・・ <img src="/hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> から切ってシャン碰受けを残すはずです。
+もし<img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> とあれば・・・ <img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> から切ってシャン碰受けを残すはずです。
 
-剪切顺序为 <img src="/hai/sou7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> → <img src="/hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" 的顺序将为 height="34"/>。
+剪切顺序为 <img src="../hai/sou7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> → <img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" 的顺序将为 height="34"/>。
 
-所以一个简单的双面 <img src="/hai/sou3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> ￣ <img src="/hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 你可以认为这是不可能的。
+所以一个简单的双面 <img src="../hai/sou3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> ￣ <img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 你可以认为这是不可能的。
 
-例題の場合<img src="/hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が切ってあるので シャン碰・杠チャン・単騎も
+例題の場合<img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が切ってあるので シャン碰・杠チャン・単騎も
 
 非常に考えにくい捨て牌です。
 
 如果这是唯一的一个
-<img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 来自 <img src="/hai/sou5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> → <img src="/hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 剪切。
+<img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 来自 <img src="../hai/sou5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> → <img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 剪切。
 
-これで <img src="/hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> ￣ <img src="/hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> ￣ <img src="/hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 听になっているパターンです。
+これで <img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> ￣ <img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> ￣ <img src="../hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 听になっているパターンです。
 
 **请记住“当你站起来抛球时，反向切球的线几乎不会击中三门巴里以外的地方。”**记住这一点。
 
 但是，剪断琴弦时需要小心。
 
-这是 <img src="/hai/sou3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 英镑也是很有可能的。因为 <img src="/hai/sou7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 被修剪，
+这是 <img src="../hai/sou3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 英镑也是很有可能的。因为 <img src="../hai/sou7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 被修剪，
 
 我们不能否认双方在第6轮比赛中陷入僵局的可能性。
 
-假设绘图<img src="/hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> Tsumo<img src="/hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+假设绘图<img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> Tsumo<img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
 
 逆に上級者で手出し・ツモ切りをしっかり見ている方は、
 
@@ -121,19 +121,19 @@ Shanpe Uke 可以理解为“无法离开它”。
 
 这可以从非常基本的瓷砖开始。
 
-关于示例 4， <img src="/hai/pin5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 和 <img src="/hai/pin7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是
+关于示例 4， <img src="../hai/pin5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 和 <img src="../hai/pin7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是
 
 **你可能会想，“有杠本听，但不可能有山佩奇。”**
 
-<img src="/hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img 你会剪切 <img src="/hai/pin4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 来自 src="/hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>？
+<img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img 你会剪切 <img src="../hai/pin4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 来自 src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>？
 
-<img src="/hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img 你会剪切 <img src="/hai/pin8.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 来自 src="/hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>？
+<img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img 你会剪切 <img src="../hai/pin8.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 来自 src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>？
 
 任何对阿修有一点了解的人都会欣赏这个故事的两面。
 
-还是有杠chan的可能，所以 <img src="/hai/pin5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 也是 <img src="/hai/pin7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 也不是安全的图块。
+还是有杠chan的可能，所以 <img src="../hai/pin5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 也是 <img src="../hai/pin7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 也不是安全的图块。
 
-然而，在此之后，实际的 <img src="/hai/pin4.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" width="24" height="34"/> 或 <img src="/hai/pin8.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 被剪切，场上出现四个面。
+然而，在此之后，实际的 <img src="../hai/pin4.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" width="24" height="34"/> 或 <img src="../hai/pin8.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 被剪切，场上出现四个面。
 
 强强也可以否认。
 
@@ -184,13 +184,13 @@ Shanpe Uke 可以理解为“无法离开它”。
 
 モロ引っ掛けは杠チャンで最も警戒するべき听ですが、
 
-在示例 5 的情况下，杠 <img src="/hai/sou6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 几乎是不可能的。
+在示例 5 的情况下，杠 <img src="../hai/sou6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 几乎是不可能的。
 
-<img src="/hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 大多数人都会选择八牌旗。
+<img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 大多数人都会选择八牌旗。
 
 与红宝瓦规则
 
-<img src="/hai/sou5red.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> なら？　これなら <img src="/hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> よりもまず <img src="/hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　を打つのではないでしょうか。
+<img src="../hai/sou5red.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> なら？　これなら <img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> よりもまず <img src="../hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　を打つのではないでしょうか。
 
 断幺九の役种がついている場合も同様です。
 

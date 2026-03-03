@@ -1,7 +1,7 @@
 # 阿生之月 (2)
 
-変則多面張の知識があれば混一色、チンイツを听牌したときにも使えるだけでなく、
-攻めのバラエティが増えていろいろ有利でしょう。
+如果您了解不规则Tamenbari，您不仅可以在赢得混合Isshiki或Chinichitsu时使用它，还可以使用它
+攻击将会更加多样化，这在很多方面都是有益的。
 
 ## 不规则两人帽
 
@@ -15,45 +15,40 @@
 前两个都很好，很难说。
 确认 E-Peko 通常更有利。
 
-とある掲示板で見つけた問題ですが、これはノータイムで宝牌切りでしょう。
+这是我在某个公告牌上发现的问题，不过这大概是个无暇宝藏的瓦片切割。
 
-（例１）<img src="/hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　ツモ<img src="/hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>宝牌<img src="/hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
+（示例1）<img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />津莫<img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />宝藏瓷砖<img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
 
-ソーズは <img src="/hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 以外何を引いても听牌します。
+剑是<img src="../hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />无论你抽到什么，你都会赢。
 
-此外，<img src =“/hai/sou2.gif”style =“display：inline;vertical-align：middle;margin：0 1px;” width="24" height="34"/> 除了拉动之外， <img src="/hai/sou6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 或 <img src="/hai/sou7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 如果是津摩，那就是潭平梁佩宝堆，大手。
+而且，<img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />除了拉力之外，Pang也不错，<img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />蚊子<img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />如果是津摩的话，那可是唐平良佩宝堆宝堆的大招。
 
-これ以外ないはずなんですが、<img src="/hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 切り（<img src="/hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 切りも同じ）の方が多かった。ちょっと信じられない結果です…
+除了这个，一定没有别的了<img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />切 （<img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />（相同的切割）更常见。这是一个令人难以置信的结果...
 
 以下是一些在实际战斗中了解不规则乌克是有利的情况。
 
-（例２）<img src="/hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　ツモ<img src="/hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　吃<img src="/hai/ypin8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="32" height="24"/><img src="/hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
+（示例2）<img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />津莫<img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />口吃<img src="../hai/ypin8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:32px; height:24px;" /><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
 
-已经 <img src="/hai/pin4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> ￣ <img src="/hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 当您签署一封意向书时，
+已经<img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />￣<img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />当您签署一封意向书时，
 里面一片漆黑。
 
-ツモり三暗刻を狙ってシャボに受ける手もありますが、
+还有一种方法是瞄准津森三干国并在Shabbos上接收它，
+这是<img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />切<img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />正确的答案是做到这一点。
 
-ここは<img src="/hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> を切って  <img src="/hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> <img src="/hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> <img src="/hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 听にするのが正解でしょう。 
+容易地<img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />如果你把它砍掉，你就不会得到更多。
 
-如果你轻松剪切 <img src="/hai/pin3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>，听不会增加。
+（示例3）<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />津莫<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />口吃<img src="../hai/yman8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:32px; height:24px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />墨水<img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/yhaku.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:32px; height:24px;" />
 
-（示例 3）<img src="/hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 绘制<img src="/hai/man1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>吃<img src="/hai/yman8.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="32" height="24"/><img src="/hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>碰<img src="/hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/yhaku.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“32”高度=“24”/>
-
-うっかりツモ切りそうですが、同じ三面張でも
-
-<img src="/hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 切っての <img src="/hai/man2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 听の方がよい。
-テンパネで５２００点になるからです。
+好像一不小心就把绳子剪断了，不过就算是一样的三边
+<img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />切<img src="../hai/man2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />英镑比较好。
+这是因为气质量表上的分数将为 5200 分。
 
 ## 超过四个边
 
-これは例をあげるだけにしておきます。
+我给你举个例子。
+还有更多，所以自己搜索一下可能会很有趣。
 
-まだまだあるので自分で探してみるのも面白いでしょう。
-
-どれだけ複雑になっても、多面張の基本は
-
-「３枚ある牌を暗刻とみるか、雀頭＋１枚とみるか」です。
-
-ほぼ全ての多面听はこの考え方で対応できます。
+无论它变得多么复杂，多方面设计的基础都是
+“你觉得这三块瓷砖是暗刻，还是麻雀加一？”是。
+几乎所有的多边形都可以用这个想法来处理。
 

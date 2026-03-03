@@ -4,17 +4,17 @@
 
 什么牌就算切了也赢不了？
 
-<img src="/images/27.gif"/>
+<img src="../images/27.gif"/>
 
 就furiten而言，一般规则是你不能赚到很多钱。
 
 对手丢弃的所有牌都是安全的。
 
-在本例中： src="/hai/man9.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 与此相对应。
+在本例中： src="../hai/man9.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 与此相对应。
 
 另外，站立后，如果您错过了一次罗恩图块，您将无法再次获得罗恩图块。
 
-トイメンが通している <img src="/hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 、下家が通している  <img src="/hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> もロンされない牌です。
+トイメンが通している <img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 、下家が通している  <img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> もロンされない牌です。
 
 这样，由于禁止自由玩的规则，你可以选择一个显然不会玩的牌。
 
@@ -22,7 +22,7 @@
 
 現物以外に、１００％安全な牌がありますね。
 
-它是 <img src="/hai/hatu.gif" style="display:inline;vertical-align:middle; margin:0 1px;"您刚刚绘制的 width="24" height="34"/> 。
+它是 <img src="../hai/hatu.gif" style="display:inline;vertical-align:middle; margin:0 1px;"您刚刚绘制的 width="24" height="34"/> 。
 
 场上已经有 3 张牌，所以没有商七七或单七七。
 

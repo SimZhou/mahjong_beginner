@@ -4,43 +4,24 @@
 
 ## 1. 4 岁 + 浮动瓷砖
 
-この形は、浮牌を残すか残さないかが焦点となります。
+在这种形式中，重点在于是否留下浮动瓷砖。
 
-**示例1**
-<img src="/hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> Tsumo<img src="/hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+**实施例1**<img src="../hai/man2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />津莫<img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
 
-⇒<img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>剪切
+⇒<img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />切
 
-如示例 1 所示，<img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" 的 tsuko 明显较弱width="24" height="34"/><img src="/hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>。
-
- 
-如果浮动图块较厚且连续，则保留 <img src="/hai/sou7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 毫不犹豫。
-
- 
-就积分而言，可以瞄准“Danku”、“Heiwa”、“Epeco”等角色也是很有吸引力的。
-
-
-实施例2
-津莫
-⇒ 剪切
-然而，示例2有点奇怪。击打也是一种强力的招式，但是
+如示例1<img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />有明显的弱tsuko，
+如果浮瓦厚且连续，不要犹豫。<img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />离开哪里。
+就积分而言，可以瞄准“Danku”、“Heiwa”、“Epeco”等角色也是很有吸引力的。实施例2
+津莫⇒ 剪切然而，示例2有点奇怪。击打也是一种强力的招式，但是
 因为不能指望演大角色，所以就直接删掉了，
-老实说，我认为最大限度地增加易向奇接受的门票数量是个好主意。
-
-实施例3
-津莫
-⇒ 剪切
-例3是因为双面舷墙已经有3组，不需要再制作双面道碴了。
+老实说，我认为最大限度地增加易向奇接受的门票数量是个好主意。实施例3
+津莫⇒ 剪切例3是因为双面舷墙已经有3组，不需要再制作双面道碴了。
  即使被砍的概率很低
-你应该为Tsumo做好准备。
-2.无头型
-我认为无头型有很多困难的选择。
+你应该为Tsumo做好准备。2.无头型我认为无头型有很多困难的选择。
 
 实施例4
-津莫
-⇒ 剪切
-
-这不是一个糟糕的剪辑，但是
+津莫⇒ 剪切这不是一个糟糕的剪辑，但是
 就速度而言，优先切割面是有利的。
 
 变成易象棋的张数是

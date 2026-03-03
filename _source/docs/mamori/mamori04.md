@@ -57,18 +57,18 @@
 
 <丢弃棋子以帮助对手恢复>
 
-<img src="/hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/ypin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“32”高度=“24”/>
-宝藏瓷砖<img src="/hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ypin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“32”高度=“24”/>
+宝藏瓷砖<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
 
-让我们直接思考一下。宝藏图块为 <img src="/hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>。
+让我们直接思考一下。宝藏图块为 <img src="../hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>。
 
 自分の手が例１であったとします。
 
 **示例1**
-<img src="/hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
-Tsumo<img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+Tsumo<img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
 
-<img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 穿过，所以 <img src="/hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 和 <img src="/hai/man9.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是主图块。
+<img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 穿过，所以 <img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 和 <img src="../hai/man9.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是主图块。
 
 我应该放弃哪一个？
 
@@ -79,7 +79,7 @@ Tsumo<img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin
 单人骑手
  和某种香槟
 
-很明显 <img src="/hai/man9.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" width="24" height="34"/> 更安全，因为不存在 penchan 或 kochan 的可能性。
+很明显 <img src="../hai/man9.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" width="24" height="34"/> 更安全，因为不存在 penchan 或 kochan 的可能性。
 所以我们就在这里剪掉它。
 
 有些人可能想知道是否有单骑这样的事情。
@@ -143,21 +143,21 @@ Tsumo<img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin
 
 
 
-但是， 4 <img src="/hai/pin9.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>** 可见（包括宝藏图块显示图块）**，所以
-<img src="/hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>Pin 是不可能的。
+但是， 4 <img src="../hai/pin9.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>** 可见（包括宝藏图块显示图块）**，所以
+<img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>Pin 是不可能的。
 
-另一方面，宝藏图块是 <img src="/hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>，所以杠<img src="/hai/pin2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>看起来是可以的。
+另一方面，宝藏图块是 <img src="../hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>，所以杠<img src="../hai/pin2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>看起来是可以的。
 
-<img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img 如果你有 src="/hai/pin5.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
-<img src="/hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 将被剪切并恢复。
+<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img 如果你有 src="../hai/pin5.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 将被剪切并恢复。
 
-<img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
-<img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
 等等也是可能的。
 
-<img src="/hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> は「筋牌で安全」どころか、**バリバリの危険牌**ですね。
+<img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> は「筋牌で安全」どころか、**バリバリの危険牌**ですね。
 
-从图 2 中，剪出 <img src="/hai/pin8.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>。
+从图 2 中，剪出 <img src="../hai/pin8.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>。
 
 ### 理论
 

@@ -14,13 +14,13 @@
 
 没必要冒险出手。
 
-<img src="/images/h003.gif"/>
+<img src="../images/h003.gif"/>
 
 反之，如果完全没有风险，最好一次性消除。
 
 在上图所示的情况下，不可能去拿起笔。
 
-<img src="/hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 并擦除一次。记住它是个好主意。
+<img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 并擦除一次。记住它是个好主意。
 
 ## 梗阻
 

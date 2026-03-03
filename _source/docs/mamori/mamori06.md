@@ -34,16 +34,16 @@
 
 例子
 
-<img src="/images/h006.gif"/>
+<img src="../images/h006.gif"/>
 
 
 手はバラバラで、ここから親の立直に勝負するのは
 
 日本がアメリカに戦争を挑むくらい無謀でしょう。
 
-<img src="/hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="/hai/sou6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="/hai/sham.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 是安全的图块。
+<img src="../hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sham.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 是安全的图块。
 
-<img src="/hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 和 <img src="/hai/sou6m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/> 从任意一侧剪切都没有问题，但是从 <img src="/hai/sham.gif" style="display:inline;vertical-align:middle; margin:0 1px;" 剪切width="19" height="26"/> 是一个程序错误。
+<img src="../hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 和 <img src="../hai/sou6m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/> 从任意一侧剪切都没有问题，但是从 <img src="../hai/sham.gif" style="display:inline;vertical-align:middle; margin:0 1px;" 剪切width="19" height="26"/> 是一个程序错误。
 
 如果你在这里被追赶，你将没有安全瓷砖。
 
@@ -51,7 +51,7 @@
 
 事情很有可能从这里恢复过来。
 
-不要犹豫， <img src="/hai/man5m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/> 这是你应该摆脱这种情况的情况。
+不要犹豫， <img src="../hai/man5m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/> 这是你应该摆脱这种情况的情况。
 
 ### 理论
 

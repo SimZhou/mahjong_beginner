@@ -34,13 +34,13 @@
 
 **示例1**
 
-<img src="/images/h018.gif"/>
+<img src="../images/h018.gif"/>
 
-如果情况平坦，我认为剪切 <img src="/hai/sou5m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" 会很好。 width="19" height="26"/>，强调速度。
+如果情况平坦，我认为剪切 <img src="../hai/sou5m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" 会很好。 width="19" height="26"/>，强调速度。
  
 然而，如果目前是最后一场比赛，并且光津茂位于第二位，羽光将成为第一名。
 
-没有选择，只能输入 <img src="/hai/pin2m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/><img src="/hai/pin3m.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“19”高度=“26”/>。有足够的材料可供瞄准。
+没有选择，只能输入 <img src="../hai/pin2m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/><img src="../hai/pin3m.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“19”高度=“26”/>。有足够的材料可供瞄准。
 
 然而，这并不一定意味着这三种颜色都会变好。
  
@@ -50,7 +50,7 @@
 
 **示例2**
 
-<img src="/images/h019.gif"/>
+<img src="../images/h019.gif"/>
 
 这是一个简单的问题。
  
@@ -72,17 +72,17 @@
 任何东西都可以稍后添加。
 
 **示例3**
-<img src="/hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin5red.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 退出<img src="/hai/pin4.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5red.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 退出<img src="../hai/pin4.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
 
 例如，假设您在比赛结束时排名第二，并且想要完成比赛。
 
 在这种情况下，无论外表如何，你都应该去阿加里。
 
-因此，如果 <img src="/hai/pin4m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/> 从上屋出来，是方砖的一招。
+因此，如果 <img src="../hai/pin4m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/> 从上屋出来，是方砖的一招。
 
 **示例4**
 
-<img src="/images/h020.gif"/>
+<img src="../images/h020.gif"/>
 
 比赛结束时，他与领先者的差距为4400分。
  
@@ -90,7 +90,7 @@
 
 因此，主题是 3,900 件手工制品，或者更具体地说，是 Hakubao 瓷砖 2。
 
-然后，你可以想到这个 <img src="/hai/sou1m.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" width="19" height="26"/> 作为重要的图块。
+然后，你可以想到这个 <img src="../hai/sou1m.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" width="19" height="26"/> 作为重要的图块。
  
 在所有人都参与的最终游戏中，即使你试图通过添加获胜牌来设置它，它被阻止的可能性也很小。
 

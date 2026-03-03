@@ -12,12 +12,12 @@
 
 **示例1**
 　
-<img src="/hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>Tsumo<img src="/hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝藏瓷砖<img src="/hai/tyun.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>Tsumo<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝藏瓷砖<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
 
 当然，单独拿宝藏板块会更好，但是
 
 现在家里有一块宝砖
-假设您刚刚剪切了 <img src="/hai/tyumm.gif" style="display:inline; Vertical-align:middle; margin:0 1px;"宽度=“19”高度=“26”/>。 
+假设您刚刚剪切了 <img src="../hai/tyumm.gif" style="display:inline; Vertical-align:middle; margin:0 1px;"宽度=“19”高度=“26”/>。 
  
 在这种情况下，一个好的策略是至少进行一到两轮。
 
@@ -43,7 +43,7 @@
 
 **示例2**
 
-<img src="/images/h015.gif"/>
+<img src="../images/h015.gif"/>
 
 例如，在这种情况下，使用以下内容：期待发布 height="26"/>
  
@@ -65,7 +65,7 @@
 
 **示例3**
 
-<img src="/images/h016.gif"/>
+<img src="../images/h016.gif"/>
 
 南部地区最后一名获胜者。
  
@@ -81,7 +81,7 @@
  
 根据手中的牌，较低的玩家也可以输入牌。
 
-たとえ全員にオリられたとしても<img src="/hai/sou4m.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="19" height="26"/><img src="/hai/sou7m.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="19" height="26"/>ツモに賭ける状況です。
+たとえ全員にオリられたとしても<img src="../hai/sou4m.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="19" height="26"/><img src="../hai/sou7m.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="19" height="26"/>ツモに賭ける状況です。
 
 **示例4**
 

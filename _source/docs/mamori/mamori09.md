@@ -27,9 +27,9 @@
 
 这个例子是一个易于理解的例子，Kabuto 瓷砖是有效的。
 
-弃和で <img src="/hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>を抜くには惜しい手ですし、一発で打つには<img src="/hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>はやや厳しい。
+弃和で <img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>を抜くには惜しい手ですし、一発で打つには<img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>はやや厳しい。
 
-ここは場に１枚切れの <img src="/hai/hatu.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 对子落としが好手でしょう。
+ここは場に１枚切れの <img src="../hai/hatu.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 对子落としが好手でしょう。
 
 メンタンピン宝牌１で追いかけ立直を打つのが理想です。
 
@@ -39,21 +39,21 @@
 
 **示例2**
 
-<img src="/images/34.gif"/>
+<img src="../images/34.gif"/>
 
 如果没有恢复，销钉将会掉落。 （即使有所有茶汤，听起来也是如此）
 
-如果你想打字，这是 <img src="/hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/> 剪切。只需拉<img src =“/hai/pin3.gif”style =“display：inline;vertical-align：middle;margin：0 1px;” width="24" height="34"/> 你就会重新站起来。
+如果你想打字，这是 <img src="../hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/> 剪切。只需拉<img src =“/hai/pin3.gif”style =“display：inline;vertical-align：middle;margin：0 1px;” width="24" height="34"/> 你就会重新站起来。
 
-即使在易象棋中，如果你画 <img src="/hai/pin5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 等，肌肉平铺 <img src="/hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 砍下来好像也不错。
+即使在易象棋中，如果你画 <img src="../hai/pin5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 等，肌肉平铺 <img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 砍下来好像也不错。
 
-即使使用相同的头盔图块， <img src="/hai/sou4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 击球是一个糟糕的举动。
+即使使用相同的头盔图块， <img src="../hai/sou4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 击球是一个糟糕的举动。
 
-宝牌が <img src="/hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> であるうえに、 勝負牌となる <img src="/hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が危険牌だからです。
+宝牌が <img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> であるうえに、 勝負牌となる <img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が危険牌だからです。
 
 搭子落としでまわす場合は、両方の牌が安全であることが望ましい。
 
-不用说，如果 <img src="/hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 切后仍无任何进展，且玩家继续抽危险牌，应立即切换弃和。
+不用说，如果 <img src="../hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 切后仍无任何进展，且玩家继续抽危险牌，应立即切换弃和。
 
 ## 暗雕
 
@@ -62,12 +62,12 @@
   ３巡の間に通せる牌が増えて、アガリに向えたりすることもたまにあります。
 
 恢复
-<img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/yman2.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“32”高度=“24”/>
+<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/yman2.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“32”高度=“24”/>
 
 手板砖
-<img src="/hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> Tsumo<img src="/hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝藏瓷砖<img src="/hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> Tsumo<img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝藏瓷砖<img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
 
-例如，如果您删除 <img src="/hai/sha.gif" style="display:inline;vertical-align:middle; margin:0 1px;"此图块的 width="24" height="34"/>，
+例如，如果您删除 <img src="../hai/sha.gif" style="display:inline;vertical-align:middle; margin:0 1px;"此图块的 width="24" height="34"/>，
 
 最后，你可能会对 Kuitan 感到沮丧。
 

@@ -1,24 +1,20 @@
 # 初始图块 (1)
 
-３向听以下の手牌における牌理の難しいところは役种の価値をどの程度考えるかです。
-というのも、受け入れが少なくなっても鸣牌を考えると听牌までのスピードが逆転することが考えられるからです。
+3 或以下手牌分析的困难部分是您应该在多大程度上考虑手牌类型的价值。
+这是因为即使接受度下降，如果我们考虑图块的数量，达到图块数量的速度可能会逆转。
 
 为了使结论尽可能清晰，我们从门森效率的角度来讨论。
 
-初期牌理として、まず浮牌が何枚かある段階の手牌を例に挙げます。
+作为初始图块系统的示例，我们以一只手上有多个浮动图块为例。
 
-**示例1**
-<img src="/hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> Tsumo<img src="/hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>⇒<img src="/hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>剪切
+**实施例1**<img src="../hai/man2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/nan.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />津莫<img src="../hai/pin8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />⇒<img src="../hai/nan.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />切
 
 如果有孤块，可以比较其余孤块的功能。
 
-这里
-<img src="/hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
-它是一个孤立的图块，不会击中 Menko、Toko 或 Koko 中的任何一个。
+这里<img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/nan.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />它是一个孤立的图块，不会击中 Menko、Toko 或 Koko 中的任何一个。
+更不用说最不实用的瓷砖了。<img src="../hai/nan.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />是。
 
-不用说，功能最少的图块是 <img src="/hai/nan.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>。
-
-<img src="/hai/nan.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> には<img src="/hai/nan.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>を引いて对子・コーツにつくる力しかありません。
+<img src="../hai/nan.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />为了<img src="../hai/nan.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />剩下要做的唯一一件事就是拔掉电源并到达 Shoko/Coates。
 
 显然，能够制作 Schunz 的几块瓷砖更有价值。因此，这里只能切割瓷砖。
 虽然单独切掉也没有多大损失。

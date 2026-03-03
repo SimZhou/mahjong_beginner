@@ -14,7 +14,7 @@
 
 具体来说，场上有两个破碎的瓷砖（仅限单个骑士），
 
-当 4 <img src="/hai/man4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 在字段上可见，第四个 <img src="/hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>（仅适用于盆长坪）等
+当 4 <img src="../hai/man4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 在字段上可见，第四个 <img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>（仅适用于盆长坪）等
 
 当たる可能性はゼロではありませんが、
 

@@ -9,30 +9,30 @@
 まず役無し听牌の場合、立直をかけるかどうか考えてみます。
 
 **示例1**
-<img src="/hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝藏方块<img src="/hai/pin2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝藏方块<img src="../hai/pin2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
 
 比如图1的情况，我觉得按照这种形式恢复是可以的。
 
 相反，如果对方家人的行动没有什么特别的问题，你应该“康复”。
 
-原因是唯一有效的更改是 <img src="/hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>。
+原因是唯一有效的更改是 <img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>。
 
-<img src="/hai/man9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
+<img src="../hai/man9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
 
-"<img src="/hai/man6.gif" style="display:inline;垂直对齐：中间； margin:0 1px;" width="24" height="34"/> 难道我们不应该期待吗？
+"<img src="../hai/man6.gif" style="display:inline;垂直对齐：中间； margin:0 1px;" width="24" height="34"/> 难道我们不应该期待吗？
 
-另外，绘制 <img src="/hai/man5.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" 的概率width="24" height="34"/> 而不是 <img src="/hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是一样的。
+另外，绘制 <img src="../hai/man5.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" 的概率width="24" height="34"/> 而不是 <img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是一样的。
 
-如果你拉<img src =“/hai/man5.gif”style =“display：inline;vertical-align：middle;margin：0 1px;”首先是 width="24" height="34"/>，然后是 <img src="/hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 就算拉了也是免费十个。
+如果你拉<img src =“/hai/man5.gif”style =“display：inline;vertical-align：middle;margin：0 1px;”首先是 width="24" height="34"/>，然后是 <img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 就算拉了也是免费十个。
 
-<img src="/hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>如果你想在抽签后恢复，那么你应该在获胜后立即恢复。
+<img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>如果你想在抽签后恢复，那么你应该在获胜后立即恢复。
 
 站起来还有一个好处，就是不让对手随意攻击。
 
 如果你有 2 或 3 个宝藏牌，即使你玩 penchan 或 kuchan，你也可以站起来。
 
 **例２**
-<img src="/hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 宝牌<img src="/hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
+<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
 
 当然，努力成为一个好看的男人很重要，但是
 
@@ -40,9 +40,9 @@
 
 虽然两侧更容易结块，但结块的可能性并不是两倍。
 
-即使在 pen-chan 和 ki-chan 中，背部 hikkake（在这种情况下， <img src="/hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是在站立后立即绘制的）
+即使在 pen-chan 和 ki-chan 中，背部 hikkake（在这种情况下， <img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是在站立后立即绘制的）
 
-一次机会，一次没有机会（示例 2：<img src="/hai/man4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> （其中 3 个或更多可见的情况在场上）
+一次机会，一次没有机会（示例 2：<img src="../hai/man4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> （其中 3 个或更多可见的情况在场上）
 
 你也有可能摆脱困境。
 
