@@ -20,7 +20,7 @@
 不过，即使道路畅通，也不能说是安全的。
 有时我看到人们在切割瓷砖时说：“远了！”，但这没有任何意义。
 
-然而，尽管“和”相同，但风险程度却有所不同。
+然而，尽管“和牌牌”相同，但风险程度却有所不同。
  双方都有可能都是如此。
  既然两边都被否定了，可以说还是比较好的。
 我已经把肌肉块放在桌子上了，请检查一下。
@@ -31,26 +31,26 @@
 
 
 4
-1 和 7
+1 和牌牌 7
 
 
 5
-2 和 5
+2 和牌牌 5
 
 
 6
-3和9
+3和牌牌9
 
 
-1 和 7
+1 和牌牌 7
 4
 
 
-2 和 8
+2 和牌牌 8
 5
 
 
-3和9
+3和牌牌9
 6
 
 ## より安全な筋牌
@@ -58,7 +58,7 @@
 <丢弃棋子以帮助对手恢复>
 
 <img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ypin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“32”高度=“24”/>
-宝藏瓷砖<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+宝牌<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
 
 让我们直接思考一下。宝藏图块为 <img src="../hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>。
 
@@ -66,18 +66,18 @@
 
 **示例1**
 <img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
-Tsumo<img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+自摸<img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
 
-<img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 穿过，所以 <img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 和 <img src="../hai/man9.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是主图块。
+<img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 穿过，所以 <img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 和牌牌 <img src="../hai/man9.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是主图块。
 
 我应该放弃哪一个？
 
 - 是正确的
 单人骑手
-和某种香槟或
+和牌牌某种香槟或
 - 是正确的
 单人骑手
- 和某种香槟
+ 和牌牌某种香槟
 
 很明显 <img src="../hai/man9.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" width="24" height="34"/> 更安全，因为不存在 penchan 或 kochan 的可能性。
 所以我们就在这里剪掉它。

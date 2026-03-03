@@ -15,9 +15,9 @@
 
 ちょっとした打ち手になると、安全牌の持ち方がパターン化されます。
 
-听牌直前になって余分な牌は抱えたりせず、安全牌が来ればそれを残します。
+听牌牌牌直前になって余分な牌は抱えたりせず、安全牌が来ればそれを残します。
 
-逆に听牌への受け入れを減らしてまで安全牌を持つこともしません。
+逆に听牌牌牌への受け入れを減らしてまで安全牌を持つこともしません。
 
 您可以用它来阅读。
 
@@ -33,7 +33,7 @@
 
 ![](/hai/sou9.gif)
 
-<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> Tsumo<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
 
 比如像易向奇这样的，
 你会减少接受度并留下安全的瓷砖吗？
@@ -47,7 +47,7 @@ Shanpe Uke 可以理解为“无法离开它”。
 
 假设附加一个 <img src="../hai/man5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 站立后立即通过。如果发生这种情况， <img src="../hai/man8.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 将成为廉价的瓷砖。
 
-通常 <img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が通っても シャン碰听や杠チャン听の可能性があるため
+通常 <img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が通っても シャン碰听牌牌や杠チャン听牌牌の可能性があるため
 
 油断できないのですが手出しで安全牌を切っての立直なら話は別です。
 
@@ -55,7 +55,7 @@ Shanpe Uke 可以理解为“无法离开它”。
 
 ましてや<img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> から先に <img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> を切る人がいたら「かなり変わった人」です。
 
-同様に<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> と <img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> の中筋 <img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> も杠チャン听がありえないため、
+同様に<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> と <img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> の中筋 <img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> も杠チャン听牌牌がありえないため、
 
 通常よりも安全度大と考えてよいでしょう。
 
@@ -91,7 +91,7 @@ Shanpe Uke 可以理解为“无法离开它”。
 如果这是唯一的一个
 <img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 来自 <img src="../hai/sou5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> → <img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 剪切。
 
-これで <img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> ￣ <img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> ￣ <img src="../hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 听になっているパターンです。
+これで <img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> ￣ <img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> ￣ <img src="../hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 听牌牌になっているパターンです。
 
 **请记住“当你站起来抛球时，反向切球的线几乎不会击中三门巴里以外的地方。”**记住这一点。
 
@@ -101,7 +101,7 @@ Shanpe Uke 可以理解为“无法离开它”。
 
 我们不能否认双方在第6轮比赛中陷入僵局的可能性。
 
-假设绘图<img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> Tsumo<img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+假设绘图<img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
 
 逆に上級者で手出し・ツモ切りをしっかり見ている方は、
 
@@ -111,9 +111,9 @@ Shanpe Uke 可以理解为“无法离开它”。
 
 在 chuchan-otoshi 站立的情况下，进行反向切入的线路是高度安全的。
 
-## 3、对杉佩和雨婵的否认
+## 3、对杉佩和牌牌雨婵的否认
 
-关于山佩和杠长的安全等级解读
+关于山佩和牌牌杠长的安全等级解读
 
 我想添加更多信息。
 
@@ -121,15 +121,15 @@ Shanpe Uke 可以理解为“无法离开它”。
 
 这可以从非常基本的瓷砖开始。
 
-关于示例 4， <img src="../hai/pin5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 和 <img src="../hai/pin7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是
+关于示例 4， <img src="../hai/pin5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 和牌牌 <img src="../hai/pin7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是
 
-**你可能会想，“有杠本听，但不可能有山佩奇。”**
+**你可能会想，“有杠本听牌牌，但不可能有山佩奇。”**
 
 <img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img 你会剪切 <img src="../hai/pin4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 来自 src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>？
 
 <img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img 你会剪切 <img src="../hai/pin8.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 来自 src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>？
 
-任何对阿修有一点了解的人都会欣赏这个故事的两面。
+任何对麻将有一点了解的人都会欣赏这个故事的两面。
 
 还是有杠chan的可能，所以 <img src="../hai/pin5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 也是 <img src="../hai/pin7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 也不是安全的图块。
 
@@ -137,7 +137,7 @@ Shanpe Uke 可以理解为“无法离开它”。
 
 强强也可以否认。
 
-这样，通过结合丢弃牌读取和没有机会，
+这样，通过结合丢弃牌读取和牌牌没有机会，
 
 您可能会找到一块肯定会通过的瓷砖。这是实战中非常有用的技巧。
 
@@ -178,11 +178,11 @@ Shanpe Uke 可以理解为“无法离开它”。
 
 
  
-宝藏瓷砖
+宝牌
 
 最後に宝牌を使った簡単な読みを紹介します。
 
-モロ引っ掛けは杠チャンで最も警戒するべき听ですが、
+モロ引っ掛けは杠チャンで最も警戒するべき听牌牌ですが、
 
 在示例 5 的情况下，杠 <img src="../hai/sou6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 几乎是不可能的。
 

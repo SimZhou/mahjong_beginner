@@ -14,7 +14,7 @@
 
 另外，站立后，如果您错过了一次罗恩图块，您将无法再次获得罗恩图块。
 
-トイメンが通している <img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 、下家が通している  <img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> もロンされない牌です。
+トイメンが通している <img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 、下家が通している <img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> もロンされない牌です。
 
 这样，由于禁止自由玩的规则，你可以选择一个显然不会玩的牌。
 
@@ -32,12 +32,12 @@
 
 - 其他三人均切一张牌（三人实际的牌）
 - Kamie刚刚切好的瓷砖（这也是三人的实际物品）
-- 国士無双听牌がありえないときの、場に４枚目の字牌
+- 国士無双听牌牌牌がありえないときの、場に４枚目の字牌
 - 完全没有机会
 
 最後に関しては「壁牌」で解説しています。
 
 在此示例中，有足够的安全图块，如果您愿意，您可以轻松避免进行转移。然而，并不总是存在安全的瓷砖。
 
-这就是为什么“吊砖”和“墙砖”变得重要。
+这就是为什么“吊砖”和牌牌“墙砖”变得重要。
 

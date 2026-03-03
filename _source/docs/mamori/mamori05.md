@@ -6,19 +6,19 @@
 
 例如，如果对方的 pin 是 <img src="../hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> -<img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 如果是英镑，
 
-对手是 <img src="../hai/pin2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 和 <img src="../hai/pin3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 您应该至少有一个。
+对手是 <img src="../hai/pin2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 和牌牌 <img src="../hai/pin3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 您应该至少有一个。
 
 所以，<img src =“/hai/pin2.gif”style =“display：inline;vertical-align：middle;margin：0 1px;” width="24" height="34"/> 或 <img src="../hai/pin3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 当你看到场上有 4 张牌时，
 
 给你的对手： <img src="../hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 英镑是不可能的。
 
-阿育王牌中只有四张相同的牌，这是很自然的。
+麻将牌中只有四张相同的牌，这是很自然的。
 
 所以 <img src="../hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 非常安全。
 
 请注意 <img src="../hai/pin4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 不安全。
 
-<img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> －<img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 听は十分にありえるからです。
+<img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> －<img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 听牌牌は十分にありえるからです。
 
 ## 一次机会
 
@@ -81,7 +81,7 @@
 
 有四个 <img src="../hai/pin8m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/> 在场上，所以双面拉便是不可能的。
 
-此外，在场景中 <img src="../hai/pin9m.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" width="19" height="26"/> 也是第四件，所以山佩和单马术也是不可能的。
+此外，在场景中 <img src="../hai/pin9m.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" width="19" height="26"/> 也是第四件，所以山佩和牌牌单马术也是不可能的。
 
 当然，没有国师无双，所以100%还过得去。
 

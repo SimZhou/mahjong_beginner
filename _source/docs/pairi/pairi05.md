@@ -16,22 +16,22 @@
 
 **实施例1**<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />津莫<img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
 
-梁羽的问题是在单和乌克之间做出选择。
+梁羽的问题是在单和牌牌乌克之间做出选择。
 
-在示例1中，就和平概率而言，<img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />被砍了
+在示例1中，就和牌牌平概率而言，<img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />被砍了
 
-<img src="../hai/man2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />当你画它时，它就变成了和平瓷砖。
-另一方面，<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />桐谷<img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />在切割中，只有一种类型的接受成为和平瓷砖。
+<img src="../hai/man2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />当你画它时，它就变成了和牌牌平瓷砖。
+另一方面，<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />桐谷<img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />在切割中，只有一种类型的接受成为和牌牌平瓷砖。
 
 所以，似乎还是接受梁楚比较好。
 
 不过，如果我们看平板电脑的效果的话，这是<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />这将是切割的第一步。
 
-<img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />因为你一拉它，它就变成了完整的祥和之气。
+<img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />因为你一拉它，它就变成了完整的祥和牌牌之气。
 
 <img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />津莫<img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
 
-如果是麻雀头在两侧变化的中张瓷砖，
+如果是雀头在两侧变化的中张瓷砖，
 总的来说，接“长+善佩”比接梁储好。
 有很多积极的变化，这是有利的。
 
@@ -47,7 +47,7 @@
 
 有了响动的牌子，拿下山国就更有优势了。
 
-示例3是<img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />剪掉<img src="../hai/sou1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />和<img src="../hai/sou8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />瞄准格子十。
+示例3是<img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />剪掉<img src="../hai/sou1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />和牌牌<img src="../hai/sou8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />瞄准格子十。
 
 <img src="../hai/sou1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />即使剪成两盒，接受的张数也不会改变，但是
 速度不同。
@@ -58,7 +58,7 @@
 
 所以，Shanpe是否总是正确的答案并不是那么简单。
 
-示例 4 是<img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />如果你把它剪下来，带到易象奇那里，你可以期待更好的形状变化。
+示例 4 是<img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />如果你把它剪下来，带到易象奇那里，你可以期待更好的搭子变化。
 
 <img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />不仅会适得其反<img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />这也是有效的。
 
@@ -71,13 +71,13 @@
 
 ### 理论/总结
 
-梁楚手中的山佩奇乌克和杠灿乌克的选择是，
+梁楚手中的山佩奇乌克和牌牌杠灿乌克的选择是，
 比较积极变化的数量。 
 一般来说，香槟往往是有利的。
 
 ## 2、容易忽视的良谷
 
-如果和脸结合起来，就很容易忽视梁吉，所以要小心。
+如果和牌牌脸结合起来，就很容易忽视梁吉，所以要小心。
 
 **实施例5**<img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />津莫<img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
 
@@ -101,7 +101,7 @@
 
 您很少会遇到一种名为“Hariryankugata”的形式。
 
-<img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />它的形状是这样的，是一个由6块组成的8块接收器。
+<img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />它的搭子是这样的，是一个由6块组成的8块接收器。
 
 **实施例7**<img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />津莫<img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
 

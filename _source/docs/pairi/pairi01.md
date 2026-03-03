@@ -1,7 +1,7 @@
 # 用瓦片击打
 
 配对是一种有效完成四面子一帕图的理论。
-这就是 Asashi 手工工艺品背后的基本理念。
+这就是 麻将 手工工艺品背后的基本理念。
 有一个词具有类似的含义，“牌效”。
 
 如果您将“Masho”游戏视为一款游戏，
@@ -10,9 +10,9 @@
 
 因此，根据瓷砖质量选择要切割的瓷砖是基本的。
 
-阿萨将军的手牌有“速度”、“高度”、“防御”三要素。
+麻将雀士的手牌有“速度”、“高度”、“防御”三要素。
 其中，速度是最重要的。
-这是因为速度可以覆盖高度和防守。
+这是因为速度可以覆盖高度和牌牌防守。
 
 不管你的牌有多高，如果你不赢，你的分数就无法增加。
 如果你提前获胜，你就阻止了对手未来可能出现的动作，因此你可以将其视为为你的实际分数添加额外的分数。
@@ -35,7 +35,7 @@
 
 所以，
 
-<img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pei.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pei.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />津莫<img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />宝藏瓷砖<img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
+<img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pei.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pei.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />津莫<img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />宝牌<img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
 
 这里<img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />我经常犯错误，比如剪头发。
 
@@ -45,7 +45,7 @@
 
 手牌看起来像这样。
 
-四面一和的头缺少了什么？两面小孩和麻雀头就完成了。
+四面一和牌牌的头缺少了什么？两面小孩和牌牌雀头就完成了。
 
 <img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />由于两边都可以计算出一面子，所以剩下的就是一面子了。
 
@@ -53,7 +53,7 @@
 
 如果是的话，哪一个最难制作？
 
-这么一想，麻将军该砍什么呢？
+这么一想，麻雀士该砍什么呢？
 您将毫不费力地得到答案。分析手中的牌，选择需要消除的牌，
 您所要做的就是比较瓷砖。
 
@@ -63,6 +63,6 @@
 
 弄清楚每个瓷砖有什么功能，并思考哪些瓷砖是最不必要的。
 
-**反复列出和比较候选人。**
+**反复列出和牌牌比较候选人。**
 这就是打瓦的意义，也是朝的基础。
 

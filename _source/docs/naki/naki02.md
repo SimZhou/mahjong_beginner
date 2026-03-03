@@ -3,13 +3,13 @@
 根据上次发生的事情，我会思考如何判断狗是否会叽叽喳喳。
 
 **示例1**
-<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>退出<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 宝藏瓷砖<img src="../hai/pin3.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>退出<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/pin3.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
 
 東１局の子で例１のような手で、３巡目に <img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が出たとします。
 
-  鸣牌ますか？
+ 鸣牌ますか？
 
-让我们考虑一下优点和缺点。
+让我们考虑一下优点和牌牌缺点。
 
 ◆优点
 
@@ -23,7 +23,7 @@
 
 不管哭不哭
 
-**比较尖叫的优点和缺点，并决定哪一个更大**。
+**比较尖叫的优点和牌牌缺点，并决定哪一个更大**。
 
 想象一下如图所示的比例尺可能会有所帮助。
 
@@ -37,15 +37,15 @@
 
 让我们更仔细地分析一下。
 
-<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 退出<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 宝藏瓷砖<img src="../hai/pin3.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 退出<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/pin3.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
 
-**速度**：确实固定了1个扇子，变得更容易攻击，但即使剩下的形状不好，哭了，也有很高的可能性不会攻击。 ⇒ **加速的好处很小**
+**速度**：确实固定了1个扇子，变得更容易攻击，但即使剩下的搭子不好，哭了，也有很高的可能性不会攻击。 ⇒ **加速的好处很小**
 
-**防御力**：如果你瞄准阿加里，它很可能会发出更大的叫声，而且攻击它的惠梅似乎很慢，所以非常危险。我现在没有任何宝物牌⇒ **降低防御力的缺点很大**
+**防御力**：如果你瞄准和牌牌，它很可能会发出更大的叫声，而且攻击它的惠梅似乎很慢，所以非常危险。我现在没有任何宝物牌⇒ **降低防御力的缺点很大**
 
 **打点**：1000点的可能性很大，但即使是Menzen也很便宜⇒打点下降的缺点很小，但点很便宜。
 
-我们还必须考虑到他是 Megurume 和 Toba 的孩子。
+我们还必须考虑到他是 Megurume 和牌牌 Toba 的孩子。
 
 图像通常看起来像这样：
 
@@ -60,7 +60,7 @@
 
 上家から <img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が出たケースを同様に考えてみましょう。
 
-スピード：大幅にアップする。たとえメンゼンで听牌しても、> 听になればアガリにくい。
+スピード：大幅にアップする。たとえメンゼンで听牌牌牌しても、> 听牌牌になればアガリにくい。
 防守力：ＭＡＸでも鸣牌は２回までで済む。また、断幺九手なのでメンゼンでも防守力は低い。
 打点：メンゼン立直なら７７００以上なので、かなり下がる。
 

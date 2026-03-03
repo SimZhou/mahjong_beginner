@@ -1,7 +1,7 @@
 # 易象奇的盘 (2)
 
 首先，我们来谈谈脸型。
-如果你运用到目前为止所学到的知识，你应该能够正确地击中所有的球。
+如果你运气气用到目前为止所学到的知识，你应该能够正确地击中所有的球。
 
 **实施例1**<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />津莫<img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
 
@@ -28,14 +28,14 @@ E-Peco接受的张数很少，即使考虑到RBI也是不利的。
 如果是这样，积极变化的数量是多少？
 曼祖形态上唯一积极的变化就是梁的拉扯。
 有很多别针。 （Shabbos的变化是一样的，所以排除在外）
-杠和杠的举升难易程度略有不同。
+杠和牌牌杠的举升难易程度略有不同。
 毕竟，正统的击球方式是看变化，丢掉人球。
 
 实施例5 津莫
 ⇒ 剪切
 双面甲板之间的选择。
 如果说你因为使用的是自己的一张卡而处于劣势，那是一种疏忽。
-通过切割，可以将锯子做成“双面+冲孔”的形状。
+通过切割，可以将锯子做成“双面+冲孔”的搭子。
 ☆　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
 实施例6 津莫

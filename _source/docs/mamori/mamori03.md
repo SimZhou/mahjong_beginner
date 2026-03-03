@@ -1,6 +1,6 @@
 # 筋牌について(1)
 
-立直がかかったとき、最も警戒するべきなのは**リャンメン听**です。
+立直がかかったとき、最も警戒するべきなのは**リャンメン听牌牌**です。
 
 除非你的对手是刚学马手的初学者，
 
@@ -10,9 +10,9 @@
 
 即使你放弃，他们也可能无法康复。
 
-だから立直の听はリャンメンが多い。
+だから立直の听牌牌はリャンメンが多い。
 
-だいたい**立直の２／３がリャンメン听**というデータがあります。
+だいたい**立直の２／３がリャンメン听牌牌**というデータがあります。
 
 避免转账到梁门旗的理论是“苏吉瓦”
 
@@ -20,52 +20,52 @@
 
 我们来实际看看那个梁门旗。
 
-<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>・・・・**１－４听**
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>・・・・**１－４听牌牌**
 
-<img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>・・・・**２－５听**
+<img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>・・・・**２－５听牌牌**
 
-<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>・・・・**３－６听**
+<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>・・・・**３－６听牌牌**
 
-<img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>・・・・**4－7听**
+<img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>・・・・**4－7听牌牌**
 
-<img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>・・・・**5－8听**
+<img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>・・・・**5－8听牌牌**
 
-<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>・・・・**6－9听**
+<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>・・・・**6－9听牌牌**
 
 这六个就是一切。这六点一定要记住。
 
-你应该能够很快记住它，因为每个听都是三元组。
+你应该能够很快记住它，因为每个听牌牌都是三元组。
 
 ## 三组
 
 当我看到上面的六个大写字母时
 
-我注意到 Pang 穿在 1-4 和 4-7、2-5 和 5-8、3-6 和 6-9 上。
+我注意到 Pang 穿在 1-4 和牌牌 4-7、2-5 和牌牌 5-8、3-6 和牌牌 6-9 上。
 
 而且，当我想到三门坡时，
 
 <img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
-...**1-4-7 听**
+...**1-4-7 听牌牌**
 
 <img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
-・・・**2-5-8听**
+・・・**2-5-8听牌牌**
 
 <img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
-...**3-6-9 听**
+...**3-6-9 听牌牌**
 
-それぞれの听が合わさったものが三面听だと分かります。
+それぞれの听牌牌が合わさったものが三面听牌牌だと分かります。
 
 というわけで、６つの筋牌は３つにグループ分けできます。
 
 **
 1-4-7（易洙）
-2-5-8（连和帕）
+2-5-8（连和牌牌帕）
 3-6-9（萨布罗楚）
 **
 
-六个肌肉块和三个分组非常重要。
+六个肌肉块和牌牌三个分组非常重要。
 
-让我们知道这是将军的常识。
+让我们知道这是雀士的常识。
 
 ## 从肌肉块中你可以看出什么
 
@@ -89,7 +89,7 @@
 
 <img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> は、<img src="../hai/man2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> ２つの牌から導ける「筋牌」です。
 
-<img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 是 <img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 和 <img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>可以是两种类型的双面长瓷砖，
+<img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 是 <img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 和牌牌 <img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>可以是两种类型的双面长瓷砖，
 
 Azuma 家族是 <img src="../hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 由于它也被切割，因此无论哪种情况它都将是Furiten。
 

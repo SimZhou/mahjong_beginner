@@ -6,11 +6,11 @@
 
 ## 1. 件数
 
-听的次数越多，就越容易生气。
-  
+听牌牌的次数越多，就越容易生气。
+ 
 自然是选择张数最多的那一张。
 
-**示例 1**<img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> Tsumo<img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/yhaku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+**示例 1**<img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/yhaku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
 
 在示例 1 中，Pound 有四种选择。
 
@@ -18,7 +18,7 @@
 
 
  
-和了牌
+和牌牌了牌
 枚数
 
 
@@ -50,11 +50,11 @@
 
 这并不是一种罕见的三边结构。
 
-如果您记住了形状，您将能够立即做出这么多选择。
+如果您记住了搭子，您将能够立即做出这么多选择。
 
-**示例 2**<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> Tsumo<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+**示例 2**<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
 
-可以肯定的是，即使有很多类型的听，如果听的数量很少也是没有意义的。
+可以肯定的是，即使有很多类型的听牌牌，如果听牌牌的数量很少也是没有意义的。
 
 示例 2 是一个不应被视为理所当然的示例。
 
@@ -73,7 +73,7 @@
 
 虽然叫三面纸，但实际数量很少，比新奇纸还少。
 
-    另外，做出来的E-Peco有很大概率会塌陷，
+ 另外，做出来的E-Peco有很大概率会塌陷，
 
 示例 2 为 <img src="../hai/man6m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/><img src="../hai/man9m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>你应该尝试重新站起来。
 
@@ -86,7 +86,7 @@
 
 杠チャンとシャン碰のどちらに取るか・・・
 
-よくある選択で、听の枚数が４枚同士ですが、勘に頼らず
+よくある選択で、听牌牌の枚数が４枚同士ですが、勘に頼らず
 
 必ず好形変化の枚数を比べてみましょう。
 
@@ -99,7 +99,7 @@
 仅当 Kuchan 收到时。
 所以，最好还是以山佩的身份接收吧。
 
-例4 吃Tsumo
+例4 吃自摸
 乍一看，梁的选择没有什么区别，但基本就是接受梁的选择。
 这是因为虽然每张卡牌都有自己的效果，但都可以从上议院调用。
 口吃
@@ -110,14 +110,14 @@
 梁启某某事例
 例如，如果你有3张牌出局，即使抽牌，效果也会很低。
 获取从哪里切入的信息也很重要。
-在单一骑士和penchans（或penchans）之间进行选择时必须小心。
+在单一骑士和牌牌penchans（或penchans）之间进行选择时必须小心。
 在这种情况下，即使有几个，也应该是单个ki。
 
 实施例5 津莫
 
 Penchanqi 有 4 张牌，Dankiqi 有 3 张牌。
 话虽如此，用彭昌平来康复是一种幼稚的想法。
-这是一个你想用单骑士的默听十来改变你的招式，然后用双面或更高的来恢复的招式。
+这是一个你想用单骑士的默听牌牌十来改变你的招式，然后用双面或更高的来恢复的招式。
 尤其是中张瓷砖或者相连的纯子瓷砖上如果有暗纹的话，所要更换的瓷砖数量会非常大。
 
 尤其是中张瓷砖或者相连的纯子瓷砖上如果有暗纹的话，所要更换的瓷砖数量会非常大。

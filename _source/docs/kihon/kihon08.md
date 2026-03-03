@@ -1,13 +1,13 @@
-# 基本形式和复合形式
+# 基本形式和牌牌复合形式
 
-到目前为止，您已经学习了阿育王的所有基本形状。
+到目前为止，您已经学习了麻将的所有基本搭子。
 
 ・脸部（Coates、Shuntz、Kutsu）
 ・刀剑（梁门、Penchan、Pengchan）
 ・小子
 ・隔离瓷砖
 
-阿修的所有瓷砖都可以分为这四种类型。
+麻将的所有瓷砖都可以分为这四种类型。
 
 让我们看一个具体的例子。
 
@@ -25,7 +25,7 @@
 [示例2]<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/nan.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
 
 那么示例 2 又如何呢？
-所有男人的别针和剑复合形式就变成了。
+所有男人的别针和牌牌剑复合形式就变成了。
 
 当我们试图将它们进一步划分为基本形式时，问题就出现了。
 如果是男人的
@@ -41,13 +41,13 @@
 
 马一般的瓷砖可以组合起来创造复杂的功能。为了不忽视它的功能，我认为最好将每种复合形式的属性作为知识来记忆。
 
-复合图案有无数种，不可能全部涵盖。不过，随着你继续使用阿修，你的形状会变得更强，即使遇到罕见的形状，你也应该能够轻松应对。
+复合图案有无数种，不可能全部涵盖。不过，随着你继续使用麻将，你的搭子会变得更强，即使遇到罕见的搭子，你也应该能够轻松应对。
 
 下面我们将介绍基本的复合形式。
 
 ### 理论/总结
 
-手牌由四种组合组成：“Menko”、“Toko”、“Kagoko”和“孤立牌”。
+手牌由四种组合组成：“Menko”、“Toko”、“Kagoko”和牌牌“孤立牌”。
 复合形式由两种或多种元素组成，具有基本形式所没有的属性。
 了解每种化合物形式的特性非常重要。
 

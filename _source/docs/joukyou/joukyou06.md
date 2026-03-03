@@ -1,4 +1,4 @@
-# 情况和恢复决定
+# 情况和牌牌恢复决定
 
 我在第六章中写道，如果你被打败了，你几乎总能恢复过来。
 
@@ -6,13 +6,13 @@
  
 让我给您举一个不应该这样做的情况的例子。
 
-## 宝藏瓷砖单人骑手翻山越岭
+## 宝牌单人骑手翻山越岭
 
 例如，假设您玩的是例 1 所示的七宝。
 
 **示例1**
 　
-<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>Tsumo<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝藏瓷砖<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>自摸<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
 
 当然，单独拿宝藏板块会更好，但是
 
@@ -37,7 +37,7 @@
  
 要么你的手不适合切宝藏牌，要么你没有宝藏牌。
  
-你可以把它保留为 Kuran，或者你可以押注 Tsumo 并击中 Tatecho。
+你可以把它保留为 Kuran，或者你可以押注 自摸 并击中 Tatecho。
 
 ## 立直の現物
 
@@ -55,7 +55,7 @@
 
 如果你试图攻击你的父母，那可能是致命的。
 
-現物听でも追いかけ立直を打つのであれば、
+現物听牌牌でも追いかけ立直を打つのであれば、
  
 好形２ハン以上が望ましいと思います。
 
@@ -75,7 +75,7 @@
  
 山美天也有锰，选择黑井当然有理由。
 
-然而，如果你看一下比分情况，你想要的是Hanetsumo，而不是Mankan。
+然而，如果你看一下比分情况，你想要的是Hane自摸，而不是Mankan。
  
 即使你试图重新站起来，你的父母也很有可能会向你发起反击。
  

@@ -10,7 +10,7 @@
 
 在这个例子中，Shimoya 显然是来自 Swords 的 Isshiki 玩家。
 
-而且，我的伴侣是家长，我和难波顶尖的条件是一样的。
+而且，我的伴侣是家长，我和牌牌难波顶尖的条件是一样的。
 
 你的父母可能还没有放弃，但你应该缩小剑的范围。
 
@@ -40,7 +40,7 @@
 
 请务必剪切 <img src="../hai/man1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 我是否应该采取这样的立场：如果我能得到 Keiten，我就不会放出？
 
-弃和をはじめるか、もうどちらかを選ぶしかありません。
+弃和牌牌をはじめるか、もうどちらかを選ぶしかありません。
 
 繁荣！扔掉 <img src="../hai/ton.gif" style="display:inline;vertical-align:middle; margin:0 1px;" 是个好主意宽度=“24”高度=“34”/>。
 
@@ -51,9 +51,9 @@
 
 ## 攻防兼备的瓷砖
 
-<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> Tsumo<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
 
-例如，如果您对在平面上进行多少次切割有疑问，请使用平铺效果和 <img src="../hai/sou4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 要绘制的切割数量。
+例如，如果您对在平面上进行多少次切割有疑问，请使用平铺效果和牌牌 <img src="../hai/sou4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 要绘制的切割数量。
 
 <img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 的下降是绝对的解决方案。
 
@@ -61,13 +61,13 @@
 
 <img src="../images/39.gif"/>
 
-真不知道下院的设备是不是听牌，贵不贵。
+真不知道下院的设备是不是听牌牌牌，贵不贵。
 
 但是，如果 <img src="../hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 被砍，Shimoya 口吃的概率不容忽视。
 
 即使你口吃，你的分数也不会降低。
 
-不，但是下家确实离阿加里越来越近了，
+不，但是下家确实离和牌牌越来越近了，
 
 丢失父母号码的可能性很高。
 

@@ -12,7 +12,7 @@
 
 例如，在例 1 中的一对孩子的情况下，
 
-<img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />仅仅两张牌你不能指望太多，即使你抽到一张，你也会用完麻雀头。
+<img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />仅仅两张牌你不能指望太多，即使你抽到一张，你也会用完雀头。
 
 （<img src="../hai/man8m.gif" style="display:inline; vertical-align:middle; margin:0 1px;" />是有效图块，但传送次数不变）
 

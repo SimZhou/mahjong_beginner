@@ -1,6 +1,6 @@
 # 选购瓷砖的思维方法
 
-选择一个简单地朝向阿加里的瓷砖是
+选择一个简单地朝向和牌牌的瓷砖是
 应该没那么难。
 高级玩家一眼就能确定最有效的走法。
 
@@ -12,8 +12,8 @@
 
 
 据说，瓷砖的排列“永远不会有两次相同”。
-当你准备好手中的阿加里时，你手中的瓷砖会在某种程度上变得有图案。
-特别要记住经常出现的形状的正确答案。
+当你准备好手中的和牌牌时，你手中的瓷砖会在某种程度上变得有图案。
+特别要记住经常出现的搭子的正确答案。
 不言而喻，如果你继续做出错误的选择，就会影响你的成绩。
 
 **(2) 掌握优秀的比较方法**
@@ -23,7 +23,7 @@
 即使您不这样做，您也可以选择被广泛接受的瓷砖。
 
 (1) (2)**《白日的精髓》**我想是的。
-在阿修战术中，只有（1）引起注意。
+在麻将战术中，只有（1）引起注意。
 由于某种原因（2）很少被谈论。
 
 **实施例1**<img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />津莫<img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
@@ -59,7 +59,7 @@
 (4) 傀儡
 
 我认为最好分别处理这四种模式。
-为什么三都和其他人会合二为一？原因有两个。
+为什么三都和牌牌其他人会合二为一？原因有两个。
 通过观察很难判断哪些牌小于三象棋，
 大多数时候你会清理掉不必要的牌，所以没有必要根据牌的数量来对箱子进行排序。
 
@@ -68,7 +68,7 @@
 
 初始阶段的手牌是“**如果我把这块瓷砖切掉，我会失去什么？”**比较一下就更好了。
 
-无需过多担心流量下降。 
+无需过多担心运气气下降。 
 
 有一些微妙的选择，但是
 
@@ -102,15 +102,15 @@
 如果接受的张数没有差异，
 ，你几乎可以通过比较有正变化的张数来做到这一点。
 
-**4. 听牌的基本瓦片理论**
+**4. 听牌牌牌的基本瓦片理论**
 
 
 
-当然，阿加里牌的数量是最重要的，但是仅仅拥有大量罗恩阿加里牌并不意味着就更容易上去。如果场上最有可能出现的牌是琬，那么可以说是优秀的琬。
+当然，和牌牌牌的数量是最重要的，但是仅仅拥有大量罗恩和牌牌牌并不意味着就更容易上去。如果场上最有可能出现的牌是琬，那么可以说是优秀的琬。
 然而，很难量化“击中销钉的容易程度”，因此首先考虑张数很重要。
 
 如果张数没有差异，比较变化的张数也很重要。
-  尤其是单骑士方面的变化非常多。
+ 尤其是单骑士方面的变化非常多。
 
 以上是一个概述。
 从下次开始，我们将验证瓷砖的实际外观。

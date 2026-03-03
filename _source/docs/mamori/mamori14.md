@@ -7,15 +7,15 @@
 **示例1**
 <img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ypin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“32”高度=“24”/>
 
-假设A src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> Tsumo<img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+假设A src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
 
-たとえば例１の立直の手牌がＡ図ようなこのイー向听だと読めたと「仮定」します。
+たとえば例１の立直の手牌がＡ図ようなこのイー向听牌牌だと読めたと「仮定」します。
 
-しかし听は一点で絞ることはできません。
+しかし听牌牌は一点で絞ることはできません。
 
-<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>￣<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 如果绘制听牌，则 <img src="../hai/sou6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>￣<img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 是点击的图块，
+<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>￣<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 如果绘制听牌牌牌，则 <img src="../hai/sou6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>￣<img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 是点击的图块，
 
-<img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>￣<img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 如果您绘制听牌，则 <img src="../hai/man1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>￣<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 成为 Atari 磁贴。
+<img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>￣<img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 如果您绘制听牌牌牌，则 <img src="../hai/man1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>￣<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 成为 Atari 磁贴。
 
 玩牌时有效的牌通常称为“irime”。
 
@@ -39,20 +39,20 @@
 
 那么我们应该读什么？
 
-它们是**“瓷砖风险”**和**“瓷砖安全”**。
+它们是**“瓷砖风险”**和牌牌**“瓷砖安全”**。
 
-如果他能在进攻和防守上利用这两种解读，我认为他将成为一名一流的击球手。
+如果他能在进攻和牌牌防守上利用这两种解读，我认为他将成为一名一流的击球手。
 寻找安全方块的技能尤为重要，也会影响你的射击速度。
 理论/总结
 猜测恢复的真相是不可能的，也没有必要这样做。
-针对废弃瓷砖回收的特点，分为“特别危险的瓷砖”和“相当安全的瓷砖”。
+针对废弃瓷砖回收的特点，分为“特别危险的瓷砖”和牌牌“相当安全的瓷砖”。
 真正的读书是要抓住。
 以下是“高风险瓷砖”的一些示例。
 五个秘密
 我不会详细介绍浦筋（浦筋瓷砖），因为我认为它也写在其他网站上。
-实际上，高风险的里地只有“Go no Uraji”和“Ma Shigen”。
-早就有人说“5的快切有1-4、6-9听”。
-我不知道统计数据，但这可能是你可以体验和意识到的水平。
+实际上，高风险的里地只有“Go no Uraji”和牌牌“Ma Shigen”。
+早就有人说“5的快切有1-4、6-9听牌牌”。
+我不知道统计数据，但这可能是你可以体验和牌牌意识到的水平。
 
 实施例2
  
@@ -83,7 +83,7 @@
 
 即使第五块瓷砖在它立起来之前被切割，
 
-很难猜出它是从什么形状切下来的。
+很难猜出它是从什么搭子切下来的。
 
 是浮动的，还是57减8就不再需要了？
 
@@ -114,13 +114,13 @@
 
 <img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 通过，因此 <img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>￣<img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 这将是Man的主线。
 
-对于针和剑，没有任何判断依据，似乎只能假设“它们都是危险的”。
-      
+对于针和牌牌剑，没有任何判断依据，似乎只能假设“它们都是危险的”。
+ 
 实际的讲义如下。
 
 <img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
 
-（↓为Tsumo cut）
+（↓为自摸 cut）
 
 这可能看起来很无聊，因为它经常被误解，但我会解释一下。
 
@@ -149,7 +149,7 @@
 ↓
 ↓
 
-（↓为Tsumo cut）
+（↓为自摸 cut）
 
 示例 5 为 <img src="../hai/pin2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 值得注意的是，在支付了双面tsuko后，他正在恢复。
 
@@ -165,7 +165,7 @@
 
 您应该删除 <img src="../hai/pin3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 因为你不想被击中两次。
 
-そして <img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>￣<img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>￣<img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が听として残ります。
+そして <img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>￣<img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>￣<img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が听牌牌として残ります。
 
 このような両面搭子を切っての立直は、その筋が危ないと認識しておきましょう。
 
@@ -180,10 +180,10 @@
 やや条件が複雑ですが、危険度がかなり高いパターンです。
 
 在从外到内的远距离切线中，跨骑线可能很危险。
-      
+ 
 即使用文字解释也很难理解，所以我们来看一个具体的例子。
 
-（↓为Tsumo cut）
+（↓为自摸 cut）
 
  一見特徴のない捨て牌で無筋はどれも危険と思われますが、
 
@@ -191,7 +191,7 @@
 
 即 <img src="../hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>￣<img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>。我会解释原因。
 
-<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 和 <img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是滴管形状，
+<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 和牌牌 <img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是滴管搭子，
 
 途中に<img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>、<img src="../hai/ton.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が切られていることから単純な杠チャン落としではありえません。
 

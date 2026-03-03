@@ -1,9 +1,9 @@
-# Menko (Menshi) 和 Toshi (Toko)
+# Menko (Menshi) 和牌牌 Toshi (Toko)
 
-## 科茨（Kokuko）和舒茨（Junko）
+## 科茨（Kokuko）和牌牌舒茨（Junko）
 
-Asashi的Waryo Kata需要四张脸，
-有两种类型的面孔：（Koko）Coates 和（Junko）Schuntz。
+麻将的Waryo Kata需要四张脸，
+有两种类型的面孔：（Koko）Coates 和牌牌（Junko）Schuntz。
 
 [纯子]<img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />...一组 3 个连续的图块
 
@@ -11,7 +11,7 @@ Asashi的Waryo Kata需要四张脸，
 
 
 基本上，Schunz 比 Coates 更容易制作。
-马将军中只有 4 张相同的牌。
+马雀士中只有 4 张相同的牌。
 由于您需要收集其中三件，因此外套的制作自然很困难。
 
 
@@ -21,14 +21,14 @@ Asashi的Waryo Kata需要四张脸，
 （不过，这并不比 Schuntz 更容易做到）
 
 能自行收集三层外套而不发出声音的外套称为“anko”。
-由于雕刻难度较大，有三刻和四刻可供选择。
+由于雕刻难度较大，有三刻和牌牌四刻可供选择。
 这些类型的角色很难实现。
 
 毕竟，正雄的脸应该是以顺茨为原型的。
 
 ### 总结/理论
 
-马修有两个侧面，科茨和顺茨。
+马修有两个侧面，科茨和牌牌顺茨。
 Schunz 比 Coats 更容易制作，所以
 应该是在 Schunz 的基础上手工制作的。
 
@@ -37,7 +37,7 @@ Schunz 比 Coats 更容易制作，所以
 一组两个圆盘可以通过添加一个圆盘制成 Schunz，称为 toshi。
 toshi 共有三种类型：
 
-形状
+搭子
 姓名
 有效卡
 有效卡张数
@@ -60,20 +60,20 @@ toshi 共有三种类型：
 　
 8 件
 
-从这张表中可以看出，凉门是最受欢迎的形式，接受程度是碰禅和楚禅的两倍。是。
+从这张表中可以看出，凉门是最受欢迎的形式，接受程度是碰禅和牌牌楚禅的两倍。是。
 
 “做凉门”是手工烹饪的基础。
 
-## penchan 和 kuchan 的比较
+## penchan 和牌牌 kuchan 的比较
 
-现在，我们来比较一下 Penchan 和 Kuchan，乍一看似乎没有什么区别。
+现在，我们来比较一下 Penchan 和牌牌 Kuchan，乍一看似乎没有什么区别。
 转手梁门就会有不同的结果。
 
 彭昌<img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" /><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" />为了使其双面<img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" />→<img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" />你需要提出来。
 
 <img src="../images/005.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:330px; height:67px;" />
 
-他和朝志改变两个动作的可能性是相当渺茫的。是。
+他和牌牌朝志改变两个动作的可能性是相当渺茫的。是。
 朋禅很难想象会变成梁门。
 
 杠陈<img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" />如果是这样，<img src="../pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" />如果你拉，它会立即改变到两侧。

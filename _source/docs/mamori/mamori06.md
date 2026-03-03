@@ -9,7 +9,7 @@
 安全度の高い牌から切っていく
 
 这是原则。
-    
+ 
 我不在乎我的手是否会碎掉。
 
 因此，“实物”、“完全安全的瓷砖”等3块瓷砖在现场
@@ -43,7 +43,7 @@
 
 <img src="../hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sham.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 是安全的图块。
 
-<img src="../hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 和 <img src="../hai/sou6m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/> 从任意一侧剪切都没有问题，但是从 <img src="../hai/sham.gif" style="display:inline;vertical-align:middle; margin:0 1px;" 剪切width="19" height="26"/> 是一个程序错误。
+<img src="../hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 和牌牌 <img src="../hai/sou6m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/> 从任意一侧剪切都没有问题，但是从 <img src="../hai/sham.gif" style="display:inline;vertical-align:middle; margin:0 1px;" 剪切width="19" height="26"/> 是一个程序错误。
 
 如果你在这里被追赶，你将没有安全瓷砖。
 

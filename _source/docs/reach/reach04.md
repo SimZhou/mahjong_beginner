@@ -1,15 +1,15 @@
 # 立丈还是黑？ (3)
 
-和上次一样，小方柒牌毫不犹豫地站起来就好了，
+和牌牌上次一样，小方柒牌毫不犹豫地站起来就好了，
 
 怎样判断庞好不好呢？
 
-## 无角色的听牌
+## 无角色的听牌牌牌
 
-まず役無し听牌の場合、立直をかけるかどうか考えてみます。
+まず役無し听牌牌牌の場合、立直をかけるかどうか考えてみます。
 
 **示例1**
-<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝藏方块<img src="../hai/pin2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/pin2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
 
 比如图1的情况，我觉得按照这种形式恢复是可以的。
 
@@ -40,7 +40,7 @@
 
 虽然两侧更容易结块，但结块的可能性并不是两倍。
 
-即使在 pen-chan 和 ki-chan 中，背部 hikkake（在这种情况下， <img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是在站立后立即绘制的）
+即使在 pen-chan 和牌牌 ki-chan 中，背部 hikkake（在这种情况下， <img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是在站立后立即绘制的）
 
 一次机会，一次没有机会（示例 2：<img src="../hai/man4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> （其中 3 个或更多可见的情况在场上）
 
@@ -60,16 +60,16 @@
 
 しかし、ヤミテンにした方が良いケースもあります。
 
-上の画面ではわずか２巡目にして宝牌２の听牌ですが、
+上の画面ではわずか２巡目にして宝牌２の听牌牌牌ですが、
 さすがに立直はせず手変わりを待つのが有利でしょう。
 「残り１６巡もあればあがれるだろう」というのはあまりに楽観的すぎます。
-杠  听ではあがりが苦しいだけでなく、この手はまだまだ手変わりがある。
+杠 听牌牌ではあがりが苦しいだけでなく、この手はまだまだ手変わりがある。
 マンズは
 
 を引けばリャンメンに変わるし、
 宝牌碰してノベタンに受けることもできます。
  をツモっても「１３００・２６００」になりますからあまり損した気分にはなりませんし。
-このように手変わりが豊富な愚形听牌は、ヤミテンも一考です
+このように手変わりが豊富な愚形听牌牌牌は、ヤミテンも一考です
 宝牌なしの場合は
 
 立直による得点上昇効率があまりよくない
@@ -81,31 +81,31 @@
 微妙な判断ほど場況や点数状況に左右されるので、セオリー化する意味も薄い。
 
 例３　　ツモ　　宝牌
-一つ覚えて欲しいのは、例３のような手ではヤミテン、立直以外に听牌トラズという選択肢があることです。
-平場であれば、この手は  を切って听牌を崩すべき。
+一つ覚えて欲しいのは、例３のような手ではヤミテン、立直以外に听牌牌牌トラズという選択肢があることです。
+平場であれば、この手は を切って听牌牌牌を崩すべき。
 ソーズだけでなく、宝牌周辺のマンズや形の良いピンズを伸ばすこともできるこの手を、立直のみ１３００にするのは愚策です。
-听牌トラズは使う場面が多く、大切なスキルです。
-役有り听牌
-役あり听牌の場合、默听テンでも出あがりができます。
+听牌牌牌トラズは使う場面が多く、大切なスキルです。
+役有り听牌牌牌
+役あり听牌牌牌の場合、默听牌牌テンでも出あがりができます。
 したがって、手変わり豊富な場合はヤミテンでいいでしょう。
 例４
-  　　ツモ
-例４は手変わりが  しかありません。
-宝牌が   でもない限り、即立直です。
-（宝牌が  の場合、ヤミテンにするケースもありそうですが）
+ 　　ツモ
+例４は手変わりが しかありません。
+宝牌が でもない限り、即立直です。
+（宝牌が の場合、ヤミテンにするケースもありそうですが）
 
 例５
 
-例５は手変わりがソコソコあるので、默听に構えて
+例５は手変わりがソコソコあるので、默听牌牌に構えて
 
 あたりを引いてから立直しても良いでしょう。
 しかし手によっては手変わりすると役种が消える場合があります。
 
 
 このような場合
-默听で５２００以上あれば默听テン、２６００なら即立直と覚えておきましょう。
-听が悪くても、せっかくの手を２６００点で終わらせてはもったいない。
-たとえ杠チャン・ペンチャン听でも立直するべきです。
+默听牌牌で５２００以上あれば默听牌牌テン、２６００なら即立直と覚えておきましょう。
+听牌牌が悪くても、せっかくの手を２６００点で終わらせてはもったいない。
+たとえ杠チャン・ペンチャン听牌牌でも立直するべきです。
 ５２００点ある場合でも立直して良いのですが、
 点数状況や場況と相談、ということになります。
 
