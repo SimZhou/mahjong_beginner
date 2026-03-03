@@ -1,0 +1,74 @@
+# 墨与歌（二）
+
+## 碰材の優劣
+
+如果有多个可以穿线的线程，最好保留比较容易穿线的线程。字母瓷砖最容易显示，而较少使用的边缘瓷砖也更容易发挥作用。
+
+**示例1**
+<img src="/hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> Tsumo<img src="/hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/yhaku.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“32”高度=“24”/>
+
+例如，在示例 1 的情况下，如果游戏中的牌张数没有差异，
+
+![](/hai/man4.gif)
+
+![](/hai/sou9.gif)
+
+![](/hai/sou3.gif)
+
+![](/hai/sou2.gif)
+
+如果比较 <img src="/hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 和 <img src="/hai/man4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>，更靠近边缘。 <img src="/hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 可能更容易看到。
+
+## 想想如何暴露你的口吃
+
+何通りかの吃の仕方がある手牌で、
+
+鸣牌方によって差が出る場合をいくつか挙げておきます。
+
+**示例2**
+<img src="/hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>退出<img src="/hai/pin7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 宝藏瓷砖<img src="/hai/pin8.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+
+让我们想象一下 <img src="/hai/pin7.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" width="24" height="34"/> 从上层房屋出来并哭泣，如示例 2 所示。
+
+在这种情况下，你应该用杠酱结巴。
+
+★凉门鸣牌<img src="/hai/man5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>吃<img src="/hai/ypin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="/hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+
+★ 杠陈鸣牌<img src="/hai/man5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>吃<img src="/hai/ypin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="/hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+
+如果您如上图所示在两侧尖叫，您将获得 2000 分保证。
+
+然而，对于下手牌，宝藏牌 Tsumo 会给你 3900，并且 <img src="/hai/pin4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>Tsumo 给你的可能性是 456。
+
+**示例3**
+<img src="/hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>碰<img src="/hai/yton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="/hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝藏图块<img src="/hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+
+鸣牌方で听が変わってしまうこともあります。
+
+在示例 3 中，当 <img src="/hai/sou5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 出现，<img src="/hai/ysou5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="32" height="24"/><img src="/hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> <img src="/hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+
+<img src="/hai/ysou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="32" height="24"/><img src="/hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> で鳴いて <img src="/hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> にするか考えてしまいそうですが、
+
+事实上，两者都不正确。这是在碗里口吃时的三面口吃的形状。
+
+<img src="/hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 㐃<img src="/hai/ysou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="/hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>碰<img src="/hai/yton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="/hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝藏图块<img src="/hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+
+**示例4**
+<img src="/hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>碰<img src="/hai/yhatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="/hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+
+特に染手では、両面でも杠チャン・ペンチャンでも鳴けることがよくあります。
+
+杠チャン・ペンチャンで鳴いたほうが良いケースが多いのですが、
+
+両面で鳴いたほうが良いこともあります。
+
+在示例 4 中，如果 <img src="/hai/man7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 出现，<img src="/hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="/hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 这将是一个很大的错误。
+
+ここは両面で吃しないと<img src="/hai/man9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> マチがなくなってしまいます。
+
+★<img src="/hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>吃<img src="/hai/yman7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="/hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>碰<img src="/hai/yhatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="/hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+
+このような形の出現率は高くないかもしれませんが、
+
+吃するときは**"鸣牌方で残った形に差がでないか"**を確認する癖をつけておきましょう
+
