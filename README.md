@@ -1,4 +1,4 @@
-# 麻将入门教程
+# 麻将入门教程(https://simzhou.com/mahjong_beginner/)
 
 请查看 `docs/` 目录获取生成的静态网页，这可直接用于 GitHub Pages。
 
