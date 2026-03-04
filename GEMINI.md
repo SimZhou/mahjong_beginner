@@ -1,4 +1,4 @@
-# 麻将入门文档型网站（翻译自http://beginners.biz/）
+# 麻将入门文档型网站（翻译自 http://beginners.biz/ ）
 
 该目录下是一个可部署的静态页面型日本麻将入门教学网站中文版。网站的内容完全翻译自http://beginners.biz/。
 
