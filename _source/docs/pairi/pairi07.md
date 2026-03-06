@@ -1,117 +1,113 @@
-# 选购牌的思维方法
+# 打牌选择的思考方法
 
-选择一个简单地朝向和牌的牌是
-应该没那么难。
-高级玩家一眼就能确定最有效的走法。
+单纯选择一张“更接近和牌”的打牌，其实本来不该特别困难。
+上手之后，很多高手看到牌形，几乎一眼就能判断哪一打最有效率。
 
-为什么我们可以立即做出决定？
-可以列举以下两个原因。
+为什么他们能这么快做决定？
+我认为主要有两个原因：
 
-**(1) 对手中的大部分牌进行图案化，并了解哪些牌将被最广泛接受。**
+**1. 他们已经把大量常见牌形模式化，知道哪种打牌通常受入最广。**
 
+很多人会说，配牌“没有两次是完全一样的”。
+这话没错，但当你朝和牌整理手牌时，很多形状其实会不断重复出现。
+尤其是高频出现的形状，最好把正确答案直接记住。长期反复做亏损选择，成绩一定会被拖累。
 
+**2. 他们掌握了更好的比较方法。**
 
-据说，牌的排列“永远不会有两次相同”。
-当你准备好手中的和牌时，你手中的牌会在某种程度上变得有图案。
-特别要记住经常出现的搭子的正确答案。
-不言而喻，如果你继续做出错误的选择，就会影响你的成绩。
+实战里，如果每次都认真去算“切 A 是几种几枚，切 B 又是几种几枚”，其实并不现实。
+但即便不把每一枚都数清楚，仍然可以通过合理比较，选出受入更广的打牌。
 
-**(2) 掌握优秀的比较方法**
+我一直认为，真正的牌理核心就在这两点。
+很多麻将文章只强调“记住牌形”，却很少认真讲“如何比较”。但后者同样重要。
 
-“如果你砍A，你会得到XX件XX类型，如果你砍B……”
-实际计算张数是不现实的。
-即使您不这样做，您也可以选择被广泛接受的牌。
+**例1**
+<img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /> 自摸 <img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
 
-(1) (2)**《白日的精髓》**我想是的。
-在麻将战术中，只有（1）引起注意。
-由于某种原因（2）很少被谈论。
+像这手，切 <img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /> 就是绝对正解。
+因为这样到听牌的受入张数最多，而且不会损失手役价值。
 
-**示例1**<img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />自摸<img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
+不过，说到底，实战里真正像例 1 这样“答案压倒性明确”的场面并不多。
 
-例如，用这只手<img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />切。
-可以说是绝对的解决方案，因为它是柒牌接受的卡牌数量最多的，并且没有角色类型的区别。
-不过我觉得实战中很少会遇到像例1一样的选择。
+**例2**
+<img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /> 自摸 <img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
 
-**示例2**<img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />自摸<img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
+例 1 是战术书里常见的经典题，所以不少人会把它当成固定模式。
+但如果因此认为“3 组相隔的对子，永远都切中张那一对”，那就不对了。
 
-例1是策略书籍中经常介绍的问题，所以
-许多人可能认为这是一种模式。
-然而，如果你问我是否可以随时切开“3 Tobi Toshiko”的内部，事实并非如此。
+像例 2 这种 4 对子的牌形，切 <img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />、<img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />、<img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />、<img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />，到一向听或听牌的受入其实都一样。
+既然如此，再切掉会破坏一杯口可能性的 <img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />，就不算是好选择了。
 
-对于示例 2 中的 4 对儿童，
-接受的张数为<img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />不管你用什么方式剪，都是一样的。
-如果是这样，请扔掉 e-peco。<img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />切割可能不是一个好的选择。
+我一直觉得，相比“记住模式”，更重要的是“学会怎么比较”。
+牌效率的模式化，真正的作用是：
 
-我认为技术（2）比（1）更重要。
-牌效果的图案是
+**避免失误，并且加快你做出正确选择的速度。**
 
-**“这是为了防止错误并加快牌的选择速度。”**
+单靠死记硬背，总会碰到记忆覆盖不到的牌形。
+理想状态是，不管拿到什么手牌，你都能用正确的比较方式推出合理答案。
 
-我想是的。
-首先，由于组合的数量，记忆是有限的。
-理想情况下，无论您收到哪种牌，您都应该能够得出正确的答案。
+作为打牌时的思考框架，我会把牌理大致分成 4 类：
 
-作为一种牌方法，我
+1. 三向听及以下
+2. 两向听
+3. 一向听
+4. 听牌
 
-（一）孙祥奇及以下
-(2)梁祥奇
-(3)易向奇
-(4) 傀儡
+我认为按这 4 种状态分别处理，是最实用的。
+之所以把“三向听及以下”合在一起，是因为这里有两个特点：
 
-我认为最好分别处理这四种模式。
-为什么三都和牌其他人会合二为一？原因有两个。
-通过观察很难判断哪些牌小于三象棋，
-大多数时候你会清理掉不必要的牌，所以没有必要根据牌的数量来对箱子进行排序。
+1. 光看牌面，往往不容易快速判断到底是几向听。
+2. 这一阶段大部分操作，本质上还是整理废牌，不太需要按向听数再细分。
 
+## 1. 三向听及以下的基本牌理
 
-1. 三宫城以下的基本牌
+在手牌还很远的时候，比较的重点应该是：
 
-初始阶段的手牌是“**如果我把这块牌切掉，我会失去什么？”**比较一下就更好了。
+**切掉这张牌之后，我失去了什么。**
 
-无需过多担心运气气下降。 
+这时候并不需要过度执着于“先把向听数降下去”。
+当然也会有一些微妙的选择，但如果差距本来就不大，就没必要想得太深。
 
-有一些微妙的选择，但是
+细小的效率差当然重要，但很多时候，**保留手役可能性**，或者**考虑之后的防守空间**，反而更关键。
 
-您不必为没有太大不同的选择考虑太多。
+## 2. 两向听的基本牌理
 
-尽管效率上的微小差异很重要，但保留不同角色的可能性也很重要。
-我认为考虑未来的防守往往更重要。
+到了两向听，当然也要比较“进到一向听的受入张数”。
+不过，如果差距只有 1 到 2 枚，有时反而应该优先选择那种“进入一向听之后更厚”的路线。
 
-**2、梁湘琪的基本牌**
+麻将有一个非常重要的性质：
 
+**离听牌越近，受入张数通常越少。**
 
-比较一象棋接受的牌张数很重要，但如果相差只有1或2张，那么以成为一象棋时接受的牌数大的方式取卡可能会更有利。
+尤其最后一道关卡，也就是：
 
-作为一般人的一个重要特征**“随着接近最后阶段，接受的门票数量减少。”**
+**一向听 → 听牌**
 
-有一种东西叫做。
-是最后一个障碍**“一想七→七牌”**如果接受的张数很少，情况就会很严重。
+如果这一段受入过窄，整手牌的和牌速度就会明显变差。
 
-因此，即使意味着稍微降低一点梁象棋的接受度，也最好强调一下易象棋的深度。
-（不过，也有一种根深蒂固的观点是“重视易向奇接受的票数。”）
+因此，即使稍微牺牲一点“两向听阶段的受入”，也常常应该优先保留“一向听时更厚”的形状。
+当然，也有人坚持“先最大化进入一向听的受入”，这也是存在的思路。
 
-我觉得对付梁祥奇并没有那么难，因为有很多孤块残花的图案或者是落瓦的图案。
+两向听的牌形，很多时候无非是还有孤张没处理完，或者出现搭子过剩。
+整体来说，这个阶段并不算最难处理。
 
-**3、易象棋基本牌**
+## 3. 一向听的基本牌理
 
-**最重要的评价项目是Pupai接受的门票数量。**
-你不能在这里取笑 1 或 2 张牌的差异。
+到了一向听，**进入听牌的受入张数** 就是最重要的评价标准。
+这里哪怕只差 1 到 2 枚，都完全不能轻视。
 
-但如果对先牌的接受度极其有限，那么对象棋的接受度可能会降低，而留下积极的改变。
+当然，如果怎么走都是很窄的听牌，那么也可以少一点“进听受入”，换取更多“进成好形听牌”的变化。
 
-如果接受的张数没有差异，
-，你几乎可以通过比较有正变化的张数来做到这一点。
+如果受入张数完全相同，通常比较一下**好形变化的枚数**，就足够应对大部分问题了。
 
-**4. 听牌的基本瓦片理论**
+## 4. 听牌时的基本牌理
 
+听牌之后，首先当然要看和牌牌数的多少。
+但荣和并不是单纯“枚数越多就一定越好”。如果等的是场上更容易打出来的牌，那样的听牌同样很优秀。
 
+只是“哪张更容易出”这件事，很难精确量化，所以基本原则仍然是：**先看枚数。**
 
-当然，和牌的数量是最重要的，但是仅仅拥有大量罗恩和牌并不意味着就更容易上去。如果场上最有可能出现的牌是琬，那么可以说是优秀的琬。
-然而，很难量化“击中销钉的容易程度”，因此首先考虑张数很重要。
+如果枚数相同，再比较手变张数也很重要。
+尤其单骑听牌，往往有很多改良空间。
 
-如果张数没有差异，比较变化的张数也很重要。
- 尤其是单骑士方面的变化非常多。
-
-以上是一个概述。
-从下次开始，我们将验证牌的实际外观。
-
+以上就是这一页的总论。
+从下一页开始，就会进入更具体的牌形检讨。
