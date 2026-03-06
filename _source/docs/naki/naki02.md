@@ -1,78 +1,57 @@
-# 裁判的基本原则
+# 副露判断的基本
 
-根据上次发生的事情，我会思考如何判断狗是否会叽叽喳喳。
+基于上一节，这一节讲“该鸣还是不该鸣”如何判断。
 
-**示例1**
-<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>退出<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/pin3.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+**例1**
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 出<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-東１局の子で例１のような手で、３巡目に <img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が出たとします。
+东1局子家，3巡目对家打出 <img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，要不要碰？
 
- 鸣牌ますか？
+核心不是“感觉”，而是比较鸣牌后的收益与代价。
 
-让我们考虑一下优点和牌牌缺点。
+1. 优点：先固定1番，更容易和牌。
+2. 缺点：防守力下降，且打点多半只有1000~2000。
 
-◆优点
+所以判断原则是：
+看“鸣牌后的总收益”是否大于“鸣牌后的总损失”。
 
-由于固定了 1 个风扇，因此更容易用完。
-
-◆缺点
-　
-防御力下降。
-　
-只会有1000到2000点。
-
-不管哭不哭
-
-**比较尖叫的优点和牌牌缺点，并决定哪一个更大**。
-
-想象一下如图所示的比例尺可能会有所帮助。
+可以把它想象成天平：
 
 <img src="../images/ten01.gif"/>
 
-如果向左倾斜，它会发出鸣叫声，如果向右倾斜，它不会发出鸣叫声。
+左倾就鸣，右倾就不鸣。
+重点在于：每个砝码的“重量”会随局面变化，
+不能机械地用“优点个数 vs 缺点个数”判断。
 
-这里重要的是，每个重量的重量根据情况而变化。
+更细看例1：
 
-不能简单地得出“弊大于利”的结论。
+1. 速度：虽然固定1番，但剩余牌形差，鸣了也未必和，速度收益偏小。
+2. 防守：如果继续向和牌推进，很可能还要继续鸣，且听牌也不快；当前没宝牌，防守损失偏大。
+3. 打点：鸣后大多低打点；但门前本来也不高，因此打点损失中等偏小。
 
-让我们更仔细地分析一下。
-
-<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 退出<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/pin3.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
-
-**速度**：确实固定了1个扇子，变得更容易攻击，但即使剩下的搭子不好，哭了，也有很高的可能性不会攻击。 ⇒ **加速的好处很小**
-
-**防御力**：如果你瞄准和牌牌，它很可能会发出更大的叫声，而且攻击它的惠梅似乎很慢，所以非常危险。我现在没有任何宝物牌⇒ **降低防御力的缺点很大**
-
-**打点**：1000点的可能性很大，但即使是Menzen也很便宜⇒打点下降的缺点很小，但点很便宜。
-
-我们还必须考虑到他是 Megurume 和牌牌 Toba 的孩子。
-
-图像通常看起来像这样：
+再结合“东1局子家、巡目早”等因素，整体更偏向“不鸣”。
 
 <img src="../images/ten02.gif"/>
 
-我向右倾斜。所以看来还是别哭比较好。
+---
 
-**示例2**
-<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 退出<img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+**例2**
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 出<img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-南区第1场主号，+2000分第2名，第6轮手牌，
+南1局亲家，6巡目，自己是+2000分的2位。上家打出 <img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>。
 
-上家から <img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が出たケースを同様に考えてみましょう。
+这手的天平通常会反过来：
 
-スピード：大幅にアップする。たとえメンゼンで听牌牌牌しても、> 听牌牌になればアガリにくい。
-防守力：ＭＡＸでも鸣牌は２回までで済む。また、断幺九手なのでメンゼンでも防守力は低い。
-打点：メンゼン立直なら７７００以上なので、かなり下がる。
+1. 速度收益很大。
+2. 防守损失可控（最多副露2次，且本手本就偏断幺，门前守备力也不高）。
+3. 打点虽会下降，但亲番和牌可连庄，鸣牌收益被进一步放大。
 
+因此这里明显“鸣更赚”。
 
-　
+<img src="../images/ten03.gif"/>
 
-親番でアガれば連荘できる、という点で鸣牌のメリットはさらに大きくなるでしょう。
-明らかに鳴いた方が得ですね。
-このようにメリットとデメリットを比較する考え方は
-全ての局势判断において基本となります。
-麻将の強い人は、この天秤の精度が良いから強いのです
+### 本节结论
 
-
-
-
+1. 不要问“鸣牌好不好”，而要问“这手鸣牌后 EV 是否更高”。
+2. 速度、守备、打点三项都要权衡，且权重会随局况变化。
+3. 强者的优势，就在于这杆天平称得更准。

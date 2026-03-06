@@ -1,43 +1,38 @@
 # 安全牌
 
-例如，对于本次恢复
+比如说，面对下面这个立直：
 
-什么牌就算切了也赢不了？
+什么牌就算打出去，也绝不会被荣和？
 
 <img src="../images/27.gif"/>
 
-就furiten而言，一般规则是你不能赚到很多钱。
+按照振听规则，玩家如果已经把某张和牌打进过自己的舍牌，就不能再用那张牌荣和。
 
-对手丢弃的所有牌都是安全的。
+所以，对手自己已经打过的牌，全部都是安全牌。
 
-在本例中： src="../hai/man9.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 与此相对应。
+这一例中，<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>都属于这一类。
 
-另外，站立后，如果您错过了一次罗恩图块，您将无法再次获得罗恩图块。
+另外，立直之后如果对某张和牌漏和一次，之后也不能再对那张牌荣和。
 
-トイメンが通している <img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 、下家が通している <img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> もロンされない牌です。
+因此，对家已经打过的<img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>，以及下家已经打过的<img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>，同样也不会放铳。
 
-这样，由于禁止自由玩的规则，你可以选择一个显然不会玩的牌。
+像这样，由振听规则明确保证“绝不会被荣和”的牌，就叫做**现物**。
 
-**它被称为“现物”**。
+除了现物之外，还有一些牌可以做到 100% 安全。
 
-現物以外に、１００％安全な牌がありますね。
+比如这张刚摸进来的<img src="../hai/hatu.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>。
 
-它是 <img src="../hai/hatu.gif" style="display:inline;vertical-align:middle; margin:0 1px;"您刚刚绘制的 width="24" height="34"/> 。
+因为场上已经见到 3 张，不可能是双碰待，也不可能是单骑待；同时这里也不存在国士无双，所以它就是一张绝对不会被荣和的**完全安全牌**。
 
-场上已经有 3 张牌，所以没有商七七或单七七。
+完全安全牌主要有 4 类：
 
-而且，由于没有国师无双，所以它是绝对安全的牌，永远不会被击败。
+- 其他三家都各自打过 1 张的牌，也就是三家的现物
+- 上家刚刚打出的牌，这同样也是另外三家的现物
+- 在不可能是国士无双听牌的前提下，场上出现的第 4 张字牌
+- 完全无机会牌
 
-有四种完全安全的瓷砖：
+最后这一类，会在[壁牌](mamori05.md)中说明。
 
-- 其他三人均切一张牌（三人实际的牌）
-- Kamie刚刚切好的瓷砖（这也是三人的实际物品）
-- 国士無双听牌牌牌がありえないときの、場に４枚目の字牌
-- 完全没有机会
+这一例里安全牌很多，所以如果你想避免放铳，其实很容易做到。
 
-最後に関しては「壁牌」で解説しています。
-
-在此示例中，有足够的安全图块，如果您愿意，您可以轻松避免进行转移。然而，并不总是存在安全的瓷砖。
-
-这就是为什么“吊砖”和牌牌“墙砖”变得重要。
-
+但实战里并不是每次都有现成的安全牌。这也是为什么后面要继续学习“筋”和“壁”。  

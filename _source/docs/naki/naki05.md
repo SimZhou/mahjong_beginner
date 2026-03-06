@@ -1,64 +1,111 @@
-# 杠(1)
+# 杠（1）
 
-同じ牌が４枚揃えば「杠」することができます。
+当同一张牌凑齐 4 枚时，就可以杠。
 
-しかし、どんな場合でも杠した方が得とは限りません。
+但并不是任何时候杠了都更划算。
 
-让我们考虑一下箭袋的优点和牌牌缺点。
+和碰、吃一样，杠也同时有优点和缺点，需要分清楚。
 
-## １．杠のメリット
+## 1. 杠的优点
 
-**(1) 分数变高**
+**（1）符数会上升**
 
-由于击中后您的得分为 8 到 32，因此击中时您的分数将会增加。特别是妖初牌变暗时的32标记很大，俗话说“妖初牌不动摇一扇”**。
+杠子可以拿到 8 符到 32 符，因此和牌时的得点会提高。
 
+尤其是幺九牌暗杠的 32 符很大，所以才有“幺九牌暗杠等于多 1 番”的说法。
 
-实施例1
-　　　　　　　　　　　宝牌　
-这手牌是40注，3扇，5200点。
-★　　
- 如果你添加
-20+8+16=44 → 四舍五入到 50 分
-因此，最低 Agari 点将为 6400 点（即使没有放置宝藏图块）。
-★　　　
- 如果你是卧底的话
-20+32+4=56 → 四舍五入到 60 分
-因此，Agari 积分将上升至 7,700 点（向上舍入为 8,000 点）。
-(2) 宝藏板块增加
-有砂浆的时候，就翻一块砂浆瓦。虽然不确定，但有可能你最终会手上有宝藏牌，成为大玩家。
-实施例2
-　　　　　　　　　　　宝牌　
-即使你有这样的2000点，如果你把它们放在一起粘起来，结果就会很完美。
-这大概就是水壶最大的魅力吧。
-★ 宝藏砖
-（3）自摸增加
-当您绘制可用的图块时，您不应该忘记这一点。
-实施例3
-　　　　　　　津莫
-一种选择是此时切掉牌，但您将失去一次玩牌的机会。如果你要去和牌牌，最好去卡古。
-(4) 灵山海峰
-如果您能用灵山牌获胜，您将获得 1 个灵山凯峰粉丝。
-此福利仅限于您负责时。
-(5) 某些图块可能会变得无法使用（仅限Anko）
-如果你不想让对方结巴，Anko 就很有效。
-2、水壶的缺点
-水壶总是有缺点。
-(1)其他家族的宝藏有可能增加。
-宝牌并不总是只属于您。
-您也很有可能增加其他房屋的分数。
-特别是在其他家庭正在照顾康复的情况下。
-如果你这样做，你最终会在宝藏板块之外放置盒子的背面，这是非常危险的。
-(2) 分数和牌牌目标角色将被揭晓（红/大明子）
-最容易理解的例子就是三元的例子。
-实施例4 墨水
-即使拉到这里，也必须尽可能自然地剪断绳子。
-如果这样做的话，生产起来就会困难得多。
-如果您是在线地图雀士，则需要不带图块的按钮。
- 如果发挥作用时出现延迟...
-(3) 存在接受度下降的情况（仅限地下通道）
-实施例5
-　　　　　　　　吃　津
-这是最容易理解的情况吗？
-如果你去卧底的话那就是个大问题了哈哈
-还有其他的，但我想总结一下这些。
+**例1**
 
+<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　碰<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ytyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/>　　宝牌<img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
+
+这手目前是 40 符 3 番，5200 点。
+
+如果把中加杠：
+
+- 20 + 8 + 16 = 44
+- 进位后变成 50 符
+
+这样一来，就算杠宝牌完全没中，和牌点数最低也会上到 6400 点。
+
+如果把<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>暗杠：
+
+- 20 + 32 + 4 = 56
+- 进位后变成 60 符
+
+这样点数甚至能涨到 7700 点，或者按切上满贯算到 8000 点。
+
+**（2）会增加宝牌**
+
+一旦杠，就会翻开杠宝牌。
+
+虽然这是不确定收益，但也确实存在“自己手里刚好全中，一下变成大牌”的可能。
+
+**例2**
+
+<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　碰<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ytyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/>　　宝牌<img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
+
+这种原本只有 2000 点的手，只要杠完后杠宝牌中得漂亮，甚至可能直接跳满。
+
+这大概就是杠最诱人的地方。
+
+**（3）会多一次摸牌机会**
+
+如果是摸到可杠牌，要记得你其实还能因此多摸一张岭上牌。
+
+**例3**
+
+<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　碰<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ytyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/>　　自摸<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
+
+这里直接把<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>摸切当然也是一种打法，但那等于白白少了一次进听机会。
+
+如果目标是继续向和牌推进，那通常还是加杠更好。
+
+**（4）岭上开花**
+
+如果刚好用岭上牌和牌，就能多拿 1 番岭上开花。
+
+不过这项好处只在你本来就处于听牌状态时才成立。
+
+**（5）能让特定牌彻底不能被利用（仅限暗杠）**
+
+如果你连让对手吃、碰某张牌都不愿意，那么暗杠会很有效。
+
+## 2. 杠的缺点
+
+杠永远伴随着代价。
+
+**（1）可能让别人也得到更多宝牌**
+
+杠宝牌不一定只加在你自己手上。
+
+它同样可能把别家的打点抬高。
+
+尤其是别人已经立直的时候，一杠不但会翻杠宝牌，还会连杠里宝牌一起加上，风险非常大。
+
+**（2）会暴露你的打点和目标手役（暗杠、大明杠）**
+
+最典型的例子就是大三元。
+
+**例4**
+
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　碰<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ytyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/>
+
+这种时候，就算摸到<img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，也必须尽量自然地摸切掉。
+
+一旦杠出来，白牌几乎就不可能再被打出来了。
+
+如果是网络麻将，这里甚至最好提前把“鸣牌关闭”按钮开好。
+
+因为一旦<img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>打出来时出现延迟，对手马上就会起疑。
+
+**（3）有些情况会让受入变窄（仅限暗杠）**
+
+**例5**
+
+<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　碰<img src="../hai/ysou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　吃<img src="../hai/ypin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　自摸<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
+
+这类情况最容易说明问题。
+
+如果这里暗杠，后果会相当糟。
+
+类似例子还有不少，先把这些最关键的得失理解清楚就够了。  

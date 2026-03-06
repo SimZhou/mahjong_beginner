@@ -1,98 +1,91 @@
-# 基坦
+# 食断
 
-这是一个非常有用的角色，因为即使你哭了它也能发挥作用。
+断幺九即使鸣牌也能成立，所以是一个非常实用的手役。
 
-然而，无论多么容易生气，
+但也不能因为它容易和，就什么手都拿去做食断。
 
-**例１**
+**例1**
+
 <img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　　宝牌<img src="../hai/pin8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
 
-你不应该从一开始就玩这样的牌来赢得 1000 分。
+像这样的牌，不能从序盘开始就一路鸣成 1000 点。
 
-这会浪费你尖叫的机会。
+这明明是很有机会做大的牌，一旦急着鸣，反而把整手牌的价值毁掉了。
 
-什么情况下应该哭？
+那什么情况下才该去做食断？
 
-## 有 2 个或更多红色宝藏牌
+## 宝牌或赤牌有 2 张以上
 
-宝牌が２枚以上あれば、得点的に考えてメンゼンにこだわる必要はないでしょう。
+如果手里已经有 2 张以上的宝牌，从打点角度看，就没必要再死守门前了。
 
-**例２**
-<img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　ツモ<img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　　宝牌<img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
+**例2**
 
-例如2，剪切 <img src="../hai/sou1.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" width="24" height="34"/> 确认截止，
+<img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　　自摸<img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　　宝牌<img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
 
-<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 绝对是口吃。
+例2里就该切<img src="../hai/sou1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>，先把断幺九确定下来。
 
-断幺九で宝牌が３枚あれば、ガツガツ鳴いてアガリを取りにいくべきです。
+之后只要<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>出来，就都该毫不犹豫地吃。
 
-## 如果您同意就可以的情况
+断幺九里如果还带着 3 张宝牌，就应该狠狠干脆地鸣牌抢和。
 
-在这种情况下，如果你最后获得第二名并小幅上升，你就会处于第一的位置。
+## 只要和了就行的局面
 
-即使您有一块搭子良好但通常无法玩的图块，您仍然应该获得 1000 分的分数。
+比如南四局，自己只要比现在第二名略微多和一点就能逆转到第一。
 
-**示例4**
-<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+这种情况下，就算是平时舍不得鸣的好形手牌，也应该拿去做 1000 点的食断。
 
-こんな手でも、場合によっては鳴いてあがることもあります。
+**例4**
 
-<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ypin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ysou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-有人说他们不能唱歌，因为这是一种浪费。
+这种牌，有些局面下就是应该鸣牌去和。
 
-不过，想要成为制胜的麻将，就必须制定策略。
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　<img src="../hai/ypin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　<img src="../hai/ysou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-## 我认为门森不会及时赶到。
+有人会觉得“这么好的形，鸣了太可惜”。
 
-善于玩牌的人，当然也善于布局。
+但如果目标是赢牌局，就必须在该仕挂的时候果断仕挂。
 
-绝佳的“哭泣时机”。
+## 门前已经来不及了
 
-**示例5**
-<img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
-宝牌<img src="../hai/pin3.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
-例5也是一手以获胜为目标的牌，但除非你能用任何一手牌获胜，否则它毫无价值。
-这一招还是梁向奇，还需要一段时间才能成功。
-如果回合很深或者其他人似乎速度很快
-你需要放弃 Menzen 并设置一个设置。
+真正擅长鸣牌的人，不光副露手法好，更重要的是鸣牌时机抓得准。
 
+**例5**
 
-在这种情况下，你应该呼叫碇。
-想要门森反弹并迅速挽回失分是疯狂的，但是
-如果有两个人陷害我，我就等不及了。
+<img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　宝牌<img src="../hai/pin3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>
 
-特别是如果您是父母，为了住在多个家庭中，
-比您的孩子更早决定瓷砖。
-如果你采取行动的时间太长，你就有失去宝贵主人的风险。
+例5也是冲满贯的手牌，但再大的手，和不了就没有价值。
 
+这手还只是两向听，离听牌还有一段距离。如果巡目已经很深，或者别人看起来明显更快，就必须放弃门前，转而副露。
 
-现在，到目前为止我作为示例给出的搭子都是良好的搭子。
-那么糟糕的形式怎么办？
-实施例6
+<img src="../images/36.gif"/>
 
-宝牌
+像这种场况，应该对<img src="../hai/sou2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>喊碰。
 
+当然很想通过门前立直一次把失分追回来，但当两家已经开始动手时，就不能再继续慢慢等了。
 
-即使你犯了错误，也不要从这个搭子开始。
-确实，不变成奎坦就上不去。
-然而，像‘奎坦都怀疑能否成功’这样的渣男，
-你应该有耐心并用 Menzen 击中。
+尤其你是庄家时，更应该为了连庄，比子家更早地下决定。
 
-口吃
+要是做牌太悠闲，很可能直接把宝贵的亲番送掉。
 
+前面举的例子，牌形都还不错。那坏形呢？
 
-墨水
+**例6**
 
+<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　宝牌<img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
+就算打错了，也绝不能从这种牌形开始食断副露。
 
-是南波的老大打出这样的牌子，如果他在这里输了，他就是最后一个。
-只有当你被逼到极限的时候才这样做。
-面临复苏时风险太大。 
-如果你一直在东方说这样的话，你就会开始担心接下来会发生什么。
-造型难度大，用廉价的手是不可能发出声音的。
-尤其是奎坦手中的棋子防御力很低。
-可以说，这是转移风险最高的方法。
-琼脂哭泣后切掉它很重要。
-如果你想用一手得分为 1,000 或 2,000 分的牌来玩奎坦，那么良好的状态是可取的。
+确实，不做食断大概也很难和。但这种“就算做食断也未必和得了”的烂手，应该老老实实忍住，继续门前打。
 
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　吃<img src="../hai/yman7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　碰<img src="../hai/ypin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
+
+这种鸣法，只能留给那种“南场亲番、这局亲落就直接坐稳末位”之类被逼到极限的时候。
+
+因为一旦对手立直，这种食断手在防守上的风险太大了。
+
+从东场开始就这么乱鸣，只会让后面越来越难打。
+
+牌形差、打点又低，这两点同时成立时就不该鸣。尤其食断手的守备力很低，可以说是最容易放铳的副露之一。
+
+既然决定鸣，就必须尽量保证能和到底。要做 1000 点、2000 点的食断，最好还是建立在好形前提下。  

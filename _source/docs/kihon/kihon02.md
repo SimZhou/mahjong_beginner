@@ -1,57 +1,38 @@
 # 麻将与概率
 
-说到麻将的手牌（手作り），
-有些人可能认为这是完成什么役的问题，但是
-我认为这与麻将的本质脱节。
+很多人一提到做牌，第一反应是“先看做什么役”。
+但从实战效率看，先把手牌当成“牌形问题”更重要。
 
-手牌的本质是「四面子·一雀头」这样的形状。
-如果在一局麻将中看，
-四人中谁会最先完成「四面子一雀头」？这是一场比赛的游戏。
+麻将本质上是在比谁更快做成和牌形。
+在一局里，四家竞争的核心是：谁先完成可以和牌的结构。
 
-当然，最后会根据你的得分来评价你，但是
-考虑到现在麻将游戏的性质，宝牌较多（包括红宝牌），即使没有役种也能获得高分。
-毕竟，本质不是役种而是形式。
+分数当然重要，但在现代规则下（尤其有红宝牌时），
+速度和稳定听牌能力通常是最基础、也最关键的能力。
 
-由于只有先完成牌型的人才能获得得分，
-速度是不可避免的要求。
-
-那么怎样才能快速完成呢？
-其背后的思考是搭子理论和牌牌概率。
-
-## 示例1：应该切掉哪张？
+## 示例1：该切哪张
 
 <img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/sou1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />　碰<img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/ytyun.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="32" height="24" /><img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />　　自摸<img src="../hai/man9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />
 
-让我们考虑一个最简单的例子。
-在示例1中，三面听和牌牌雀头已经完成，只需要再制作一个面子即可。
+这手牌已经有三组完成面子和雀头，只差最后一组。
+关键是：切哪张能让“下一步听牌或和牌概率更高”。
 
-<img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />当你切的时候<img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />听牌<img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />如果它来了（如果它出来了），那就是和牌
-
-<img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />当你切的时候<img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />如果它来了（如果它出来了），那就是和牌。
-
-很明显应该切掉哪张，这样更容易完成。
-
-## 示例2：应该切掉哪张？
+## 示例2：同样是两种受入，质量不一定相同
 
 <img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/sou1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />　碰<img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/ytyun.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="32" height="24" /><img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />　　自摸<img src="../hai/man9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />
 
-可以作为和牌的获胜牌（仅多一张牌就变成和牌的状态）是<img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />和<img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />。
+看起来都是“两种听牌受入”，但不能只看“种类数”。
+还要看每种牌各剩几张，也就是总枚数。
 
-<img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />当你切的时候，<img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />听牌
+- 受入总枚数更高，通常代表更高的听牌速度与和牌概率。
+- 两面听通常优于边张/嵌张，也是同样道理。
 
-<img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />当你切的时候，<img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />听<img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />这将是两面听。
+<img src="../images/003a.gif" style="display:inline; vertical-align:middle; margin:0 1px;" />
 
-由于两者都有两种类型，因此并不意味着它们在听牌方面是相同的。
+## 总结
 
-<img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />我自己用了2个，所以还剩下4个。
+麻将是高波动游戏，单局结果常常不稳定。
+做决策时要坚持“长期期望值”：
+- 选受入更多的牌路
+- 选更容易转化为好听牌的牌路
 
-<img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34" />剩下 8 张牌（仅从我的手牌来看）。
-
-如果要摸牌，最好是获胜牌最多。
-当然，如果你听的听牌数量多的话，获胜的概率会更高。<img src="../images/003a.gif" style="display:inline; vertical-align:middle; margin:0 1px;" />「选择要切的牌，这样你就有机会赢得彩票。」这是手牌制作的基本理念。
-
-## 总结/理论
-
-麻将是一款即使你尽了最大努力也常常会失败的游戏。
-不要为暂时的结果感到兴奋和和牌的悲伤，
-从长远来看，决定哪一个更好。
+这就是牌理与概率在做牌中的基础作用。

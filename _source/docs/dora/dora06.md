@@ -1,99 +1,79 @@
-# Akairimasho 的基础知识
+# 赤宝牌麻将的基本思路
 
-如今，该地区的麻将馆大多使用红色宝牌。
+如今大多数麻将馆都使用赤宝牌。
+尤其在场麻里，常见有祝仪规则，甚至可以“无役仅靠赤牌和牌”。
+因此在赤牌环境下，打法要与传统环境做出调整。
 
-特别是在免费麻将馆，有些地方可以接受礼物或只穿红色。
+## 比起做役，更要重视手牌宽度
 
-现在赤入里马绍正值巅峰，需要有与其相匹配的击球风格。
+因为宝牌总量高，即使不刻意做复杂役种，也有机会打出高打点。
+所以应减少“役种执念”，优先追求：
 
-## 强调广度而不是角色类型
+1. 受入更宽。
+2. 听牌更快。
 
-由于宝藏牌很多，所以不用做角色类型就可以大招。
+**例1**
+<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5red.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
- 不要太担心角色的类型，尝试强调宽度和牌牌速度。
+这手很多人会想固定做三色，但实战往往应优先拆掉饼子坎张，先提速。
+即使要放弃一部分“漂亮役种”，这也是赤牌规则下更实用的路线。
 
-**示例1**
-<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5red.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/sou5.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+## 不要过度执着门前清
 
-例えばこの手、三色で決まりのようですが、
+赤牌多时，就算副露和牌，也常能拿到不错点数。
+副露是赤牌麻将里非常关键的技术。
 
- ピンズの杠チャンを嫌った方が速い。
+**例2**
+<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5red.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5red.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
- せっかくの三色を崩してしまうのは気がひけますが、これが赤入リの打ち方です。
+这手若副露做断幺，3900点的可和率通常更高。
 
-## 不要沉迷于 Menzen
+例如可以：
 
-如果你有很多宝藏牌，即使你唱歌也能赚到不少钱。
+1. 碰 <img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>。
+2. 吃 <img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> / <img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>。
+3. 吃 <img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> / <img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> / <img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>。
 
- 挂瓷砖是 Akairi Asho 中非常重要的技术。
+在赤牌环境里，哪怕“副露后向听数不变”，也经常值得做。
 
-**示例2**
-<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5red.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5red.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+## 纯老头类手役在赤牌局更吃亏
 
-看来设置9点的话3900比较容易上。
+尽量少去追无赤牌加成的手役，如：
 
-<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，<img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> <img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> <img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> <img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> <img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>。
+1. 混全带幺九。
+2. 纯全带幺九。
+3. 混老头。
 
-Akairi Asho 也每天使用相同数量的方形瓷砖。
+原因是赤牌环境下，4-6附近的中张明显更危险，
+而这些手役往往逼你在后盘打出高风险牌。
 
-## 吟唱者处于劣势
+例如手里有 <img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5red.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 时，很容易形成坎 <img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 等危险听牌。
 
-赤の使えないチャンタ・純チャン・ホンローはなるべく狙わないようにしましょう。
+而且大家都会围绕赤牌做搭子，3-6、4-7这类筋也会比普通规则更危险。
+5本身成为和牌牌的概率也会上升（甚至会出现赤5单骑）。
 
-「ゴチになります」といわんばかりに赤絡みで鳴かれてあがられるのがオチです。
-鳴かれないにしても、終盤になって危険な４～６の牌を切るのは嫌ですよね。
+所以赤牌规则下，过度追求“幺九系手役”通常不是好交易。
 
-赤入り麻将では４～６の牌が危ないのです。
+---
 
-<img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin5red.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> と持っていれば杠<img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> に受けるし、
+**例3**
+<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-如果你有红色的宝藏牌，每个人都会以红色为目标，
+这手牌型已经很完整，当然可以考虑做幺九系。
+但实战常见更高效方案是：副露后快速和 1000/2000，先把分拿到手。
 
-3-6号线和牌牌4-7号线相当危险。
+很多旧书写着“不要用低打点副露做幺九系”，这在赤牌时代不再绝对。
+比起门前慢慢磨牌，利用“容易副露、尽快和牌”的优势，通常更符合实战 EV。
 
-此外，当 5 块变为听牌牌时，情况比平常更多。还有一种叫做单红骑乘。
+## 要把“接赤牌”纳入进张设计
 
-因此，以吟唱型为目标并不是一个好主意。
+和普通宝牌思路一样，要尽量做成“摸到赤牌也不尴尬”的形。
 
-**示例3**
-<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/man5.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
+<img src="../hai/ytyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-さすがにここまで形が整っていれば狙いますが、
+一向听时，通常会在 <img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 切与 <img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 切之间选择。
+普通规则下，往往推荐切 <img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，理由是后续受压时 <img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 相对更安全。
 
-鳴いて１０００点、２０００点でサクっとアガってしまいましょう。
-
-许多策略书籍都说，“不要对吟唱者使用廉价的伎俩”，但这是一个古老的想法。 
-
-我认为你应该利用这样一个事实：打字比花时间使用 Menzen 更容易。
-
-如果坐下来击球的结果是“我被门频红红击中了”，那就太无聊了。
-
-## 考虑接受红色
-
-就像宝牌一样，尽可能多地绘制红色以创建舒适的搭子。
-
-
-<img src="../hai/man9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
-<img src="../hai/ytyun.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="32" height="24"/><img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 　　
-ツモ<img src="../hai/sou8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
-
-
-
-イー向听牌牌で <img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> を切るか 
-<img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> を切るか。
-普通は <img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 
-切りが正しいとされます。
-
-因为从现在开始，需要有人恢复一些。
-
-
-その後再び
- <img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> を引いた時、 
- <img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> ではなく多少安全な 
- <img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> の方が切れるからです。
-
-
-但是，如果您是 Akairi Rimasho，请务必剪切 <img src="../hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>。
-
-<img src="../hai/pin5red.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 减去 <img src="../hai/pin2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" 时width="24" height="34"/> 这是因为它可以替换为
-
+但赤牌规则下，这里更应切 <img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>。
+原因是摸到 <img src="../hai/pin5red.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 后，可以与 <img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 替换，最大化赤牌价值。

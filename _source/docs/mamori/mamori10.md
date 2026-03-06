@@ -12,13 +12,13 @@
 
 与站姿不同，你需要技巧来看穿夜库派。
 
-**(1) 三个 Vice-Rus (Sanfuro) 可以被认为是听牌牌牌**
+**(1) 三个 Vice-Rus (Sanfuro) 可以被认为是听牌**
 
 狗哭三遍仍然拒绝的情况很少见。
 
 不管你的谈话对象是不是新手，只要你打三个电话，他们就会兴奋 90% 以上。
 
-**(2) 如果有多余的颜色，通常会使用混合颜色作为瓷砖**
+**(2) 如果有多余的颜色，通常会使用混合颜色作为牌**
 
 例如，如果一个做混色剑的人有多余的剑，
 
@@ -40,9 +40,9 @@
 
 尤其是对于一直以来拿起的牌，将它们带到手边的人
 
-如果确认后立即丢弃该瓷砖，则非常可疑。
+如果确认后立即丢弃该牌，则非常可疑。
 
-就是这个地方。如果（3）和牌牌（4）很难，请开始注意（1）和牌牌（2）。
+就是这个地方。如果（3）和牌（4）很难，请开始注意（1）和牌（2）。
 
 ## 猜猜是贵还是便宜
 
@@ -57,7 +57,7 @@
 这似乎是显而易见的，但却很重要。
 
 **示例1**
-<img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ypin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ysou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/pei.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ypin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ysou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/pei.gif" style="display:inline;vertical-align:middle; margin:0 1px;"width="24" height="34"/>
 
 例如，假设北方是宝藏板块。
 
@@ -65,16 +65,16 @@
 
 这是因为1000分的分数非常强。
 
-<img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ypin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ysou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ypin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ysou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;"width="24" height="34"/>
 
 这种事情发生的可能性并不是零，而是
 
-您还可以通过检查正在发挥的角色图块来了解这一点。
+您还可以通过检查正在发挥的角色牌来了解这一点。
 
 如果北破了，你的积分就快1000了，不用怕。
 
 **示例2**
-<img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ypin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/yton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/pin4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ypin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/yton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/pin4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;"width="24" height="34"/>
 
 假设 <img src="../hai/pin4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是宝藏牌，对手是鸟羽的父母。
 
@@ -84,19 +84,19 @@ Dub Toho Tile 1 是有保证的，肯定会超过 5800 分。
 
 染工往往是件大事，
 
-特别是与chinitsu和牌牌宝牌混合的颜色对Mangan和牌牌Haneman类的手很有好处。
+特别是与chinitsu和牌宝牌混合的颜色对Mangan和牌Haneman类的手很有好处。
 
 **示例3**
-<img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/yman6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/yman8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/yman3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/yman6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/yman8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/yman3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"width="24" height="34"/>
 
 我无法忍受被这样对待。
 
 如果你抓住了Man's，你应该尝试一下。
 
-瓷砖的作用也很重要。
+牌的作用也很重要。
 
 **示例4**
-<img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ynan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ytyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ypin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/pin9.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ynan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ytyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ypin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/pin9.gif" style="display:inline;vertical-align:middle; margin:0 1px;"width="24" height="34"/>
 
 假设是南波。真是个大噱头。
 
@@ -104,7 +104,7 @@ Dub Toho Tile 1 是有保证的，肯定会超过 5800 分。
 
 即使这意味着折断你的手，你也应该放弃。
 
-## 3.哪些瓷砖是危险的？
+## 3.哪些牌是危险的？
 
 如果对手一哭你就喊，你成不了雀士。
 
@@ -117,7 +117,7 @@ Dub Toho Tile 1 是有保证的，肯定会超过 5800 分。
 但这很容易。
 
 **示例5**
-<img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ytyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/yhaku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ytyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/yhaku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;"width="24" height="34"/>
 
 比如例5，直接写是危险的（笑）
 
@@ -125,52 +125,52 @@ Dub Toho Tile 1 是有保证的，肯定会超过 5800 分。
 
 中局结束后， <img src="../hai/hatu.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是一个不能被击中的方块。如果你被击中，你就会死。
 
-![](/hai/ura.gif)
+![](../hai/ura.gif)
 
-![](/hai/ura.gif)
+![](../hai/ura.gif)
 
-![](/hai/ura.gif)
+![](../hai/ura.gif)
 
-![](/hai/ura.gif)
+![](../hai/ura.gif)
 
-![](/hai/yton.gif)
+![](../hai/yton.gif)
 
-![](/hai/ton.gif)
+![](../hai/ton.gif)
 
-![](/hai/ton.gif)
+![](../hai/ton.gif)
 
-![](/hai/sou1.gif)
+![](../hai/sou1.gif)
 
-![](/hai/sou1.gif)
+![](../hai/sou1.gif)
 
-![](/hai/ysou1.gif)
+![](../hai/ysou1.gif)
 
-![](/hai/yman6.gif)
+![](../hai/yman6.gif)
 
-![](/hai/man6.gif)
+![](../hai/man6.gif)
 
-![](/hai/man6.gif)
+![](../hai/man6.gif)
 
-十有八九是寇和牌牌。游戏中如果有未破损的牌是很危险的。
+十有八九是寇和牌。游戏中如果有未破损的牌是很危险的。
 
 特别是不要切胜牌。
 
-由于也存在单个骑士的可能性，因此可以安全地假设所有字母瓷砖都是危险的。
+由于也存在单个骑士的可能性，因此可以安全地假设所有字母牌都是危险的。
 
-特别是当3个怒之后采取行动时，我将仅限东方的听牌牌牌改为对对和牌牌，
+特别是当3个怒之后采取行动时，我将仅限东方的听牌改为对对对和，
 
 或者应该理解为单身骑士的恶作剧。
 
-**实施例7**
-<img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ysou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/ypin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/pin2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+**示例7**
+<img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ura.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ysou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/ypin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/pin2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"width="24" height="34"/>
 
 这是一个像尾门一样的把戏。
 
-第一个图块（Shonpai）已标记。
+第一个牌（Shonpai）已标记。
 
 当然，也有很多情况是屋久牌被记住的，
 
-<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ysou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/ypin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/pin2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ysou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/ypin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/pin2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"width="24" height="34"/>
 
 香槟牌与宝藏牌搭配的情况不少，如果掉以轻心，就会陷入困境。您应该将其视为某些情况，例如宝藏牌两侧都在哭泣，作为事后的考虑。
 

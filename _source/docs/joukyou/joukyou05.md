@@ -1,95 +1,101 @@
-# 情境与手工 (3)
+# 局况与手作（3）
 
-点棒状況に合わせた手作りを考えてみます。
- 
-マイナスしているときは打点、
- 
-プラスのときはスピードを重視するのが基本的な考え方です。
+本节讨论“根据点棒状况手作”。
 
-## 追逐击球点
+基础原则：
 
-即使你追求打点，也不要只是强行瞄准角色类型。
- 
-我们和牌牌顶尖队伍之间的差距正在拉大。
+1. 处于落后时，优先提高打点。
+2. 处于领先时，优先提高速度。
 
-- 门森恢复
-- 宝藏瓦用户
-- 混一色
+## 追求打点
 
-这三点是获得高分的关键。
+“追打点”不等于每手都强做役种。
+若一味硬做，反而会被上位越拉越开。
 
-**示例1**
+高打点最现实的三条路：
+
+1. 门前立直。
+2. 宝牌利用。
+3. 混一色。
+
+**例1**
 
 <img src="../images/h010.gif"/>
 
-获得高打点的最短方法是直立。
- 
-例1有一定积分，但目前正在与下家争夺榜首。
+高打点的最快路径通常是立直。
+例1里虽然点棒不算低，但当前在与下家争第一。
 
-如果您使用 <img src="../hai/man3m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/> 被Uieya砍下来，你会很辛苦，但你和牌牌顶尖人物之间的差距根本不会缩小。这些都是门森应该坚持恢复的动作和牌牌情况。
+如果鸣上家的 <img src="../hai/man3m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>，和牌率会更高，
+但几乎无法缩小与榜首差距。
 
-ライバルのトップ目が親番の時に、クイタンなどで軽く流してしまうのは「状況が理解できていない」といえるでしょう。
+这种局况就应坚持门前立直。
+尤其在“榜首是亲家”时，
+用低打点快速流局（如断幺小和）往往是没读懂局况。
 
-### セオリー
+### 定式
 
-基本的事情是瞄准父母的打击并创建打点。
+基本思路是做出可自摸高打点，争取“亲被自摸多付”。
 
-**示例2**
+---
+
+**例2**
 
 <img src="../images/h011.gif"/>
 
-仕掛けて打点を作るのであれば、宝牌を強引に使うのもひとつの手です。
- 
-例２のようにラス目で打点が欲しい状況なら
+若要通过副露做打点，强行利用宝牌也是方案之一。
+像例2这种末位急需打点的局面，
+可以考虑鸣 <img src="../hai/pin9m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>，走全带幺九路线。
 
-这个
-我认为 chirp <img src="../hai/pin9m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" 会很有趣width="19" height="26"/> 并用吟唱者设置它。
- 
-目的是利用漂浮的宝物牌获得“昙塔三色北宝堆1”或“昙塔北宝堆2”。
+目标是把浮着的宝牌纳入：
 
-虽然是个牵强的噱头，但总比跟Menzen走要好。
- 
-我认为你能够达到曼坎的概率很大。
+1. 全带幺九三色北宝牌1。
+2. 或全带幺九北宝牌2。
 
-**示例3**
-<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>自摸<img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/pin2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+虽然是偏远副露，但相对门前慢做，做出满贯的概率未必更低。
 
-我想有很多人在最后一步就失去了平衡感。
+---
 
-无论您需要多少个点，示例 3 都将是最佳选择。
- 
-如果你不想被便宜抓住，就别哭。
+**例3**
+<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-メンゼン立直なら宝牌を切っても出て５２００、ツモって満貫は保証されます。
+很多人落后时会失去平衡。
+但再需要打点，例3也应先切 <img src="../hai/man6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>。
 
-<img src="../hai/pin3m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 不建议对切割后的宝物砖进行固定。
+如果不想和小牌，可以选择不鸣；
+门前立直的话，即使切掉宝牌，对和5200、自摸满贯仍有保障。
 
-## 追逐速度
+把宝牌对子硬固定（如切 <img src="../hai/pin3m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>）并不推荐。
 
-**示例4**
-<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>自摸<img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/sou1.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+## 追求速度
 
-<img src="../hai/pin2m.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="19" height="26"/> を切って平和牌牌イー向听牌牌に取るのが通常の打ち方です。
- 
-しかし南３局のトップ目など、どうしても局を進めたい場面であれば
- 
-宝牌对子落としが妙手となります。
+**例4**
+<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-当然，除了切割宝牌之外，
-<img src="../hai/man2m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin8m.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“19”高度=“26”/>
-就拿口吃来说吧。
+常规打法是切 <img src="../hai/pin2m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 取平和一向听。
 
-**示例5**
+但如果是南3局第一名、非常需要“尽快推进局数”的场面，
+拆宝牌对子反而可能是妙手。
+
+当然，既然切宝牌，就要接受后续
+<img src="../hai/man2m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin8m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>
+的吃听路线。
+
+---
+
+**例5**
 
 <img src="../images/h012.gif"/>
 
-山顶最大的挑战是第二个Oyaban。
- 
-永远不要让他们呆在一起。
- 
-通常，你应该使用 Menzen 来尝试重新站起来并粉碎你的老板。
+第一名最大的险段，通常是第二名的亲番。
+这时目标非常明确：不能让对手连庄。
 
-因此，这个 <img src="../hai/pin5m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/> 是一个可以做成最终布局的移动。
+平时会门前立直的手，在这里也应积极副露去“掐断亲连”。
 
-听牌牌选项似乎很容易出现。听牌牌会更好吗？
+因此这手对 <img src="../hai/pin5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 应直接碰听。
+待牌选择上，偏向更容易出的 <img src="../hai/pin6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin7m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 待会更实战。
 
+### 本节结论
+
+1. 落后时追打点，但不能失去手牌平衡。  
+2. 领先时追速度，优先考虑“推进局数、阻断对手连庄”。  
+3. 手作不是固定答案，必须由点棒状况驱动。

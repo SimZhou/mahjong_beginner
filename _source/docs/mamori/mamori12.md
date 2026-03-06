@@ -1,79 +1,62 @@
-# 胸部瓷砖/shibori(2)
+# 绞牌（2）
 
-让我们以扣图块为例。
+继续通过具体例子来看“绞牌”。
 
-## 下家染工
+## 下家在做染手
 
 <img src="../images/37.gif"/>
 
-大多数“挤压”的情况是下议院做混色的时候。
+需要“绞”的场合里，最常见的就是下家明显在做混一色。
 
-在这个例子中，Shimoya 显然是来自 Swords 的 Isshiki 玩家。
+这一例中，下家显然是在做索子一色手。
 
-而且，我的伴侣是家长，我和牌牌难波顶尖的条件是一样的。
+而且对手还是庄家，自己又是南场领先，条件全部叠在一起。虽然庄家大概还没听牌，但索子已经必须开始收紧。
 
-你的父母可能还没有放弃，但你应该缩小剑的范围。
+自己的手虽然是一向听，但没有役，而且形也不够好。就算听牌了，也并不想把索子打出去。
 
-我的双手虽是易象奇，却毫无用处，
+当然，也可以打饼子维持一向听，但<img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>最好还是留着，以防之后被两家同时立直时还能有安全牌可用。
 
-即使能买到锯子我也不想砍。
+所以这里应该把<img src="../hai/man8.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>按对子拆掉，整个手组都不要去打索子。
 
-还有一种方法就是剪掉针脚来保养易象奇，
+这是要狠狠干住对手，争取让庄家以未听落庄的局面。
 
-<img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> はもし２人から立直がかかったときに残しておきたいですね。
-
-在这里，放置 <img src="../hai/man8.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 用刀手工组装，无需切割锯子。
-
-现在是时候收紧你的控制力，让 Noten 失去他的父母了。
-
-## 翻新瓷砖
+## 后付字牌
 
 <img src="../images/38.gif"/>
 
-当父母把两边定好后，画的是东方。
+庄家副露掉一个两面搭子之后，自己摸进了东。
 
-我觉得这个瓷砖一定要选。
+这张牌，我认为必须坚决绞住。
 
-家长的窍门是混合颜色、一个字母、789、chanta
+庄家的副露形看起来不像混一色，也不像一气通贯、789 三色或全带幺这些路线。再看场上已经切过的役牌，基本只剩下“双东”这一种可能。
 
-所有这些可能性都很低，如果你看看比赛中的破碎瓷砖，除了Dub East别无选择。
+所以这里只能在两种选择中二选一：
 
-请务必剪切 <img src="../hai/man1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 我是否应该采取这样的立场：如果我能得到 Keiten，我就不会放出？
+- 切<img src="../hai/man1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>，摆出“只要能取到形式听就行，但绝不打出<img src="../hai/ton.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>”的姿态
+- 或者干脆开始彻底弃和
 
-弃和牌牌をはじめるか、もうどちらかを選ぶしかありません。
+总之，绝不能“啪”地一下把<img src="../hai/ton.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>甩出去。
 
-繁荣！扔掉 <img src="../hai/ton.gif" style="display:inline;vertical-align:middle; margin:0 1px;" 是个好主意宽度=“24”高度=“34”/>。
+不能切的牌，就是不能切。让现在第一的东家继续跑起来，局面会非常难受，所以这里要带着同归于尽的觉悟把它绞住。
 
-不能切割的东西就不能切割。
+## 攻守兼用的绞牌
 
-如果东家族的最高统治者继续统治下去，那就很难了。
-让我们带着决心在这里比赛吧。
+<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　自摸<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-## 攻防兼备的瓷砖
+如果只是在平场做一道“牌效率题”，大概会因为牌效率和摸<img src="../hai/sou4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>后能做断幺九，而把<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>对子拆掉。
 
-<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+从纯效率看，这是标准答案。
 
-例如，如果您对在平面上进行多少次切割有疑问，请使用平铺效果和牌牌 <img src="../hai/sou4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 要绘制的切割数量。
-
-<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 的下降是绝对的解决方案。
-
-但这种情况又如何呢？
+但如果场况是下面这样呢？
 
 <img src="../images/39.gif"/>
 
-真不知道下院的设备是不是听牌牌牌，贵不贵。
+下家的副露到底有没有听牌、打点高不高，都看不太清楚。
 
-但是，如果 <img src="../hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 被砍，Shimoya 口吃的概率不容忽视。
+可如果你切了<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>，下家吃牌的概率并不低。
 
-即使你口吃，你的分数也不会降低。
+虽然就算被吃，自己的分数暂时不会立刻减少，但下家肯定会更接近和牌，自己失去亲番的可能性也会明显升高。
 
-不，但是下家确实离和牌牌越来越近了，
+从整体收益来看，与其继续执着于这手带宝牌的牌去完成断幺九，不如优先照顾下家的仕挂路线。
 
-丢失父母号码的可能性很高。
-
-为了完成这个包含宝藏板块的举动，我想
-
-我认为优先考虑下议院的机制比较好。
-
-<img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 那么下议院应该就不能动了。
-
+所以这里切<img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>更好，因为这样下家应该没法动。  

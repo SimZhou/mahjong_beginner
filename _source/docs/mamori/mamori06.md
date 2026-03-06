@@ -1,62 +1,53 @@
-# 吸入步骤(1)
+# 彻底弃和的步骤（1）
 
-涉水有明确的程序，所以一定要仔细遵循说明。
+彻底弃和并不是“感觉上差不多安全就行”，而是有很明确的处理顺序。  
+只要按步骤来打，放铳率会明显下降。
 
-应大幅减少转移。
+## 彻底弃和的基本思想
 
-## Yanwa的基本思想
+**从安全度最高的牌开始切。**
 
-安全度の高い牌から切っていく
+这就是彻底弃和的基本原则。
 
-这是原则。
- 
-我不在乎我的手是否会碎掉。
+进入弃和后，不要再在意手牌会不会散掉。  
+因此，只要手里有“现物”、场上已经见了 3 张的字牌这类**完全安全牌**，就应该先从这些牌开始处理。
 
-因此，“实物”、“完全安全的瓷砖”等3块瓷砖在现场
+原因很简单：
 
-只要有这种事，我就砍掉。
+1. 你先切绝对能过的牌，就有机会等到下一巡出现更多现物。
+2. 也可能在这期间，其他家放铳或自摸，让立直者直接和牌。
 
-从肯定通过的瓷砖上进行切割非常重要。
+反过来说，如果明明手里有安全牌，却先去切“看上去好像也能过”的牌，从防守角度讲其实是吃亏。
 
-第一轮实际金额有可能增加，
+## 多张现物时的优先顺序
 
-有时其他家庭会动摇，而一个人会重新站起来。
+即使都是现物，顺序也不是随便切。
 
-即使有安全瓷砖，为什么要先把“看起来安全的瓷砖”切掉呢？
+正确做法是：**优先切将来更危险的现物，把共通安全牌尽量留到后面。**
 
-从防守的角度来看，这是一场“失败”。
-
-## 实物优先
-
-現物が複数ある場合にも、一応手順があります。
-
-**将来の危険度の高い現物から切る**のが手順です。
-
-例子
+例如：
 
 <img src="../images/h006.gif"/>
 
+这手牌已经完全散了。  
+在这种局面下，还想从这里去跟亲家的立直对攻，基本就是极其鲁莽的做法。
 
-手はバラバラで、ここから親の立直に勝負するのは
+现在的安全牌有：
 
-日本がアメリカに戦争を挑むくらい無謀でしょう。
+<img src="../hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>  
+<img src="../hai/sou6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>  
+<img src="../hai/sham.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>
 
-<img src="../hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sham.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 是安全的图块。
+其中，先切 <img src="../hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 或 <img src="../hai/sou6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 都没问题。  
+但如果一开始就切 <img src="../hai/sham.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>，那就是明显的手顺错误。
 
-<img src="../hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 和牌牌 <img src="../hai/sou6m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/> 从任意一侧剪切都没有问题，但是从 <img src="../hai/sham.gif" style="display:inline;vertical-align:middle; margin:0 1px;" 剪切width="19" height="26"/> 是一个程序错误。
+因为如果这时又有人追立直，你手里就可能一下子连一张安全牌都不剩。  
+而且下家已经突然在切无筋牌，说明从这里再有立直进来，完全是很现实的情况。
 
-如果你在这里被追赶，你将没有安全瓷砖。
+所以这里不该犹豫，应该先把 <img src="../hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>、<img src="../hai/sou6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 这类“只对当前立直家安全、但未必对全场都安全”的牌先处理掉。
 
-因为下家突然断线了，
+### 定式
 
-事情很有可能从这里恢复过来。
+手里有多张现物时，**尽量把共通安全牌留到最后**。
 
-不要犹豫， <img src="../hai/man5m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/> 这是你应该摆脱这种情况的情况。
-
-### 理论
-
-現物が複数あるときは、共通安全牌は温存しておく。
-
-
-下次我会想想，如果安全牌不在我手里怎么办。
-
+下一页再继续讨论：如果手里连安全牌都没有，该怎么弃和。

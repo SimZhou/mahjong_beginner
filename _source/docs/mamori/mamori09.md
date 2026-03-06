@@ -1,93 +1,93 @@
-# 头盔瓦
+# 回转防守
 
-这是一种以和牌牌或英镑牌为目标，同时抑制危险牌的游戏方式。
+回转防守是指：在尽量控制危险牌的同时，继续争取和牌或至少争取听牌。
 
-一般来说，当对手试图恢复时
+常见于这两类局面：
 
-- 虽然我不是皮条客，但我想以加里/皮帕为目标。
-- 虽然我有据点，但是再这样打下去我就会吃亏，所以我想把据点攻破一次。
+1. 自己还没听牌，但不想直接完全弃和，仍想保留进攻机会。
+2. 自己已经听牌，但继续硬拼明显不利，想先拆听再找更安全路线。
 
-在这种情况下，您可以选择“mawash”。
+具体手段主要有四种：
 
-具体的には、
+1. 拆对子。
+2. 拆搭子。
+3. 拆暗刻。
+4. 七对子转型。
 
-**大年子子・大年子子・・安国大年子・七子〹**
+## 对子落
 
-の４つの方法があります。
+这是回转防守最常用的方法，因为：
 
-## 对子落とし
+1. 一张能过，第二张通常也更容易过。
+2. 不会大幅破坏手牌结构。
 
-这是 Kabuto 瓷砖的常用方法。
+**例1**
 
-这是因为，如果你通过了一次，你可以再次通过，并且你手中的牌不会被破坏。
+![](../images/33.gif)
 
-**例１**
+这就是对子落很有效的典型局面。
 
-![](/images/33.gif)
+若完全弃和，直接拆 <img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 过于可惜；
+若一发硬押，<img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 又太危险。
 
-这个例子是一个易于理解的例子，Kabuto 瓷砖是有效的。
+此时场上已见1枚的 <img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 做对子落是好手。
+理想目标是转成门断平+宝牌1，反击立直。
 
-弃和牌牌で <img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>を抜くには惜しい手ですし、一発で打つには<img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>はやや厳しい。
+## 搭子落
 
-ここは場に１枚切れの <img src="../hai/hatu.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 对子落としが好手でしょう。
+再看一个例子。
 
-メンタンピン宝牌１で追いかけ立直を打つのが理想です。
-
-## 下车
-
-让我们看一个具体的例子。
-
-**示例2**
+**例2**
 
 <img src="../images/34.gif"/>
 
-如果没有恢复，销钉将会掉落。 （即使有所有茶汤，听牌牌起来也是如此）
+没有立直压力时，这手通常会先拆饼子坎张（就算全押也大多这么打）。
 
-如果你想打字，这是 <img src="../hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/> 剪切。只需拉<img src =“/hai/pin3.gif”style =“display：inline;vertical-align：middle;margin：0 1px;” width="24" height="34"/> 你就会重新站起来。
+若要回转防守，则先切 <img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>。
+之后若能摸到 <img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，仍可立直。
 
-即使在易象棋中，如果你画 <img src="../hai/pin5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 等，肌肉平铺 <img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 砍下来好像也不错。
+即便是一向听，若摸到 <img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 等推进牌，
+也可能继续打出相对安全的 <img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>。
 
-即使使用相同的头盔图块， <img src="../hai/sou4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 击球是一个糟糕的举动。
+相反，切 <img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 是坏手。
+因为宝牌是 <img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，而后续可能要打的胜负牌 <img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 太危险。
 
-宝牌が <img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> であるうえに、 勝負牌となる <img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が危険牌だからです。
+搭子落回转时，最好保证“这组搭子的两张都相对安全”。
 
-搭子落としでまわす場合は、両方の牌が安全であることが望ましい。
+另外，若切 <img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 后手牌迟迟不进，反而不断摸危险牌，
+就应立即转为完全弃和。
 
-不用说，如果 <img src="../hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 切后仍无任何进展，且玩家继续抽危险牌，应立即切换弃和牌牌。
+## 暗刻落
 
-## 暗雕
+有时把一组安全牌三张整组拆掉，反而能在这3巡里摸到推进牌。
+偶尔会从“纯防守”转回“可和牌局面”。
 
-安全な牌を３枚アンコで落としているうちに、手が進むことがあります。
+立直河：
+<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/yman2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/>
 
- ３巡の間に通せる牌が増えて、アガリに向えたりすることもたまにあります。
+手牌：
+<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-恢复
-<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/yman2.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“32”高度=“24”/>
+比如可先把 <img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 暗刻拆掉，
+最终也有机会转成副露断幺和牌。
 
-手板砖
-<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+## 七对子转型
 
-例如，如果您删除 <img src="../hai/sha.gif" style="display:inline;vertical-align:middle; margin:0 1px;"此图块的 width="24" height="34"/>，
+这种方式稳定性不高，但实战里并不少见：
+一边现物弃和，一边切着切着突然就接近七对子听牌。
 
-最后，你可能会对 Kuitan 感到沮丧。
+当手里有很难处理的牌（例如役牌宝牌），
+又非常想“至少做到听牌”时，有时只能强行做单骑听。
 
-## 七个孩子
+这种时候，把七对子当作回转路线之一是合理的。
 
-这也是一种缺乏确定性的方法，但当你继续研究并切割实际的物品时，你可能会发现自己在不知不觉中已经交出了南智子。
+## 回转防守的注意点
 
-如果你不会切割难用的瓷砖，比如宝牌，而你又很想把它拿到怀石上，那么你别无选择，只能**强行把它拿到怀石上**。
+回转防守只能在“适合回转”的局面使用。
 
-在这种时候，一种方法就是押注于日子。
+1. 有些点数状况下，即便看起来还能和，也必须完全弃和。
+2. 也有些局面即便手牌辛苦，仍必须正面胜负。
 
-## 头盔瓷砖的注意事项
+能回转的场景其实比想象中少。
 
-兜牌は、「兜牌できる状況」でなければ使うべきではありません。
-
- 点数状況によっては多少アガれそうな手でも完全に弃和牌牌するべきだったり、逆に多少苦しくても勝負に出るべきこともあります。
-
-能够击中马瓦希的情况出人意料地有限。
- 
- 
- 
-不要忘记，防御的基础是“和牌牌”。
-
+请始终记住：防守的基本是完全弃和。

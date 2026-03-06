@@ -1,15 +1,15 @@
 # 麻将是什么？
 
 在这个网站上，我根据 Assho 的理论发布了我自己的 Assho 策略。
-我将专注于使内容尽可能实用，并且我将使用大量图块来尽可能清楚地解释内容。
+我将专注于使内容尽可能实用，并且我将使用大量牌来尽可能清楚地解释内容。
 目标是使理论系统化。
 
-我们将假设您了解 麻将 的规则和牌牌基本术语来继续，所以
+我们将假设您了解 麻将 的规则和牌基本术语来继续，所以
 那些不知道的人麻将初学者通用课程学完再学更安全。
 
 在开始麻将课程之前，我想在此页写下我对麻将的看法。
 
-## 马修和牌牌运气气气
+## 马修和牌运气气气
 
 **“麻将雀士有什么运气气气或者运气气吗？”**
 
@@ -30,11 +30,11 @@
 
 我不否认它的存在。
 如果是2到3次左右，自然会有吉凶之分。
-您可能会很幸运气气地进行瓷砖放置和牌牌开发。
+您可能会很幸运气气地进行牌放置和牌开发。
 有时候手不好，什么都做不了，最后就吃掉了末位。
 有时它保持好或坏，有时它突然改变。
 但好像没有什么规定。
-我严重怀疑针对赔率和牌牌运气气制定战术是否真的有效。
+我严重怀疑针对赔率和牌运气气制定战术是否真的有效。
 
 现在，这是一个例子。
 
@@ -80,7 +80,7 @@
 大多数人可能会想：“我想成为一名雀士，变得更强。”
 特别是
 
-增加麻将的收入和牌牌支出
+增加麻将的收入和牌支出
 提高麻将游戏的评分
 在 Asho 游戏中赢得冠军
 
@@ -90,14 +90,14 @@
 有些人“痴迷于达到顶峰”，并且更关心达到顶峰而不是成绩。
 有些人重视“提高包括Yakuman在内的高招数”。
 
-例子<img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/hatu.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/hatu.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />津莫<img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />墨水<img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/ytyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:32px; height:24px;" />
+例子<img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/hatu.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/hatu.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />自摸<img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />碰<img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/ytyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:32px; height:24px;" />
 
 例如，不要举手，<img src="../hai/man9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />思考这个问题的一种方法是瞄准三巨头。
 虽然在《麻将》中思考盈亏有正确的答案，但怎么玩完全取决于玩家。
 没有规则。
 
 每个人对马修都有不同的看法。
-经常有人批评和牌牌等人获得了最后的位置（第四位）。
+经常有人批评和牌等人获得了最后的位置（第四位）。
 不要成为一个傲慢的人，将自己的价值观强加于他人。
 
 身为雀士该怪罪谁？

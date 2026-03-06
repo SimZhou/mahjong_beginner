@@ -1,207 +1,63 @@
-# 立直を読む(2)
+# 读立直（2）
 
+上一页讲了危险牌识别。
+本页重点是：如何从牌河中找到“相对安全牌”。
 
-立直に対しての安全牌は危険牌よりも遥かに高い精度で読むことができます。
+## 1. 立直前切出安全牌的含义
 
-もちろん麻将は当たる牌よりも当たらない牌の方が遥かに多い、という事実もありますが実戦での有効度も安全牌読みの方が高いはずです。
+如果对手在立直前一手切出明显安全牌，
+通常说明其手牌已接近完成，不愿再保留多余防守牌。
 
-然而，由于某种原因，它从未成为一种策略。
+这能给我们两个信号：
+1. 对手听牌质量多为常规效率形
+2. 某些低效率听牌可适度下调权重
 
-现在迷彩艺术家已经被淘汰了，
+但要注意：
+- 这只是概率优势，不是绝对排除
+- 场上同牌可见枚数会影响结论强度
 
-我们难道不应该磨练寻找隐藏的安全瓷砖的技能吗？
+## 2. 逆向手顺与安全度提升
 
-## 安全地砖前的跨骑线
+当对手的立直前手顺呈现“先处理高价值进攻块，再处理低价值块”，
+有时会反向证明某些牌不太可能成为听牌核心。
 
-ちょっとした打ち手になると、安全牌の持ち方がパターン化されます。
+这种场景下，部分筋牌安全度会高于常规判断。
 
-听牌牌牌直前になって余分な牌は抱えたりせず、安全牌が来ればそれを残します。
+## 3. 否定双碰与嵌张的思路
 
-逆に听牌牌牌への受け入れを減らしてまで安全牌を持つこともしません。
+读安全牌时可以使用“否定法”：
+- 如果某种听牌形在该手顺下不自然，
+- 则对应和牌牌可降低危险评级。
 
-您可以用它来阅读。
+例如：
+- 明显不会从高效率两面退化成低效率嵌张
+- 某些双碰形成需要特定对子结构，而牌河不支持
 
-切割安全瓷砖后站起来。
+这类否定法配合现物与筋，效果最好。
 
-你根本无法缩小危险瓷砖的范围，但你可以很容易地找到安全度很高的瓷砖。
+## 4. 宝牌周边的例外处理
 
-![](/hai/man8.gif)
+即使一般读法认为某张牌较安全，
+只要靠近宝牌、赤宝牌、役牌进攻路线，
+都应重新提高危险权重。
 
-![](/hai/man9.gif)
+宝牌周边本身就是高冲突区，
+读牌不能机械套模板。
 
-![](/hai/pin1.gif)
+## 5. 实战执行顺序
 
-![](/hai/sou9.gif)
+推荐按以下顺序防守：
 
-<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+1. 现物
+2. 明确安全字牌
+3. 低风险筋牌（结合场况）
+4. 否定法得到的相对安全牌
+5. 最后才碰高争议无筋牌
 
-比如像易向奇这样的，
-你会减少接受度并留下安全的瓷砖吗？
-我并不是说永远不会有人留下安全的瓷砖，但毫无疑问，他们是绝大多数。
+## 小结
 
-切割安全瓦后要站起来，使用两个固定的双面易象器，
+高水平防守不是“永不放铳”，
+而是用有限信息把放铳率压到最低。
 
-Shanpe Uke 可以理解为“无法离开它”。
-
-（ただし、場に<img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>が２枚切れているような状況では信頼度が大きく下がります。）
-
-假设附加一个 <img src="../hai/man5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 站立后立即通过。如果发生这种情况， <img src="../hai/man8.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 将成为廉价的瓷砖。
-
-通常 <img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が通っても シャン碰听牌牌や杠チャン听牌牌の可能性があるため
-
-油断できないのですが手出しで安全牌を切っての立直なら話は別です。
-
-很难想象剩下的选项会进一步缩小接受度。
-
-ましてや<img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> から先に <img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> を切る人がいたら「かなり変わった人」です。
-
-同様に<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> と <img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> の中筋 <img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> も杠チャン听牌牌がありえないため、
-
-通常よりも安全度大と考えてよいでしょう。
-
-这样，声明瓷砖是安全瓷砖这一事实是非常重要的信息。
-
-如果你使用得当，你应该能够提高你的 ori 的准确性。
-
-### 理论/总结
-
-用手切割安全瓷砖重新站起来，
-我读到前一个磁贴与磁贴无关。
-
-## 反向切割跨骑肌
-
-他只是一个正常正直的人。
-
-现在，您能找到除实际瓷砖之外的安全瓷砖吗？
-
-ポイントは杠チャン落としで、<img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が安全度の高い牌です。
-
-首先，考虑双方的风险程度。
-
-もし<img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> とあれば・・・ <img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> から切ってシャン碰受けを残すはずです。
-
-剪切顺序为 <img src="../hai/sou7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> → <img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" 的顺序将为 height="34"/>。
-
-所以一个简单的双面 <img src="../hai/sou3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> ￣ <img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 你可以认为这是不可能的。
-
-例題の場合<img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> が切ってあるので シャン碰・杠チャン・単騎も
-
-非常に考えにくい捨て牌です。
-
-如果这是唯一的一个
-<img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 来自 <img src="../hai/sou5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> → <img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 剪切。
-
-これで <img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> ￣ <img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> ￣ <img src="../hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 听牌牌になっているパターンです。
-
-**请记住“当你站起来抛球时，反向切球的线几乎不会击中三门巴里以外的地方。”**记住这一点。
-
-但是，剪断琴弦时需要小心。
-
-这是 <img src="../hai/sou3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 英镑也是很有可能的。因为 <img src="../hai/sou7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 被修剪，
-
-我们不能否认双方在第6轮比赛中陷入僵局的可能性。
-
-假设绘图<img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
-
-逆に上級者で手出し・ツモ切りをしっかり見ている方は、
-
-この読みを最大限に利用できると思います。
-
-### 理论/总结
-
-在 chuchan-otoshi 站立的情况下，进行反向切入的线路是高度安全的。
-
-## 3、对杉佩和牌牌雨婵的否认
-
-关于山佩和牌牌杠长的安全等级解读
-
-我想添加更多信息。
-
-否定扇形的理由是“我不会费力把双面丹师变成扇形”。
-
-这可以从非常基本的瓷砖开始。
-
-关于示例 4， <img src="../hai/pin5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 和牌牌 <img src="../hai/pin7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是
-
-**你可能会想，“有杠本听牌牌，但不可能有山佩奇。”**
-
-<img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img 你会剪切 <img src="../hai/pin4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 来自 src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>？
-
-<img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img 你会剪切 <img src="../hai/pin8.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 来自 src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>？
-
-任何对麻将有一点了解的人都会欣赏这个故事的两面。
-
-还是有杠chan的可能，所以 <img src="../hai/pin5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 也是 <img src="../hai/pin7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 也不是安全的图块。
-
-然而，在此之后，实际的 <img src="../hai/pin4.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" width="24" height="34"/> 或 <img src="../hai/pin8.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 被剪切，场上出现四个面。
-
-强强也可以否认。
-
-这样，通过结合丢弃牌读取和牌牌没有机会，
-
-您可能会找到一块肯定会通过的瓷砖。这是实战中非常有用的技巧。
-
-杠チャンの否定も同様で、「リャンメンをわざわざ杠チャン受けにしない」
-
-というロジックをもとにします。
-
-在这次复苏中
-
- 如果是真的的话，那很有可能就是七子了。
- 从 或
- 我不可能为此付费。
-
-
-
-实施例5
- 
- 
- 
- 
-↓
-
-↓
- 
- 
- 
- 
-
-
- 
- 
-
-
-
-
-
-
-
-
- 
-宝牌
-
-最後に宝牌を使った簡単な読みを紹介します。
-
-モロ引っ掛けは杠チャンで最も警戒するべき听牌牌ですが、
-
-在示例 5 的情况下，杠 <img src="../hai/sou6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 几乎是不可能的。
-
-<img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 大多数人都会选择八牌旗。
-
-与红宝瓦规则
-
-<img src="../hai/sou5red.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> なら？　これなら <img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> よりもまず <img src="../hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　を打つのではないでしょうか。
-
-断幺九の役种がついている場合も同様です。
-
-宝藏牌周围的牌是危险牌的顶部。
-
-然而，如果你一开始就抱着“不要刻意降低分数”的想法，
-
-有时你会发现意想不到的安全瓷砖。
-
-
-これらの読みは一例です。安全な牌を探す方法はまだまだあるでしょう。
-
-ここで紹介した以外のパターンは、読者の方が実戦の中で見つけて欲しいと思います。
-
+当你把“手顺信息 + 筋壁 + 宝牌例外”三者结合起来，
+读立直的稳定度会明显提高。

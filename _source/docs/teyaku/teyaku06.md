@@ -1,117 +1,123 @@
-# 索美特(1)
+# 染手（1）
 
-染手、特に混一色は大変重要な役です。
+染手，尤其是混一色，是非常重要的役种。
 
-メンゼンで３翻、鳴いても２翻あるのに簡単に作ることができます。
+门前做成有 3 番，副露后也还有 2 番，而且实际并不算特别难做。从打点回报来看，几乎没有多少役种像它这样划算。
 
-点数面でこれほど優遇されている役はありません。
+虽然它的缺点是比较容易被人看出来，但只要手牌具备材料，就应该积极考虑，甚至可以从配牌阶段就开始朝这个方向规划。它是少数值得从很早就着手准备的手役之一。
 
-警戒されやすいという欠点はありますが、積極的に狙うべきでしょう。
+这一页先只讨论一个问题：**单看手牌时，究竟该不该去做染手。**
 
-手材料があれば配牌から狙っても良い、数少ない役种です。
+当然，真正的判断还会受到以下因素影响：
 
-在本集中，我们将考虑您是否应该从手中的牌中瞄准一些牌。
+1. 场况
+2. 巡目
+3. 点棒状况
 
-作为手牌以外的判断因素
+不过这里先假设是东场前半、点数变动不大的平场局面，只按手牌本身来判断。
 
+## 例1：材料非常充足时，直接做清一色
 
-・場況
+**例1**  
+<img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-・巡目
+索子足足有 11 张，牌形也非常完整。
 
-・持ち点
+边张的 <img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 成对，<img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 到 <img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 又自然连成一片，这种手已经接近“请你去做清一色”的程度了。
 
+只要不是已经到了很晚的巡目，当然应该朝清一色前进。
 
+这里建议先从 <img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 开始切，优先处理将来更危险的数牌。
 
-有以下三个例子：
+通常如果还想保留万子的两面变化，会先切 <img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，期待以后摸 <img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>。  
+但这副牌的染手材料已经好到那个程度了，连万子的两面变化都没必要留。
 
-这次，我们假设情况处于鸟羽（所谓的平场）的早期阶段，点数没有太大的变动。
+## 例2：不是张数多就一定要染
 
-我只会根据手中的牌来决定。
+**例2**  
+<img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
+染手并不是“同色牌有 10 张以上就一定要做”。
 
+这一手虽然筒子也有 10 张，但正确做法仍然是老老实实切 <img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>。
 
-![](/hai/sou1.gif)
+因为这副牌本质上是平和立直手。  
+根据后续摸牌，还可能自然带上断幺、三色、一气通贯等役。
 
-![](/hai/sou1.gif)
+既然不染也已经是很好的手，就没有必要为了“看起来快染上了”而强行去染。
 
-![](/hai/sou3.gif)
+靠感觉随手往染手方向拐，是很危险的。  
+尤其是要破坏已经做好的面子，去做那种硬拗的染手，原则上都不推荐。
 
-![](/hai/sou3.gif)
+### 定式总结
 
-![](/hai/sou4.gif)
+不要把本来就不需要染的好手，硬拗成染手。  
+在平场局面里，**主动落掉一组完整面子去染手，基本是大忌**。
 
-![](/hai/sou4.gif)
+## 例3：极少数情况下，可以拆面子去换打点
 
-![](/hai/sou5.gif)
+**例3**  
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-![](/hai/sou7.gif)
+不过麻将里总会有例外。
 
-![](/hai/sou7.gif)
+像这一手，如果改做染手，打点会明显提升，而且牌形本身也并不差，这时就可以果断把筒子的顺子拆掉，转而去做染手。
 
-![](/hai/sou8.gif)
+但要注意，这只是少数例外。  
+在普通平场里，真正值得你拆掉一组现成面子去做染手的手牌，其实非常少。
 
-![](/hai/man1.gif)
+## 例4：双役牌对子时，尽量往满贯方向做
 
-![](/hai/man3.gif)
+**例4**  
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-![](/hai/man5.gif)
+如果手里有两组役牌对子，通常就应该尽量往某一种花色集中，目标放在满贯。
 
-![](/hai/sou6.gif)
+这一手虽然还带着宝牌 <img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 的搭子，但当然还是应该以索子的混一色为主线。
 
-![](/hai/pin9.gif)
+不过这里有一个常见误区。
 
-剑共有11把，造型完美。
+很多初学者会直接从宝牌 <img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 开始拆，这就做得太过了。
 
-结束图块 <img src="../hai/sou1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是图块 <img src="../hai/sou3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> ~ <img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+混一色本来就很容易暴露。  
+如果连坎张宝牌都从一开始就拆掉，其他三家几乎立刻就能看出你在做索子混一色，自然会加强警惕。
 
-他的手仿佛在说：“请做chin'itsu。”
+既然这手本来就是好手，更合理的处理是先切 <img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，让舍牌看起来不那么显眼，尽量提高和牌率。
 
-除非太晚了，否则我就去Chin'itsu。
+而且即使染手是主线，也不代表不会马上摸到 <img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，保留一点自然变化完全合理。
 
-将来の危険度を考え、<img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> から切りましょう。
+### 定式总结
 
+有两组役牌对子时，尽量考虑染手，把目标放在满贯级别。
 
-<img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>假设使用 自摸 进行双面替换<img src="../hai/man1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 正常的切割顺序是从
+## 例5：很远的混一色，要重视守备
 
-有了这个搭子，你甚至不需要 manz 的两侧。
+**例5**  
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-**示例2**
-<img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/sou6.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+这里假设 <img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 是客风。
 
-这并不意味着只要有 10 件或更多件衣服就可以染色。
+说实话，这是一手很差的牌。  
+如果是我，会姑且朝索子混一色去看，从 <img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 这类中张开始切。
 
-在示例2中，有10个引脚，
+因为就算按普通手进张去打，这手大概率也很难和牌。
 
-您应该简单地剪切 <img src="../hai/hatu.gif" style="display:inline; Vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>。
+这种距离很远的混一色，如果本来就很可能中途转守，那么故意从中张开始切，让别人提早察觉你可能在做染手、顺便巩固自己的防守，也是一种思路。
 
-这只手是平静的，旨在康复，
+从虚张声势的角度看，副露会更显眼；但从守备角度来说，这种手反而不应该轻易鸣牌。
 
-根据 自摸，您将收到 9 件、3 种颜色、1 个字母等。
+只要对手的手牌不是特别差，他们多半还是会继续正常推进。  
+在麻将里，虚张声势的实际效果并没有那么大。
 
-你不必强迫你的手染你的手，因为即使你不染，它们也足够好了。
+除非后面再重上 <img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 或 <img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，否则这手更适合采取“看得到和牌再说”的方针，不要硬冲。
 
-我把它染色是因为它看起来可能会弄脏。
+初学者往往连第一张 <img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 都想碰。  
+但要逐渐学会判断：有些手本来就不是为了积极和牌而存在的。
 
-带着这种感觉去打是很危险的。
+“这手不和也没关系。”  
+能有这种余裕，才是染手判断里很重要的一步。
 
-一般不允许破坏成品的强力染色。
+### 定式总结
 
-### セオリー・まとめ
-
-不要强行给不需要染色的手染色。
-基本上是禁止丢掉一个孩子的。
-
-**示例3**
-<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/sou7.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
-
-然而，总有例外。
-
-如果你像例3那样染色，你的分数会显着提高，
-
-如果它的搭子很容易提起，您可以冒险尝试并失去销钉的表面。
-
-然而，这是少数例外之一；
-
-很少有手瓷砖需要染色到可以用 Hiraba 完全去除的程度。
-
+很勉强的混一色目标，要以守备优先。  
+在真正看到和牌前，不要勉强副露硬做。

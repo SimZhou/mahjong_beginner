@@ -1,134 +1,48 @@
-# 和牌牌平（和牌牌平（和牌牌平））
+# 平和
 
-和牌牌平是最容易创造的角色之一。
+平和是最常见、最实用的门清役之一。
+它的本质是“效率手”：
+- 全顺子结构
+- 非役牌雀头
+- 两面听和牌
 
-如果你能有效地合拢双手，你的双手自然会变得平静。
+## 1. 核心思路：尽量做两面
 
-## １．両面への変化
+平和手的关键不在“凑役名”，而在“持续保留两面”。
 
+常见判断：
+- 同等条件下，优先能转两面的结构
+- 边张/嵌张若可替换，应尽早替换
 
-平和牌牌は全てシュンツで構成され、かつ最終的な听牌牌が両面でなくてはいけません。
+## 2. 两嵌变两面（两嵌形利用）
 
-両面をつくっていくことが、平和牌牌手作りのポイントです。
+某些两嵌相连的形状，
+一旦进张可迅速转成高质量两面。
 
-**示例1**
-<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+这类形往往比“看起来顺眼但僵硬”的牌型更有价值，
+因为它兼顾了速度与最终听口质量。
 
-例 1 也是对第 1 章的回顾。
+## 3. 对子落与平和路线
 
-**根据“Penchan优于Penchan”的理论**
-<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
-支付 <img src="../hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>。
+实战里经常出现：
+- 保留对子可稳一点
+- 但落对子后可进入平和高效率路线
 
-ピンズは <img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> を引けば両面になり、平和牌牌が確定します。
+何时该落对子：
+- 对子是役牌/价值低且阻碍两面时
+- 落对子后受入明显扩大时
 
-<img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> を引いてもリャン杠になり受け入れが広がります。
+## 4. 不要只看当下一巡
 
-ペンチャンにこのような変化はありません。
+平和手是“连贯效率手”，
+应至少看两步后：
+- 这巡切什么
+- 下巡摸进后是否仍能维持两面扩张
 
-**示例2**
-<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+## 小结
 
-示例2是杠昌之间的比较，但我们也可以比较一下梁门的变化。
+平和打法可以记成一句话：
+**优先两面，减少低效率搭子，保持门清连续进张。**
 
-即使你减去 <img src="../hai/man2.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" width="24" height="34"/> 对于 Man's Kochan， <img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 即使拉动也会变成梁门，
-
-仅当拉动 <img src="../hai/pin4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" 时才能使用图钉宽度=“24”高度=“34”/>。
-
-所以，我会放下别针的别针。
-
-因此，这一举动会导致销钉掉落。
-
-![](/hai/man3.gif)
-
-![](/hai/man5.gif)
-
-![](/hai/man9.gif)
-
-![](/hai/man9.gif)
-
-![](/hai/pin3.gif)
-
-![](/hai/pin6.gif)
-
-![](/hai/pin7.gif)
-
-![](/hai/pin8.gif)
-
-![](/hai/sou2.gif)
-
-![](/hai/sou3.gif)
-
-![](/hai/sou5.gif)
-
-![](/hai/sou6.gif)
-
-![](/hai/sou7.gif)
-
-![](/hai/pin4.gif)
-
-但是，当您减去 <img src="../hai/pin4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，所以一定要从 <img src="../hai/pin1.gif" style="display:inline;vertical-align:middle; margin:0 1px;" 开始剪切宽度=“24”高度=“34”/>。
-
-## ２．リャン杠
-
-
-こちらも第１章の復習になります。
-
-リャン杠とは杠チャンが２つつながった、
-<img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> のような形のことです。
-
-<img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 即使 <img src="../hai/man7.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 认为在梁门旁边状态不错，因为可以做Schunz。
-
-使用它将使创造和牌牌平变得更容易。
-
-**示例3**
-<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24"/>自摸<img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
-
-例如，在这种情况下，如果您用别针制作凉歌，则切割将是直击。
-
-<img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 即使裁切，接受张数也不会改变。
-
-<img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 切割更容易达成和牌牌平，因此在积分上是有利的。
-
-## 3.大俊俊子
-
-如果雀头是瓦，你就不会得到平安，所以要小心。
-
-**示例4**
-<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>自摸<img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
-
-即使是手图块，掉下<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle; margin:0 1px;"也是正常的width="24" height="34"/> 与图块。
-
-这是一种内心平静的打击方式。
-
-<img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 不是一个应该得到 1000 点的移动。
-
-这是一只通过使用薄荷针瞄准来获得高分的手牌。
-
-このように、对子落としで平和牌牌を狙うというのはよくあるので覚えておくこと。
-
-**示例5**
-<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>自摸<img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
-
-例5是一个著名的问题。
-
-<img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> と <img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> どちらを切っても同じではありません。
-
-<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 如果你剪切了男人的 <img src="../hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 和牌牌 <img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" height="34"/> 可以接收。
-
-我经常看到这种双面+chuchan搭子。
-
-我们不要忽视它。
-
-![](/hai/man6.gif)
-
-![](/hai/man8.gif)
-
-![](/hai/man8.gif)
-
-![](/hai/pin2.gif)
-
-![](/hai/pin3.gif)
-
-![](/hai/pin4.gif)
-
+做到这点，平和不仅是一个役，
+更是整套牌理效率的基本功。

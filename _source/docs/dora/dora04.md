@@ -1,108 +1,96 @@
-# 宝瓷砖切割时机
+# 切宝牌的时机
 
-我想一直困扰我的是何时切割宝牌。
+宝牌什么时候该切，基本每个人都会纠结。
 
-不能太早，也不能太晚。
+切得太早不对，拖得太晚也不对。
 
-## 角色牌是宝藏牌的情况
+## 当宝牌是役牌时
 
-听牌牌到最麻烦的就是宝藏牌，这是角色牌。
+最麻烦的宝牌，往往就是“役牌宝牌”。
 
-什么时候是最佳修剪时间？如果你问我
+如果问什么时候切最合适，我的答案通常是两个时点：
 
-回答**第一次射击**或**木偶时间**。
+- 第一打
+- 听牌时
 
-出于某种原因，第一枪更好。
+为什么第一打反而好？
 
-这是因为，刚开始时，第一枪是最难击中的。
+因为一张牌刚切出去时，最不容易被碰、也最不容易被荣和的时机，往往就是第一打。
 
-例如，如果最后一局游戏的牌是这样发的，
+比如到了南四局、自己是领先者，起手摸成这样：
 
-**例１**
-<img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　　ツモ<img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　　宝牌<img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
+**例1**
 
-您应该剪切 <img src="../hai/hakum.gif" style="display:inline; Vertical-align:middle; margin:0 1px;"第一次点击时 width="19" height="26"/>。
+<img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　　自摸<img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　　宝牌<img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
 
-是一手看似平和牌牌、有条理的好牌，只要上去了，就没有必要持有宝牌。
+这种时候，第一打就应该切<img src="../hai/hakum.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="19" height="26"/>。
 
-然而，只有极少数情况下，仅仅上升就足够了。
+因为这是一个“只要和了就行”的局面，而且手牌也很像平和型，没必要为了抱着宝牌而让牌效率变差。
 
-只需将它们堆叠在一起并制成头部即可大大提高您的分数。
+不过，只靠“和牌就够”的局面其实很少。
 
-在大多数情况下，它们是为 RBI 保存的。
+更多时候，宝牌一旦重成对子，打点会明显提高，所以大部分场合还是要暂时留着。
 
-**示例2**
-<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width=“24” height=“34”/>　自摸<img src=“/hai/haku.gif” style=“display:inline;vertical-align:middle;margin:0 1px;” width="24" height="34"/> 宝牌<img src="../hai/haku.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+**例2**
 
-こんなイー向听牌牌で宝牌を切り出すのは論外です。
+<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　自摸<img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　宝牌<img src="../hai/haku.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>
 
-宝牌を重なればアタマに使えてマンガンが狙える。
+像这种一向听，就绝对不能先把宝牌切出去。
 
-“长时间持有宝牌有危险……”不是理由。
+一旦宝牌重上，就能当雀头用，甚至可以冲满贯。
 
-这显然是错误的想法。
+“宝牌拿太久危险”这种说法并不能成为理由，而且方向上就是错的。因为一旦宝牌被别人碰走，实际上你会觉得场上的所有牌都更危险。
 
-如果宝藏牌被揭开，所有牌都会变成危险牌。
+这手牌真正该切宝牌的时点，是听牌的时候。让宝牌成为立直宣言牌，才是标准打法。
 
-在这手牌中，当你落地牌时，就到了切宝牌的时候了。宝物牌是恢复宣言牌是正确的。
+### 理论总结
 
-### 理论/总结
+先切不需要的牌，再考虑切宝牌。
 
-在宝牌之前切掉不必要的瓷砖。
+从一向听开始，什么情况下可以把宝牌切出去？一种是摸到<img src="../hai/pin9m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/>。
 
-当 <img src="../hai/pin9m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" 时从易象棋中剪出减去 width="19" height="26"/>。
+☆<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　自摸<img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-☆<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+如果变成等<img src="../hai/man3m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/man4m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/man6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou7m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou8m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou9m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>的宽型一向听，这时切宝牌就有价值。
 
-<img src="../hai/man3m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/man4m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/man6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou7m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou8m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou9m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 如果是齐一象棋，就值得砍宝牌了。
+另一个例子是摸到<img src="../hai/man4m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/man5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou7m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou8m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>之类，让牌形加入双碰受的情况。
 
-另外，src="../hai/sou7m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou8m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 您也可以考虑将其剪成包含烤盘的搭子。
+☆<img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　　自摸<img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
 
-☆<img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　　ツモ<img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
+如果这时宝牌比较容易打出去，或者你特别需要先把和牌率提上来，就可以在这里放手。典型条件有：
 
-宝牌が切り出しやすいときや、どうしてもアガリにかけたいときはここで宝牌を放します。 
+- 亲番
+- 序盘还没人副露
+- 场上已经见过宝牌
 
-具体的には
+满足这些条件时，一向听切宝牌可以考虑。
 
-- 家长号码
-- 早期阶段没有人设置它
-- 宝藏牌已经开始使用
+但前提始终不变：如果还有更明显的废牌，就不能先去切宝牌。
 
-情况就是这样。
+## 其他情况
 
-如果条件合适，可以用一象棋来切。
+我自己其实不算那种特别珍惜宝牌的打法。
 
- 不过，玩得不小心就不好了，比如即使有不需要的牌，也先切掉宝藏牌。
+如果为了抱着宝牌而明显缩窄受入，我通常不愿意。
 
-## 其他案例
+**例3**
 
-我自己并不是一个非常看重宝藏牌的玩家。
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　自摸<img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　宝牌<img src="../hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>
 
-我认为没有必要有一个限制接受度的宝藏牌。
+像这样的牌形，我会毫不犹豫地切宝牌。
 
-**示例3**
-<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/man2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+因为它的受入明显更宽，而且还保留平和、一气通贯、一杯口等手役可能。既然如此，就没有必要为了一个宝牌去压缩整手牌的伸展。
 
-如果是这样的话，我会毫不犹豫地砍宝瓦。
+**例4**
 
-尺寸不同，还有和牌牌平、一封信、e-peko等角色的可能性。
-
-我觉得没有必要留下宝牌。
-
-**示例4**
 <img src="../images/h002.gif"/>
 
-没有理由不能使用两张宝藏牌，但是
+这手并不是完全不能把两张宝牌都用上，但如果你现在优先考虑和牌率，那么切宝牌的受入最广。
 
-如果你想优先玩agari，宝牌切割是最宽的。 （参见瓷砖效果章节）
+具体来说，摸到<img src="../hai/pin4m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>等牌，就会转成平和的一向听。
 
-<img src="../hai/pin4m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 的替代者将成为和牌牌平易象奇，
+再看四家的持点，这一局也并不需要硬做高打点，所以这里应该老老实实切宝牌。
 
-看四位玩家持有的积分，根本不需要那么高的招式，所以这应该是宝牌切。
+总的来说，只要还是一向听，比起死抱宝牌，优先手牌宽度通常更接近正确答案。
 
-如果是易象棋，优先考虑广度比宝藏牌要好。
-
-我认为这在大多数情况下都是正确的。
-
-然而，如果宝物牌被切割的话，转移可能性较高的情况则不在此限。
-
+当然，若眼下切宝牌极可能放铳，那就是另一回事了。

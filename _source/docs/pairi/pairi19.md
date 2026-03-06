@@ -1,125 +1,94 @@
-# 打印时的平铺规则
+# 听牌时的牌理
 
-很多时候，要获胜就别无选择，
+听牌时多数情况并没有选择空间。
+但只要可以选择待牌，基本原则就是选“最容易和牌”的等待。
 
-如果您可以选择，基本规则是选择最容易使用的。
+## 1. 等待张数
 
-## 1. 件数
+等待张数越多，当然越容易和牌。
+所以第一原则永远是优先选择张数更多的待牌。
 
-听牌牌的次数越多，就越容易生气。
- 
-自然是选择张数最多的那一张。
+**例1**<img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 碰<img src="../hai/yhaku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-**示例 1**<img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/yhaku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+例1共有4种待牌选择。
 
-在示例 1 中，Pound 有四种选择。
+| 打牌 | 和牌牌 | 张数 |
+|---|---|---|
+| <img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>切 | <img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> | 3枚 |
+| <img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>切 | <img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> | 6枚 |
+| <img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>切 | <img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> | 4枚 |
+| <img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>切 | <img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> | 10枚 |
 
+全部比较之后就很清楚：这里应当是 <img src="../hai/sou5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 切。
 
+但很多人对多面张不熟时，很容易凭感觉去取双碰。
+其实这种三面张一点也不罕见，形记熟了之后，这类选择应该能很快完成。
 
+---
 
- 
-和牌牌了牌
-枚数
+**例2**<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
+需要强调的是：待牌种类再多，只要总张数少，也没有意义。
+例2就是“不该取三面张”的典型。
 
-切り
+| 打牌 | 和牌牌 | 张数 |
+|---|---|---|
+| <img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>切 | <img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> | 5枚 |
+| <img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>切 | <img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> | 6枚 |
 
-３枚
+虽然看起来是三面待，但实际张数比另一边还少，甚至不如延展单骑。
+而且已经成型的一杯口高概率会被拆掉，
+所以例2应当选择 <img src="../hai/man6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/man9m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 待立直。
 
+## 2. 比较手变
 
-切り
+当待牌张数没有差别时，就比较“向更好待牌变化”的机会。
 
-６枚
+**例3**<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 碰<img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ysou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
+这里常见选择是：取坎张，还是取双碰。
+两边初始待牌都只有4枚，不能靠直觉，要算好形变化。
 
-切り
+这是一手食断，所以即便变成两面，若是片和也不值得。
+<img src="../hai/man8m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 与 <img src="../hai/pin8m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 这类变化，并不能真正算有效。
 
-４枚
+如果取双碰，有效手变是 <img src="../hai/man4m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>；
+若取坎张，则真正有效的变化只有 <img src="../hai/man4m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>。
 
+所以这里应优先取双碰。
 
-切り
+---
 
-１０枚
+**例4**<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sha.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 吃<img src="../hai/yman1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
+这是一组看起来差不多的两坎选择，原则上应优先取坎 <img src="../hai/man6m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>。
 
+原因是两边的有效牌虽然分别是 <img src="../hai/man2m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 与 <img src="../hai/man8m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>，
+但 <img src="../hai/man8m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 还能从上家吃入，手变更容易实现。
 
+这已经是把“鸣牌可能性”也计入手变价值的更进阶思路。
 
-このように全て調べれば<img src="../hai/sou5m.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="19" height="26"/>切りの一手だということが分かります。
+---
 
-然而，如果您不习惯多方面的技术，很容易认为它们很简单。
+更简单一点，也可以结合场况判断。
 
-这并不是一种罕见的三边结构。
+如果两坎里有 `3-5-7` 这样的结构，而场上某侧相关牌已经切出很多，
+那么就要意识到，某些手变即使理论成立，实战价值也会显著下降。
 
-如果您记住了搭子，您将能够立即做出这么多选择。
+## 3. 单骑与坎边张的取舍
 
-**示例 2**<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+单骑与坎张/边张的选择也要特别小心。
+有些局面即使张数少，也应该取单骑。
 
-可以肯定的是，即使有很多类型的听牌牌，如果听牌牌的数量很少也是没有意义的。
+**例5**<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-示例 2 是一个不应被视为理所当然的示例。
+这里边张有4枚，单骑只有3枚。
+但不能因为“边张多1枚”就草率立直。
 
-获胜牌
-张数
+更好的思路是：先单骑默听，等待手变；
+若能变成两面以上，再立直。
 
+尤其当手里有中张暗刻或连续顺子时，手变枚数会非常多。
+例5里，<img src="../hai/pin1m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin2m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin4m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin7m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin8m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou1m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou4m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou7m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 都能把它变成好形立直。
 
-切
-
-5 件
-
-
-切
-
-6 件
-
-虽然叫三面纸，但实际数量很少，比新奇纸还少。
-
- 另外，做出来的E-Peco有很大概率会塌陷，
-
-示例 2 为 <img src="../hai/man6m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/><img src="../hai/man9m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/>你应该尝试重新站起来。
-
-## 2、变化对比
-
-如果数量没有差异，则将变化与更好的进行比较。
-
-**示例 3**<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>碰<img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="/.hai/ysou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
-
-
-杠チャンとシャン碰のどちらに取るか・・・
-
-よくある選択で、听牌牌の枚数が４枚同士ですが、勘に頼らず
-
-必ず好形変化の枚数を比べてみましょう。
-
-例３は食断の手なので、両面でも片アガリになる形は拒否するべきです。
-
-<img src="../hai/man8m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 或 <img src="../hai/pin8m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/> 不能说是一个有效的瓷砖。
-
-当您收到杉佩时，变更才算有效。
-
-仅当 Kuchan 收到时。
-所以，最好还是以山佩的身份接收吧。
-
-例4 吃自摸
-乍一看，梁的选择没有什么区别，但基本就是接受梁的选择。
-这是因为虽然每张卡牌都有自己的效果，但都可以从上议院调用。
-口吃
-→ 口吃 口吃
-这是一个有点先进的概念，考虑到易手性，甚至细化到“瓷砖”。
-
-更简单的决定是根据情况做出决定。
-梁启某某事例
-例如，如果你有3张牌出局，即使抽牌，效果也会很低。
-获取从哪里切入的信息也很重要。
-在单一骑士和牌牌penchans（或penchans）之间进行选择时必须小心。
-在这种情况下，即使有几个，也应该是单个ki。
-
-实施例5 津莫
-
-Penchanqi 有 4 张牌，Dankiqi 有 3 张牌。
-话虽如此，用彭昌平来康复是一种幼稚的想法。
-这是一个你想用单骑士的默听牌牌十来改变你的招式，然后用双面或更高的来恢复的招式。
-尤其是中张瓷砖或者相连的纯子瓷砖上如果有暗纹的话，所要更换的瓷砖数量会非常大。
-
-尤其是中张瓷砖或者相连的纯子瓷砖上如果有暗纹的话，所要更换的瓷砖数量会非常大。
-在示例 5 的情况下，您可以达到良好的站立位置。可见，暂停复苏是非常值得的。
-
+所以这里完全值得先保留立直，等待更好的变化。

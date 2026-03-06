@@ -1,116 +1,74 @@
-# 立丈还是黑？ (3)
+# 立直还是默听（3）
 
-和牌牌上次一样，小方柒牌毫不犹豫地站起来就好了，
+上一节讲了基本判断，这一节补充“边张/嵌张等愚形听牌”的处理。
 
-怎样判断庞好不好呢？
+## 无役听牌时
 
-## 无角色的听牌牌牌
+先看“是否无役且必须靠立直才能和牌”。
+这种情况下，立直通常是默认选项。
 
-まず役無し听牌牌牌の場合、立直をかけるかどうか考えてみます。
+但也有例外：
+- 手牌改良空间很大
+- 巡目还早
+- 立直后打点提升有限
 
-**示例1**
-<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/pin2.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+这时可以先默听观察一巡，等待改良。
 
-比如图1的情况，我觉得按照这种形式恢复是可以的。
+## 愚形听牌的基本立场
 
-相反，如果对方家人的行动没有什么特别的问题，你应该“康复”。
+即便是愚形，只要有宝牌或红宝牌支持，
+立直收益往往仍然可观。
 
-原因是唯一有效的更改是 <img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>。
+换言之：
+- 无役愚形 + 有宝牌：倾向立直
+- 无役愚形 + 无宝牌：更偏向默听
 
-<img src="../hai/man9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
+## 什么时候默听更好
 
-"<img src="../hai/man6.gif" style="display:inline;垂直对齐：中间； margin:0 1px;" width="24" height="34"/> 难道我们不应该期待吗？
+以下情况可优先考虑默听：
 
-另外，绘制 <img src="../hai/man5.gif" style="display:inline; Vertical-align:middle; margin:0 1px;" 的概率width="24" height="34"/> 而不是 <img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是一样的。
+1. 手牌可改良种类多（例如3种以上有效改良）
+2. 改良后可变成两面或明显提高打点
+3. 局况允许等待（巡目早、对手攻势不强）
 
-如果你拉<img src =“/hai/man5.gif”style =“display：inline;vertical-align：middle;margin：0 1px;”首先是 width="24" height="34"/>，然后是 <img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 就算拉了也是免费十个。
+这种“先默听后改良再立直”的路线，
+常比立刻立直一手低打点更优。
 
-<img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>如果你想在抽签后恢复，那么你应该在获胜后立即恢复。
+## “拆听再做”也是选项
 
-站起来还有一个好处，就是不让对手随意攻击。
+有些听牌看似已成型，但质量太差：
+- 打点低
+- 听口差
+- 后续发展被锁死
 
-如果你有 2 或 3 个宝藏牌，即使你玩 penchan 或 kuchan，你也可以站起来。
+这时不一定要在“立直/默听”二选一里硬选，
+也可以选择“先拆听”，把手牌做回更高质量的一向听。
 
-**例２**
-<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
+这是很重要的高级技能，尤其在平场局面。
 
-当然，努力成为一个好看的男人很重要，但是
+## 有役听牌时
 
-万一最后变成坏人也没办法。
+如果已经有役，默听可以直接荣和，
+就不必把立直当唯一出路。
 
-虽然两侧更容易结块，但结块的可能性并不是两倍。
+大体可按以下经验处理：
+- 默听已是 5200 或更高：优先默听
+- 默听只有 2600 左右：多半立直
 
-即使在 pen-chan 和牌牌 ki-chan 中，背部 hikkake（在这种情况下， <img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 是在站立后立即绘制的）
+当然最终仍要结合：
+- 巡目
+- 点数状况
+- 对手速度与副露信息
 
-一次机会，一次没有机会（示例 2：<img src="../hai/man4.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> （其中 3 个或更多可见的情况在场上）
+## 小结
 
-你也有可能摆脱困境。
+“立直还是默听”不是固定答案。
 
-即使它基本上是一个没有角色的Gugata Ippa，
+建议按这条顺序判断：
+1. 是否无役、是否必须立直
+2. 愚形质量与改良空间
+3. 立直带来的增益是否足够
+4. 当前局况是否值得冒险
 
-如果有一张或多张宝藏牌，理论上是立即站起来。
-
-这是因为重新站起来提高分数的好处是巨大的。
-
-### 理论/总结
-
-
-役なしでも宝牌・赤があれば
-愚形立直上等
-
-しかし、ヤミテンにした方が良いケースもあります。
-
-上の画面ではわずか２巡目にして宝牌２の听牌牌牌ですが、
-さすがに立直はせず手変わりを待つのが有利でしょう。
-「残り１６巡もあればあがれるだろう」というのはあまりに楽観的すぎます。
-杠 听牌牌ではあがりが苦しいだけでなく、この手はまだまだ手変わりがある。
-マンズは
-
-を引けばリャンメンに変わるし、
-宝牌碰してノベタンに受けることもできます。
- をツモっても「１３００・２６００」になりますからあまり損した気分にはなりませんし。
-このように手変わりが豊富な愚形听牌牌牌は、ヤミテンも一考です
-宝牌なしの場合は
-
-立直による得点上昇効率があまりよくない
-ヤミテンに構えて、相手から立直がかかればオリる、という選択肢が出てくる
-
-この点により、ややヤミテン寄りに判断が移行します。
- 変わりがほとんど望めない場合は即立直ですが、手変わりが３種類程度もあればヤミテン有利なことが多いでしょう。
-この辺の判断は微妙で、ひとくちに愚形といってもアガリやすさには差がありますからあまりセオリー化できないのが現実です。
-微妙な判断ほど場況や点数状況に左右されるので、セオリー化する意味も薄い。
-
-例３　　ツモ　　宝牌
-一つ覚えて欲しいのは、例３のような手ではヤミテン、立直以外に听牌牌牌トラズという選択肢があることです。
-平場であれば、この手は を切って听牌牌牌を崩すべき。
-ソーズだけでなく、宝牌周辺のマンズや形の良いピンズを伸ばすこともできるこの手を、立直のみ１３００にするのは愚策です。
-听牌牌牌トラズは使う場面が多く、大切なスキルです。
-役有り听牌牌牌
-役あり听牌牌牌の場合、默听牌牌テンでも出あがりができます。
-したがって、手変わり豊富な場合はヤミテンでいいでしょう。
-例４
- 　　ツモ
-例４は手変わりが しかありません。
-宝牌が でもない限り、即立直です。
-（宝牌が の場合、ヤミテンにするケースもありそうですが）
-
-例５
-
-例５は手変わりがソコソコあるので、默听牌牌に構えて
-
-あたりを引いてから立直しても良いでしょう。
-しかし手によっては手変わりすると役种が消える場合があります。
-
-
-このような場合
-默听牌牌で５２００以上あれば默听牌牌テン、２６００なら即立直と覚えておきましょう。
-听牌牌が悪くても、せっかくの手を２６００点で終わらせてはもったいない。
-たとえ杠チャン・ペンチャン听牌牌でも立直するべきです。
-５２００点ある場合でも立直して良いのですが、
-点数状況や場況と相談、ということになります。
-
-
-
-
-
-
+当你能稳定做出这套判断，
+立直章节的实战胜率会明显提升。

@@ -1,105 +1,90 @@
-# 方形瓷砖的优点和牌牌缺点
+# 鸣牌的优点与缺点
 
-好玩家和牌牌坏玩家之间的区别可以从“发块”中清楚地看出。
+鸣牌这件事，最能拉开玩家之间的水平差距。
 
-我经常看到玩家没有玩应该跟注的牌，而是跟注应该用 menzen 完成的牌的情况。
+实战里经常能看到两种错误：
 
-我们来研究一下瓷砖。首先要做的就是检查瓷砖的优缺点。
+- 该鸣的牌不鸣
+- 应该门前做成的牌却急着去鸣
 
-**◆优点1.快速瓷砖变得更快**
+所以想学好鸣牌，第一步不是背口诀，而是先把它的优缺点想清楚。
 
-通过鸣叫，蛹肯定会移动得更快，上升的速度也会更快。
+**◆优点1：能更快进入听牌，也更快和牌**
 
-通过快速起身，你可以消除其他玩家的机会，这一点非常重要。
+鸣牌会让手牌明显加速，和牌速度也会随之提高。
 
-**◆优点2.可以创造出用menzen难以完成的手牌**
+先和出来的价值很大，因为它不仅让你得分，也会直接压缩其他三家的进攻机会。
 
-在 Menzen 中制作混合颜色和牌牌唱诵是很困难的，但如果你能让它们唱歌，那就不是那么困难了。染色基本上是通过唱歌来完成的。 Menhon 无法像麻将漫画中那样“砰砰”。
+**◆优点2：能做出门前不容易完成的牌型**
 
-**◆优点3.可消除嗜好等要害**
+像混一色、全带幺这类手牌，门前硬做并不轻松；一旦允许鸣牌，难度就会下降很多。尤其染手，本来就大多是靠鸣牌完成的，不会像麻将漫画那样门清混一色满天飞。
 
-<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/man7.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+**◆优点3：能解决边张等要害搭子**
 
-例如，假设你有这手牌，并看到场上有两张 30,000 的牌。
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
- 并从上层家庭削减了3万日元。在这种情况下，你应该毫不犹豫地结巴。
+比如这手牌，假设场上已经能看到两张<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，这时上家再打出第三张<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，就该毫不犹豫地吃。
 
- 在这种情况下，如果你坚持Menzen，你成功的机会就非常渺茫了。
+这种局面如果还执着于门前，和牌可能性会低得多。要是连“场上已经见过两张三万”这个信息都没意识到，就很容易把关键的一张放过去，直接错过和牌机会。
 
- 如果您不知道有两个 30,000 颗棋子在玩，
+**◆优点4：能重组面子，改善听牌**
 
- 他将不得不送行桑曼并错过最后的舞台。
+<img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　<img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ysou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　宝牌<img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-**◆.优点4.可以制作新面孔或改变面孔**
+这手已经是满贯听牌，但听的是<img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>和宝牌北的双碰，待张质量很差。
 
-<img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ysou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/pei.gif" style="display:inline;vertical-align:middle; margin:0 1px;"宽度=“24”高度=“34”/>
+这时如果下家打出<img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，就要立刻吃掉。
 
-我玩的是Mangan，但我玩Sansaku和牌牌Treasure牌最差，Shanpei。
+<img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　<img src="../hai/ysou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　<img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ysou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="32" height="24"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-这种时候，当有两条绳子从屋里出来时，我立刻就结巴了。
+可以看出，听牌质量一下子好了很多。这种通过鸣牌改良待张的技术，必须掌握。
 
-<img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pei.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　<img src="../hai/ysou2.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="32" height="24"/><img src="../hai/sou1.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>　<img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/ysou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="32" height="24"/><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
+**◆其他优点**
 
-ずっと听牌牌が良くなっているのが分かると思う。こういうテクニックは絶対身につけるべきです。
+鸣牌还能消掉一发，也能跳过、打乱别家的自摸顺序。
 
-**◆其他好处**
+**◆缺点1：打点会下降**
 
-您可以删除一个镜头，或者跳过或移动其他人的 自摸。
+三色、混一色等手役一旦鸣牌，价值往往会缩水；一杯口、平和之类的役也会直接消失。
 
-**◆缺点1.较便宜**
+同时你也不能立直。换句话说，鸣牌等于主动放弃立直、一发、里宝牌这些加分机会，打点大幅下降几乎不可避免。
 
-三色和牌牌混色哭起来变得更容易，伊佩子和牌牌平娃消失了。
+这就是鸣牌最大的缺点。
 
-当然，你也无法重新站起来。响牌也是隐藏藏宝牌的放弃，不可否认的是，响牌会让分数大幅下降。
+<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-这是瓷砖最大的缺点。
+这是比较极端的例子，但这手牌显然没人会去鸣吧。
 
-<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;"宽度=“24”高度=“34”/>
+麻将不是靠反复便宜和牌就能赢的。门前做牌至少还有立直，哪怕是很便宜的手，只要立直，依然始终存在“立直一发自摸宝牌1”之类跳到满贯的可能。
 
-極端な例ですが、この手で鳴く奴はいないでしょう（笑）
+所以要学会压住“想赶紧鸣”的冲动，多给门前成型留空间。
 
+**◆缺点2：手牌意图更容易暴露**
 
-麻将雀士不可能仅仅靠屡屡占便宜而获胜。如果他与门森完成比赛，他就会康复。
-即使你是一个凿子，只要你努力恢复，总有成功的机会。 (自摸 宝藏图块 1)
+这一点初学阶段不用想太多，先知道有这回事就够了。
 
-让我们试着抑制住喊叫的冲动，把注意力集中在这个词的含义上。
+**◆缺点3：防守会变弱**
 
-**◆デメリット２．手を見破られやすくなる**
+如果你已经鸣了三副露，手里只剩四张牌，这时对手突然立直了怎么办？
 
-初学者不必考虑这个问题。是的。
+基本很难转身防守。门前手则往往还有迂回空间。
 
-**◆缺点3.防御变弱**
+麻将里，本来就“和不了的局”远多于“自己顺利和牌的局”。既然经常要转守，就应该把“对手立直后怎么办”一并考虑进去，而不是只想着自己这一手能不能冲。
 
-如果对手哭三张，手里有四张牌，而对手试图追回怎么办？
+**◆缺点4：手牌方向会被固定，手役可能性变少**
 
-我没有办法超越它。门森可以做到。
+<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-嗯，也许这对所有Tsupa人来说都没关系（笑）
+比如这手牌，就算有人打出中，我也不会碰。
 
-一般来说，不能上去的车站比能上去的车站多。
-他们被拒绝的情况还有很多。不过，我认为很自然地会想到如果你击球时对手恢复过来会发生什么。
+因为一旦碰中，这手通常只剩 1000 点的价值。更合理的做法是把中拆掉，朝门前断幺平和去做。
 
-**◆缺点4.手部固定，角色可能性有限**
+这手还保留着一杯口、三色以及活用宝牌的可能性。就算第二张中再出来，我也还是不会鸣。
 
-<img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>宝牌<img src="../hai/sou8.gif" style="display:inline; vertical-align:middle; margin:0 1px;" width="24" height="34"/>
+写到这里，其实可以把结论压缩成两句：
 
-比如说，如果里面用这只手出来，你能看到吗？　我不玩瓷砖。
+**鸣牌的优点：速度上升**
 
-如果你用这只手哭，你只会得到1000分。
+**鸣牌的缺点：打点下降，守备下降**
 
-在此步骤中，将两块放入其中，并将其制成薄荷别针。
-
-有可能是 E-Peko 或三种颜色，您也许可以使用宝牌。
-
-即使我拿到第二张牌，我也不会打。
-
-我已经写得很详细了，但是很简单
-
-**瓷砖的好处...加速↑**
-
-**鸣牌のデメリット　・・・・　得点力ダウン↓、防守力ダウン↓**
-
-理解这一点就好了。
-
-我们根据利弊来考虑要不要叽叽喳喳。
-
+先把这件事牢牢记住，再去判断一手牌该不该鸣。  
