@@ -89,3 +89,8 @@
 　
 大多数图案都是双面的三角形。
 
+---
+
+---
+
+原始日文页：<http://beginners.biz/pairi/pairi10.html>

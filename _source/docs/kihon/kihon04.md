@@ -37,3 +37,9 @@
 同等条件下：
 - 优先保留两面
 - 尽量减少边张、嵌张堆积
+
+---
+
+---
+
+原始日文页：<http://beginners.biz/kihon/kihon04.html>

@@ -92,3 +92,9 @@
 例5里，<img src="../hai/pin1m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin2m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin4m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin5m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin7m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/pin8m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou1m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou4m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/><img src="../hai/sou7m.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="19" height="26"/> 都能把它变成好形立直。
 
 所以这里完全值得先保留立直，等待更好的变化。
+
+---
+
+---
+
+原始日文页：<http://beginners.biz/pairi/pairi19.html>

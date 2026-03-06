@@ -83,4 +83,10 @@
 
 而且在这手里，<img src="../hai/pin9m.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="19" height="26"/>本身也是第 4 张，因此双碰待和单骑待也都不成立。
 
-再加上这里不可能是国士无双，所以这张牌是 100% 会通过的。  
+再加上这里不可能是国士无双，所以这张牌是 100% 会通过的。
+
+---
+
+---
+
+原始日文页：<http://beginners.biz/mamori/mamori05.html>

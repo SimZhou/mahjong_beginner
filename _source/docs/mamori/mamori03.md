@@ -83,3 +83,9 @@
 但东家已经打出过 <img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 和 <img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，无论是哪一种两面形，都会振听。
 
 因此，<img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 也可以视为一张相对安全的牌。
+
+---
+
+---
+
+原始日文页：<http://beginners.biz/mamori/mamori03.html>

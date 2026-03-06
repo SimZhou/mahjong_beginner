@@ -77,3 +77,9 @@
 
 但赤牌规则下，这里更应切 <img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>。
 原因是摸到 <img src="../hai/pin5red.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 后，可以与 <img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 替换，最大化赤牌价值。
+
+---
+
+---
+
+原始日文页：<http://beginners.biz/dora/dora06.html>

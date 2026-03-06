@@ -62,3 +62,8 @@
 
 <img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />或者<img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />如果你击中了它，你将少收到4张牌，因此你处于劣势。
 
+---
+
+---
+
+原始日文页：<http://beginners.biz/pairi/pairi06.html>

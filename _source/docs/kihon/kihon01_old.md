@@ -109,3 +109,8 @@
 
 从下一页开始，将是麻将综合课程。
 
+---
+
+---
+
+原始日文页：<http://beginners.biz/kihon/kihon01_old.html>

@@ -98,3 +98,9 @@
 
 1. 你的手已经非常好
 2. 你的手已经非常差
+
+---
+
+---
+
+原始日文页：<http://beginners.biz/teyaku/teyaku03.html>

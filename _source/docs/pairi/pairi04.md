@@ -83,3 +83,8 @@ Shabo + 杠铃收到零钱
 重复接受称为“双重接受”。
 一般来说，避免被击中两次的效率更高。
 
+---
+
+---
+
+原始日文页：<http://beginners.biz/pairi/pairi04.html>

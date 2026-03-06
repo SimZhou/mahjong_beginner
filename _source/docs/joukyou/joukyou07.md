@@ -103,3 +103,8 @@
 
 我认为在这里做出决定是个好主意。
 
+---
+
+---
+
+原始日文页：<http://beginners.biz/joukyou/joukyou07.html>

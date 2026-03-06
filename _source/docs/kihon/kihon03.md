@@ -51,3 +51,9 @@
 可使其听牌的牌（例如 <img src="../hai/man1.gif" /><img src="../hai/man4.gif" /><img src="../hai/pin6.gif" />）叫“受入牌”。
 
 受入越多，听牌速度通常越快。
+
+---
+
+---
+
+原始日文页：<http://beginners.biz/kihon/kihon03.html>

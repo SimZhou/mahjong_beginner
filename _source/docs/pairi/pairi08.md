@@ -138,3 +138,8 @@
 
 可以说，因为预期的拉力而优秀。
 
+---
+
+---
+
+原始日文页：<http://beginners.biz/pairi/pairi08.html>

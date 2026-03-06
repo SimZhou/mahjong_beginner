@@ -59,4 +59,10 @@
 
 从整体收益来看，与其继续执着于这手带宝牌的牌去完成断幺九，不如优先照顾下家的仕挂路线。
 
-所以这里切<img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>更好，因为这样下家应该没法动。  
+所以这里切<img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>更好，因为这样下家应该没法动。
+
+---
+
+---
+
+原始日文页：<http://beginners.biz/mamori/mamori12.html>

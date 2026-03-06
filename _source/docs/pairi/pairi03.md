@@ -138,3 +138,9 @@
 这并不足以证明 <img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /> 有什么特殊价值。
 
 所以，相隔 4 张的组合即使有时能形成两嵌张，也不代表它本身就是优势牌形。结论很简单：**不要为了“将来可能渡成两嵌张”而高估这种组合。**
+
+---
+
+---
+
+原始日文页：<http://beginners.biz/pairi/pairi03.html>

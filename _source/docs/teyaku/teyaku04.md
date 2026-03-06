@@ -46,3 +46,9 @@
 
 做到这点，平和不仅是一个役，
 更是整套牌理效率的基本功。
+
+---
+
+---
+
+原始日文页：<http://beginners.biz/teyaku/teyaku04.html>

@@ -27,3 +27,8 @@
 
 男人的就是<img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />即使你抽奖，你也会收到两次，所以你必须支付曼的费用。
 
+---
+
+---
+
+原始日文页：<http://beginners.biz/pairi/pairi11.html>

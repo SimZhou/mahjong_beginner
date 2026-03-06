@@ -73,3 +73,9 @@
 这手现在本身已经是三面待，但如果切<img src="../hai/man3.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>，改成等<img src="../hai/man5.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/>，在得点上更有优势。
 
 因为这里还兼有一气通贯的可能，这个手役也很容易被忽略，不要漏看。
+
+---
+
+---
+
+原始日文页：<http://beginners.biz/teyaku/teyaku07.html>

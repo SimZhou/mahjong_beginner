@@ -1,74 +1,121 @@
 # 立直还是默听（3）
 
-上一节讲了基本判断，这一节补充“边张/嵌张等愚形听牌”的处理。
+上一页讲的是好形听牌。这一页换成更容易让人犹豫的场景：**愚形听牌**。
 
-## 无役听牌时
+边张、嵌张、单骑、双碰里较差的那一类听牌，都会让人想：“这手真的值得立直吗？”
 
-先看“是否无役且必须靠立直才能和牌”。
-这种情况下，立直通常是默认选项。
+答案是：**很多时候，依然值得。**
 
-但也有例外：
-- 手牌改良空间很大
-- 巡目还早
-- 立直后打点提升有限
+## 1. 无役愚形，但有宝牌时，常常还是立直
 
-这时可以先默听观察一巡，等待改良。
+先看最常见的一类：无役听牌，必须靠立直才能和牌。
 
-## 愚形听牌的基本立场
+**例1**
+<img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-即便是愚形，只要有宝牌或红宝牌支持，
-立直收益往往仍然可观。
+例 1 这种牌，看上去等待很差，但实际上如果他家没有明显动作，仍然应该立直。
 
-换言之：
-- 无役愚形 + 有宝牌：倾向立直
-- 无役愚形 + 无宝牌：更偏向默听
+理由有几个：
 
-## 什么时候默听更好
+1. 真正有效的改良其实很少
+2. 你在等改良的时候，可能先摸到废牌，把时机拖掉
+3. 有宝牌加持时，立直带来的打点提升非常可观
 
-以下情况可优先考虑默听：
+很多人会说：“不如等 <img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，改成更好听牌再说。”
+但问题是，你也完全可能先摸到 <img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，甚至把自己拖进更尴尬的位置。
 
-1. 手牌可改良种类多（例如3种以上有效改良）
-2. 改良后可变成两面或明显提高打点
-3. 局况允许等待（巡目早、对手攻势不强）
+所以，如果只是为了等极少数改良，通常不如直接立直，把一发、里宝牌和压制效果一起拿到手。
 
-这种“先默听后改良再立直”的路线，
-常比立刻立直一手低打点更优。
+**例2**
+<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-## “拆听再做”也是选项
+就算是边张、嵌张，只要手里有 1 张以上宝牌，很多时候都还是立直更优。
+因为这时立直对打点的提升效率很高，而等待再差，也不至于差到“完全和不到”。
 
-有些听牌看似已成型，但质量太差：
-- 打点低
-- 听口差
-- 后续发展被锁死
+### 理论 / 总结
 
-这时不一定要在“立直/默听”二选一里硬选，
-也可以选择“先拆听”，把手牌做回更高质量的一向听。
+无役愚形听牌时，如果有宝牌、红宝牌支撑，默认仍然可以积极立直。
 
-这是很重要的高级技能，尤其在平场局面。
+## 2. 巡目很早、改良非常多时，默听可以成立
 
-## 有役听牌时
+当然，也不是说所有愚形都必须立直。
 
-如果已经有役，默听可以直接荣和，
-就不必把立直当唯一出路。
+有一种很典型的例外，就是：
 
-大体可按以下经验处理：
-- 默听已是 5200 或更高：优先默听
-- 默听只有 2600 左右：多半立直
+1. 巡目非常早
+2. 改良种类很多
+3. 当前愚形质量很差
 
-当然最终仍要结合：
-- 巡目
-- 点数状况
-- 对手速度与副露信息
+例如原文里的这个画面：
 
-## 小结
+<img src="../images/25.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="383" height="406"/>
 
-“立直还是默听”不是固定答案。
+像这种才两巡目、而且手里宝牌又重、改良路线还很多的愚形听牌，继续默听等变化，通常比马上立直更有利。
 
-建议按这条顺序判断：
-1. 是否无役、是否必须立直
-2. 愚形质量与改良空间
-3. 立直带来的增益是否足够
-4. 当前局况是否值得冒险
+原因不只是“还有时间”，而是这手本身确实还没走到最值得冲刺的状态。
+比如它可以：
 
-当你能稳定做出这套判断，
-立直章节的实战胜率会明显提升。
+1. 改成两面听牌
+2. 通过鸣宝牌改成更快的和牌路线
+3. 就算先摸到当前和牌张，也未必亏太多
+
+所以这里不是单纯的“早巡所以等一等”，而是“**当前形差，但改良丰富**”，这才让默听成立。
+
+## 3. 有时候，不是立直还是默听，而是先拆听
+
+**例3**
+<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 宝牌<img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
+
+这类牌形最值得记住的点，是它不一定只存在“立直 / 默听”两个选项。
+有时候，第三种选择反而最好：
+
+**先拆掉当前听牌，把手牌做回更高质量的一向听。**
+
+如果一手牌看起来已经听牌，但：
+
+1. 打点很低
+2. 听口很差
+3. 改良空间又非常大
+
+那把当前听牌拆掉，反而可能是最合理的决定。
+这个技能很重要，尤其在平场局面。
+
+## 4. 有役愚形时，看默听打点高不高
+
+当一手牌已经有役，默听也能荣和时，判断标准会再变一点。
+
+**例4**
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 自摸<img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
+
+如果像例 4 这样，手变空间其实非常少，那么就算已经有役，通常也还是直接立直。
+
+**例5**
+<img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/tyun.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
+
+像例 5 这种有役、而且手变还不少的牌，则可以先默听，等摸进 <img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>、<img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>、<img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>、<img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> 这类改良后，再考虑立直。
+
+不过这里还有一个重要判断：
+
+**如果手变之后，反而会把当前手役做没，那就不能只看“有没有改良”。**
+
+所以经验上可以先记成：
+
+1. **默听只有 2600 左右**：愚形也常常还是立直
+2. **默听已经有 5200 或更高**：更值得先默听观察
+
+### 理论 / 总结
+
+1. **无役愚形 + 有宝牌**：很多时候仍该立直
+2. **愚形但改良极多、巡目极早**：默听可以成立
+3. **有时最优不是立直也不是默听，而是拆听重做**
+4. **有役愚形时，2600 更偏立直，5200 更偏默听**
+
+所以，愚形判断的核心，不是“愚形就不立直”，而是：
+
+**看当前打点、看改良数量、看是否值得把现在这手牌继续保留。**
+
+---
+
+---
+
+原始日文页：<http://beginners.biz/reach/reach04.html>

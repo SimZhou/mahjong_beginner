@@ -110,4 +110,8 @@
 
 而不是比较容易制作的雀头，
 
+---
 
+---
+
+原始日文页：<http://beginners.biz/kihon/kihon06.html>

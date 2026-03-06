@@ -51,3 +51,8 @@ Toko 现在将充当面部候选者。
 （shabo接收效果很棒）
 随着孩子多了，工作就变弱了，面子也变得很难了。
 
+---
+
+---
+
+原始日文页：<http://beginners.biz/kihon/kihon07.html>

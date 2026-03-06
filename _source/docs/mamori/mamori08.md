@@ -30,3 +30,9 @@
 原因是 <img src="../hai/pin6.gif" style="display:inline;vertical-align:middle; margin:0 1px;" width="24" height="34"/> 被提前切断，所以比较安全。
 
 这是因为，如果你通过了一个，你就可以通过另一个。
+
+---
+
+---
+
+原始日文页：<http://beginners.biz/mamori/mamori08.html>

@@ -95,3 +95,9 @@
 
 只要底层原则抓住了，
 即便偶尔押过头或守过头，长期成绩也不会差到哪里去。
+
+---
+
+---
+
+原始日文页：<http://beginners.biz/osihiki/osihiki01.html>

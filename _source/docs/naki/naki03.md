@@ -97,3 +97,8 @@
 患有口吃的人数是 Menzen 人数的两倍。
 可以看到的接受程度是 Menzen 限量的四倍。
 
+---
+
+---
+
+原始日文页：<http://beginners.biz/naki/naki03.html>

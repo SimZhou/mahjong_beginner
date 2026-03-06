@@ -57,3 +57,8 @@
 
 即使你折断了笔，你也会得到足够的零钱。
 
+---
+
+---
+
+原始日文页：<http://beginners.biz/naki/naki14.html>

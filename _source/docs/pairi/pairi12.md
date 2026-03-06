@@ -79,3 +79,8 @@
 自摸
 这没有问题，因为它是双面探戈，目的是和牌。
 
+---
+
+---
+
+原始日文页：<http://beginners.biz/pairi/pairi12.html>

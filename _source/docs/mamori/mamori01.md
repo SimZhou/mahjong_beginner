@@ -59,3 +59,8 @@
 
 旨在通过提高防御力加入胜利者的行列。
 
+---
+
+---
+
+原始日文页：<http://beginners.biz/mamori/mamori01.html>
