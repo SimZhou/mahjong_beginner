@@ -32,3 +32,8 @@ nav:
     - 复合形（2）: kihon/kihon10.md
     - 麻将的听牌（1）: kihon/kihon11.md
     - 麻将的听牌（2）: kihon/kihon12.md
+  - 牌理与牌效率:
+    - 栏目导读: pairi/index.md
+    - 按牌理打牌: pairi/pairi01.md
+    - 有效牌与枚数: pairi/pairi02.md
+    - 浮牌理论: pairi/pairi03.md

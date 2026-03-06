@@ -14,8 +14,11 @@
 第一批已经重新落地的内容：
 
 1. [麻将基础栏目导读](./kihon/index.md)
-2. [麻将是什么](./kihon/kihon01.md)
-3. [麻将与概率](./kihon/kihon02.md)
+2. [麻将基础全章 12 页](./kihon/index.md)
+3. [牌理与牌效率栏目导读](./pairi/index.md)
+4. [按牌理打牌](./pairi/pairi01.md)
+5. [有效牌与枚数](./pairi/pairi02.md)
+6. [浮牌理论](./pairi/pairi03.md)
 
 后续页面会按栏目逐步补齐。
 
