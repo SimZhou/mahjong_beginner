@@ -1,58 +1,80 @@
-# 阿生之月 (2)
+# 麻将的听牌（2）
 
-如果您了解不规则Tamenbari，您不仅可以在赢得混合Isshiki或Chinichitsu时使用它，还可以使用它
-攻击将会更加多样化，这在很多方面都是有益的。
+如果你理解了这些不规则的多面听，不只是门前手能用，做混一色、清一色时也经常能派上用场。
 
-## 不规则两人帽
+掌握之后，你在听牌选择和手牌判断上都会灵活很多。
 
-对于不规则的两人波来说，唯一重要的是这个搭子。
-还有其他的事情，但是很少发生，所以没有必要记住它们。
+## 不规则两面听
 
-## 不规则三门坡
+所谓不规则两面听，真正值得优先记住的并不多。
+对初学者来说，先掌握最常见、最实用的那几种就够了。其他更少见的形状，实战碰到了再慢慢积累即可。
 
-这大概就是你在实战中经常看到的不规则三人上限的数量了。
+## 不规则三面听
 
-前两个都很好，很难说。
-确认 E-Peko 通常更有利。
+实战里最常见、最值得记的，其实就是不规则三面听。
 
-这是我在某个公告牌上发现的问题，不过这大概是个无暇宝藏的瓦片切割。
+其中前两种形状都很好用，也很难简单说谁一定更强。
+一般来说，如果还能顺便保留一杯口的可能，那往往会更有利。
 
-（示例1）<img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />自摸<img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />宝牌<img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
+下面这题是我以前在公告板上看到的，不过它正好很能说明“不规则多面听”的价值。
 
-剑是<img src="../hai/sou9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />无论你抽到什么，你都会赢。
+**例1**
+<img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /> 自摸<img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /> 宝牌<img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
 
-而且，<img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />除了拉力之外，Pang也不错，<img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />蚊子<img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />如果是津摩的话，那可是唐平良佩宝堆宝堆的大招。
+索子部分如果按普通思路看，很容易忽视这里其实可以形成非常强的不规则多面听。
 
-除了这个，一定没有别的了<img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />切 （<img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />（相同的切割）更常见。这是一个令人难以置信的结果...
+而且这手除了单纯的受入之外，还要考虑：
 
-以下是一些在实际战斗中了解不规则乌克是有利的情况。
+1. <img src="../hai/sou2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /> 本身能让牌形变得很宽
+2. <img src="../hai/sou6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />、<img src="../hai/sou7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /> 一带还牵涉到更高打点的变化
+3. 这类形一旦看懂，切牌就会和“只按最普通搭子理解”完全不同
 
-（示例2）<img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />自摸<img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />口吃<img src="../hai/ypin8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:32px; height:24px;" /><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
+所以像这种题，不能只按最表面的顺子、对子去拆，而要去意识到：
 
-已经<img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />￣<img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />当您签署一封意向书时，
-里面一片漆黑。
+**不规则多面听本身就是一种应该单独识别的好形。**
 
-还有一种方法是瞄准津森三干国并在Shabbos上接收它，
-这是<img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />切<img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />正确的答案是做到这一点。
+下面再看几个更贴近实战的例子。
 
-容易地<img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />如果你把它砍掉，你就不会得到更多。
+**例2**
+<img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /> 自摸<img src="../hai/tyun.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /> 吃<img src="../hai/ypin8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:32px; height:24px;" /><img src="../hai/pin7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/pin9.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />
 
-（示例3）<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />自摸<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />口吃<img src="../hai/yman8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:32px; height:24px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />碰<img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/yhaku.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:32px; height:24px;" />
+如果只是按普通搭子去看，很容易把这手理解成一副已经差不多固定的牌。
+但实际上，这里如果能意识到不规则多面听的存在，判断就会完全不同。
 
-好像一不小心就把绳子剪断了，不过就算是一样的三边
-<img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />切<img src="../hai/man2.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" />英镑比较好。
-这是因为气质量表上的分数将为 5200 分。
+这里正确的处理并不是随便拆掉某一组看起来重复的牌，而是要优先保留那块能够形成更宽听牌的复合形。
 
-## 超过四个边
+换句话说，
 
-我给你举个例子。
-还有更多，所以自己搜索一下可能会很有趣。
+**一旦你能识别“不规则多面听”，就不会轻易把本来很宽的听牌材料自己拆窄。**
 
-无论它变得多么复杂，多方面设计的基础都是
-“你觉得这三块牌是暗刻，还是麻雀加一？”是。
-几乎所有的多边形都可以用这个想法来处理。
+**例3**
+<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man3.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man4.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man5.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /> 自摸<img src="../hai/man1.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /> 吃<img src="../hai/yman8.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:32px; height:24px;" /><img src="../hai/man7.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/man6.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /> 碰<img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/haku.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:24px; height:34px;" /><img src="../hai/yhaku.gif" style="display:inline; vertical-align:middle; margin:0 1px; width:32px; height:24px;" />
 
----
+这手也很典型。乍看之下，好像只是普通的三面搭子竞争，但如果你对不规则多面听足够敏感，就会知道：
+
+同样是三面听，哪一种结构更宽、哪一种结构打点更好，并不是靠直觉瞎选，而是能判断出来的。
+
+像这种手，一旦错误地把关键连接拆断，就很容易把本来不错的听牌结构做坏。
+
+## 超过四面的听牌
+
+再往上，实战里确实也会出现 5 面、6 面，甚至更复杂的多面听。
+
+这些形状不可能靠死记全部背下来。
+真正重要的是理解它们背后的共同思路：
+
+**面对一组复合牌形时，要先判断这 3 张牌更像是“暗刻 + 1 张浮牌”，还是“雀头 + 一组顺子材料”。**
+
+只要这个大方向判断对了，大多数多面听其实都能顺着分析出来。
+
+### 理论 / 总结
+
+1. 不规则多面听最常见、最值得记的是不规则三面听
+2. 做混一色、清一色时，这类形尤其容易出现
+3. 判断多面听时，不要只按最普通的搭子去硬拆
+4. 多面听分析的核心，是先看一组牌到底更接近“暗刻 + 浮牌”还是“雀头 + 顺子材料”
+
+把这个思路练熟之后，你在看听牌、取舍搭子和判断复合形时，都会明显更稳。
 
 ---
 
