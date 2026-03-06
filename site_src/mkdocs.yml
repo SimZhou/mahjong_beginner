@@ -1,0 +1,29 @@
+site_name: 麻将入门教程
+site_url: https://simzhou.com/mahjong_beginner/
+use_directory_urls: false
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.indexes
+    - navigation.top
+
+markdown_extensions:
+  - tables
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - 首页: index.md
+  - 麻将基础:
+    - 栏目导读: kihon/index.md
+    - 麻将是什么: kihon/kihon01.md
+    - 麻将与概率: kihon/kihon02.md
+    - 听牌与向听: kihon/kihon03.md
+    - 面子与搭子: kihon/kihon04.md
+    - 数牌与字牌: kihon/kihon05.md
+    - 对子（1）: kihon/kihon06.md
+    - 对子（2）: kihon/kihon07.md
