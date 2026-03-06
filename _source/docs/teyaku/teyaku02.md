@@ -1,105 +1,106 @@
-# 如何思考角色类型（2）
+# 如何理解手役（2）
 
-## 1.角色就是你能做什么
+## 1. 手役是“顺着牌做出来的东西”
 
-基本上，角色类型不是你的目标，而是你可以做的事情。
+原则上，手役不是一开始就要死盯着去做的东西，而是随着摸牌自然形成的东西。
 
-在头脑中决定最终搭子并剪掉该搭子不需要的所有牌的游戏方法称为“挂内”，但我认为最好永远不要这样做“挂内”。
+脑子里先决定最终形，再把和这个目标无关的牌全部切掉，这种打法叫“决め打ち”。但我认为，这种打法最好尽量不要用。
 
-麻将无法选择自己要拾取的牌。
+麻将里，你没法自己挑选下一张摸进来的牌。
 
-自摸 牌的存在完全与玩家的意志无关。
+摸牌完全不受打牌者意志控制，所以麻将的基本原则永远是：**根据摸牌来塑造手牌**。
 
-因此，麻将 的黄金法则是根据 自摸 来制作手。
+也就是说，决め打ち是要尽量避免的。
 
-严格禁止作出决定性决定。
+**例1**
 
-示例 1 自摸 宝藏牌
-假设您在最后一卷中收到了一张废手牌，其中有 9 张 8 种类型的牌，就像这样。
-在这里，从宝藏牌上切下来并决定扮演国士的人是一个失败者。
-从第一轮就抛弃堆积了宝藏牌的七子的可能性意味着什么？
-即使看国师，如果没有红色，也应该把Chanta或Shichiko的眼睛留给Kiri或。
-如果是一般的红麻，直接剪就可以了。如果轮到我老板的话，我一定会砍的。
+<img src="../hai/man1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/nan.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/haku.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/hatu.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　自摸<img src="../hai/sou7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　宝牌<img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-即使采用这种牌排列方式，有时您也可以通过堆叠获胜的牌来向上移动。 
-这一切都取决于祖莫。
+假设你在末位，起手拿到这种八种九牌级别的烂牌。
 
-“修复它”几乎没有什么好处。
-不要放弃各种可能性。
-击球的最佳方式是用手。
-2、角色类型有哪些优势？
-人们常常认为一个角色的价值在于打点能力的提高，但是
- 目前的麻将中，从收益上来说，宝牌、红卡、礼品卡是比较强的。
-与其这样，不如认为有不同种类的鸟类在歌唱中发挥作用。
-示例2
+如果这时有人从第一巡就把宝牌<img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>切掉，决定死做国士无双，那基本就是把自己往输里送。
 
-乍一看，它看起来像一个带有红色3的幸运气气牌。
-然而，我正在尽全力击球。
+因为这等于从第一巡开始，就主动放弃了“宝牌重成七对子”的可能。
 
- 直到我丢下孩子
-你可以看到他留下了屋久瓦（屋久瓦在北方，因为他来自喜多家族，而御宅族瓦在东方，因为他来自南方）。
-由于筹码规则，我真的很想拿到两张红牌的牌。
-但无论门森如何努力，他仍远未康复。
+就算你想保留国士路线，在没有赤牌的规则里，也应该切<img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>或者<img src="../hai/sou6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，把全带幺九和七对子的路线一起留下。
 
-所以，我添加了 danken ku 或 yaku 牌的 yaku 牌，
-我把它变成了一种让它尖叫的形式。
-在《秋日魔手》中，能够唱歌是极其重要的。
-公式认为，有不同的角色=会唱歌=快。
+如果是赤牌规则，那切<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>会更自然。要是自己还是亲家，我更会毫不犹豫地切<img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>。
 
-现代的思维方式是利用角色类型来加速。
-段曲在《Akaiiri Asho》中如此重要的原因是因为它可以自由发挥。
-3、角色类型的缺点
+像这种起手，就算看上去很烂，后面也还是可能靠着重到役牌而和牌。
 
-虽然根据角色的不同会有差异，
-毕竟最大的弊端就是“减少了接受门票的数量”。
-示例3
-自摸
-例如，对于示例3所示的搭子，您自然可以通过切割来瞄准234种三种颜色。
-示例4 自摸
-然而，在示例 4 中，如果您的目标是三种颜色，则接受的卡片数量将会减少。
+一切都取决于之后的摸牌。
 
+“决め打ち”几乎不会真正带来什么好处。主动扔掉各种可能性的打法，尽量不要采用。顺着手牌自然去打，通常才是最合理的。
 
+## 2. 手役的真正价值
 
-掉落牌
-愉快的机会
-评论
+很多人会觉得手役的价值主要在于提高打点。
 
+但在现在的麻将里，从纯收入角度看，宝牌、赤牌、祝仪往往更值钱。
 
+与其这样理解，不如把它看成：
 
+**手役首先是为了让你能鸣牌而存在的。**
 
-16 件
-包含三种颜色
+**例2**
 
+<img src="../images/01.jpg"/>
 
+乍看之下，这像是一手“红宝牌太多，所以自然和出来了”的幸运牌谱。
 
+但实际上，这是非常明确地朝手役方向去打出来的。
 
-12 件
-三色已确认
+你可以注意到，为了保留役牌，连<img src="../hai/ton.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>和<img src="../hai/sou1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>的对子都拆掉了。这里北家所以北是役牌，南场里东是客风牌。
 
+在有筹码、赤牌又有两张的规则里，这手无论如何都想和出来。
 
+但如果坚持门前做牌，离立直实在太远。
 
+所以这里加上断幺九或者役牌这个手役，把手变成“可以鸣着和牌”的形状。
 
-19 件
- 
+在赤牌麻将里，“可以鸣”这件事是极其重要的。
 
+因为：
 
+**有手役 = 可以鸣 = 速度更快**
 
+这才是现代麻将里对手役更实际的理解。断幺九在赤牌麻将里如此重要，也是因为它能让你很自由地鸣牌。
 
-23 件
-最大获胜机会
+## 3. 手役的缺点
 
+不同手役的缺点不完全一样，但最大的共同点通常都是：
 
+**会减少受入张数。**
 
+**例3**
 
-如果您的目标是三种颜色，则 Agari 点会变大。
-在这手牌中，最好的选择是切牌的几率最高。
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　自摸<img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
 
-如果您必须牺牲角色类型（攻击点）或速度，
-我认为在大多数情况下，优先考虑速度会得到更好的结果。
+像例3这种牌形，切<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>，就能很自然地保留 234 三色的可能。
 
-手型的另一个缺点是它限制了可以使用的牌的类型。
-例如，如果你的宝藏牌是一枚别针，而你玩的是一把混色剑，你将无法使用你的宝藏牌。
-如果你瞄准吟唱者，那么当红色宝藏牌到来时，你就会遇到麻烦。
-另外，您是否曾经遇到过这样的情况：您必须从拥有七点牌的情况中恢复过来，并且因为您又抓到了另一张七点牌而陷入了麻烦？
-请记住，您的角色类型可能会成为速度和牌防御方面的障碍。
+**例4**
 
+<img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man8.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/sou4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>　　自摸<img src="../hai/sou2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>
+
+但例4如果还硬去做三色，受入就会明显变窄。
+
+| 打牌 | 听牌机会 | 张数 | 备注 |
+| --- | --- | --- | --- |
+| <img src="../hai/pin6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> | <img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> | 16 枚 | 保留三色可能 |
+| <img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> | <img src="../hai/man3.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> | 12 枚 | 三色确定 |
+| <img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> | <img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> | 19 枚 |  |
+| <img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> | <img src="../hai/man2.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man6.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/man9.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin1.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin5.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/><img src="../hai/pin7.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/> | 23 枚 | 听牌机会最大 |
+
+虽然保留三色的路线，最后和出来的点数会更高一些，但在这手里，听牌机会最多的还是切<img src="../hai/man4.gif" style="display:inline;vertical-align:middle;margin:0 1px;" width="24" height="34"/>。
+
+也就是说，当你必须在“手役带来的打点”与“速度”之间做牺牲时，大多数情况下优先速度，结果会更好。
+
+手役的另一个缺点，是它会限制你可用牌的种类。
+
+比如宝牌是饼子时，你去做索子的混一色，那宝牌就基本用不上。
+
+再比如你想做全带幺九，结果摸进赤牌，反而会觉得别扭。
+
+又或者你七对子听牌时被人立直，结果自己又摸来 1 张已经成对的牌，顿时卡住。很多人都有过这种经历。
+
+要记住：手役有时也会在速度和防守上，反过来拖你的后腿。  
