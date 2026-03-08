@@ -32,6 +32,9 @@
 17. [立直栏目导读](./reach/index.md)
 18. [立直的优缺点](./reach/reach01.md)
 19. [立直还是默听（1）](./reach/reach02.md)
+20. [防守栏目导读](./mamori/index.md)
+21. [防守基础](./mamori/mamori01.md)
+22. [安全牌](./mamori/mamori02.md)
 
 后续页面会按栏目逐步补齐。
 
