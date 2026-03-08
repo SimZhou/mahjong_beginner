@@ -29,6 +29,9 @@
 14. [鸣牌栏目导读](./naki/index.md)
 15. [鸣牌的优缺点](./naki/naki01.md)
 16. [副露判断基础](./naki/naki02.md)
+17. [立直栏目导读](./reach/index.md)
+18. [立直的优缺点](./reach/reach01.md)
+19. [立直还是默听（1）](./reach/reach02.md)
 
 后续页面会按栏目逐步补齐。
 
