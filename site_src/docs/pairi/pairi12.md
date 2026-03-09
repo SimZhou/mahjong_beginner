@@ -1,90 +1,148 @@
 # 两向听牌理（3）
 
-这一页补完两向听阶段剩下几类容易卡人的牌姿：
+这一页处理前两页没有覆盖到的两向听：
 
 1. 四搭子加浮牌
 2. 无头形
 3. 七对子兼容形
 
-这几类的共同点是：不能只套上一页的“拆最弱搭子”公式，而要先判断整手牌到底缺什么。
+---
 
-## 四搭子加浮牌：关键是浮牌值不值得留
+## 1. 四搭子 + 浮牌
 
-这种形的核心问题不是“哪组搭子最弱”，而是：
+这一类手牌，真正的焦点是：
 
-**应该把浮牌当未来资源留下，还是直接把它清掉。**
+**到底要不要把浮牌留下来。**
 
-### 例 1：浮牌很厚，应该保留
+### 例 1
 
-如果浮牌本身是：
+<img src="../hai/man2.gif"><img src="../hai/man4.gif"><img src="../hai/pin1.gif"><img src="../hai/pin3.gif"><img src="../hai/pin3.gif"><img src="../hai/pin4.gif"><img src="../hai/pin7.gif"><img src="../hai/pin9.gif"><img src="../hai/sou2.gif"><img src="../hai/sou2.gif"><img src="../hai/sou6.gif"><img src="../hai/sou7.gif"><img src="../hai/sou8.gif">　自摸<img src="../hai/sou7.gif">
 
-1. 连续形
-2. 中张
-3. 还能带手役
+⇒ <img src="../hai/pin1.gif">切
 
-而现有某组搭子又明显偏弱，那么答案通常是留浮牌、拆坏搭子。
+像例 1 这样，手里明摆着有 <img src="../hai/pin1.gif"><img src="../hai/pin3.gif"> 这种明显偏弱的搭子，同时浮牌又是比较厚的连续形，那就应该毫不犹豫把 <img src="../hai/sou7.gif"> 保留下来。
 
-原页第一个例子就是这个逻辑：看似多出来的是新摸进来的牌，实际上真正该走的是弱嵌张。
+而且从打点上看，断幺九、平和、一杯口这些役也都有现实可能。
 
-### 例 2：如果浮牌只是普通中张，未必强过现有块
+---
 
-但如果浮牌只是“还行”，并没有厚到明显优于当前块数结构，那就没必要强留。
+### 例 2
 
-这时回到最朴素的做法，直接把它切掉，让手牌更快进入一向听，反而更稳。
+<img src="../hai/man5.gif"><img src="../hai/man7.gif"><img src="../hai/man8.gif"><img src="../hai/pin2.gif"><img src="../hai/pin4.gif"><img src="../hai/pin4.gif"><img src="../hai/pin6.gif"><img src="../hai/pin9.gif"><img src="../hai/pin9.gif"><img src="../hai/sou2.gif"><img src="../hai/sou3.gif"><img src="../hai/sou6.gif"><img src="../hai/sou8.gif">　自摸<img src="../hai/man9.gif">
 
-也就是说，留浮牌的前提是：
+⇒ <img src="../hai/man5.gif">切
 
-**它必须比你准备拆掉的那块更有未来。**
+但例 2 就已经比较微妙了。
 
-## 已有足够好形时，弱浮牌就没必要再留
+这里切 <img src="../hai/pin4.gif"> 也说得通，但因为整手牌并没有什么值得强追的手役，还是更适合老老实实切 <img src="../hai/man5.gif">，直接把通往一向听的受入枚数做满。
 
-原页第三个例子提醒的是另一个常见误区：
+---
 
-当手里已经有足够多的优质搭子时，再去执着某个额外浮牌，收益并不高。
+### 例 3
 
-因为：
+<img src="../hai/man2.gif"><img src="../hai/man3.gif"><img src="../hai/man6.gif"><img src="../hai/man7.gif"><img src="../hai/pin1.gif"><img src="../hai/pin3.gif"><img src="../hai/pin5.gif"><img src="../hai/sou3.gif"><img src="../hai/sou3.gif"><img src="../hai/sou4.gif"><img src="../hai/sou5.gif"><img src="../hai/sou7.gif"><img src="../hai/sou8.gif">　自摸<img src="../hai/pin5.gif">
 
-1. 你已经不缺块
-2. 那张浮牌即使成长，也未必能超过现有好形
-3. 继续留它，反而会压缩听牌前的整理空间
+⇒ <img src="../hai/sou3.gif">切
 
-所以不是“浮牌越厚越好”，而是要看它放在整手牌里是否还有必要。
+例 3 里，已经有 3 组两面搭子。
 
-## 无头形：通常仍然是面子优先
+既然如此，就没有继续拼命去多做两面搭子的必要。与其执着当前看起来更稳的块，不如切 <img src="../hai/sou3.gif">，把概率不高但真实存在的 <img src="../hai/pin2.gif"> 自摸也保留下来。
 
-无头两向听最容易让人犯的错，是太想赶紧做出雀头。
+---
 
-原页给出的主张和前面第一章一脉相承：
+## 2. 无头形
 
-1. 雀头虽然重要
-2. 但通常比面子更容易自然形成
-3. 所以大多数无头形，仍应优先保住更强的面子路线
+无头两向听经常会出现很难的选择。
 
-这也是为什么某些看起来像“先定头更稳”的切法，实际会让整手牌速度变差。
+### 例 4
 
-## 七对子兼容形：不要太早把普通手路线切死
+<img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man7.gif"><img src="../hai/pin4.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/sou1.gif"><img src="../hai/sou1.gif"><img src="../hai/sou2.gif"><img src="../hai/sou3.gif"><img src="../hai/sou5.gif"><img src="../hai/sou7.gif"><img src="../hai/sou9.gif">　自摸<img src="../hai/man8.gif">
 
-如果一手牌同时具备：
+⇒ <img src="../hai/sou1.gif">切
 
-1. 普通手两向听
-2. 七对子两向听
+这题切 <img src="../hai/sou9.gif"> 也不算差，但从听牌速度上看，还是面子优先的 <img src="../hai/sou1.gif"> 切更有利。
 
-那判断就会变得更难。
+如果切 <img src="../hai/sou1.gif">，会减少 <img src="../hai/sou1.gif"><img src="../hai/sou4.gif"> 这 6 枚进入一向听的牌；
+如果切 <img src="../hai/sou9.gif">，则会减少 <img src="../hai/sou8.gif"><img src="../hai/sou9.gif"> 这 7 枚。
 
-原页这里的重点不是“永远转七对”，而是：
+表面上看差距不大，但切 <img src="../hai/sou1.gif"> 之后，摸进 <img src="../hai/sou4.gif"> 仍然还能作为有效牌工作。
 
-1. 如果普通手路线还很自然，就不该轻易拆掉搭子复合形
-2. 如果对子已经够多、普通手又不够顺，就可以更多考虑保留七对可能
+而且如果万子以后纵向重叠，把雀头转到万子那边，那么索子的两嵌如果已经被拆掉，就会少掉 4 枚听牌机会，这个损失很大。
 
-也就是说，这类手的关键是“保留双路线”，而不是过早站死某一边。
+变化 A：
 
-## 这一页的结论
+<img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man7.gif"><img src="../hai/man8.gif"><img src="../hai/pin4.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/sou1.gif"><img src="../hai/sou1.gif"><img src="../hai/sou2.gif"><img src="../hai/sou3.gif"><img src="../hai/sou5.gif"><img src="../hai/sou7.gif">　自摸<img src="../hai/man3.gif">
 
-1. 四搭子加浮牌时，重点是判断浮牌是否真的值得保留
-2. 留浮牌的前提，是它比你准备拆掉的块更有成长性
-3. 无头两向听大多数时候仍然遵循面子优先
-4. 七对子兼容形的重点，是尽量保留双路线而不是过早定型
-5. 两向听阶段的难点，不是会不会套公式，而是先看清这手真正缺什么
+变化 B：
+
+<img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man7.gif"><img src="../hai/man8.gif"><img src="../hai/pin4.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/sou1.gif"><img src="../hai/sou2.gif"><img src="../hai/sou3.gif"><img src="../hai/sou5.gif"><img src="../hai/sou7.gif"><img src="../hai/sou9.gif">　自摸<img src="../hai/man3.gif">
+
+所以这里还是应取 <img src="../hai/sou1.gif"> 切。
+
+---
+
+### 例 5
+
+<img src="../hai/man1.gif"><img src="../hai/man1.gif"><img src="../hai/man1.gif"><img src="../hai/man3.gif"><img src="../hai/man6.gif"><img src="../hai/man8.gif"><img src="../hai/pin2.gif"><img src="../hai/pin3.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/sou3.gif"><img src="../hai/sou7.gif"><img src="../hai/sou8.gif">　自摸<img src="../hai/sou6.gif">
+
+⇒ <img src="../hai/sou3.gif">切
+
+这里本质上是在比较 <img src="../hai/man3.gif"> 和 <img src="../hai/sou3.gif">。
+
+如果摸到 <img src="../hai/man2.gif">，手牌会进入一向听；
+但如果摸到 <img src="../hai/sou2.gif">，则仍然停留在两向听。
+
+虽然差距不算大，但保留万子的连续形，整体还是略优。
+
+变化 A：
+
+<img src="../hai/man1.gif"><img src="../hai/man1.gif"><img src="../hai/man1.gif"><img src="../hai/man3.gif"><img src="../hai/man6.gif"><img src="../hai/man8.gif"><img src="../hai/pin2.gif"><img src="../hai/pin3.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/sou6.gif"><img src="../hai/sou7.gif"><img src="../hai/sou8.gif">自摸<img src="../hai/man2.gif">
+
+变化 B：
+
+<img src="../hai/man1.gif"><img src="../hai/man1.gif"><img src="../hai/man1.gif"><img src="../hai/man6.gif"><img src="../hai/man8.gif"><img src="../hai/pin2.gif"><img src="../hai/pin3.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/sou3.gif"><img src="../hai/sou6.gif"><img src="../hai/sou7.gif"><img src="../hai/sou8.gif">自摸<img src="../hai/sou2.gif">
+
+所以这题应切 <img src="../hai/sou3.gif">。
+
+---
+
+## 3. 七对子含み
+
+也就是七对子两向听，换句话说，已经有 4 对子的牌。
+
+### 例 6
+
+<img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man7.gif"><img src="../hai/man9.gif"><img src="../hai/man9.gif"><img src="../hai/pin1.gif"><img src="../hai/pin1.gif"><img src="../hai/pin3.gif"><img src="../hai/pin7.gif"><img src="../hai/sou3.gif"><img src="../hai/sou5.gif"><img src="../hai/pei.gif"><img src="../hai/pei.gif">　自摸<img src="../hai/pin7.gif">
+
+⇒ <img src="../hai/sou3.gif"> 或 <img src="../hai/sou5.gif">切
+
+如果按面子手来看，这手是三向听；按七对子来看，则是两向听。
+
+既然七对子路线更近，就不能随便对现有对子动手。
+
+一般来说，保留“对子 + 搭子”的复合形，会更有利于将来平滑地转回面子手路线，所以这里应切单独的 <img src="../hai/sou3.gif"> 或 <img src="../hai/sou5.gif">。
+
+---
+
+### 例 7
+
+<img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man5.gif"><img src="../hai/sou1.gif"><img src="../hai/sou2.gif"><img src="../hai/sou3.gif"><img src="../hai/sou3.gif"><img src="../hai/sou4.gif"><img src="../hai/sou7.gif"><img src="../hai/sou7.gif"><img src="../hai/pin4.gif"><img src="../hai/pin9.gif"><img src="../hai/pin9.gif">　自摸<img src="../hai/pin2.gif">
+
+⇒ <img src="../hai/pin2.gif">切
+
+这手无论按面子手还是按七对子看，都是两向听，所以会比较难判断。
+
+又因为这里并不能保证一定能做出平和，所以与其急着放弃七对子路线，不如先切 <img src="../hai/pin2.gif">，把七对子的可能继续留住。
+
+---
+
+### 例 8
+
+<img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man5.gif"><img src="../hai/sou1.gif"><img src="../hai/sou2.gif"><img src="../hai/sou3.gif"><img src="../hai/sou3.gif"><img src="../hai/sou4.gif"><img src="../hai/sou7.gif"><img src="../hai/sou7.gif"><img src="../hai/pin4.gif"><img src="../hai/pin9.gif"><img src="../hai/pin9.gif">　自摸<img src="../hai/pin5.gif">
+
+这题如果所有部分都是标准两面搭子，那当然可以直接拆 <img src="../hai/pin9.gif"> 对子，专心转成平和路线。
+
+也就是说，七对子兼容形并不是永远都该保七对，而是要看普通手路线到底自然不自然。
 
 ---
 
