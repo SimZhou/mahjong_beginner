@@ -40,23 +40,29 @@
 
 单独等某张牌重合，效率不高；但如果把已经成形的面子一起考虑，雀头就会容易很多。
 
+如果你硬要“专门去重一张孤张”，往往只能指望剩下那 3 枚同牌，效率很差。真正实战里更常见的做法，是利用已经成形的面子或暗刻，把雀头顺带长出来。
+
 ### 顺子复合后能带出雀头
 
 例 3：<img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> -> 自摸 <img src="../hai/sou7.gif" width="24" height="34" /> -> <img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" />
 
-这时摸到 <img src="../hai/sou4m.gif" width="19" height="26" /> 或 <img src="../hai/sou7m.gif" width="19" height="26" />，都可能把结构处理成带雀头的形。
+这时摸到 <img src="../hai/sou4m.gif" width="19" height="26" /> 或 <img src="../hai/sou7m.gif" width="19" height="26" />，都能把这组牌转成带雀头的复合形，总受入是 `6` 枚，已经是单独等一张重合的两倍。
 
 ### 四连形更容易兼顾面子和雀头
 
 例 4：<img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> -> 自摸 <img src="../hai/sou8.gif" width="24" height="34" /> -> <img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" />
 
-这种连续四张本身就是强形，不管往面子还是雀头方向变化，都比单独等一张重合灵活得多。
+这种连续四张本身就是强形，摸到 <img src="../hai/sou5m.gif" width="19" height="26" /> 或 <img src="../hai/sou8m.gif" width="19" height="26" /> 都能兼顾雀头和面子，总受入同样有 `6` 枚，比单纯等对子高效得多。
 
 ### 暗刻复合后更明显
 
-例 5：<img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /> -> 自摸 <img src="../hai/sou5.gif" width="24" height="34" /> -> <img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" />
+例 5：<img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /> -> 自摸 <img src="../hai/sou4.gif" width="24" height="34" /> -> <img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" />
 
-这种结构后续同时能朝顺子、对子、刻子多个方向转，受入会比孤张找头丰富得多。
+暗刻和旁边牌结合后，受入会更大。这个例子里，摸到 <img src="../hai/sou4m.gif" width="19" height="26" /> 或 <img src="../hai/sou5m.gif" width="19" height="26" /> 都能形成更好的复合形，总受入有 `7` 枚。
+
+例 6：<img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /> -> 自摸 <img src="../hai/sou5.gif" width="24" height="34" /> -> <img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" />
+
+这一形更强，能接受 <img src="../hai/sou4m.gif" width="19" height="26" />、<img src="../hai/sou5m.gif" width="19" height="26" />、<img src="../hai/sou7m.gif" width="19" height="26" />，合计 `11` 枚受入。
 
 结论很简单：
 
@@ -64,15 +70,17 @@
 
 ## 听牌时，可以拆暗刻来取雀头
 
-例 6：<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> 自摸<img src="../hai/man7.gif" width="24" height="34" />
+例 7：<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> 自摸<img src="../hai/man7.gif" width="24" height="34" />
 
 到接近听牌时，拆一张暗刻来改成雀头，往往是合理的。因为这时你的目标已经不是“把结构做厚”，而是“把听牌取出来，而且取成更好的待张”。
+
+这题里当然不会去取 <img src="../hai/sou2m.gif" width="19" height="26" /> 或 <img src="../hai/sou3m.gif" width="19" height="26" /> 的单骑待，而是切 <img src="../hai/man1m.gif" width="19" height="26" /> 或 <img src="../hai/sou8m.gif" width="19" height="26" />，取 `8` 枚的 <img src="../hai/sou1m.gif" width="19" height="26" /><img src="../hai/sou4m.gif" width="19" height="26" /> 待。
 
 ## 面子通常比雀头更值得优先
 
 这是这一页最关键的结论。
 
-例 7：<img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /> 自摸<img src="../hai/sou5.gif" width="24" height="34" />
+例 8：<img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /> 自摸<img src="../hai/sou5.gif" width="24" height="34" />
 
 这手虽然没有雀头，但如果为了“先把头定下来”去拆 <img src="../hai/man3m.gif" width="19" height="26" /> 暗刻，通常是亏的。
 
@@ -88,7 +96,7 @@
 
 ## 例外：为了最终牌型好，可以提前固定雀头
 
-例 8：<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /> 自摸<img src="../hai/pin5.gif" width="24" height="34" />
+例 9：<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /> 自摸<img src="../hai/pin5.gif" width="24" height="34" />
 
 这种平和确定的一向听里，即使把 <img src="../hai/man1m.gif" width="19" height="26" /><img src="../hai/man2m.gif" width="19" height="26" /> 拆掉，提前固定雀头，也可能是更好的路线。因为你牺牲了一点受入，却换来了：
 
