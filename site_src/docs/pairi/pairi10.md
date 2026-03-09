@@ -1,103 +1,123 @@
 # 两向听牌理（1）
 
-从这一页开始，进入第二章里更重要的一段：`两向听牌理`。
+先从“比较浮牌”的典型两向听开始。
 
-两向听阶段的特点是：
+适用的手牌是：
 
-1. 你已经离成型不算太远
-2. 这时的拆牌会直接影响后续一向听质量
-3. 很多错误看起来只亏一点，实际上会把下一步牌形打薄
+1. 已经有一组完成面子
+2. 已经有一组雀头
+3. 另外还有 3 组搭子块（包括对子块）
 
-这一页先看最常见的一种：
+这种形里，完成面子当然不能拆；而如果雀头只有 1 组，去拆它同样会让手牌明显变慢，因为那也是直接退回三向听。
 
-**一面子和一组雀头已经完成，外面还有三块搭子/对子块，再加若干浮牌。**
+所以基本思路很明确：
 
-## 基本原则：优先从浮牌里选
+**先把浮牌列成候选，再在浮牌之间比较。**
 
-在这种牌型里，已经完成的面子和唯一雀头都不该轻易动。
+---
 
-原因很简单：
+### 例 1
 
-1. 动完成面子，会直接后退到三向听
-2. 动唯一雀头，也一样会把结构打回去
+<img src="../hai/man1.gif"><img src="../hai/man1.gif"><img src="../hai/man3.gif"><img src="../hai/man7.gif"><img src="../hai/man9.gif"><img src="../hai/pin3.gif"><img src="../hai/pin4.gif"><img src="../hai/pin7.gif"><img src="../hai/sou2.gif"><img src="../hai/sou7.gif"><img src="../hai/sou7.gif"><img src="../hai/tyun.gif"><img src="../hai/tyun.gif">　自摸<img src="../hai/tyun.gif">
 
-所以默认思路非常明确：
+⇒ <img src="../hai/sou2.gif">切
 
-**先从不属于现有搭子块的浮牌里选弃牌。**
+万子的 <img src="../hai/man1.gif"><img src="../hai/man1.gif"><img src="../hai/man3.gif"> 在这里已经构成 1 组搭子块。
 
-## 例 1：先比浮牌，不碰成块部分
+一旦对这种 3 张块动手，通往一向听的受入就会减少。
 
-原页第一个例子里，万子对子加搭子已经构成一块，字牌刻子也已经成形，这时真正该比较的只是剩余浮牌。
+因此这里的基本做法，当然是只在浮牌之间选。
 
-这时不需要算很远，只要问：
+候选就只剩 <img src="../hai/sou2.gif"> 和 <img src="../hai/pin7.gif">。
+这是单纯比较，当然应该毫不犹豫切 <img src="../hai/sou2.gif">。
 
-1. 哪张单牌最弱
-2. 哪张跟现有结构最不相连
+---
 
-答案通常会很直接。
+### 例 2
 
-## 例 2：连张浮牌也未必真有用
+<img src="../hai/man3.gif"><img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man7.gif"><img src="../hai/pin1.gif"><img src="../hai/pin1.gif"><img src="../hai/pin4.gif"><img src="../hai/pin6.gif"><img src="../hai/pin8.gif"><img src="../hai/sou2.gif"><img src="../hai/sou3.gif"><img src="../hai/sou5.gif">　自摸<img src="../hai/man8.gif">
 
-有些浮牌看起来“连着”，比如单张旁边还有潜在延伸，但如果它实际会被现有搭子吃掉，或者一摸进来仍是受入重叠，那它的价值就没有想象中高。
+⇒ <img src="../hai/sou5.gif">切
 
-所以比较浮牌时不能只看“像不像连张”，而要看：
+这里要比较的，是没有被编入搭子块的 <img src="../hai/man3.gif"> 和 <img src="../hai/sou5.gif">。
 
-1. 摸进来以后是否真的能组成新块
-2. 还是只是和现有块重叠
+万子这边只是因为形成连续形，就已经更强了一层。
 
-## 例 3：老头连张也不一定赢过中张孤张
+而索子的 <img src="../hai/sou5.gif">，由于本来就有 <img src="../hai/sou2.gif"><img src="../hai/sou3.gif"> 两面搭子，摸进 <img src="../hai/sou4.gif"> 时会直接取一向听，继续留这张浮牌并没有什么实际意义。
 
-原页第三个例子提醒得很重要。
+它最多只是勉强保留了一点 `345` 三色的可能。
 
-像 `7899` 这种边张连续形，虽然比单独 `9` 强，但仍然远不如中张附近的单张灵活。
+若摸进 <img src="../hai/sou6.gif">，又会形成对 <img src="../hai/sou1.gif"><img src="../hai/sou4.gif"><img src="../hai/sou7.gif"> 的二度受け，因此依旧不如万子。
 
-所以：
+---
 
-1. 连续形是加分
-2. 但不能抹掉“边张就是边张”的底层弱势
+### 例 3
 
-比较时仍然要回到牌的真实工作能力，而不是被“它看起来连着”欺骗。
+<img src="../hai/man4.gif"><img src="../hai/man7.gif"><img src="../hai/man8.gif"><img src="../hai/pin3.gif"><img src="../hai/pin3.gif"><img src="../hai/pin8.gif"><img src="../hai/pin8.gif"><img src="../hai/sou4.gif"><img src="../hai/sou5.gif"><img src="../hai/sou7.gif"><img src="../hai/sou8.gif"><img src="../hai/sou9.gif"><img src="../hai/sou9.gif">　自摸<img src="../hai/pin5.gif">
 
-## 例 4：差距很小时，可以引入手役因素
+⇒ <img src="../hai/sou9.gif">切
 
-有些局面里，两个候选牌在纯牌理上差距很小。
+这题比较的是没有组成搭子块的 <img src="../hai/man4.gif"> 和 <img src="../hai/sou9.gif">。
 
-这时就可以让手役来打破平局，比如：
+虽然索子这边看上去形成了 <img src="../hai/sou7.gif"><img src="../hai/sou8.gif"><img src="../hai/sou9.gif"><img src="../hai/sou9.gif"> 这种连续感，但它做面子的能力，依旧远远比不上内侧的中张牌。
 
-1. 留哪边更容易向断幺九靠
-2. 留哪边更有三色、一杯口空间
+所以这里应切 <img src="../hai/sou9.gif">。
 
-但顺序不能反过来。只有在纯结构差距很小的时候，手役才开始成为决定项。
+---
 
-## 例 5：三对子形，可能要主动拆对子块
+### 例 4
 
-原页后面开始出现例外。
+<img src="../hai/man2.gif"><img src="../hai/man2.gif"><img src="../hai/man3.gif"><img src="../hai/man3.gif"><img src="../hai/man6.gif"><img src="../hai/man8.gif"><img src="../hai/pin1.gif"><img src="../hai/pin2.gif"><img src="../hai/pin3.gif"><img src="../hai/pin4.gif"><img src="../hai/sou3.gif"><img src="../hai/sou7.gif"><img src="../hai/sou9.gif">　自摸<img src="../hai/man8.gif">
 
-如果手里对子块太多，例如已经形成三对子，那么继续把它们全当块保留，往往反而让好形变化变差。
+⇒ <img src="../hai/pin1.gif">切
 
-这时即使外面还有浮牌，也可能要动一组对子块，把整手牌调整成更利于好形发展的结构。
+这是一题相当微妙的选择。
 
-所以“永远从浮牌里选”不是死规则，而是默认规则。
+因为对子很多，`1234p` 这种延单形在这里其实没有太高价值。
 
-## 例 6：有些弱浮牌应该故意先切掉
+从纯牌理上说，<img src="../hai/pin1.gif"><img src="../hai/pin2.gif"><img src="../hai/pin3.gif"><img src="../hai/pin4.gif"> 和 <img src="../hai/sou3.gif"> 之间的差距已经很小。
 
-最后一个例子讲的是另一个实战点：
+这时就可以让手役来打破平局。
 
-当手里已经有足够好的搭子块时，某些弱浮牌就不值得再留到以后。哪怕它理论上还有一点工作，也可能不如现在先处理掉更干净。
+如果筒子这边做成两面，也并不能往断幺九前进；而索子这边若留住，则摸进 <img src="../hai/sou2.gif"> 到 <img src="../hai/sou5.gif"> 都还能带上断幺九。
 
-这背后的逻辑是：
+所以这里应取 <img src="../hai/pin1.gif"> 切。
 
-1. 当前已经不缺块数
-2. 那张弱浮牌很难再成长成比现有块更好的东西
-3. 继续留它，只会增加后面处理难度
+到这里为止，前面几题都还是“从浮牌里选”。
 
-## 这一页的结论
+那有没有一些手牌，是应该反过来对搭子块动手的？有。
 
-1. 在“一面子一雀头完成 + 三块 + 浮牌”的两向听里，默认先从浮牌里选
-2. 完成面子和唯一雀头都不该轻易动
-3. 比较浮牌时，要看它是否真的能形成新块，而不是只看表面连张
-4. 纯牌理差距很小时，才让手役因素介入
-5. 若对子块过多或浮牌过弱，也会出现需要反向处理的例外
+---
+
+### 例 5
+
+<img src="../hai/man1.gif"><img src="../hai/man2.gif"><img src="../hai/man3.gif"><img src="../hai/man3.gif"><img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/pin2.gif"><img src="../hai/pin3.gif"><img src="../hai/pin6.gif"><img src="../hai/pin9.gif"><img src="../hai/pin9.gif"><img src="../hai/sou8.gif"><img src="../hai/sou8.gif">　自摸<img src="../hai/man7.gif">
+
+⇒ <img src="../hai/man3.gif">切
+
+像例 5 这种 3 对子形，就不必执着于保留双碰受入。
+
+虽然浮牌候选是 <img src="../hai/man7.gif"> 和 <img src="../hai/pin6.gif">，但这里更好的做法是两张都保留，直接切 <img src="../hai/man3.gif">。
+
+比起死守那 1 枚当前受入，不如把后续好形变化留出来。
+
+---
+
+### 例 6
+
+<img src="../hai/man3.gif"><img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/pin2.gif"><img src="../hai/pin2.gif"><img src="../hai/pin4.gif"><img src="../hai/pin5.gif"><img src="../hai/pin7.gif"><img src="../hai/sou2.gif"><img src="../hai/sou3.gif"><img src="../hai/sou4.gif"><img src="../hai/sou5.gif"><img src="../hai/sou6.gif">　自摸<img src="../hai/sha.gif">
+
+⇒ <img src="../hai/pin7.gif">切
+
+像例 6 这种，手里已经凑满了足够强的两面搭子，就属于应优先处理低价值浮牌的典型。
+
+即使继续留下 <img src="../hai/pin7.gif">，它也不可能长成比现有搭子更强的搭子。
+
+既然如此，这张将来还有可能变成铳牌的 <img src="../hai/pin7.gif">，就应该尽早处理掉。
+
+### 理论结论
+
+> “一面子完成 + 一雀头完成 + 三搭子”的两向听，基本上应从剩下的浮牌里选最没用的一张。只有少数手牌，才会把 3 张搭子块拆回单搭子，反而把全部浮牌留下来；其中最常见的，就是 3 对子形里的两面决定。
 
 ---
 
