@@ -25,6 +25,13 @@
 2. 如果你把它硬定成搭子，也会损失成刻子的受入
 3. 所以基础打法通常是不急着定，先保留它的复合功能
 
+原页这里讲得更直白：
+
+1. 过早固定成对子，通常会损失 `4` 枚到 `8` 枚受入
+2. 过早固定成搭子，也会损失 `2` 枚到 `4` 枚受入
+
+所以只要还没到必须定型的时候，就不该急着把这类复合形按死。
+
 ## 例 1：别为了保对子去损失受入
 
 例 1：<img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /> 自摸<img src="../hai/sou2.gif" width="24" height="34" />
@@ -38,11 +45,15 @@
 
 标准思路是先切孤张更重的部分，而不是把复合形自己拆坏。
 
+这题的标准打点就是切 <img src="../hai/sou1.gif" width="24" height="34" />。如果去切 <img src="../hai/pin3.gif" width="24" height="34" />，本质上就是只减少受入，却没有换到任何明确收益。
+
 ## 例 2：一向听更不能随便固定搭子
 
 例 2：<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /> 自摸<img src="../hai/tyun.gif" width="24" height="34" />
 
 这种牌从一向听往听牌推进时，受入已经很珍贵了。若先切 <img src="../hai/man7.gif" width="24" height="34" /> 去固定结构，原页的意思就是会把 `16 枚` 受入缩到 `12 枚`，损失很大。
+
+而且这一手还带断幺九和碰听空间，所以只要 <img src="../hai/tyun.gif" width="24" height="34" /> 不是特别难处理，标准答案就是先切 <img src="../hai/tyun.gif" width="24" height="34" />，把复合形完整保留下来。
 
 结论：
 
@@ -57,6 +68,8 @@
 1. <img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" />
 2. <img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" />
 3. <img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" />
+4. <img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" />
+5. <img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" />
 
 这一类总共有 5 种，受入都是 `8 枚`，单看枚数其实和两面一样，属于不错的形。
 
@@ -73,6 +86,18 @@
 这手若单看最快听牌，会倾向保留两嵌；但原页提醒的是，一旦这样走，可能会把一气通贯的路线直接丢掉，而且就算听牌，待张也未必理想。
 
 所以两嵌虽然强，但不是无脑最优。
+
+原页这里还有一个提醒：两嵌会占掉三张牌。序盘它很好用，但越接近听牌，手牌越容易因为它而显得局促；这一点正是它不如真正两面的地方。
+
+## 例 4：两嵌有时会把手牌挤得很难受
+
+例 4：<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> 自摸<img src="../hai/pin6.gif" width="24" height="34" />
+
+这题就是原页给出的“怎么拆都会有损失”的典型难题。重点不是背答案，而是记住两嵌的结构特点：
+
+1. 单看枚数，它不差
+2. 但它会消耗三张牌位
+3. 一旦手牌其余部分也在抢空间，处理起来就会明显比两面更别扭
 
 ## 这一页的结论
 
