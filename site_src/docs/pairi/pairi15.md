@@ -1,106 +1,172 @@
 # 一向听牌理（3）
 
-这一页继续看一向听阶段里最常见的一组题：**两组搭子都还没完成时，该怎么留下最宽、最强的听牌路线。**
+这一页来检验一种最常见的一向听：**手里还剩两组搭子，等待它们完成。**
 
-重点不只是“现在的受入有多少”，还包括：
+这种形的判断重点，不只是现在能不能进听牌，还要看：
 
-1. 保留双碰受入后，听牌机会会不会变多
-2. 同样多的受入里，谁听牌时的等待更好
-3. 差距很小时，能不能引入手役和改良空间
+1. 保留双碰受入后，听牌机会会不会显著变宽
+2. 同样能听牌时，最终等待谁更好
+3. 差距很小时，是否应让好形变化或手役价值介入
 
-## 基本原则：双碰受入要留在弱搭子一侧
+## 例 1
 
-这页原文反复强调的核心，可以压成一句：
+<img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"> 摸 <img src="../hai/pin2.gif" width="24" height="34">
 
-**保留双碰受入时，尽量把它留在较弱的那组搭子上。**
+=> 切 `1s`
 
-原因是弱搭子更需要这层保险。强搭子本来就容易自己完成，双碰受入放在它身上，增益往往不如放在弱侧明显。
+这是最常见的“双两面残留”一向听。
 
-## 例 1：双两面一向听时，保留双碰受入可以显著增宽
+这种手牌通过保留双碰受入，可以明显增加听牌机会：
 
-第一例是最典型的“双两面剩余”形。
+| 打法 | 听牌机会 | 受入枚数 |
+| --- | --- | --- |
+| 切 `1s` | `1p 2p 4p 9p 6s 9s` | `20` 张 |
+| 切 `2p` | `1p 4p 6s 9s` | `16` 张 |
 
-打 `1s` 后，不只保留两边两面的完成机会，还顺带保留了双碰受入，因此听牌机会达到 `20` 张；若改打 `2p`，就只剩 `16` 张。
+所以这里应切 `1s`。
 
-这里也顺便说明一个常见误判：
+原页还补充了一点：如果保留索子的延展形，虽然还有一气通贯的转身空间，但即使把打点算进去，也不算划算。速度差已经太明显了。
 
-有人会为了索子的一气通贯可能而保留那边结构，但就算把打点因素算进去，这种做法也不值得。速度差已经太明显了。
+另外，如果双碰受入那几张后来变得很薄，也可以及时把它们切换成[安全牌](../mamori/mamori02.md)的思路。
 
-## 例 2：受入相同，比较听牌后的等待质量
+## 例 2
 
-第二例里，打 `2p` 和打 `5s` 的听牌受入同为 `23` 张。
+<img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"> 摸 <img src="../hai/pin2.gif" width="24" height="34">
 
-这就进入这一页的第二判断层：**同受入比听牌质量。**
+=> 切 `5s`
 
-原例里打 `5s` 后，如果靠双碰那一侧完成，最终更容易形成三面张，所以应切 `5s`。这种局面虽然差距不算巨大，但实战出现频率很高，最好形成固定反应。
+切 `2p` 和切 `5s`，两边听牌受入同为 `23` 张。
 
-## 例 3：弱搭子一侧留下双碰受入，往往更自然
+既然枚数一样，就要比较听牌后的等待：
 
-第三例和第二例属于同一个原理的变体。
+变化 A  
+<img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"> 摸 <img src="../hai/pin9.gif" width="24" height="34">
 
-`2m` 切和 `5p` 切都能做到 `15` 张听牌机会，但保留双碰受入在较弱的筒子侧时，听牌后的形更容易改善，所以这里切 `5p`。
+变化 B  
+<img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"> 摸 <img src="../hai/pin9.gif" width="24" height="34">
 
-原文还提醒了另一个实战现象：很多初学者会误切 `4m`。原因不是算错张数，而是看到中张就本能地舍不得拆。要克服这种毛病，必须回到“整组结构谁更弱”这个层面。
+保底的双碰受入完成时，切 `5s` 这一边能做成三面张，所以更有利。虽然差距不算很大，但实战里很常见，最好练成固定反应。
 
-## 例 4：变则多面时，边张未必更差
+## 例 3
 
-第四例属于变则三面听潜力的比较。
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"> 摸 <img src="../hai/sou6.gif" width="24" height="34">
 
-这种牌很容易被“边张看起来差”误导，但如果边张那侧同时带来更多听牌机会、甚至在手役和守备上也更有利，那它就不该机械地先拆。
+=> 切 `5p`
 
-原例中应切 `4p`，保留那组看似别扭、实际更宽的结构。
+| 打法 | 听牌机会 | 受入枚数 |
+| --- | --- | --- |
+| 切 `2m` | `3m 4p 5p 7p 中` | `15` 张 |
+| 切 `4m` | `2m 4p 5p 7p 中` | `13` 张 |
+| 切 `5p` | `2m 3m 4p 7p 中` | `15` 张 |
 
-所以判断变则一向听时要多走一步：
+切 `2m` 与切 `5p` 都是 `15` 张，但和例 2 同理，若靠双碰受入去听牌，切 `5p` 更容易形成两面等待，因此更优。
 
-1. 不要只看某一块像边张还是两面
-2. 要把它放回整手里，看它最终提供多少听牌牌种
+这题很多人不会切 `2m`，因为直觉上也知道不对；但现实里初学者很常切 `4m`。这类错误往往不是不会数受入，而是没把“**双碰受入应留在较弱搭子一侧**”这个理论记牢。
 
-## 例 5：复合三面 + 两面，通常比一杯口幻想更值钱
+### 理论小结
 
-第五例中，索子如果按“变则三面 + 两面”的方式保留，受入达到 `22` 张；若执着于一杯口或刻子形，只有 `19` 张。
+**双碰受入留在较弱搭子一侧，通常会更宽。**
 
-这里应切 `3s`。
+## 例 4
 
-这一题的意义在于：
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"> 摸 <img src="../hai/sou6.gif" width="24" height="34">
 
-1. 一杯口是锦上添花，不是压过速度的理由
-2. 复杂复合形往往比表面看起来更宽，不能只按传统两面/坎张去分类
+=> 切 `4p`
 
-## 例 6：只差 1 张时，可以把好形变化权重抬高
+这是带有变则三面张潜力的手牌。
 
-第六例的纯受入差距只有 `1` 张。如果只是比眼前枚数，切 `6m` 似乎略宽；但切 `8m` 能保留更多筒子方向的好形变化，所以这里更推荐切 `8m`。
+别被“留边张看起来差”这种直觉骗了。这里保留边张那边，反而在枚数上多 `1` 张，而且在手役和守备上也更有利：
 
-这说明一个实际可用的准则：
+| 打法 | 听牌机会 | 受入枚数 |
+| --- | --- | --- |
+| 切 `1m` | `2m 5m 3p 4p 6p 6s` | `17` 张 |
+| 切 `4p` | `2m 3m 5m 3p 6p 6s` | `18` 张 |
 
-1. 若差距很大，先服从受入
-2. 若只差 `1-2` 张，就可以开始让好形变化和听牌质量上桌
+所以这题应切 `4p`。
 
-## 例 7：结构打平时，再让手役打破平局
+## 例 5
 
-第七例比较的是“**双碰 + 两面**”与“**坎张 + 两面**”。
+<img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"> 摸 <img src="../hai/pin8.gif" width="24" height="34">
 
-原例中两边：
+=> 切 `3s`
 
-1. 受入相同
-2. 最终等待也没有本质差距
+索子部分做成“变则三面 + 两面”是最宽的，因此这里要果断放弃一杯口：
 
-于是就轮到手役因素。因为打 `3p` 后仍保留 `2p` 摸进形成平和、三色的空间，所以这里切 `3p`。
+| 打法 | 听牌机会 | 受入枚数 |
+| --- | --- | --- |
+| 切 `3s` | `5m 8m 8p 2s 4s 5s 7s` | `22` 张 |
+| 切 `5s` | `5m 8m 8p 3s 4s 7s` | `19` 张 |
 
-顺序仍然不能反过来。不是看到三色苗头就先留，而是结构已打平，才轮到役种价值。
+这里的重点很明确：
 
-## 例 8：没有平和时，就看一杯口和额外扩张
+1. 一杯口不是压倒速度的理由
+2. 复杂复合形往往比表面看上去更宽
 
-第八例和上一题结构近似，但这次平和不成立。
+## 例 6
 
-既然平和价值没了，那一杯口就成了更高的比较项，因此应切 `1p`。另外，后续摸 `5p` 时还能进一步拓宽结构，也是附加优势。
+<img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"> 摸 <img src="../hai/sou2.gif" width="24" height="34">
+
+=> 切 `8m`
+
+单看受入枚数，切 `6m` 其实要多 `1` 张。
+
+但如果只差这一点点，就可以更重视好形变化。这里切 `8m` 后，筒子方向的延展明显更理想。原页特别强调：在这种变化里，双碰形总体比两嵌更灵活。
+
+变化 A  
+<img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"> 摸 <img src="../hai/pin5.gif" width="24" height="34">
+
+变化 B  
+<img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"> 摸 <img src="../hai/pin6.gif" width="24" height="34">
+
+### 理论小结
+
+**如果只差 `1-2` 张，可以优先考虑好形变化的丰富程度，以及听牌后的等待质量。**
+
+## 例 7
+
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"> 摸 <img src="../hai/man2.gif" width="24" height="34">
+
+=> 切 `3p`
+
+| 打法 | 听牌机会 | 受入枚数 |
+| --- | --- | --- |
+| 切 `1p` | `5m 3p 4p 7p 1s 4s` | `19` 张 |
+| 切 `3p` | `2p 4p 7p 1s 4s` | `19` 张 |
+
+这是“**双碰 + 两面**”与“**坎张 + 两面**”的比较。两边在受入枚数和最终等待上都没有本质差别，所以要由手役价值来分胜负。
+
+这里切 `3p` 后，摸 `2p` 时可以争平和与三色，因此更优。
+
+## 例 8
+
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"> 摸 <img src="../hai/man1.gif" width="24" height="34">
+
+=> 切 `1p`
+
+这一题和平才不成立，所以一杯口的价值就上来了。
+
+因此切 `1p` 更优。除此之外，后续再摸 `5p` 时还能把牌做得更宽，这也是一个小优势。
+
+## 例 9
+
+<img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"> 摸 <img src="../hai/sou6.gif" width="24" height="34">
+
+=> 切 `8p`
+
+如果顺手就打 `8s`，那就太草率了。这里去看两杯口是坏手，关键在于还保留着坎 `7s` 的受入，所以应切 `8p`。
+
+这一题最后还提醒了一个非常实用的比较方法：
+
+前面在讲解时，会把所有能让你听牌的牌完整列出来；但实战里真正需要快速比较的，是**只找出会造成差异的那几种受入**。重叠部分不必每次重新从头数一遍。
 
 ## 这一页的结论
 
-1. 剩余两组搭子的一向听里，双碰受入应尽量留给较弱的一侧
-2. 双碰受入能明显增加听牌机会时，优先级很高
-3. 受入相同，就比较听牌后的等待质量
-4. 只差 `1-2` 张时，可以把好形变化和改良空间纳入判断
-5. 结构完全打平后，才由平和、三色、一杯口等手役因素决胜
+1. 剩余两组搭子的一向听，首先要考虑双碰受入能否扩宽听牌机会
+2. 双碰受入应尽量留给较弱的一侧
+3. 若听牌受入相同，就比较最终等待质量
+4. 若只差 `1-2` 张，可以让好形变化与待牌质量介入
+5. 若结构完全打平，再由平和、三色、一杯口等手役价值决胜
+6. 实战比较受入时，重点找出“有差异的那部分”，不用每次都把重叠受入从头枚举一遍
 
 ---
 
