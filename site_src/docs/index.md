@@ -35,6 +35,9 @@
 20. [防守栏目导读](./mamori/index.md)
 21. [防守基础](./mamori/mamori01.md)
 22. [安全牌](./mamori/mamori02.md)
+23. [局势判断栏目导读](./joukyou/index.md)
+24. [局势判断基础](./joukyou/joukyou01.md)
+25. [关注名次](./joukyou/joukyou02.md)
 
 后续页面会按栏目逐步补齐。
 
