@@ -42,8 +42,9 @@ img {
 }
 
 .md-typeset .page-nav__link {
-  display: inline-flex;
+  display: flex;
   align-items: center;
+  width: 100%;
   min-height: 3rem;
   padding: 0.8rem 1rem;
   border: 1px solid rgba(15, 23, 42, 0.14);
