@@ -1,92 +1,118 @@
 # 一向听牌理（5）
 
-上一页解决的是“无头 + 两组搭子”怎么处理。这一页继续看无头形，但把局面再推进一步：
+这一页继续检验无头形。
 
-**如果外面只剩一组搭子，或者要在“保留更宽的无头路线”和“提前锁定更好听牌”之间取舍，该怎么判断？**
+前一页应该已经能看出：把牌做成“搭子 + 搭子”通常最宽。那么，如果外面已经只剩一组搭子，或者几条路线的受入差距已经很小，这时该怎么判断？
 
-## 基本原则：无头形先服从总受入，但差距很小时要比较最终等待
+## 例 1
 
-这页最核心的结论不是推翻上一页，而是给上一页补了一个限制条件：
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"> 摸 <img src="../hai/pin8.gif" width="24" height="34">
 
-1. 默认仍然先比较总受入
-2. 无头路线通常更宽
-3. 但当差距已经很小，甚至只差 `1-2` 张时，就必须开始比较最终听牌质量和改良空间
+| 打法 | 听牌机会 | 受入枚数 |
+| --- | --- | --- |
+| 切 `1m` | `1p 4p 6p 9p 5s 8s` | `20` 张 |
+| 切 `1p` | `1m 3m 6p 9p 5s 8s` | `21` 张 |
+| 切 `5s` | `1m 3m 1p 4p 6p 9p` | `21` 张 |
 
-也就是说，这一页讨论的不是“无头不强了”，而是“无头虽然强，但不是每次都应该无脑执行”。
+如表所示，差距几乎可以说没有。
 
-## 例 1：总受入领先 1 张，不代表一定要选那边
+但即便如此，摸 `3m` 听牌时只有保留万子一侧才会成为平和；而 `1m / 3m` 待本身，也比 `1p / 4p` 或 `5s / 8s` 更优。
 
-第一例里，某条无头路线的听牌机会只比另一条多 `1` 张。
+所以这里可以先把切 `1m` 排除，因为它明显较差。
 
-这种差距很小时，不能只报一个数字就结束。更关键的问题是：
+接着要比较的是：切 `1p` 还是切 `5s`。
 
-1. 哪条路线更容易继续做成“搭子 + 搭子”
-2. 哪条路线后续改良牌更多
-3. 哪条路线更少把自己逼进苦听牌
+受入相同的时候，基本原则就是继续比较**好形变化**。原页特别强调：把里面那张 `5s` 留住更有利，因为亚两面形保留内侧时，后续更容易长成强形。
 
-这也是原页反复提醒的点：**不要为了眼前 1 张的小领先，把后面的大片改良空间一起送掉。**
+变化 A  
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34">（`10` 种 `33` 张）
 
-## 例 2：好形变化在无头形里格外重要
+变化 B  
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34">（`9` 种 `29` 张）
 
-第二例是整页最重要的一题。
+因此例 1 应保留内侧的 `5s` 那一边。
 
-很多人会顺手切掉 `7m`，因为看起来不顺，但这样会错失万子连续形后续拆成两组搭子的巨大改良空间。原页甚至直接把后续变成 `10` 种 `33` 张、`9` 种 `29` 张的大改良路线列了出来，就是为了说明：
+## 例 2
 
-1. 当前只差一点点受入，不算大事
-2. 真正大的差别在于，你有没有保留把连续形转成双搭子的能力
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"> 摸 <img src="../hai/man2.gif" width="24" height="34">
 
-这题可以概括成一句实战规则：
+无头形里，好形变化是非常重要的因素。
 
-**无头形里，连续形的成长空间非常值钱。**
+像这一题，很多人会顺手切 `7m`。他们看到的只是眼前 `1` 张受入差距，却没有想到要从万子的连续形里继续造出“搭子 + 搭子”。
 
-## 例 3：就算无头路线更宽，也不能完全无视最终等待
+原页强调得很重：如果切掉 `7m`，当前受入不过 `5` 种 `17` 张，但你会错过下面这种巨大的变化空间：
 
-第三例开始补上另一面的限制。
+变化 A  
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">（`10` 种 `33` 张）
 
-原页前面一直强调听牌机会最大化，但这里提醒你：如果更宽的那条路线最终常常落到极差的边张或嵌张，那么速度优势并不一定能完全兑现成和牌率。
+变化 B  
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">（`9` 种 `29` 张）
 
-所以：
+这一题的重点就是：
 
-1. 总受入若明显领先，仍然优先速度
-2. 但若最终等待差到过分，就要允许为更好听牌放弃少量受入
+1. 当前少 `1` 张受入，问题不大
+2. 但若为此砍掉连续形的成长空间，损失会非常大
 
-原例里虽然“搭子 + 搭子”仍然更宽，但保留 `89m` 的路线更容易真正和出，所以应拆 `89m` 这一侧之外的候选牌，换取更实用的听牌质量。
+## 例 3
 
-## 例 4：大幅领先的受入，通常还是压过“保证好形”
+<img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"> 摸 <img src="../hai/sou3.gif" width="24" height="34">
 
-第四例属于很典型的临界题。
+前面一直在强调听牌机会优先，但最终等待也不能完全无视。
 
-一边是：
+| 打法 | 听牌机会 | 受入枚数 |
+| --- | --- | --- |
+| 切 `8m` | `9m 3p 5p 6p 8p 2s 5s` | `23` 张 |
+| 切 `5p` | `7m 8m 9m 1s 2s 3s 4s 5s` | `25` 张 |
 
-1. 总受入更宽很多
-2. 但不保证每次都听成好形
+“搭子 + 搭子”路线的宽度几乎是绝对优势。即便对面能做成四面张，这里仍然多 `2` 张受入。
 
-另一边是：
+但 `7m` 边张毕竟太苦了。也就是说，虽然切 `5p` 在听牌机会数字上更好，真正从一向听一路走到和牌，未必就会更快。
 
-1. 听牌质量更稳定
-2. 但总受入少了不少
+所以这题仍要允许为更好的最终等待，放弃那少量的受入差。这里应拆 `89m` 这一侧。
 
-作者这里偏向前者，也就是更早进入听牌。原因很务实：多数对局里，先听牌本身就是巨大的优势，不能把“保证好形”看得比速度还重。
+## 例 4
 
-## 例 5：总受入打平时，比听牌质量和役种空间
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"> 摸 <img src="../hai/pin5.gif" width="24" height="34">
 
-第五例把判断顺序压缩得很清楚。
+到了这一题，就是非常微妙的边界题。
 
-两条路线总受入同为 `28` 张，这时数字已经不能决胜，于是要继续往下比较：
+| 打法 | 听牌机会 | 受入枚数 |
+| --- | --- | --- |
+| 切 `6p` | `1m 2m 3m 4m 6m 7m 1p 2p 3p 4p` | `31` 张 |
+| 切 `3m` | `1m 4m 7m 1p 4p 6p 7p` | `24` 张 |
 
-1. 谁听牌时更容易保留多面张
-2. 谁立直时的最终等待更强
-3. 谁更容易形成平和等打点更好的听牌
+切 `3m` 的强项，是一定能听成两面以上；切 `6p` 的强项，则是更常能更快听牌。
 
-原例结论是拆掉两面搭子侧，保留更可能留下五面张的一边。
+原作者在这里偏向切 `6p`，因为多数实战里，“先一步听牌”本身就是很大的优势，不能把“必定好形”看得比速度更重。
+
+## 例 5
+
+<img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"> 摸 <img src="../hai/sou5.gif" width="24" height="34">
+
+最后看“五面张残留”和“两组两面搭子”的比较。
+
+| 打法 | 听牌机会 | 受入枚数 |
+| --- | --- | --- |
+| 切 `6m` | `5m 5p 8p 1s 2s 4s 5s 7s` | `28` 张 |
+| 切 `2s` | `4m 5m 6m 7m 5p 6p 7p 8p` | `28` 张 |
+
+两边听牌机会完全打平。
+
+既然如此，就该继续比较最终听牌质量。切掉 `56m` 或 `67p` 这一边时，未来有机会留下五面张，因此更优；而且能做成平和听牌的进张也还多 `1` 种。
+
+所以例 5 应保留五面张潜力那一侧。
+
+### 理论小结
+
+**基本仍是先比受入枚数；但当差距几乎没有时，就必须把“听牌时的等待质量”和“好形变化”一起纳入比较。**
 
 ## 这一页的结论
 
-1. 无头一向听默认仍然先比总受入
-2. 只差 `1-2` 张时，不能机械服从数字，要把好形变化一起比较
-3. 连续形在无头结构里的成长价值很高，别轻易拆掉
-4. 即使更宽，也不能完全无视最终等待质量
-5. 当总受入打平时，就比较多面张、役种空间和改良能力
+1. 无头形默认仍先比较总受入
+2. 若只差 `1-2` 张，不能机械服从数字
+3. 连续形在无头结构里的成长空间很值钱，别轻易拆掉
+4. 最终等待太差时，可以为更好听牌放弃少量受入
+5. 若总受入打平，就比较多面张、平和等最终价值
 
 ---
 
