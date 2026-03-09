@@ -1,91 +1,86 @@
 # 搭子理论（3）
 
-前两页是在比较“单个搭子”和“两嵌”。这一页开始看更麻烦的`复合搭子`。
+这一页讲的是复合搭子，以及该怎样处理它们。
 
-重点是：
+## 1. 「两面 + 嵌张」形
 
-**有些 5 张、6 张、8 张牌并不是“一个面子加几张废牌”，而是带着额外受入的复合结构。**
+这里先看一种很常见的 6 张复合搭子：
 
-## 两面加嵌张：最常见也最容易漏看
+<img src="../hai/sou1.gif"><img src="../hai/sou3.gif"><img src="../hai/sou4.gif"><img src="../hai/sou5.gif"><img src="../hai/sou5.gif"><img src="../hai/sou6.gif">
 
-原页先讲的是这种 6 张结构：
+它不只有普通的两面受入 <img src="../hai/sou4.gif"><img src="../hai/sou7.gif">，还额外保留了坎 <img src="../hai/sou2.gif"> 的受入。
 
-<img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" />
+这是非常高频的复合形，实战里一定要小心，不要把这组牌里的坎张受入看漏。
 
-它不是单纯“两面 + 一张孤牌”，因为除了普通两面受入之外，还保留了坎张受入。
+### 例 1
 
-这类牌最容易犯的错误，就是把中间已经看熟的顺子部分直接当成完成面子，结果把额外的坎张进张漏掉。
+<img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man8.gif"><img src="../hai/man8.gif"><img src="../hai/pin2.gif"><img src="../hai/pin2.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/pin9.gif"><img src="../hai/sou2.gif"><img src="../hai/sou3.gif">自摸<img src="../hai/man6.gif">
 
-## 例 1：著名何切问题，本质就在“别漏坎张”
+这题是非常有名的何切问题。
 
-原页第一个例子很经典。很多人只看到眼前的一杯口或一组现成顺子，于是会切错。
+正确答案是切 <img src="../hai/man8.gif">，把坎 <img src="../hai/man7.gif"> 的受入保留下来。
 
-正确理解是：
+---
 
-1. 这整块牌是一个复合搭子
-2. 不能只盯着其中已经成形的那三张
-3. 还要把额外保留的坎张受入一起算进去
+### 例 2
 
-所以这类牌一旦看漏，损失通常不是 1、2 枚，而是直接少 4 枚以上。
+<img src="../hai/pin2.gif"><img src="../hai/pin4.gif"><img src="../hai/pin4.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/sou1.gif"><img src="../hai/sou1.gif"><img src="../hai/sou2.gif"><img src="../hai/sou3.gif"><img src="../hai/sou4.gif"><img src="../hai/sou5.gif">　自摸<img src="../hai/sou4.gif"> 宝牌<img src="../hai/pin3.gif">
 
-## 例 2：宝牌和役种会改变拆法
+这题如果切 <img src="../hai/pin4.gif">，就能把筒子整理成“`两面 + 嵌张`”的形，同时保留宝牌受入。
 
-第二个例子说明，复合搭子的结构判断不是脱离具体局面独立存在的。
+如果宝牌不是 <img src="../hai/pin3.gif">，那么切 <img src="../hai/pin2.gif"> 去保留一杯口的可能性，也会是很有力的一手。
 
-如果：
+这里的重点是：先认出它是复合搭子，再来讨论宝牌和役种带来的取舍。
 
-1. 某个方向保留了宝牌受入
-2. 或者顺带保留了一杯口、断幺九之类价值
+## 2. 其他复合形
 
-那么切法会和“纯速度版答案”不同。
+### 例 3
 
-但前提仍然一样：
+<img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man4.gif"><img src="../hai/man7.gif"><img src="../hai/man8.gif"><img src="../hai/pin5.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin6.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/pin8.gif">自摸<img src="../hai/man9.gif"> 宝牌<img src="../hai/man7.gif">
 
-**先认出它是复合搭子，再谈要不要因为打点去调整。**
+为了三暗刻或一杯口去执着切 <img src="../hai/pin6.gif">，都算是偏慢的打法。
 
-## 其他 8 张复合形：会藏着多条进张路线
+因为筒子这块即使摸到 <img src="../hai/pin9.gif"> 也能直接听牌，所以这里应该把这部分牌形当作厚形来保留。
 
-原页后面给的那些 8 张结构，重点不在死背，而在于让你建立一个习惯：
+这题最优秀的打牌，是切 <img src="../hai/man4.gif">。
 
-1. 牌一多，不能只按线性拆法看
-2. 同一块牌里可能同时藏着双碰、坎张、延单、三面变化
-3. 一旦只按“完成面子 + 剩余零件”去看，就很容易漏受入
+---
 
-这和前面“复合形要当复合形看”的原则是完全一致的，只不过现在落到了更具体的搭子层面。
+### 例 4
 
-## 例 3：不要为了三暗刻或一杯口，主动把厚形拆薄
+<img src="../hai/man1.gif"><img src="../hai/man3.gif"><img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man6.gif"><img src="../hai/man6.gif"><img src="../hai/man7.gif"><img src="../hai/sou2.gif"><img src="../hai/sou3.gif"><img src="../hai/sou7.gif"><img src="../hai/sou8.gif"><img src="../hai/sou8.gif">自摸<img src="../hai/sou1.gif"> 宝牌<img src="../hai/sou9.gif">
 
-原页有个很实用的提醒：
+这题好手是切 <img src="../hai/sou8.gif">，把坎 <img src="../hai/man2.gif"> 的受入保留住。
 
-很多人一看到三暗刻候补、一杯口候补，就会本能地去保那条路线。
+当然，如果先把索子补好，后面可以取成 <img src="../hai/man5.gif"><img src="../hai/man8.gif"> 待，但比起保留双碰，更容易做出平和。
 
-问题是，如果这么保的代价是把原本已经很厚的复合搭子拆成普通形，往往就是速度亏损。
+这种 8 张复合形还有其他常见模式：
 
-所以正确顺序仍然应该是：
+<img src="../hai/man1.gif"><img src="../hai/man2.gif"><img src="../hai/man2.gif"><img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man5.gif"><img src="../hai/man6.gif">　　<span class="red">3m</span>，4-7m
 
-1. 先看哪种取法受入更宽
-2. 再看哪边打点更高
-3. 而不是先被役种名字吸走注意力
+<img src="../hai/man2.gif"><img src="../hai/man2.gif"><img src="../hai/man3.gif"><img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man5.gif"><img src="../hai/man6.gif">　　2m，3m，1-4-7m
 
-## 例 4：有些看似“随手一打”的牌，其实差 4 枚以上
+<img src="../hai/man2.gif"><img src="../hai/man2.gif"><img src="../hai/man3.gif"><img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man5.gif"><img src="../hai/man7.gif">　　<span class="red">6m</span>，1-4m
 
-原页最后一个例子就属于这种：
+<img src="../hai/man2.gif"><img src="../hai/man3.gif"><img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man6.gif"><img src="../hai/man6.gif"><img src="../hai/man7.gif">　　1-4m，5-8m
 
-1. 某张牌看起来像没什么工作
-2. 很容易顺手打掉
-3. 但它其实正好维持了复合形里的额外坎张或连张受入
+这些形出现频率不算特别高，但都很容易把受入看漏，所以要有意识地把它们当整体识别。
 
-结果一打出去，整体受入立刻少 4 枚。
+---
 
-这类错很常见，因为它不是不会数，而是根本没先看到“这是一整块复合搭子”。
+### 例 5
 
-## 这一页的结论
+<img src="../hai/sou2.gif"><img src="../hai/sou2.gif"><img src="../hai/sou4.gif"><img src="../hai/sou6.gif"><img src="../hai/sou6.gif"><img src="../hai/pin4.gif"><img src="../hai/pin5.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/pin9.gif"><img src="../hai/haku.gif"><img src="../hai/haku.gif"><img src="../hai/haku.gif">自摸<img src="../hai/sou8.gif">
 
-1. 复合搭子不能只按“一个面子加若干废牌”去理解
-2. “两面 + 坎张”是最常见也最容易漏看的复合搭子
-3. 识别复合搭子后，再去讨论宝牌、役种和最终切法
-4. 一杯口、三暗刻等打点诱惑，经常会让人把厚形主动拆薄
-5. 看不清复合搭子，最直接的代价通常就是平白少掉 4 枚以上受入
+这里最宽的打牌是直接把 <img src="../hai/sou8.gif"> 自摸切。
+
+因为索子这块还保留着：
+
+<img src="../hai/sou2.gif"><img src="../hai/sou3.gif"><img src="../hai/sou5.gif"><img src="../hai/sou6.gif">
+
+这些摸进后都能听牌。
+
+如果改成打 <img src="../hai/sou4.gif"> 或打 <img src="../hai/sou6.gif">，受入就会直接少掉 4 枚，因此明显不利。
 
 ---
 
