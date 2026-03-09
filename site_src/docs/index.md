@@ -38,6 +38,9 @@
 23. [局势判断栏目导读](./joukyou/index.md)
 24. [局势判断基础](./joukyou/joukyou01.md)
 25. [关注名次](./joukyou/joukyou02.md)
+26. [押引栏目导读](./osihiki/index.md)
+27. [押引铁则](./osihiki/osihiki01.md)
+28. [判断依据](./osihiki/osihiki02.md)
 
 后续页面会按栏目逐步补齐。
 
