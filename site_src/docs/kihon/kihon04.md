@@ -16,13 +16,15 @@
 面子只分两类：
 
 1. 顺子：连续三张数牌  
-   <img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" />
+   <img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" />　<img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" />　……连续三张数牌
 2. 刻子：三张相同的牌  
-   <img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" />
+   <img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" />　<img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" />　……三张相同的牌
 
 从自力做牌的角度看，顺子明显比刻子更容易做成。原因很简单：同一种牌总共只有四张，要凑出三张相同，难度本来就高。
 
 当然，副露时碰可以从任何一家拿牌，吃只能从上家拿牌，所以一旦进入鸣牌路线，刻子会比门清时稍微容易一点。但即便如此，顺子仍然是更常见、更稳定的面子来源。
+
+不靠鸣牌、完全靠自摸凑成的刻子，叫`暗刻`。正因为它比顺子更难自然成型，所以三暗刻、四暗刻这样的役也才会特别难做。
 
 这也是为什么基础做牌时要默认：
 
