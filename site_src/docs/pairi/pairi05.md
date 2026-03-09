@@ -1,95 +1,144 @@
 # 搭子理论（2）
 
-这一页专门讲`两嵌`。
+这一页专讲`两嵌`。
 
-两嵌在受入枚数上有 `8 枚`，表面看很像两面，所以很多人会高估它；但它和两面的实际功能差距很大。
+两嵌指的是像 <img src="../hai/man2.gif"><img src="../hai/man4.gif"><img src="../hai/man6.gif"> 这样，由两个嵌张复合而成的形。
 
-## 两嵌为什么不如两面
+它的受入有 `8 枚`，但功能上仍远不如两面，理由主要有两点：
 
-两嵌的典型形是：
+1. 它要占用 `3` 张牌的位置
+2. 如果最后把它留成等待，通常会剩成嵌张
 
-<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" />
+正因为这两点，两嵌在功能面上远远比不上两面。
 
-它的问题主要有两个：
+## 1. 两嵌和双碰的比较
 
-1. 这组牌用了 `3` 张位置
-2. 如果最后直接拿来听牌，通常会剩成嵌张
+### 例 1
 
-所以虽然受入和两面一样是 `8 枚`，但功能远不如两面自由。
+<img src="../hai/man1.gif"><img src="../hai/man3.gif"><img src="../hai/man3.gif"><img src="../hai/man5.gif"><img src="../hai/pin3.gif"><img src="../hai/pin3.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/sou1.gif"><img src="../hai/sou2.gif"><img src="../hai/sou3.gif"><img src="../hai/sou6.gif"><img src="../hai/sou7.gif">　　自摸<img src="../hai/sou5.gif">
 
-## 两嵌和双碰，很多时候该怎么选
+两嵌真正麻烦的地方，往往就在于它和双碰受入之间的取舍。
 
-原页这一页的核心就是：
+这题如果只看“更容易做成平和听牌”的概率，好像会想切 <img src="../hai/man3.gif">。
 
-**当“两嵌”和“坎张 + 双碰”之间二选一时，双碰路线往往更强。**
+因为摸到 <img src="../hai/man2.gif"><img src="../hai/man4.gif"> 时，都能做成平和听牌。相对地，如果是切 <img src="../hai/man1.gif"> 或切 <img src="../hai/man5.gif">，能做成平和听牌的受入就只剩 1 种。
 
-为什么：
+所以表面看起来，好像应该取两嵌更好。
 
-1. 双碰可以继续向两面变化
-2. 牌重合后有更多完全一向听、平和一向听之类的改良
-3. 副露时碰可以从三家拿牌，速度也更现实
+但如果从**听牌效率**来比较，这里正确答案其实是一手 <img src="../hai/man1.gif"> 切。
 
-也就是说，两嵌的 `8 枚` 受入不是白拿的，它是拿“后续自由度”换来的。
+因为它还能通过摸进 <img src="../hai/pin2.gif"><img src="../hai/pin4.gif">，转成平和的完全一向听：
 
-## 例 1：门清时也常是双碰路线更优
+<img src="../hai/man3.gif"><img src="../hai/man3.gif"><img src="../hai/man5.gif"><img src="../hai/pin3.gif"><img src="../hai/pin3.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/sou1.gif"><img src="../hai/sou2.gif"><img src="../hai/sou3.gif"><img src="../hai/sou5.gif"><img src="../hai/sou6.gif"><img src="../hai/sou7.gif">　　自摸<img src="../hai/pin2.gif">
 
-原页第一个例子很典型：表面看取两嵌更容易形成平和听牌，但如果继续往前看一步，双碰那边的好形变化更多，整体更快更稳。
+当雀头是中张，而且本身还能向两面变化时，一般来说，比起硬取两嵌，取成“嵌张 + 双碰”往往会有更多好形变化，因此更有利。
 
-这个判断方式很重要：
+---
 
-1. 不要只看“哪边更像平和”
-2. 要看“哪边更容易先形成高质量一向听”
+### 例 2
 
-很多人就是在这一步把两嵌高估了。
+<img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man6.gif"><img src="../hai/man6.gif"><img src="../hai/pin4.gif"><img src="../hai/pin6.gif"><img src="../hai/pin8.gif"><img src="../hai/pin8.gif"><img src="../hai/sou4.gif"><img src="../hai/sou5.gif"><img src="../hai/sou5.gif"><img src="../hai/sou6.gif"><img src="../hai/sou7.gif">　　自摸<img src="../hai/man3.gif">
 
-## 例 2：鸣牌手里，双碰更占便宜
+这题因为还看得到三色路线，所以很多人会想切 <img src="../hai/pin8.gif">。
 
-一旦进入副露手，两嵌相对双碰会再吃一层亏。
+但更好的打牌其实是切 <img src="../hai/pin4.gif">，因为这样还能对应万子的三面张变化：
 
-因为：
+<img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man6.gif"><img src="../hai/man6.gif"><img src="../hai/pin6.gif"><img src="../hai/pin8.gif"><img src="../hai/pin8.gif"><img src="../hai/sou4.gif"><img src="../hai/sou5.gif"><img src="../hai/sou5.gif"><img src="../hai/sou6.gif"><img src="../hai/sou7.gif">　　自摸<img src="../hai/man7.gif">
 
-1. 两嵌要靠吃才能直接利用大部分进张
-2. 双碰则可以从任意一家碰
+也就是说，这题不能只盯着三色的影子，而是要看哪一边留下来的后续变化更强。
 
-原页第三个例子就是这个意思：在副露路线里，如果两边当前枚数差不多，往往是双碰更快把手推到听牌。
+---
 
-## 但不是所有时候都该无脑取双碰
+### 例 3
 
-原页第四个例子提醒得对：如果双碰那边的后续改良被堵死，而两嵌那边还能继续扩大受入，那么保留两嵌反而可能更好。
+<img src="../hai/sou1.gif"><img src="../hai/sou1.gif"><img src="../hai/sou3.gif"><img src="../hai/sou5.gif"><img src="../hai/sou8.gif"><img src="../hai/sou8.gif"><img src="../hai/pin4.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif">　碰<img src="../hai/haku.gif"><img src="../hai/haku.gif"><img src="../hai/yhaku.gif">　　自摸<img src="../hai/pin2.gif">
 
-所以这页真正要记住的是：
+已经鸣牌的手牌里，双碰受入会比两嵌更占便宜。
 
-1. 一般情况下，双碰路线更容易比两嵌路线多出好形变化
-2. 但一旦具体牌姿里两嵌能衍生出更多有效牌，就要就手判断
+这题要切 <img src="../hai/sou5.gif">，去争取 <img src="../hai/sou1.gif"> 和 <img src="../hai/sou8.gif"> 的碰听。
 
-不要把“通常”理解成“永远”。
+如果切 <img src="../hai/sou1.gif"> 去取两嵌，受入枚数虽然不会变，但**听牌速度**会变慢。
 
-## 很多两嵌会被藏在完成面子里
+理由很直接：
 
-原页后半段还提醒了一个实战错误：
+1. 吃只能吃上家
+2. 碰可以碰三家任何一家
 
-有些两嵌不是直接摆在外面，而是混在看起来已经完成的顺子、一杯口候补里。
+所以在副露手里，双碰路线往往更有利。
 
-例如你看到：
+---
 
-1. 一组现成顺子
-2. 一张新摸进来的边张牌
+### 例 4
 
-很容易随手切掉新牌。
+<img src="../hai/man4.gif"><img src="../hai/man6.gif"><img src="../hai/man8.gif"><img src="../hai/man8.gif"><img src="../hai/pin1.gif"><img src="../hai/pin1.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/sou3.gif"><img src="../hai/sou5.gif">　　自摸<img src="../hai/sou4.gif">
 
-但如果把“顺子”暂时拿出来重新看，可能会发现剩下来的其实是两嵌，这时直接切掉那张新牌就等于白白砍掉 4 枚甚至 8 枚进张。
+不过，也不是所有时候都一律双碰更好，事情没有那么简单。
 
-所以这页还有一个实践重点：
+这题按牌理更推荐切 <img src="../hai/man8.gif">，先取一向听。这样后续的好形变化更值得期待。
 
-**别被表面完成面子骗过去，必要时要把它拆开重看。**
+不仅摸到 <img src="../hai/man3.gif"> 有效，连原本看起来像反向摸进的 <img src="../hai/pin1.gif"> 也会成为有效牌：
 
-## 这一页的结论
+<img src="../hai/man4.gif"><img src="../hai/man6.gif"><img src="../hai/man8.gif"><img src="../hai/pin1.gif"><img src="../hai/pin1.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/sou3.gif"><img src="../hai/sou4.gif"><img src="../hai/sou5.gif">　　自摸<img src="../hai/pin1.gif">
 
-1. 两嵌虽然有 `8 枚` 受入，但功能仍明显弱于两面
-2. 两嵌和“双碰 + 坎张”二选一时，双碰路线通常更优
-3. 原因在于双碰更容易带来好形变化，副露时也更快
-4. 但具体牌姿里，如果两嵌保留了更强的后续改良，也可能反过来更优
-5. 很多两嵌会被藏在完成面子或一杯口候补里，不能只看表面
+这时只要再切 <img src="../hai/man4.gif"> 或 <img src="../hai/man8.gif">，受入就会明显增加。
+
+相对地，如果一开始切 <img src="../hai/man4.gif"> 取成双碰，那么再摸到 <img src="../hai/man5.gif"> 时，`5m` 并不会成为有效牌，属于完全的反向摸进。
+
+### 理论小结
+
+> 两嵌手里，如果是在“取双碰”还是“取嵌张”之间选择，就要比较好形变化的枚数。一般来说，双碰更有利的情况更多。
+
+## 2. 容易看漏的两嵌
+
+两嵌和完成面子复合后，很容易被忽略。
+
+### 例 5
+
+<img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man7.gif"><img src="../hai/pin5.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/pin7.gif"><img src="../hai/sou1.gif"><img src="../hai/sou3.gif"><img src="../hai/sou3.gif"><img src="../hai/sou7.gif"><img src="../hai/sou8.gif">　自摸<img src="../hai/pin9.gif">
+
+像这题这种形，有人会很随手地把 <img src="../hai/pin9.gif"> 自摸切掉。
+
+因为目光会先被一杯口吸过去。
+
+但如果把 <img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"> 这组现成面子先拿出来重看，就会发现筒子部分其实是 <img src="../hai/pin5.gif"><img src="../hai/pin7.gif"><img src="../hai/pin9.gif"> 的两嵌。
+
+这时如果直接打 <img src="../hai/pin9.gif">，就等于把 <img src="../hai/pin8.gif"> 的受入白白消掉了。
+
+---
+
+### 例 6
+
+<img src="../hai/man1.gif"><img src="../hai/man2.gif"><img src="../hai/man2.gif"><img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man6.gif"><img src="../hai/man7.gif"><img src="../hai/man8.gif"><img src="../hai/man9.gif"><img src="../hai/sou5.gif"><img src="../hai/sou5.gif"><img src="../hai/sou6.gif"><img src="../hai/sou7.gif">
+
+这题是一气通贯的一向听，但万子部分其实是两嵌形。
+
+所以即使之后摸到安全牌，也不要大意地把 <img src="../hai/man2.gif"> 切掉，否则会把 <img src="../hai/man3.gif"> 摸进来的听牌机会直接放掉。
+
+## 3. 变则两嵌
+
+偶尔还会遇到一种“分离两嵌形”。
+
+比如：
+
+<img src="../hai/sou2.gif"><img src="../hai/sou4.gif"><img src="../hai/sou5.gif"><img src="../hai/sou6.gif"><img src="../hai/sou7.gif"><img src="../hai/sou9.gif">
+
+这种 6 张构成里，也存在 `8 枚` 受入。
+
+### 例 7
+
+<img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man5.gif"><img src="../hai/man6.gif"><img src="../hai/pin1.gif"><img src="../hai/pin3.gif"><img src="../hai/pin4.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin8.gif"><img src="../hai/pin9.gif"><img src="../hai/sou7.gif"><img src="../hai/sou7.gif">　　自摸<img src="../hai/man6.gif">
+
+这种牌形常见于放弃一气通贯、改走门断平一杯口之类路线的时候。
+
+这题当然要把目标切换成门清断幺九平和一杯口，但 <img src="../hai/pin9.gif"> 切和 <img src="../hai/pin1.gif"> 切，差距极大。
+
+如果切后者，就会把坎 <img src="../hai/pin2.gif"> 的受入直接弄没。
+
+<img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man5.gif"><img src="../hai/man6.gif"><img src="../hai/man6.gif"><img src="../hai/pin1.gif"><img src="../hai/pin3.gif"><img src="../hai/pin4.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin8.gif"><img src="../hai/sou7.gif"><img src="../hai/sou7.gif">　　自摸<img src="../hai/pin2.gif">
+
+<img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man5.gif"><img src="../hai/man6.gif"><img src="../hai/man6.gif"><img src="../hai/pin3.gif"><img src="../hai/pin4.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin8.gif"><img src="../hai/pin9.gif"><img src="../hai/sou7.gif"><img src="../hai/sou7.gif">　　自摸<img src="../hai/pin2.gif">
+
+所以这类分离两嵌，实战里也要作为一个整体来识别，不能只看表面上的一张边牌。
 
 ---
 
