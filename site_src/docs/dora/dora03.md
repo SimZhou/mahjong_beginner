@@ -1,79 +1,86 @@
 # 宝牌 2 张以上
 
-当手里已经有 `2` 张甚至更多宝牌时，整副手的优先级会发生明显变化。
+当自己手里有 2 张以上宝牌时，就是很明确的机会手。
 
-这时最容易犯的错有两个：
+这时最重要的目标，不是再去贪更多花样，而是尽快朝和牌的最短距离前进。
 
-1. 贪得太多，硬把已经够高的牌再往更高打点拧，结果把等待打坏
-2. 还按普通门清手的节奏慢慢来，没有把“这手本来就已经值钱”转化成速度优势
+## 不要贪
 
-所以这一页的核心结论很直接：
+### 例 1
 
-**多宝牌手，通常应更偏向速度、和牌率与可副露性，而不是继续贪额外花样。**
+<span class="b">例 1</span><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34">　碰<img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/yman8.gif" width="32" height="24">　　碰<img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/ytyun.gif" width="32" height="24"><img src="../hai/tyun.gif" width="24" height="34">　　宝牌<img src="../hai/man1.gif" width="24" height="34">
 
-## 第一部分：别为了再抬一点分，把已经够高的手打慢
+例 1 若切 `3p`，就能做成“对对和 + 白 + 中 + 宝牌 2”，跳满确定。
 
-### 例 1：满贯两面，通常优于跳满坏形
+但这其实贪过头了。切 `4p` 虽然只剩满贯，可待牌枚数却翻倍。
 
-第一例里，如果切 `3p`，可以把手做成跳满确定；但切 `4p`，虽然分数回到满贯，等待却明显更宽。
+把满贯两面，硬做成跳满双碰或坎张，通常是亏的。牌已经够贵时，就不该为了再多一点分，把等张故意做坏。
 
-原页的判断非常务实：既然已经是高打点手，就不必再为了多涨一点分，主动把等待做成双碰或坎张。高打点手最怕的不是“不够高”，而是“高是高了，但和不到”。
+### 例 2
 
-这题可以压成一句规则：
+<span class="b">例 2</span><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　　宝牌<img src="../hai/pei.gif" width="24" height="34">
 
-**牌已经够贵时，继续涨价的优先级低于把它真的和出来。**
+这是一手门混一色、宝牌 3，已经跳满确定的牌。
 
-### 例 2：大物手更要追求可和性
+如果这时摸到 `7s`：
 
-第二例是门混一色、宝牌三张的大手。
+☆<img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　　摸到<img src="../hai/sou7.gif" width="24" height="34">
 
-如果摸到 `7s`，确实可以选择走更大的倍满路线；但原页认为，此时更应切 `1s`，取更宽的多面张。原因很简单：大手本来就不缺点数，真正缺的是把它兑现成实际和牌的机会。
+与其切 `9s` 去做倍满（门混一气通贯宝牌 3），不如切 `1s`，取 `2s / 5s / 8s / 9s` 的宽待。
 
-同理，就算副露 `9s` 会让门前混一色掉成更便宜的手，只要能把等待大幅做宽，也完全值得。宝牌暗刻或多张宝牌在手时，**牺牲一点牌型装饰，换更多和牌枚数，通常是赚的。**
+大手真正缺的不是再多一点分，而是把它兑现成和牌的机会。
 
-## 第二部分：多宝牌手要默认把“能鸣”看得更重
+同理，如果从例 2 的起手阶段有人打出 `9s`，也应直接碰掉再切 `1s`：
 
-### 例 3：宝牌暗刻时，副露满贯没有理由慢吞吞
+☆<img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　　碰<img src="../hai/ysou9.gif" width="32" height="24"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34">
 
-第三例里，发暗刻已经把打点垫得很高。这时如果还因为想顺手兼顾三色，就把速度让出去，明显不值。原页的意思很清楚：
+虽然门混一色从跳满掉回满贯，但待牌变成了 `3s / 6s / 7s`。只要是宝牌暗刻这类高打点手，值钱已经足够时，往往就该用更宽的待牌换取更高和牌率。
 
-1. 宝牌暗刻已经给了足够分数
-2. 那就别再为不确定的两番役耽误听牌
-3. 上家有合适的进张时，直接吃碰听牌即可
+## 例 3
 
-这是多宝牌手和普通手最不同的地方：
+<span class="b">例 3</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　　宝牌<img src="../hai/hatu.gif" width="24" height="34">
 
-**当你已经天然值钱，就该更愿意用鸣牌把这份价值变现。**
+若宝牌不是 `发`，那切 `4m` 顺手看 `234` 三色，也不是不能考虑。
 
-## 第三部分：起手就有 2 张宝牌时，要用“副露前提”思考
+但既然现在是宝牌暗刻，那么就应直接切 `2s`，笔直奔听牌去。
 
-### 例 4：把宝牌两张固定住，比慢慢打门清更重要
+如果上家打出合适的牌，就应直接吃碰取听。鸣了仍是满贯，就没有理由慢吞吞地再等。 
 
-第四例是起手思考题。
+☆<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　　吃<img src="../hai/ypin6.gif" width="32" height="24"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34">
 
-南场拿到这样一副牌，如果还想着门清慢慢来，反而会让宝牌两张的优势虚耗掉。正确做法是切 `9p`，把两张红中张固定下来，朝断幺九宝牌 2 或役牌叠加的副露手推进。
+## 以鸣牌为前提的做牌
 
-原页把役牌称作这种手的“特急券”，这个比喻很准确：
+如果手里已经有宝牌 2、宝牌 3，那就要带着“鸣了也照样很值”的前提去做手。
 
-1. 手里已有多宝牌
-2. 只差一个能鸣的役就能高速成牌
-3. 那役牌对子、断幺九路线就格外值钱
+### 例 4
 
-### 例 5：有两张宝牌时，往能副露的断幺九走往往更快
+<span class="b">例 4</span><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">　　摸到<img src="../hai/man6.gif" width="24" height="34">　　宝牌<img src="../hai/pin8.gif" width="24" height="34">
 
-第五例继续讲同一件事。
+假设南场起手拿到这样一副牌。
 
-比起抱着 `1p` 对子慢慢门清摸牌，直接拆它走副露断幺九，更能把宝牌 2 的价值快速兑现出来。原页在这里的态度很鲜明：
+这里该切的牌只有 `9p`。
 
-**宝牌 2、宝牌 3 的手，常常就该带着“随时准备鸣牌”的姿态来做。**
+这样可以先把宝牌两张固定下来，目标自然就是断幺九宝牌 2，或者后续叠到役牌形成 `3900` 以上的副露手。这里的役牌对子就像“特急券”，价值非常高。
+
+### 例 5
+
+<span class="b">例 5</span><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/sou2.gif" width="24" height="34">　　宝牌<img src="../hai/sou8.gif" width="24" height="34">
+
+宝牌 2 的时候，就该把 `1p` 对子拆掉，直接朝食断走。
+
+与其切 `7m`、`6p` 这种牌慢悠悠门清推进，不如转成可以随时鸣牌的断幺九路线。宝牌两张在手时，“能鸣的断幺九”往往就是更快、更现实的高分路线。
+
+### 理论小结
+
+<span class="green">当手里有 2 张以上宝牌时，应把速度和和牌率放在第一位。<br />要按“随时准备鸣牌”的前提来做手。</span>
 
 ## 这一页的结论
 
-1. 手牌有 2 张以上宝牌时，通常应更重视速度和和牌率
-2. 已经够高的手，不必再为了更高分主动把等待做坏
-3. 多宝牌手尤其适合通过副露尽快变现
-4. 宝牌暗刻、多张宝牌在手时，不确定手役的优先级会下降
-5. 起手就有多张宝牌时，应主动思考“怎样最快把这手做成能和的高分手”
+1. 手牌有 2 张以上宝牌时，应优先追求最短和牌距离
+2. 已经够贵的手，不必再为了更高分主动把等待做坏
+3. 宝牌暗刻或多张宝牌在手时，不确定役种的优先级会下降
+4. 多宝牌手应更主动把“能鸣”视作变现优势
+5. 起手就有多张宝牌时，应按副露高打点手的思路来做牌
 
 ---
 
