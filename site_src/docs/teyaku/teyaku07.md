@@ -1,86 +1,98 @@
 # 染手（2）
 
-上一页解决的是“这手值不值得去染”。这一页继续往前走一步：**既然已经决定染，接下来该怎么把混一色打得更灵活、更不容易被看穿。**
+染手里最重要的技术，其实是“鸣牌”的处理，不过那部分会放到第五章去讲。
 
-这里的重点不再是起手判断，而是几种混一色实战手筋。
+这一页先专门谈混一色的几个实战手筋。
 
-## 第一部分：要学会“留转身空间的切法”
+## 1. 渡牌打法
 
-混一色最重要的，不只是染哪一门，而是**给自己保留转进同色的余地。**
+### 例 1
 
-### 例 1：先拆杂色重叠，保留同色连续形
+<span class="b">例 1</span><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34">　　碰<img src="../hai/ytyun.gif" width="32" height="24"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">
 
-第一例里，碰出 `中` 之后，常规答案是切 `6m`。原因不是它眼前最孤，而是：
+例 1 是碰出 `中` 之后的打牌选择，理论上应切 `6m`。
 
-1. 保留索子的连续结构
-2. 后面一旦再摸进索子，就能自然整副牌过渡到索子混一色
-3. 若现在先把索子连续块拆掉，就等于自己砍掉最值钱的转身空间
+这么做的理由，不是因为 `6m` 眼前最孤，而是因为保留了索子的连续形。只要后面继续摸到索子，这手就能自然地渡向索子混一色。
 
-这就是混一色里很重要的思路：
+<img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34">　　摸到<img src="../hai/sou2.gif" width="24" height="34">　　碰<img src="../hai/ytyun.gif" width="32" height="24"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">
 
-**不是只看当前哪个最没用，而是看切完以后，还保不保留“整副牌全部染过去”的通路。**
+如果巡目还早，那么哪怕之后把 `9s`、`西` 都碰掉，形成听牌不取，也依然可以继续往混一色走。
 
-### 例 2：听牌时，宁可少一张，也可以为了染手升级改成单骑
+这类打法的核心，就是不要只盯着眼前能不能立刻听牌，而要保留“整副牌还能不能顺势全部染过去”的通路。
 
-第二例是混一色待牌选择。
+### 例 2
 
-原页的结论很鲜明：哪怕当前枚数略少，也要受成单骑。理由在于：
+<span class="b">例 2</span><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34">　　摸到<img src="../hai/pin2.gif" width="24" height="34">　　碰<img src="../hai/yton.gif" width="32" height="24"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34">
 
-1. 这样无论再摸进筒子还是字牌，都能把手直接升级成混一色
-2. 如果只顾眼前待牌宽一点，反而会把最重要的染手升级空间全部堵死
+例 2 是听牌取法。
 
-所以染手里，待牌选择经常不能只按“当前几张”来算，还要问：
+这里的常规答案是：即使当前待牌少一张，也应当受成单骑。
 
-**它会不会把整手从普通副露手，升级成真正的混一色手。**
+因为只要这样处理，之后无论摸到筒子还是字牌，都还能升级成混一色。既然升级空间这么大，少一张当前待牌并不算问题。
 
-## 第二部分：偶尔要做一点“先打伪装”
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34">　　摸到<img src="../hai/pin8.gif" width="24" height="34">　　碰<img src="../hai/yton.gif" width="32" height="24"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34">
 
-原页对迷彩的态度很明确：现代麻将里，单纯靠假装别色来迷惑对手，通常已经不算高收益战术。但在混一色里，少量“先打外色小牌”仍然偶尔有效。
+像这样摸到 `8p` 之后，如果能变成多面张，就是最理想的展开。
 
-### 例 3：路线已经确定时，切牌顺序可以稍微伪装
+## 2. 先打
 
-第三例配图就是这个意思。
+虽然说迷彩已经属于比较过时的战术，但在混一色里，偶尔仍然会有效。
 
-既然你已经不缺必要面子，就没必要立刻把混一色信号最强的那张牌打出去。先从一张相对不刺眼的外色牌下手，可以让别人更晚看清你的路线。
+### 例 3
 
-这不是要你全程演戏，而是一个很小但实用的切牌顺序优化：
+<span class="b">例 3</span>
 
-1. 路线已经确定
-2. 切哪张不会伤害速度
-3. 那就优先切更不暴露方向的一张
+<img src="../images/002.gif" width="420" height="450" />
 
-## 第三部分：染手必须更强地识别复杂牌形
+这手必要面子已经齐了，因此不该想当然地先切 `6m`，而应先从 `5p` 下手。
 
-同色牌越多，牌形越容易复杂，待牌也越容易看错。混一色和清一色玩家最常见的失误之一，就是到了听牌时把自己的多面张读错，或者忘了已经碰掉的牌对剩张的影响。
+这只是一个很小的切牌顺序调整，但能让混一色不那么容易被看穿。
 
-### 例 4：别忘了副露过的牌会改变最佳待牌
+图里举的是摸到 `3p` 的情况；如果摸到的是 `4p`，同样也应先切 `2p`，而不是急着去动最显眼的外色搭子。
 
-第四例是很典型的混一色多面张题。
+这种“先打”不是叫你全程演戏，而是在不损害速度的前提下，尽量让自己少暴露一点路线。
 
-答案是切 `3s`，取 `1s / 4s / 7s` 待。若误取 `3s / 6s / 9s`，看起来也是多面张，实际只剩 `5` 张可和。
+## 3. 对牌形要更强
 
-这题要训练的是两个习惯：
+把同一种花色集中起来以后，牌形会变得更复杂。
 
-1. 同色牌多时，别被表面顺子分组骗了
-2. 你自己碰出的牌，必须一并计入剩张判断
+很多人一到门清清一色或混一色听牌，就容易被复杂形吓住，甚至把牌硬拆成三张一组在那里数。这个没有别的办法，只能靠熟悉。
 
-### 例 5：变则多面张不只是要会认，还要会比较打点
+### 例 4
 
-第五例说明，混一色里有些变则多面张虽然眼前都能和，但切法不同，打点与复合役空间会差不少。
+<span class="b">例 4</span>
 
-原例中，改成切 `3m` 的三面张不仅待牌不差，还顺带保留一气通贯的机会，所以是更高质量的听牌。
+<img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34">　　摸到<img src="../hai/sou8.gif" width="24" height="34">　　碰<img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/ysou9.gif" width="32" height="24"><img src="../hai/sou9.gif" width="24" height="34">
 
-这就超出了“会不会和”的层面，进入“**同样能和，哪种更值钱**”的选择。
+这种牌形其实非常容易看错。
+
+正解是切 `3s`，取 `1s / 4s / 7s` 待。
+
+实战里要特别注意：你自己碰出的牌也必须算进剩张里。有些人会一不小心忘了自己已经碰掉的 `9s`。
+
+如果误取成 `3s / 6s / 9s` 待，看上去也是多面张，实际上只剩 `5` 张可和，明显更差。
+
+### 例 5
+
+<span class="b">例 5</span>
+
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34">　　摸到<img src="../hai/man6.gif" width="24" height="34">　　碰<img src="../hai/yhaku.gif" width="32" height="24"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34">
+
+变则多面张里，代表性的形最好也要记住一些。
+
+这手当前已经是三面待，但如果改成切 `3m`，取 `5m / 6m / 9m` 待，打点面会更有利。
+
+因为这样不仅待牌不差，还顺带保留了一气通贯的可能。
+
+一气通贯也是很容易被忽略的手役，染手里尤其要记得顺手检查。
 
 ## 这一页的结论
 
-1. 混一色最重要的实战技术，是保留整副牌继续转染的空间
-2. 待牌选择时，要把“是否能升级成真正混一色”一起计算
-3. 路线已确定时，切牌顺序可以稍微兼顾不暴露方向
-4. 染手里必须更熟悉复杂同色牌形与多面张判断
-5. 听牌比较不只看能不能和，还要看是否顺带保留更高打点的复合可能
-
-<img src="../images/002.gif" width="420" height="450" />
+1. 混一色很重要的一项手筋，是保留整副牌继续渡向同色的空间
+2. 听牌取法时，不能只看当前待牌几张，还要看是否能升级成真正的混一色
+3. 在不损害速度的前提下，切牌顺序可以稍微兼顾不暴露方向
+4. 染手里更需要熟悉复杂同色牌形和多面张判断
+5. 同样都能和时，还要比较能否顺带保留更高打点的复合路线
 
 ---
 
