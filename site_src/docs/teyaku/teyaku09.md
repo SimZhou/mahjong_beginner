@@ -1,117 +1,123 @@
 # 对子手（1）
 
-这一页开始处理对子类手役，第一步先解决一个最常见的分岔：
+这一页先讨论：七对子和对对和，应该优先走哪一边。
 
-**当手里对子很多时，到底该走七对子，还是切向对对和。**
+## 1. 六组对子
 
-这不是靠喜好决定的，而要看：
+如果已经是七对子听牌，再硬改成对对和，通常就是坏手。
 
-1. 当前有几组对子
-2. 哪些对子容易碰到
-3. 就算碰成对对和，打点够不够、速度够不够
-4. 是否还带有役牌、暗刻、后备役种等加分条件
+就算场上打出了可以碰的牌，也不该乱动，而是应该等手里整理成更好的单骑之后立直。
 
-## 第一部分：六组对子时，默认继续走七对子
+### 例 1
 
-### 例 1：七对子已经听牌，就不要硬拗成对对和
+<span class="b">例 1</span><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">
 
-原页第一条结论非常硬：如果已经是七对子听牌，再硬把它碰回去改做对对和，通常是坏手。
+如果像这种极端牌姿在序盘就已经七对子听牌，那当然另说；但除非真到这种程度，否则不该把已经成形的七对子听牌，硬碰回两向听去改做对对和。
 
-原因很简单：
+### 理论小结
 
-1. 你已经离和牌只差一步
-2. 硬改对对和会直接倒退到两向听甚至更差
-3. 这时候所谓“以后可能更高打点”大多只是幻想
+<span class="green">七对子听牌后，不要硬把它改成对对和。</span>
 
-所以在六对子已经听牌的阶段，默认思路就是：
+## 2. 五组对子
 
-**调整成更好的单骑，然后立直。**
+五组对子，正好就是七对子和对对和真正的分叉点。
 
-## 第二部分：五组对子，是七对子和对对和的真正分叉点
+如果只看向听数，七对子是一向听，而对对和就算能碰，也往往还是两向听。
 
-五组对子最难，因为此时：
+但七对子必须靠自摸把剩下那几张单牌重叠起来，本来就是一种从一向听到听牌会拖很久的手型。
 
-1. 七对子是一向听
-2. 对对和如果能持续碰牌，也并非完全来不及
+所以有些手牌，宁可把向听数先倒退一下，改走对对和，反而更合理。
 
-所以这时不能只看向听数，而要看“这些对子到底碰不碰得到”。
+### 例 2
 
-### 例 2：幺九牌和役牌多、又有役牌对子时，可以转对对和
+<span class="b">例 2</span><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">　　宝牌<img src="../hai/pin7.gif" width="24" height="34">
 
-第二例就是适合转对对和的标准材料。
+像例 2 这种手，就可以副露转对对和。
 
-它的优点在于：
+理由是：
 
-1. 幺九牌、字牌多，场上更容易打出
-2. 有役牌对子，自带打点和成役保证
-3. 就算不完全变成对对和，副露后路线也不至于太惨
+1. 容易碰到的牌很多
+2. 还有役牌对子，既保证成役，又保证打点
+3. 即便没完全做成对对和，副露后的路线也不会太差
 
-因此这类牌，确实可以在五对子阶段主动转向副露对对和。
+这里有一个必须记住的实战规律：
 
-## 一条必须记住的实战常识
-
-原页中段给了一个非常实用的鸣牌规律：
-
-1. 幺九牌、字牌最容易碰
+1. 幺九牌和字牌最容易碰
 2. `2/8` 次之
-3. 数牌 `3-7` 通常最难碰
+3. 数牌 `3-7` 一般最难碰
 
-这条规律几乎是决定“五对子该不该转对对和”的核心基础。因为对对和本质上不是纸上成型，而是**看这些对子有没有现实副露概率。**
+也正因为如此，断幺九对对和通常不好做，而幺九牌、字牌较多的对子手更适合转向对对和。
 
-### 例 3：对子虽多，但如果难碰又便宜，就不要转
+### 理论小结
 
-第三例正好是反例。
+<span class="green">幺九牌容易碰。<br />数牌 `3-7` 最难碰。</span>
 
-虽然也有五对子，但多数都集中在中张，对手不容易打，且就算勉强做成，分数也低、防守还差。这样的牌去做对对和，就是典型的：
+### 例 3
 
-1. 慢
-2. 便宜
-3. 一旦别人先攻，你还很难转守
+<span class="b">例 3</span><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　　宝牌<img src="../hai/sou2.gif" width="24" height="34">
 
-所以这类五对子，更该老实继续七对子路线。
+例 3 就不该副露。
 
-## 第三部分：如果还有后备役或后手灵活性，转对对和会更合理
+因为就算强行做成，多半也只是 `2600` 左右的便宜手，而且可碰的对子并不多。
 
-### 例 4：即使对子不算特别好碰，只要有后备役，也可以转
+<img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34">　　碰<img src="../hai/pei.gif" width="24" height="34"><img src="../hai/ypei.gif" width="32" height="24"><img src="../hai/pei.gif" width="24" height="34">　碰<img src="../hai/yman9.gif" width="32" height="24"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34">
 
-第四例说明，五对子是否转对对和，并不只看“碰不碰得到”，还要看碰了以后是不是有兜底。
+这种牌的问题很典型：便宜、难和、守备还差。可以说是坏副露的标准范例。
 
-这手里除了对对和，还有：
+### 理论小结
 
-1. 发的役牌保证
-2. 断幺九等副路线
+<span class="green">若同时满足：<br />- 容易碰的对子够多<br />- 预计打点至少 `3900`<br />- 巡目还早<br /><br />则可以把七对子一向听切换成对对和路线。</span>
 
-也就是说，即使最终没完全变成对对和，也不至于整手失去和牌能力。因此这类牌可以更积极地允许副露转换。
+### 例 4
 
-原页还特意提醒：这时候不要一上来就把 `45s` 这种好形块先拆掉，应该先把最不必要的那张字牌处理掉，再边看局势边决定是要做满打满算的对对和，还是接受较低打点先和。
+<span class="b">例 4</span><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　　宝牌<img src="../hai/sou1.gif" width="24" height="34">
 
-## 第四部分：四对子加一暗刻时，要把对对和一并留着
+例 4 呢？
 
-### 例 5：有一组暗刻时，对对和路线会比七对子更值得保留
+虽然这手里可碰的牌并不算特别好碰，但我认为可以副露。
 
-如果已经有一组暗刻，局面就变了。
+因为即使最后没完全做成对对和，这手还有：
 
-因为这时：
+1. `发` 的役牌后付
+2. 断幺九的副路线
 
-1. 七对子虽然仍然是一向听
-2. 但对对和路线的真实听牌速度会显著提升
-3. 还顺带保留三暗刻、四暗刻等上位可能
+也就是说，不是非要死做成纯对对和不可。
 
-所以这类牌型里，最合理的做法通常是：
+因此这里先副露后，应该先把 `白` 切掉，再看场况决定后面是追 `5200` 的对对和，还是接受便宜点先和。
 
-1. 先维持一个兼容七对子与对对和的形
-2. 如果能碰到关键对子，就立刻转向对对和
-3. 如果场上已经两枚见切、明显碰不成，再回收成纯七对子路线
+<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　　<img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/yman5.gif" width="32" height="24">
 
-这是一种“保留两手准备”的打法，而不是早早死锁一边。
+如果一上来就把 `4s5s` 这组好形先拆掉，走法就太独了。
+
+## 3. 四组对子加一组暗刻
+
+这种时候的标准想法，是按四暗刻两向听的方式取牌。
+
+### 例 5
+
+<span class="b">例 5</span><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　　摸到<img src="../hai/man5.gif" width="24" height="34">
+
+像例 5 这种牌，基本切法就是从 `3p`、`4s`、`白` 里选一张打掉，先维持成“七对子六枚形的一向听”，同时保留对对和路线。
+
+如果之后场上打出了可碰的牌，就直接碰，转对对和。
+
+因为在一向听层面，对对和比七对子明显更容易真正进入听牌；而且还顺带保留三暗刻、四暗刻的可能。
+
+### 理论小结
+
+<span class="green">若已经有一组暗刻，<br />就把七对子和对对和一起留着，<br />有能碰的牌出现就碰。</span>
+
+不过，如果场上已经有某组对子两枚见切，也就是根本不可能再变成刻子，那么就应当直接切 `5m`，锁定七对子路线。
+
+没有必要为了极度渺茫的役满可能，勉强去保留错误的对对和想象。
 
 ## 这一页的结论
 
-1. 六对子已经听牌时，默认继续七对子，不要强拗成对对和
-2. 五对子是七对子与对对和的真正分叉点
-3. 幺九牌、字牌、`2/8` 更容易碰，`3-7` 中张更难碰
-4. 能否转对对和，不只看对子数量，还要看打点、役牌、后备路线和副露现实性
-5. 若已有一组暗刻，应保留七对子与对对和的双重可能，等关键碰牌出现再转向
+1. 六对子已经听牌时，默认继续七对子，不要硬改对对和
+2. 五对子是七对子与对对和真正的分叉点
+3. 幺九牌、字牌更容易碰，`3-7` 中张最难碰
+4. 是否转对对和，不只看对子数量，还要看打点、役牌、巡目和后备路线
+5. 若已有一组暗刻，应优先保留七对子与对对和两手准备，等可碰牌出现再转向
 
 ---
 
