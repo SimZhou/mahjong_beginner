@@ -1,74 +1,85 @@
 # 三色
 
-三色在现代麻将里不再是第一主角，但它仍然是最实用的两番役之一。
+三色同顺在过去曾被视为手役里的明星，但到了现代麻将里，已经更像配角。
 
-真正重要的不是“为了三色强行造手”，而是：
+不过它毕竟还是一个相对容易做成的 2 番役，所以实战中依然经常会去考虑。
 
-1. 看见三色的种子时不要漏
-2. 在不明显减速的前提下，知道怎样把它顺手接上
-3. 能区分哪些三色值得追，哪些不值得
+关于三色的技巧很多，但真正高频会用到的并不多。与其说三色最重要的是“怎么硬做出来”，不如说更重要的是：**不要漏看三色。**
 
-## 第一部分：三色最重要的基本功，是滑移
+这一页只抓最常用的基本手筋。
 
-所谓三色的基本手筋，就是让万、筒、索三门的对应面子上下滑动，逐步对齐到同一数字带。
+## 1. 滑移
 
-### 例 1：摸进相关牌后，学会把中间块滑成三色
+所谓三色的基本手筋，就是把万、筒、索三门里的对应面子，往上或往下滑动，逐步对齐到同一数字带。
 
-第一例很典型。
+### 例 1
 
-原本是标准平和一向听，但如果摸进 `6p`，就可以把 `3p` 换掉，转成 `456` 三色的一向听；如果摸进 `2p`，则把结构往下滑，转成 `234` 三色。
+<span class="b">例 1</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">
 
-这题的核心不是答案有多难，而是要形成条件反射：
+先看一个最简单的例子。
 
-1. 某门牌一旦被补成相邻的同编号块
-2. 就立刻检查另两门有没有对应种子
-3. 有的话，优先考虑滑移形成三色
+这手当前是平和一向听，但如果摸到 `6p`，就可以把 `3p` 和它交换位置，变成 `456` 三色的一向听。
 
-**看见并完成滑移，是三色里最常用也最值钱的技术。**
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">
 
-## 第二部分：有时可以把两种三色同时挂在天平上
+同样地，如果摸到 `2p`，就把 `5p` 和它交换。
 
-### 例 2：让手牌同时保留两边三色可能
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">
 
-第二例展示的是“三色天秤”。
+这样一来，牌形就向下滑成了 `234` 三色。
 
-如果只求眼前受入，也许会先动筒子；但切 `7s` 后，手里同时保留 `678` 和 `789` 两个三色方向。这样的打法不是为了炫技，而是为了让后续摸牌更容易把其中一路兑现成役。
+这虽然是最基础的例子，但正是三色里最重要的手筋。
 
-不过原页也提醒得很对：这种打法实战并不高频，不必把它神化。重点只是：
+## 2. 双天秤
 
-1. 当代价不大时，可以顺手把两路三色一起保留
-2. 但不能为了这种“天秤”去明显牺牲速度
+这也是三色里很有名的一种手筋。
 
-## 第三部分：会利用余牌，三色就会经常自己长出来
+### 例 2
 
-三色最容易被忽略的来源，不是完整顺子，而是那些看起来最不像关键牌的“余牌”。
+<span class="b">例 2</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34">
 
-### 例 3：拆对子时，要看剩下的余牌是不是三色种子
+这手如果单纯重视受入宽度，多半会先动筒子；但更像本手的切法，是切 `7s`。
 
-第三例比较两组对子该拆哪边。答案是切 `2m`，因为这样一来，后续如果摸进 `3m`，就能把万子那张本来像余牌的 `2m` 活用起来，转成完整三色结构。
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34">
 
-这题说明一个重要习惯：
+这样处理以后，`678` 和 `789` 两种三色都能同时保留。
 
-1. 余牌不是单纯的垃圾
-2. 它可能正是某个高价值手役的种子
-3. 拆牌时要看“留哪张余牌，未来最容易被点亮”
+这种打法就叫“把三色放上天秤”，也常叫“双天秤打法”。
 
-### 例 4：最不像有用的那张，可能正是三色的钥匙
+当然，这种打法在实战中并不算特别高频，不必神化。重点只是：代价不大时，可以顺手把两路三色一起保留。
 
-第四例更有代表性。
+## 3. 利用余牌
 
-表面看 `2s` 最孤、最没用，但它正好是 `123` 三色的种子；反而 `1p` 对子虽然稳定，却没那么高的延展价值。所以这里应切 `1p`，保留三色可能。
+### 例 3
 
-这就是三色判断最实用的一句话：
+<span class="b">例 3</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/sou3.gif" width="24" height="34">
 
-**先别问哪张最孤，要先问哪张最可能是三色的钩子。**
+这题是在两组对子之间选择该拆哪一边。
+
+正解是切 `2m`。
+
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/man3.gif" width="24" height="34">
+
+若之后顺利摸到 `3m`，就能看出保留那张余牌 `2m` 的价值了。
+
+像这种把余牌用好、顺手把手役接出来的场面，在实战里其实非常多。
+
+### 例 4
+
+<span class="b">例 4</span><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">　　摸到<img src="../hai/man1.gif" width="24" height="34">
+
+这题里，看起来最没用的似乎是 `2s`，但它恰恰是 `123` 三色的种子。
+
+因此这里的最好处理，是切 `1p`，而不是把 `2s` 当作普通孤张直接打掉。
+
+这类题最该养成的习惯是：别只问哪张最孤，还要先问哪张可能是高价值手役的种子。
 
 ## 这一页的结论
 
 1. 三色最重要的不是强追，而是别漏看
-2. 摸进相关牌时，要第一时间检查能否通过滑移完成三色
+2. 摸进相关牌时，要立刻检查能否通过滑移完成三色
 3. 代价不大时，可以顺手保留两路三色天秤
-4. 余牌和孤张里，经常藏着三色真正的种子
+4. 余牌和孤张里，经常藏着真正的三色种子
 5. 为了三色明显减速通常不值，但顺手接上时收益很高
 
 ---
