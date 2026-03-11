@@ -1,91 +1,128 @@
 # 红宝牌与祝仪
 
-一旦规则里有祝仪，红宝牌的价值就不再只是“多一番”。
+祝仪是很多自由桌雀庄采用的规则。
 
-它会直接影响你的实际盈利，因为：
+通常在下面这些情况下会获得筹码：
 
-1. 红牌本身可能对应一枚筹码
-2. 自摸时收益会被放大到三家
-3. 一发、里宝牌又会继续叠加祝仪收入
+1. 一发和牌
+2. 里宝牌命中
+3. 手牌里有红牌
 
-因此在祝仪麻将里，很多取舍都要重新估值。原页这章的主旨可以概括成一句：
+后两者常常是“每 1 枚就有 1 枚筹码”。
 
-**祝仪麻将里，红牌经常比普通宝牌还值钱。**
+例如：
 
-## 第一部分：红牌通常比普通宝牌更值得保留
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5red.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5red.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34">　　宝牌<img src="../hai/man7.gif" width="24" height="34">　　里宝牌<img src="../hai/sou2.gif" width="24" height="34">
 
-### 例 1：红和普通宝牌能互换时，优先保红
+如果这手立直后，一发自摸 `3m`，再翻出 1 张里宝牌，那么：
 
-第一例里，如果能把普通宝牌换成红宝牌，原页明确要求直接换。理由不复杂：
+- 一发 1 枚
+- 里宝牌 1 枚
+- 红牌 2 枚
 
-1. 两者都算打点
-2. 但红牌还额外带筹码收益
-3. 反过来说，把红牌打掉的损失，通常比打掉同等普通宝牌更大
+合计就是 4 枚筹码。
 
-这题要训练的就是估值顺序变化：
+若是自摸，则从三家分别收取，也就是一共 12 枚筹码。
 
-**祝仪麻将里，红牌 > 普通宝牌。**
+筹码每枚的行情会因雀庄而异，常见大概是 `2000` 到 `5000` 点。若一枚值 `5000` 点，那么 `12 × 5000 = 60000` 点，等于一副跳满之外，还额外多拿了 6 万点收益。
 
-## 第二部分：手里有红时，立直待牌几乎总该选张数更多的那边
+所以在自由桌里，祝仪绝不是可有可无的小添头，而是直接影响收支的核心要素。
 
-### 例 2：有红牌在手时，和牌枚数就是收入倍率
+一发和里宝牌当然是运，但赤牌的用法，完全可以靠技术拉开收入差距。
 
-第二例讲的是立直待牌选择。
+这一页就专门讨论红牌与祝仪的关系。
 
-原页态度非常绝对：只要手里有红牌，立直时几乎就应该默认选择更宽的那边。因为待牌张数变多，不只是提高和牌率，还意味着：
+## 宝牌不如红牌
 
-1. 自摸概率更高
-2. 一旦自摸，红牌的祝仪收益也跟着被三倍兑现
-3. 一发、里宝牌的连锁收益也更容易发生
+只要有祝仪，红牌的价值就比普通宝牌更大。
 
-所以在祝仪麻将里，“张数优先”比普通规则更强，尤其当手里已经握着红牌时。
+### 例 1
 
-### 例 3：就算看起来有更大役，也常常不如宽待直接抢收入
+<span class="b">例 1</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34">　　吃<img src="../hai/ysou7.gif" width="32" height="24"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　宝牌<img src="../hai/man2.gif" width="24" height="34">　　摸到<img src="../hai/man5red.gif" width="24" height="34">
 
-第三例进一步说明，即使另一路看起来更像三暗刻或别的高打点型听牌，只要更宽那一路能稳定保住红牌，原页仍然倾向优先更宽的立直。因为祝仪麻将的核心不是把纸面番数堆到最漂亮，而是把这手牌尽快、尽量多次地兑现成点棒加筹码。
+这种时候，当然应该把普通宝牌和红牌换位。
 
-## 第三部分：红牌相关副露，要比普通副露更积极
+虽然这样做可能会让别人之后碰到普通宝牌，但红牌损失掉的祝仪价值，通常更大。反过来说，如果被别人吃走的是红牌，那比被拿走普通宝牌更亏。
 
-### 例 4：吃进红牌，往往是铁鸣
+## 有红牌时，立直取牌几乎绝对要重视枚数
 
-第四例里，如果上家打出能把红五吃进来的那张牌，原页直接建议“铁板吃”。原因是：
+### 例 2
 
-1. 你吃进来的不只是一个完成面子
-2. 更是一个高价值筹码来源
-3. 即便门清仍有发展空间，也未必比马上把红牌收入袋中更赚
+<span class="b">例 2</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5red.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　　摸到<img src="../hai/man1.gif" width="24" height="34">　　宝牌<img src="../hai/sha.gif" width="24" height="34">
 
-这类局面里，原本你可能还会犹豫“要不要为了门清再等一等”；但一旦有祝仪，答案往往更偏向马上鸣。
+只要手里带红，立直待牌就几乎可以说“张数优先是绝对原则”。
 
-### 例 5：为了吃到红牌，打断对手一发也常常划算
+就算双碰看起来更像容易荣和，也还是两面立直更基本。因为祝仪麻将里，自摸意味着三倍收入，所以待牌张数翻倍，收益也会被明显放大。
 
-第五例更进一步。对手立直后，若你能通过特殊形吃进红牌，同时消掉对方一发，原页认为这通常是明显赚的。因为你同时获得了：
+哪怕祝仪只按 1 枚 `2000` 点算：
 
-1. 自己红牌带来的筹码收益
-2. 对手一发的收益损失
-3. 继续推进自己手牌的机会
+- 出和 `2600` 点，大概只多赚 `4600`
+- 自摸 `1000-2000`，却能多赚 `10000`
 
-也就是说，祝仪麻将里，红牌相关副露不只是为了做牌，还经常兼具**破坏对手收益结构**的意义。
+若再叠上一发、里宝牌，差距只会更大。
 
-## 第四部分：有红牌在手时，愚形立直也更值得打
+### 例 3
 
-### 例 6：别为了看起来漂亮，就把红牌愚形听牌憋成默听
+<span class="b">例 3</span><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou5red.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34">　　摸到<img src="../hai/sou3.gif" width="24" height="34">　　宝牌<img src="../hai/sha.gif" width="24" height="34">
 
-最后一例专门纠正一种常见误区：
+就算这是自摸三暗刻的大机会，只要手里有红牌，实战上仍会更倾向切 `2p` 立直。
 
-“这手虽然有红，但听得不好，我先默着看看能不能转好。”
+因为 `4` 张待和 `7` 张待，和牌率的差距非常大，而祝仪麻将里，抢到和牌本身就等于抢到收入。
 
-原页的立场很明确：如果你已经先手听牌，手里又有红牌，那就应更积极立直。因为在祝仪麻将里：
+### 理论小结
 
-1. 立直本来就附带一发、里宝牌的额外收益
-2. 红牌又让这份收益继续放大
-3. 愚形虽然不好看，但只要是先手听牌，就不该过度保守
+<span class="green">祝仪麻将里，要主动追求自摸和更宽的待牌。</span>
 
-换句话说，祝仪麻将下的“立直按钮”，会比普通规则更容易被按下。
+## 和红牌相关的副露
+
+如果规则不是“红牌祝仪只限门清”，那么手里有红牌，本来就应积极副露。
+
+### 例 4
+
+<span class="b">例 4</span><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/man5red.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34">　　宝牌<img src="../hai/sou8.gif" width="24" height="34">
+
+比如这手，如果上家打出 `6m`。
+
+哪怕巡目很早，也应当“铁板吃”进来。
+
+虽然门清看起来也不是完全没机会，但门清并不保证一定能把红牌有效用到，最差可能也只是立直而已。相比之下，直接把它吃成断幺九赤牌手，能更稳定地拿到 `2000` 点以上加祝仪。
+
+因此，只要还能组成手役，这种和红牌直接相关的坎 `4`、坎 `6`，基本都应积极副露。
+
+后来牌形顺利推进到例 5：
+
+### 例 5
+
+<span class="b">例 5</span><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34">　　吃<img src="../hai/yman6.gif" width="32" height="24"><img src="../hai/man5red.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34">
+
+这时上家切出 `赤5s` 立直。
+
+这里也应该鸣。
+
+很多店不允许“现物食替”，例如碰中再切中、用 `1234` 吃 `1` 再切 `4` 之类；但这张红牌的处理基本是全国通用的经典手筋：用坎张吃进来，再切 `2s`。
+
+<img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34">　　吃<img src="../hai/ysou5red.gif" width="32" height="24"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">　　吃<img src="../hai/yman6.gif" width="32" height="24"><img src="../hai/man5red.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34">
+
+这一吃不仅消掉了对手立直的一发，还让自己手里的收入大幅上升。仅仅放弃 1 次自摸机会，是完全值得的。之后的方针也很明确：全力押到底。赤赤听牌几乎不可能主动拆掉。
+
+## 红牌规则下，愚形也应即立直
+
+### 例 6
+
+<span class="b">例 6</span><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man5red.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34">　　摸到<img src="../hai/pin2.gif" width="24" height="34">　　宝牌<img src="../hai/sou6.gif" width="24" height="34">
+
+像这种手，如果还要默听，就是明显太保守了。
+
+即使是愚形，也应大大方方先制立直。
+
+把摸到的 `2p` 再摸切，表面看像是想保留手变，实际上只是拙劣的拖延。因为真正有效的改良并不多，而且即使变成两面，也未必就一定能和。
+
+祝仪麻将里，不需要追求看起来多漂亮。能把祝仪抢到手的人，就是赢家。
 
 ## 这一页的结论
 
 1. 有祝仪时，红牌通常比普通宝牌更值钱
-2. 手里有红牌时，立直待牌几乎都应更重视张数和自摸率
+2. 有红牌在手时，立直取牌几乎都应更重视张数与自摸率
 3. 红牌相关副露要比普通麻将更积极
 4. 能吃到红牌、还能顺便消一发时，收益往往很高
 5. 先手听牌且手握红牌时，愚形立直也应更积极，不必过度保守
