@@ -1,107 +1,106 @@
 # 数牌与字牌
 
-麻将一共有 34 种牌，但它们的价值并不一样。
+麻将里一共有 34 种牌。
+先来看看，这些牌各自都具有什么功能。
 
-这页要解决两个基础判断：
+## 麻将牌的分类
 
-1. 不同种类的牌在功能上有什么区别
-2. 为什么有的牌该早切，有的牌值得多留一会儿
+麻将牌可以按下面这样分类。
 
-## 牌的分类
+**・数牌**
 
-麻将牌可以先分成两大类：
+【万子】<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34">
 
-### 数牌
+【筒子】<img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34">
 
-1. 万子：<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" />
-2. 筒子：<img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" />
-3. 索子：<img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" />
+【索子】<img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34">
 
-### 字牌
+**・字牌**
 
-1. 风牌：<img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/nan.gif" width="24" height="34" /><img src="../hai/sha.gif" width="24" height="34" /><img src="../hai/pei.gif" width="24" height="34" />
-2. 三元牌：<img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/hatu.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" />
+【风牌】<img src="../hai/ton.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　【三元牌】<img src="../hai/haku.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">
 
-万、筒、索三种花色在基础价值上基本等同。只有在宝牌、赤牌配置不同的时候，某一门的即时价值才会略高。
+表示 1 到 9 数字的数牌，一共有万、筒、索三种花色。
+虽然索子还勉强有个绿一色这种役，但这三种花色基本可以看作价值完全相同。
+不过，如果某张牌成了宝牌，那么那一门花色的整体价值就会稍微提高一点。
+有些雀庄只采用筒子的红宝牌，
+在这种情况下，筒子就会是最强的花色。
+不过这种差异一般不需要特别去在意。
 
-## 字牌要先分清是不是役牌
+字牌分成风牌和三元牌，一共 7 种。
+三元牌基本上可以看成等值牌（因为绿一色出现率极低），
+但风牌则会因为你坐的位置不同，变成役牌或不是役牌，所以必须留意。
 
-三元牌只要碰成一组就有役，这是它们最直接的价值。
+## 关于字牌
 
-同时要记住宝牌顺序：
+三元牌只要凑成 3 张，就能成为役，是很方便的牌。
+如果三元牌成为宝牌，千万别搞错顺序。
+表示牌和宝牌之间是按“白 → 发 → 中”的顺序循环的。
 
-`白 -> 发 -> 中 -> 白`
+风牌则会有时是役牌，有时不是役牌。
 
-风牌则要分三种情况：
+（1）<span class="red">场风牌</span>是役牌  
+东场的东、南场的南、西场的西、北场的北。
+通常对局是东南战或东风战，所以西、北成为场风的情况并不多。
 
-1. `场风牌`：当前场次对应的风，比如东场的东、南场的南
-2. `自风牌`：你自己座位对应的风
-3. `客风牌`：既不是场风也不是自风的风牌
+（2）<span class="red">门风牌是役牌</span>  
+东家的东、南家的南、西家的西、北家的北。
 
-其中：
+通常也叫自风牌。
+亲家对应的是东风，所以要能顺着这个关系判断出其余三家的风位。
 
-1. 场风牌有役
-2. 自风牌有役
-3. 客风牌没有役
+（3）除此之外的风牌，<span class="red">客风牌</span>不是役牌。
 
-如果一张风牌同时是场风和自风，那就是连风牌，价值更高。常见说法就是“双东”或“双南”。
+东场亲家的东、南场南家的南，这两种情况同时满足（1）和（2），
+属于<span class="red">连风牌</span>，会算作 2 番役。
+也就是常说的双东、双南。
+当然，这会让它们成为价值最高的役牌。
 
-相反，没有役的客风牌往往是最该优先处理的字牌，因为它既难形成顺子，也不能单独提供手役。
+没有役的客风牌，是价值最低的字牌。
+如果起手配牌里只有单张，往往会成为第一打就切掉的有力候选。
 
-## 数牌不是都一样强
+## 关于数牌
 
-原页这张图展示得很直观：
+虽然数牌从 1 到 9 都有，
+但它们单独具备的面子构成能力差别非常大。
+看下面这张图就很清楚了。
 
-<img src="../images/003b.gif" />
+<img src="../images/003b.gif">
 
-原因在于，不同数字能参与组成搭子的方式不同。
+`3` 到 `7` 这些牌，可以和 4 种不同的牌组成搭子，
+而且其中包含 2 种两面、2 种嵌张。
 
-### 中张最强
+`2` 和 `8` 的有效牌会减少到 3 种，
+而且能组成两面的，也分别只有 `3` 和 `7` 这一种。
 
-`3` 到 `7` 可以同时和四种不同的牌发生联系，既能做两面，也能做嵌张，是最容易形成好形的区域。
+`1` 和 `9` 的受入更是只有 2 种，
+而且只能形成边张或嵌张这种愚形。
 
-### 次边张稍弱
+因此，麻将里的数牌大致可以排成下面这个等级。
 
-`2` 和 `8` 能配合的牌种变少，只剩三种，而且形成两面的机会也比中张少。
+<img src="../images/003c.png">
 
-### 老头牌最弱
+虽然作为 rankA 的 `3` 到 `7` 之间也存在一点细微差别，
+但纠结那点差异，基本只是自我满足而已。
+不需要特别在意。
+只要记住<strong class="red">越靠里的牌，比越靠边的牌更强</strong>就可以了。
 
-`1` 和 `9` 只能跟两种牌联系，而且只能形成边张或嵌张，无法自然形成两面。
+边张牌为什么弱？
+本质原因就在于：
+麻将牌虽然可以组成 `1-2-3`、`3-4-5` 这样的面子，
+却不可能组成 `8-9-1` 这样的面子。
 
-因此数牌的大致强弱顺序就是：
+面子本来就是围绕 `3` 到 `7` 这些中张来构成的。
+能否把内侧牌灵活用来做出搭子和面子，就是做牌的关键。
 
-<img src="../images/003c.png" />
+### 定式与总结
 
-也可以直接记成：
+<div class="green" markdown="1">
+麻将里的数牌，在面子形成能力上差别很大。  
 
-`3-7 > 2、8 > 1、9`
+**3 到 7　＞　2、8　＞　1、9**  
 
-## 为什么边张牌弱
-
-本质原因很简单：麻将顺子只能按数字连续组成。
-
-你可以做：
-
-1. `1-2-3`
-2. `3-4-5`
-3. `7-8-9`
-
-但不能做：
-
-1. `8-9-1`
-2. `9-1-2`
-
-所以越靠边的数字，能组成的结构越少，自然越弱。
-
-这也是实战里常说“中张更有工作能力”的根本原因。
-
-## 这一页的结论
-
-1. 麻将牌先分为数牌和字牌
-2. 字牌要先判断是不是役牌
-3. 数牌内部也有强弱差，核心是中张强、边张弱
-4. 基础强度顺序可记为：`3-7 > 2、8 > 1、9`
-5. 早巡做牌时，没役的客风牌和弱边张通常是优先处理对象
+价值顺序大致就是这样。
+</div>
 
 ---
 
