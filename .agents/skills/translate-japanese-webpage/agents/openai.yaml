@@ -1,0 +1,4 @@
+interface:
+  display_name: "日文网页保真翻译器"
+  short_description: "保真翻译日文网页并完整保留图表样式重点"
+  default_prompt: "Use $translate-japanese-webpage to translate Japanese webpage HTML into clear Chinese while preserving all diagrams, tables, emphasis, and information."

@@ -18,8 +18,6 @@ extra_css:
 
 nav:
   - 首页: index.md
-  - 翻译示例:
-    - 保真翻译示例（麻将与概率）: demos/kihon02-demo.md
   - 麻将基础:
     - 栏目导读: kihon/index.md
     - 麻将是什么: kihon/kihon01.md
