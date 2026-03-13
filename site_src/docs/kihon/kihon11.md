@@ -1,165 +1,103 @@
-# 麻将的听牌（1）
+# 麻将的待牌（1）
 
-能让你和牌的牌，叫做`待牌`。而“手里现在是什么待型”，直接决定了和牌速度、和牌概率，以及有时候的打点。
+能让你和牌的牌，叫做**待牌**。  
+麻将里有各种各样的待牌形式，但作为基础的其实只有下面 5 种，任何多面张也都是以这 5 种为基础发展出来的。
 
-多面听看起来很复杂，但最基础的待型其实只有五种。
+## 基本的待牌
 
-## 五种基本待型
-
-| 形状示例 | 名称 | 待牌 | 枚数 |
+| 形状示例 | 名称 | 待牌 | 待牌枚数 |
 | --- | --- | --- | --- |
-| <img src="../hai/sha.gif" width="24" height="34" /> | 单骑 | <img src="../hai/sha.gif" width="24" height="34" /> | 3 |
-| <img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /> | 边张 | <img src="../hai/sou7.gif" width="24" height="34" /> | 4 |
-| <img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /> | 嵌张 | <img src="../hai/pin7.gif" width="24" height="34" /> | 4 |
-| <img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /> | 双碰 | <img src="../hai/pin2.gif" width="24" height="34" />、<img src="../hai/ton.gif" width="24" height="34" /> | 4 |
-| <img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /> | 两面 | <img src="../hai/man3.gif" width="24" height="34" />、<img src="../hai/man6.gif" width="24" height="34" /> | 8 |
+| <img src="../hai/sha.gif" width="24" height="34" /> | 单骑待 | <img src="../hai/sha.gif" width="24" height="34" /> | 3 枚 |
+| <img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /> | 边张待 | <img src="../hai/sou7.gif" width="24" height="34" /> | 4 枚 |
+| <img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /> | 嵌张待 | <img src="../hai/pin7.gif" width="24" height="34" /> | 4 枚 |
+| <img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /> | 双碰待 | <img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /> | 4 枚 |
+| <img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /> | 两面待 | <img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /> | 8 枚 |
 
-这张表已经说明了最核心的事实：
+看上表就知道，两面待的优势格外突出。
 
-**两面待的受入远远领先，是标准的好型。**
+单骑待乍看之下似乎很差，但它的手变很多；另外如果等的是场上已经打出 1 张的字牌，往往会有很高的和牌可能，所以可以说它是比待牌枚数本身更有效的待型。
 
-不过别因此把其他待型都简单当成“废物”。
+双碰待也有人叫它“巴塔待”。
 
-原页在这里还特别提醒了两点：
+此外，实战里还经常会遇到下面这些待型。
 
-1. 单骑待虽然只有 `3` 枚，但经常带着很多手变，不能只看表面枚数
-2. 双碰待除了叫“双碰”，也常被叫作“シャボ”或“巴掌待”这类俗称，实战里要能认出来
+## 延单与亚两面
 
-## 单骑不一定差
+| 形状示例 | 名称 | 待牌 | 待牌枚数 |
+| --- | --- | --- | --- |
+| <img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /> | 延单 | <img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /> | 6 枚 |
+| <img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /> | 亚两面 | <img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /> | 6 枚 |
 
-单骑表面上只有 3 枚，看起来很窄，但它有两个常被低估的优点：
+延单是两种单骑待的组合。这种形状在做面子的阶段属于超一流，但遗憾的是，作为最终待牌时只是普通的 6 枚待。
 
-1. 手牌变化空间通常很多
-2. 如果等的是场上好出的字牌，有时反而很好和
+亚两面是两面待的一侧和雀头连在一起的形状，因此比纯粹的两面待少 2 枚牌。
 
-所以单骑不能只看牌山剩几枚，还要看：
+例 1 和延单不同，可以作为平和和牌。
 
-1. 这张牌别人打不打得出
-2. 你手里有没有明显的改良空间
+（例 1）<img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" />
 
-## 延单和亚两面
+---
 
-基础五型之外，实战里还经常遇到两种“比基础型复杂一点，但非常常见”的待型。
+例 2 的延单待，如果不立直，就不能荣和。
 
-### 延单
+（例 2）<img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" />
 
-形如：
+---
 
-<img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" />
+另外，亚两面还有一个“也可以拆成单骑待”的特征。
 
-待牌是：
+（例 3）<img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" />立直自摸<img src="../hai/man6.gif" width="24" height="34" />
 
-<img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" />
+例 3 这种情况，如果把 <img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /> 这个面子拿出来，剩下就会变成 <img src="../hai/man6.gif" width="24" height="34" /> 单骑。  
+**单骑 2 符 + 门清自摸 2 符 + 幺九牌暗刻 8 符 = 12 符**
 
-总共 `6 枚`。
+进位后是 40 符跳符，和牌点数为 1300-2600。
 
-它本质上是“两种单骑”的组合。做牌阶段很强，但真正进入听牌后，只能算中规中矩，不如两面。
+如果摸到 <img src="../hai/man3.gif" width="24" height="34" />，就只能按两面待来取型；而 <img src="../hai/man6.gif" width="24" height="34" /> 荣和时又会差 2 符，因此这是自摸限定的高目。
 
-原页强调得很直：延单是做牌阶段的一流形，但真正当作听牌时，只是平凡的 `6` 枚待。
+麻将有**采用最高得点解释的原则**，也就是要按“能够得到最高点数”的方式来解释手牌。所以，例 3 这手如果报成“1000-2000”，就是报点错误。虽然没有处罚，但还是要注意。
 
-### 亚两面
+## 暗刻复合形
 
-形如：
+| 形状示例 | 名称 | 待牌 | 待牌枚数 |
+| --- | --- | --- | --- |
+| <img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /> | 边张单骑 | <img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /> | 7 枚 |
+| <img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /> | 嵌张单骑 | <img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /> | 7 枚 |
+| <img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /> | 两面单骑 | <img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> | 11 枚 |
 
-<img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" />
+这是在[对子（1）](kihon06.md)里也介绍过的形状。  
+它们都是以暗刻为轴心的变则待型，而且使用频率都很高。
 
-待牌是：
+## 基本的三面张
 
-<img src="../hai/man4.gif" width="24" height="34" />、<img src="../hai/man7.gif" width="24" height="34" />
+只要待牌有 3 种，全部都属于三面张。  
+这里先列出由两个两面待连接起来形成的基本形。
 
-也是 `6 枚`。
+| 形状示例 | 待牌 | 待牌枚数 |
+| --- | --- | --- |
+| <img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /> | <img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /> | 11 枚 |
+| <img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /> | <img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /> | 11 枚 |
+| <img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> | <img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /> | 11 枚 |
 
-它可以理解成“两面的一边和雀头重叠了”，因此比纯两面少了 2 枚。
+基本的三面待一共就是这 3 种。  
+另外，作为这些形的变化型，也存在包含单骑待在内的三面待。
 
-但它的实战价值往往比“只有 6 枚”看上去更高，因为它经常能和门清手役、尤其是平和直接兼容。
+| 形状示例 | 待牌 | 待牌枚数 |
+| --- | --- | --- |
+| <img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /> | <img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /> | 9 枚 |
+| <img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /> | <img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /> | 9 枚 |
+| <img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /> | <img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /> | 9 枚 |
 
-## 延单和亚两面的关键区别
+这些形都是因为自己手里已经用了 2 枚相同的待牌，所以待牌总数减少了，但要注意，待牌本身仍然还是同样的 `147`、`258`、`369`。
 
-两者都不是 8 枚两面，但性质不同：
+就算是基本三面待，只要面子重叠起来，也会变得不容易看清。
 
-1. 亚两面可以平和和牌
-2. 延单通常如果不立直，很多时候不能直接荣和
+（例 4）<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /> 自摸<img src="../hai/man7.gif" width="24" height="34" />
 
-原页给的两个例子就是为了说明这点：
+例 4 这手，切出 <img src="../hai/sou5.gif" width="24" height="34" /> 以后立直成三面张才是好形，  
+注意不要一不小心把 <img src="../hai/sou2.gif" width="24" height="34" /> 或 <img src="../hai/sou4.gif" width="24" height="34" /> 切掉了。
 
-1. 亚两面常常更适合作为门清好型的一部分
-2. 延单虽然看着像宽待，但役种条件上未必和亚两面一样自由
-
-所以不能只看“都是 6 枚待牌”，还要看它跟手役、符数的关系。
-
-原页甚至直接把两者摆在一起比较：
-
-1. 亚两面常常可以平和荣和
-2. 延单很多时候如果不立直，连出和都未必成立
-
-这就是为什么两种 `6` 枚待，实战地位并不一样。
-
-## 亚两面还常常带来符数差
-
-亚两面另一个实战价值是：它有时可以改读成单骑，从而得到更高符数。
-
-原页举的重点，不是要你死记某一手牌，而是提醒你：
-
-**麻将按最高得点解释。**
-
-同一手牌如果既能按普通两面解释，也能按单骑解释，而且单骑那种解释符数更高，就应该按更高分那种算。
-
-这类细节在实际报点时很容易出错，基础阶段就该建立这个意识。
-
-原页给的那手牌里，按单骑去解释会多出单骑 `2` 符、门清自摸 `2` 符，以及幺九牌暗刻 `8` 符，最终直接跳到更高符数。这个例子不是让你死背牌谱，而是让你牢牢记住：
-
-**同一副和牌，必须按最高得点解释。**
-
-## 暗刻复合待型
-
-还有一类非常常见的待型，是“暗刻 + 搭子”的复合听牌：
-
-1. 边张单骑
-2. 嵌张单骑
-3. 两面单骑
-
-其中最重要的是两面单骑，例如：
-
-<img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" />
-
-待牌会有：
-
-<img src="../hai/sou4.gif" width="24" height="34" />、<img src="../hai/sou5.gif" width="24" height="34" />、<img src="../hai/sou7.gif" width="24" height="34" />
-
-足足 `11 枚`。
-
-这是前面“雀头优先还是面子优先”那一部分在听牌阶段的自然延伸。
-
-## 基本三面张
-
-最标准的三面张来自“两面和两面相连”。
-
-三种典型形如下：
-
-1. `23456` 待 `147`
-2. `34567` 待 `258`
-3. `45678` 待 `369`
-
-这些待型都是 `11 枚`，是最值得优先识别的多面听。
-
-原页后面还补了三组“同样是这三面张，但自己多用了两枚牌”的变化形。那几种虽然待牌种类不变，枚数会从 `11` 变成 `9`。这一点也很关键：
-
-**多面听不仅要看形状，还要看你自己压掉了多少枚。**
-
-同时还要知道一个衍生结论：
-
-1. 如果你自己已经多用掉其中某张牌
-2. 待牌种类不变，但剩余枚数会减少
-
-也就是说，多面听不是只认“有几面”，还要认“你自己压掉了多少枚”。
-
-## 这一页的结论
-
-1. 最基础的待型只有五种：单骑、边张、嵌张、双碰、两面
-2. 两面是标准好型，但单骑等其他待型也不能只看枚数
-3. 延单和亚两面都是常见的 6 枚待型，但性质不同
-4. 暗刻复合待型在实战里很常见，尤其两面单骑要会认
-5. 基本三面张是多面听的起点，必须看到就能认出来
+高目一杯口的三面张，出现频率也并不低，也许把这种形状直接记成固定牌形会更好。
 
 ---
 
@@ -168,6 +106,6 @@
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="kihon10.html">上一节：复合形（2）</a>
-  <a class="page-nav__link page-nav__link--next" href="kihon12.html">下一节：麻将的听牌（2）</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon12.html">下一节：麻将的待牌（2）</a>
 </div>
 <!-- PAGE NAV END -->
