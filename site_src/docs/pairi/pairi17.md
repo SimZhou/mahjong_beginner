@@ -1,12 +1,14 @@
 # 一向听牌理（5）
 
-这一页继续检验无头形。
+继续上一页，检验无头形。
 
-前一页应该已经能看出：把牌做成“搭子 + 搭子”通常最宽。那么，如果外面已经只剩一组搭子，或者几条路线的受入差距已经很小，这时该怎么判断？
+前面应该已经明白了，把牌做成“搭子 + 搭子”通常最宽。  
+那么像例 1 这样，外面只剩 1 组搭子时，又该怎么判断呢？
 
-## 例 1
+---
 
-<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"> 摸 <img src="../hai/pin8.gif" width="24" height="34">
+**例 1**  
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 摸 <img src="../hai/pin8.gif" width="24" height="34" />
 
 | 打法 | 听牌机会 | 受入枚数 |
 | --- | --- | --- |
@@ -14,105 +16,99 @@
 | 切 `1p` | `1m 3m 6p 9p 5s 8s` | `21` 张 |
 | 切 `5s` | `1m 3m 1p 4p 6p 9p` | `21` 张 |
 
-如表所示，差距几乎可以说没有。
+如你所见，差距几乎可以说没有。
 
-但即便如此，摸 `3m` 听牌时只有保留万子一侧才会成为平和；而 `1m / 3m` 待本身，也比 `1p / 4p` 或 `5s / 8s` 更优。
+即便如此，摸 <img src="../hai/man3.gif" width="24" height="34" /> 时，只有保留万子那边才会形成平和；  
+而且 <img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /> 待，本身也优于 <img src="../hai/pin1.gif" width="24" height="34" />￣<img src="../hai/pin4.gif" width="24" height="34" />、<img src="../hai/sou5.gif" width="24" height="34" />￣<img src="../hai/sou8.gif" width="24" height="34" />。  
+所以 <img src="../hai/man1.gif" width="24" height="34" /> 切可以直接排除，它明显较差。
 
-所以这里可以先把切 `1m` 排除，因为它明显较差。
+那么，切 <img src="../hai/pin1.gif" width="24" height="34" /> 和切 <img src="../hai/sou5.gif" width="24" height="34" />，到底哪边更好？  
+当受入枚数相同时，基本原则就是比较“好形变化”。
 
-接着要比较的是：切 `1p` 还是切 `5s`。
-
-受入相同的时候，基本原则就是继续比较**好形变化**。原页特别强调：把里面那张 `5s` 留住更有利，因为亚两面形保留内侧时，后续更容易长成强形。
-
-变化 A  
-<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34">（`10` 种 `33` 张）
-
-变化 B  
-<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34">（`9` 种 `29` 张）
-
-因此例 1 应保留内侧的 `5s` 那一边。
-
-## 例 2
-
-<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"> 摸 <img src="../hai/man2.gif" width="24" height="34">
-
-无头形里，好形变化是非常重要的因素。
-
-像这一题，很多人会顺手切 `7m`。他们看到的只是眼前 `1` 张受入差距，却没有想到要从万子的连续形里继续造出“搭子 + 搭子”。
-
-原页强调得很重：如果切掉 `7m`，当前受入不过 `5` 种 `17` 张，但你会错过下面这种巨大的变化空间：
+如果保留内侧的 <img src="../hai/sou5.gif" width="24" height="34" />，就能期待下面变化 A、变化 B 这样的伸展。  
+也就是说，亚两面形保留内侧更有利。
 
 变化 A  
-<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">（`10` 种 `33` 张）
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" />（`10` 种 `33` 张）
 
 变化 B  
-<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">（`9` 种 `29` 张）
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" />（`9` 种 `29` 张）
 
-这一题的重点就是：
+---
 
-1. 当前少 `1` 张受入，问题不大
-2. 但若为此砍掉连续形的成长空间，损失会非常大
+**例 2**  
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> 摸 <img src="../hai/man2.gif" width="24" height="34" />
 
-## 例 3
+在无头形里，好形变化是非常重要的因素。
 
-<img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"> 摸 <img src="../hai/sou3.gif" width="24" height="34">
+例 2 这种形，很多人都会把 <img src="../hai/man7.gif" width="24" height="34" /> 顺手切掉。  
+眼前只差 `1` 张受入，根本不算什么；关键是你得有意识，要从万子的连续形继续去造“搭子 + 搭子”。
 
-前面一直在强调听牌机会优先，但最终等待也不能完全无视。
+如果例 2 切 <img src="../hai/man7.gif" width="24" height="34" />，当前受入只有 `5` 种 `17` 张。  
+漏掉下面变化 A、变化 B 这样的转身，损失有多大，应该看得出来。
+
+变化 A  
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" />（`10` 种 `33` 张）
+
+变化 B  
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" />（`9` 种 `29` 张）
+
+---
+
+**例 3**  
+<img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /> 摸 <img src="../hai/sou3.gif" width="24" height="34" />
+
+到这里为止，前面一直都把听牌机会放在第一位。  
+不过，最终待牌的质量，也还是得适度考虑。
 
 | 打法 | 听牌机会 | 受入枚数 |
 | --- | --- | --- |
 | 切 `8m` | `9m 3p 5p 6p 8p 2s 5s` | `23` 张 |
 | 切 `5p` | `7m 8m 9m 1s 2s 3s 4s 5s` | `25` 张 |
 
-“搭子 + 搭子”路线的宽度几乎是绝对优势。即便对面能做成四面张，这里仍然多 `2` 张受入。
+“搭子 + 搭子”形在听牌机会上的宽度，几乎可以说是绝对优势。  
+就算这里能做出四面张，也还是多 `2` 张。
 
-但 `7m` 边张毕竟太苦了。也就是说，虽然切 `5p` 在听牌机会数字上更好，真正从一向听一路走到和牌，未必就会更快。
+但边 <img src="../hai/man7.gif" width="24" height="34" /> 毕竟太难受了。  
+所以在这题里，还是拆掉 <img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" />，到和牌为止的整体速度会更快。
 
-所以这题仍要允许为更好的最终等待，放弃那少量的受入差。这里应拆 `89m` 这一侧。
+---
 
-## 例 4
+**例 4**  
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /> 摸 <img src="../hai/pin5.gif" width="24" height="34" />
 
-<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"> 摸 <img src="../hai/pin5.gif" width="24" height="34">
-
-到了这一题，就是非常微妙的边界题。
+到了例 4，就是非常微妙的选择了。
 
 | 打法 | 听牌机会 | 受入枚数 |
 | --- | --- | --- |
 | 切 `6p` | `1m 2m 3m 4m 6m 7m 1p 2p 3p 4p` | `31` 张 |
 | 切 `3m` | `1m 4m 7m 1p 4p 6p 7p` | `24` 张 |
 
-切 `3m` 的强项，是一定能听成两面以上；切 `6p` 的强项，则是更常能更快听牌。
+切 <img src="../hai/man3.gif" width="24" height="34" /> 的优点，是一定能以两面以上听牌；  
+但我还是认为，经常能更快听牌的切 <img src="../hai/pin6.gif" width="24" height="34" /> 更划算。
 
-原作者在这里偏向切 `6p`，因为多数实战里，“先一步听牌”本身就是很大的优势，不能把“必定好形”看得比速度更重。
+---
 
-## 例 5
+**例 5**  
+<img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /> 摸 <img src="../hai/sou5.gif" width="24" height="34" />
 
-<img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"> 摸 <img src="../hai/sou5.gif" width="24" height="34">
-
-最后看“五面张残留”和“两组两面搭子”的比较。
+最后来看“保留五面张形”和“保留两组两面搭子”的比较。
 
 | 打法 | 听牌机会 | 受入枚数 |
 | --- | --- | --- |
 | 切 `6m` | `5m 5p 8p 1s 2s 4s 5s 7s` | `28` 张 |
 | 切 `2s` | `4m 5m 6m 7m 5p 6p 7p 8p` | `28` 张 |
 
-两边听牌机会完全打平。
+听牌机会完全打平。  
+既然如此，就该比较立直时的最终待牌。
 
-既然如此，就该继续比较最终听牌质量。切掉 `56m` 或 `67p` 这一边时，未来有机会留下五面张，因此更优；而且能做成平和听牌的进张也还多 `1` 种。
-
-所以例 5 应保留五面张潜力那一侧。
+因为有机会留下五面张，  
+所以例 5 应该拆 <img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" />、<img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /> 其中一边。  
+而且能做成平和听牌的受入，也还多 `1` 种。
 
 ### 理论小结
 
-**基本仍是先比受入枚数；但当差距几乎没有时，就必须把“听牌时的等待质量”和“好形变化”一起纳入比较。**
-
-## 这一页的结论
-
-1. 无头形默认仍先比较总受入
-2. 若只差 `1-2` 张，不能机械服从数字
-3. 连续形在无头结构里的成长空间很值钱，别轻易拆掉
-4. 最终等待太差时，可以为更好听牌放弃少量受入
-5. 若总受入打平，就比较多面张、平和等最终价值
+<span class="green">基本还是先比较受入枚数；但当枚数差得很小时，就必须把“听牌时的待牌质量”和“好形变化”一起算进去。</span>
 
 ---
 
