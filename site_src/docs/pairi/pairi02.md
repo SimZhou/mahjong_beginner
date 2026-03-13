@@ -1,150 +1,135 @@
 # 有效牌与枚数
 
-麻将本质上是在不断重复一件事：
+麻将本质上就是不断从手牌里找出 1 张不需要的牌，把它打出去。  
+上一页说过，打牌选择的基本原则，是优先考虑哪一种打法更容易和牌。
 
-**从手里找一张相对最没用的牌打掉。**
+那么，具体来说，应该用什么指标来判断呢？
 
-那“有没有用”该怎么衡量？最基础的指标，就是`有效牌的枚数`。
+## 1. 枚数与概率
 
-## 枚数越多，和牌概率越高
-
-先看一个最直观的例子：
-
+**例 1**  
 <img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" />
 
-这手里，除非 <img src="../hai/man3.gif" width="24" height="34" /> 极端危险，否则标准切法就是切一张 <img src="../hai/man3.gif" width="24" height="34" />。
+例 1 这手，除非 <img src="../hai/man3.gif" width="24" height="34" /> 特别危险，否则就该切 <img src="../hai/man3.gif" width="24" height="34" />。
 
-原因很简单。比较两种待型：
+重新想一遍，为什么切 <img src="../hai/man1.gif" width="24" height="34" /> 或 <img src="../hai/man4.gif" width="24" height="34" /> 是错的？
 
-1. 保留 `12334` 变成待 <img src="../hai/man2.gif" width="24" height="34" />、<img src="../hai/man5.gif" width="24" height="34" />
-2. 保留 `12333` 变成待 <img src="../hai/man3.gif" width="24" height="34" />、<img src="../hai/sou5.gif" width="24" height="34" />
+当然，是因为切 <img src="../hai/man3.gif" width="24" height="34" /> 之后待牌更好。  
+实际比较一下就知道了。
 
-前者理想枚数是 `7`，后者理想枚数只有 `3`。
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /> 待 <img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" />
 
-当然，牌山里实际剩几枚你不可能完全知道，但实战判断只能先从“理想剩余枚数”出发。也就是说：
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /> 待 <img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" />
 
-1. 待牌种类和总枚数更多
-2. 就意味着平均意义上更容易和
-3. 长期看也就更赚
+从待牌总枚数来说，上面是 7 枚，下面是 3 枚。  
+当然，其中有些牌可能已经混在别家手牌里，或者进了王牌，所以并不是说山里一定还剩 7 枚和 3 枚。
 
-原页这里讲得很直白：你当然可能刚好遇到 `2m / 5m` 一张都不剩的极端情况，但你并没有超能力，不可能每次都知道真实山况。所以正常牌理判断，必须先以“理想枚数”作为比较基准。
+甚至也完全可能 <img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /> 在山里 1 枚都不剩。
 
-所以“枚数越多越有利”不是口号，而是牌效率的底层原则。
+但是，我们没有办法准确知道牌山里实际还剩多少枚。  
+毕竟谁也不是超能力者。
 
-原页甚至把这一步写成了完整逻辑链：
+现实的打法里，只要按理想值 7 枚和 3 枚去比较，判断“受成 <img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /> 待更有利”就可以了。
 
-1. 待牌枚数更多
-2. 就代表和牌概率更高
-3. 长期就代表更常赚到分
+**“枚数越多越有利”**，这是麻将最基本的原理。  
+无视这个基本原则，是不可能在麻将里赢的。
 
-麻将比的不是灵感，而是这种损益判断是否更稳定。
+<div class="note-box" markdown="1">
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /> 这一边待牌枚数更多
 
-## 不听牌时，也一样靠枚数比较
+= <img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /> 这一边和牌概率更高
 
-很多人只会在听牌时比待牌，到了两向听、一向听阶段就开始凭感觉。
+= 受成 <img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /> 待时，长期来看更常赚
+</div>
 
-其实这时更该数枚数。
+像这样思考来打麻将，非常重要。  
+麻将不是比谁直觉好，而是比谁的损益判断更敏锐。
 
-原页的那张图很关键：
+## 2. 受入枚数
+
+例 1 比较的是听牌时两种待牌的差异。  
+但即使手牌还没有听牌，只要能用“枚数多还是少”来比较两手牌，就能明确看出该切什么。
 
 <img src="../images/004.gif" width="229" height="227" />
 
-意思是：
+把这张图再拿出来看一次。
 
-1. 两向听时，先争取更快进入一向听
-2. 一向听时，先争取更快进入听牌
-3. 不必一上来就幻想“最终哪张牌和”
+离和牌还很远的时候，直接去考虑“怎么最快和牌”其实很难。  
+这时更现实的做法，是先争取走到下一阶段，例如两向听时先争取更快进入一向听，这样才能尽量更快接近和牌。
 
-因此最常用的数法，就是：
+用枚数来思考“哪边更容易和牌”，最简单的方法，就是比较“能让向听数下降的牌有多少枚”。
 
-**比较能让当前向听数下降的牌有多少枚。**
+---
 
-原页这里等于是在提醒：离和牌还远的时候，不要直接去幻想最终哪张能和。先比较“谁能更快把你送到下一阶段”，这是更现实的算法。
-
-## 什么叫受入枚数
-
-例如下面这手：
-
+**例 2**  
 <img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" />
 
-它是两向听。若要进入一向听，能帮你前进一步的牌有：
+例 2 是一手两向听。  
+把这手里能让它进入一向听的摸牌全部列出来，就是:
 
-<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" />
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /> 这 7 种，共 23 枚。
 
-合计 `7 种 23 枚`。
+这就是“进入一向听的受入枚数”。
 
-这就是受入枚数。
+---
 
-也就是：能让这手牌从两向听前进到一向听的所有牌种，以及它们的总枚数。
-
-## 枚数多的形，客观上更好
-
-再看一个几乎相同、但结构更好的版本：
-
+**例 3**  
 <img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" />
 
-这手因为七对子路线也成立，原页给出的受入可以到 `13 种 35 枚`。
+例 3 和例 2 几乎是同一个形，但因为七对子路线也同样是两向听，  
+所以受入会变成:
 
-所以即便只是看上去“差不多”的两手牌，客观速度也可能差很多。数受入的意义就在这里：它能把模糊感觉变成可以比较的量。
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" />，总计 13 种 35 枚。
 
-原页这里的重点不是让你背这道题，而是告诉你：两手看上去只差一点点的牌，客观受入却可能差出一大截。只靠直觉很容易误判，数枚数才能把差别看实。
+它的受入比例 2 大得多，  
+所以例 3 明显是比例 2 更好的形。
 
-## 有效牌不只有“降向听”的那一种
+像这样，通过数受入枚数，就可以对手牌作出定量评价。
 
-继续看前面的例子，如果再摸进：
+之后的课程里，还会反复用到这种受入枚数的评价方法。
 
-<img src="../hai/sou4.gif" width="24" height="34" />
+## 3. 好形变化
 
-向听数虽然不一定立刻下降，但下一步的受入会变宽。这种牌也属于有效牌。
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /> 自摸<img src="../hai/sou4.gif" width="24" height="34" />
 
-因此，有效牌可以分成两类：
+前面用枚数说明过，  
+在例 2 那个形里，如果摸到 <img src="../hai/sou4.gif" width="24" height="34" />，切掉 <img src="../hai/sou1.gif" width="24" height="34" /> 之后，
 
-1. `A`：直接让向听数下降的牌，也就是受入
-2. `B`：虽然不降向听，但会让 `A` 变多的牌，也就是好形变化
+虽然向听数仍然还是两向听，但受入枚数会增加，  
+所以 <img src="../hai/sou4.gif" width="24" height="34" /> 也必须算作有效牌。
 
-原页强调得很对：
+也就是说，有效牌分成两种:
 
-**A 的价值高于 B。**
+<span class="red">A: 能降低向听数的牌（受入）</span>  
+<span class="blue">B: 能增加 A 的枚数的牌（好形变化）</span>
 
-因为 `A` 代表你现在就能离和牌更近一步，而 `B` 只是让你“下一步可能更好”。这两者不能混为一谈。
+---
 
-## 枚数相同的时候，再比好形变化
+**例 4**  
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" /> 碰<img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/ton.gif" width="24" height="34" /><img src="../hai/yton.gif" width="32" height="24" /> 自摸<img src="../hai/man4.gif" width="24" height="34" />
 
-有时两个选择当前受入一样，这时才轮到比较好形变化。
+例 4 是一题关于取待牌的选择。
 
-例如原页最后那手待牌选择：
+现在的双碰待，和切 <img src="../hai/man2.gif" width="24" height="34" /> 之后形成的嵌张待，两边受入枚数同样都是 4 枚。  
+这时就要比较好形变化。
 
-1. 当前两种取法都是 `4 枚`
-2. 但其中一种后续有三面变化
-3. 另一种后续改善明显更少
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /> 自摸<img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /> 时，枚数增加
 
-这时当然要选后续变化更强的一边。
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /> 自摸<img src="../hai/man5.gif" width="24" height="34" /> 时，枚数增加
 
-原页这题的结论就是：当前两边都是 `4` 枚时，取后续能长成三面变化的那一边，也就是继续保留双碰取法。
+因为存在变成三面待的变化，所以正确答案应该是取双碰待。
 
-但顺序不能颠倒。基础牌效率永远先看：
+像这样，在受入枚数没有差别时，就可以比较好形变化的枚数。  
+这里最重要的一点是，**受入枚数的价值高于好形变化的枚数**。
 
-1. 当前受入谁更大
-2. 若相同，再看好形变化
+牌效率的基础，永远是**先只比较受入枚数**。
 
-原页最后专门提醒了一件很容易搞错的事：
+<span class="red">A: 降低向听数的牌（受入）</span>
 
-1. 有些人会把 `A` 和 `B` 直接相加
-2. 然后用 `受入 + 好形变化` 去比较两手牌
+<span class="blue">B: 增加 A 枚数的牌（好形变化）</span>
 
-这通常是不对的。因为“立刻前进一步”和“以后可能变好”不是同等价值。
-
-所以牌理的基本顺序必须固定：
-
-**先比受入，再比好形变化。**
-
-## 这一页的结论
-
-1. “枚数越多越有利”是牌效率最基础的原则
-2. 听牌阶段比待牌枚数，不听牌阶段比受入枚数
-3. 受入就是能让当前向听数下降的牌
-4. 有效牌还包括会扩大受入的好形变化
-5. 但比较顺序必须是：`先看受入，再看好形变化`
+偶尔会有人把 A 和 B 当成同等价值，用 `A + B` 来比较枚数。  
+这很容易产生误解，一定要注意。
 
 ---
 
