@@ -1,144 +1,144 @@
 # 搭子理论（2）
 
-这一页专讲`两嵌`。
+这一页讲两嵌。
 
-两嵌指的是像 <img src="../hai/man2.gif"><img src="../hai/man4.gif"><img src="../hai/man6.gif"> 这样，由两个嵌张复合而成的形。
+所谓两嵌，就是像 <img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /> 这样，由两个嵌张复合起来的形。
 
-它的受入有 `8 枚`，但功能上仍远不如两面，理由主要有两点：
+它的受入有 8 枚，但因为:
 
-1. 它要占用 `3` 张牌的位置
-2. 如果最后把它留成等待，通常会剩成嵌张
+(1) 要占用 3 张牌  
+(2) 最后如果留下来做待牌，会变成嵌张
 
-正因为这两点，两嵌在功能面上远远比不上两面。
+这两点原因，在功能上还是远远比不上两面待。
 
-## 1. 两嵌和双碰的比较
+## 1. 两嵌和双碰
 
-### 例 1
+**例 1**  
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 自摸<img src="../hai/sou5.gif" width="24" height="34" />
 
-<img src="../hai/man1.gif"><img src="../hai/man3.gif"><img src="../hai/man3.gif"><img src="../hai/man5.gif"><img src="../hai/pin3.gif"><img src="../hai/pin3.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/sou1.gif"><img src="../hai/sou2.gif"><img src="../hai/sou3.gif"><img src="../hai/sou6.gif"><img src="../hai/sou7.gif">　　自摸<img src="../hai/sou5.gif">
+两嵌里真正容易出问题的地方，就是它和双碰受入之间的选择。
 
-两嵌真正麻烦的地方，往往就在于它和双碰受入之间的取舍。
+如果只看做成平和的概率，例 1 好像应该切 <img src="../hai/man3.gif" width="24" height="34" />。
 
-这题如果只看“更容易做成平和听牌”的概率，好像会想切 <img src="../hai/man3.gif">。
+因为摸到 <img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /> 时，都能做成平和听牌。  
+相对地，如果切 <img src="../hai/man1.gif" width="24" height="34" /> 或切 <img src="../hai/man5.gif" width="24" height="34" />，能做成平和听牌的受入就只剩 1 种。
 
-因为摸到 <img src="../hai/man2.gif"><img src="../hai/man4.gif"> 时，都能做成平和听牌。相对地，如果是切 <img src="../hai/man1.gif"> 或切 <img src="../hai/man5.gif">，能做成平和听牌的受入就只剩 1 种。
+所以表面看起来，好像取两嵌更好。
 
-所以表面看起来，好像应该取两嵌更好。
+但是如果从听牌效率来看，这里应该是一手 <img src="../hai/man1.gif" width="24" height="34" /> 切。
 
-但如果从**听牌效率**来比较，这里正确答案其实是一手 <img src="../hai/man1.gif"> 切。
+因为这样还能通过摸到 <img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" />，转成平和的完全一向听。
 
-因为它还能通过摸进 <img src="../hai/pin2.gif"><img src="../hai/pin4.gif">，转成平和的完全一向听：
+<img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 自摸<img src="../hai/pin2.gif" width="24" height="34" />
 
-<img src="../hai/man3.gif"><img src="../hai/man3.gif"><img src="../hai/man5.gif"><img src="../hai/pin3.gif"><img src="../hai/pin3.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/sou1.gif"><img src="../hai/sou2.gif"><img src="../hai/sou3.gif"><img src="../hai/sou5.gif"><img src="../hai/sou6.gif"><img src="../hai/sou7.gif">　　自摸<img src="../hai/pin2.gif">
-
-当雀头是中张，而且本身还能向两面变化时，一般来说，比起硬取两嵌，取成“嵌张 + 双碰”往往会有更多好形变化，因此更有利。
-
----
-
-### 例 2
-
-<img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man6.gif"><img src="../hai/man6.gif"><img src="../hai/pin4.gif"><img src="../hai/pin6.gif"><img src="../hai/pin8.gif"><img src="../hai/pin8.gif"><img src="../hai/sou4.gif"><img src="../hai/sou5.gif"><img src="../hai/sou5.gif"><img src="../hai/sou6.gif"><img src="../hai/sou7.gif">　　自摸<img src="../hai/man3.gif">
-
-这题因为还看得到三色路线，所以很多人会想切 <img src="../hai/pin8.gif">。
-
-但更好的打牌其实是切 <img src="../hai/pin4.gif">，因为这样还能对应万子的三面张变化：
-
-<img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man6.gif"><img src="../hai/man6.gif"><img src="../hai/pin6.gif"><img src="../hai/pin8.gif"><img src="../hai/pin8.gif"><img src="../hai/sou4.gif"><img src="../hai/sou5.gif"><img src="../hai/sou5.gif"><img src="../hai/sou6.gif"><img src="../hai/sou7.gif">　　自摸<img src="../hai/man7.gif">
-
-也就是说，这题不能只盯着三色的影子，而是要看哪一边留下来的后续变化更强。
+当雀头是还能向两面变化的中张牌时，  
+一般来说，比起取两嵌，取成“嵌张 + 双碰”往往会因为好形变化更多而更有利。
 
 ---
 
-### 例 3
+**例 2**  
+<img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 自摸<img src="../hai/man3.gif" width="24" height="34" />
 
-<img src="../hai/sou1.gif"><img src="../hai/sou1.gif"><img src="../hai/sou3.gif"><img src="../hai/sou5.gif"><img src="../hai/sou8.gif"><img src="../hai/sou8.gif"><img src="../hai/pin4.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif">　碰<img src="../hai/haku.gif"><img src="../hai/haku.gif"><img src="../hai/yhaku.gif">　　自摸<img src="../hai/pin2.gif">
+例 2 因为还看得到三色，所以很容易想切 <img src="../hai/pin8.gif" width="24" height="34" />。
 
-已经鸣牌的手牌里，双碰受入会比两嵌更占便宜。
+不过，更好的打牌其实是切 <img src="../hai/pin4.gif" width="24" height="34" />，  
+因为这样还能照顾到万子的三面张变化。
 
-这题要切 <img src="../hai/sou5.gif">，去争取 <img src="../hai/sou1.gif"> 和 <img src="../hai/sou8.gif"> 的碰听。
-
-如果切 <img src="../hai/sou1.gif"> 去取两嵌，受入枚数虽然不会变，但**听牌速度**会变慢。
-
-理由很直接：
-
-1. 吃只能吃上家
-2. 碰可以碰三家任何一家
-
-所以在副露手里，双碰路线往往更有利。
+<img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 自摸<img src="../hai/man7.gif" width="24" height="34" />
 
 ---
 
-### 例 4
+**例 3**  
+<img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /> 碰<img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/haku.gif" width="24" height="34" /><img src="../hai/yhaku.gif" width="32" height="24" /> 自摸<img src="../hai/pin2.gif" width="24" height="34" />
 
-<img src="../hai/man4.gif"><img src="../hai/man6.gif"><img src="../hai/man8.gif"><img src="../hai/man8.gif"><img src="../hai/pin1.gif"><img src="../hai/pin1.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/sou3.gif"><img src="../hai/sou5.gif">　　自摸<img src="../hai/sou4.gif">
+在已经鸣牌的手牌里，双碰受入会更加有利。
 
-不过，也不是所有时候都一律双碰更好，事情没有那么简单。
+例 3 应该切 <img src="../hai/sou5.gif" width="24" height="34" />，去争取 <img src="../hai/sou1.gif" width="24" height="34" /> 和 <img src="../hai/sou8.gif" width="24" height="34" /> 的碰听。
 
-这题按牌理更推荐切 <img src="../hai/man8.gif">，先取一向听。这样后续的好形变化更值得期待。
+如果切 <img src="../hai/sou1.gif" width="24" height="34" /> 去取两嵌，受入枚数虽然不会变，  
+但听牌速度会不同。
 
-不仅摸到 <img src="../hai/man3.gif"> 有效，连原本看起来像反向摸进的 <img src="../hai/pin1.gif"> 也会成为有效牌：
+因为吃只能吃上家，碰却可以从三家任何一家碰。
 
-<img src="../hai/man4.gif"><img src="../hai/man6.gif"><img src="../hai/man8.gif"><img src="../hai/pin1.gif"><img src="../hai/pin1.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/pin7.gif"><img src="../hai/pin8.gif"><img src="../hai/sou3.gif"><img src="../hai/sou4.gif"><img src="../hai/sou5.gif">　　自摸<img src="../hai/pin1.gif">
+---
 
-这时只要再切 <img src="../hai/man4.gif"> 或 <img src="../hai/man8.gif">，受入就会明显增加。
+**例 4**  
+<img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /> 自摸<img src="../hai/sou4.gif" width="24" height="34" />
 
-相对地，如果一开始切 <img src="../hai/man4.gif"> 取成双碰，那么再摸到 <img src="../hai/man5.gif"> 时，`5m` 并不会成为有效牌，属于完全的反向摸进。
+不过，也不是所有时候都一律双碰更好，并没有那么简单。
 
-### 理论小结
+例 4 更值得推荐的是切 <img src="../hai/man8.gif" width="24" height="34" />，先取一向听。  
+这样更容易期待好形变化。
 
-> 两嵌手里，如果是在“取双碰”还是“取嵌张”之间选择，就要比较好形变化的枚数。一般来说，双碰更有利的情况更多。
+不只摸到 <img src="../hai/man3.gif" width="24" height="34" /> 有效，  
+连看起来像反向摸进的 <img src="../hai/pin1.gif" width="24" height="34" /> 也会变成有效牌。
+
+<img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /> 自摸<img src="../hai/pin1.gif" width="24" height="34" />
+
+这时只要切 <img src="../hai/man4.gif" width="24" height="34" /> 或 <img src="../hai/man8.gif" width="24" height="34" />，受入枚数就会大幅增加。
+
+相对地，如果一开始切 <img src="../hai/man4.gif" width="24" height="34" /> 去取双碰，  
+那再摸到 <img src="../hai/man5.gif" width="24" height="34" /> 时，<img src="../hai/man5.gif" width="24" height="34" /> 并不会成为有效牌。  
+这是完全的反向摸进。
+
+### 理论总结
+
+<div class="green" markdown="1">
+两嵌手里，如果是在双碰受入和嵌张受入之间作选择，  
+就去比较好形变化的枚数。  
+一般来说，双碰更有利的情况更多。
+</div>
 
 ## 2. 容易看漏的两嵌
 
-两嵌和完成面子复合后，很容易被忽略。
+两嵌一旦和面子复合起来，就很容易被忽略，这一点必须注意。
 
-### 例 5
+**例 5**  
+<img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> 自摸<img src="../hai/pin9.gif" width="24" height="34" />
 
-<img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man7.gif"><img src="../hai/pin5.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"><img src="../hai/pin7.gif"><img src="../hai/sou1.gif"><img src="../hai/sou3.gif"><img src="../hai/sou3.gif"><img src="../hai/sou7.gif"><img src="../hai/sou8.gif">　自摸<img src="../hai/pin9.gif">
+像例 5 这种形，有人会很随手地把 <img src="../hai/pin9.gif" width="24" height="34" /> 自摸切掉。
 
-像这题这种形，有人会很随手地把 <img src="../hai/pin9.gif"> 自摸切掉。
+因为目光会先被一杯口吸引过去。
 
-因为目光会先被一杯口吸过去。
+但如果把 <img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /> 这个面子先拿出来，  
+筒子部分其实就是 <img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /> 的两嵌形。
 
-但如果把 <img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin7.gif"> 这组现成面子先拿出来重看，就会发现筒子部分其实是 <img src="../hai/pin5.gif"><img src="../hai/pin7.gif"><img src="../hai/pin9.gif"> 的两嵌。
-
-这时如果直接打 <img src="../hai/pin9.gif">，就等于把 <img src="../hai/pin8.gif"> 的受入白白消掉了。
+这时如果打掉 <img src="../hai/pin9.gif" width="24" height="34" />，  
+就会把 <img src="../hai/pin8.gif" width="24" height="34" /> 的受入直接消掉。
 
 ---
 
-### 例 6
+**例 6**  
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" />
 
-<img src="../hai/man1.gif"><img src="../hai/man2.gif"><img src="../hai/man2.gif"><img src="../hai/man3.gif"><img src="../hai/man4.gif"><img src="../hai/man6.gif"><img src="../hai/man7.gif"><img src="../hai/man8.gif"><img src="../hai/man9.gif"><img src="../hai/sou5.gif"><img src="../hai/sou5.gif"><img src="../hai/sou6.gif"><img src="../hai/sou7.gif">
+例 6 虽然是一气通贯的一向听，但万子其实是两嵌形。
 
-这题是一气通贯的一向听，但万子部分其实是两嵌形。
-
-所以即使之后摸到安全牌，也不要大意地把 <img src="../hai/man2.gif"> 切掉，否则会把 <img src="../hai/man3.gif"> 摸进来的听牌机会直接放掉。
+所以就算之后摸到安全牌，也不要一不小心把 <img src="../hai/man2.gif" width="24" height="34" /> 切掉，  
+免得错过 <img src="../hai/man3.gif" width="24" height="34" /> 摸进来的听牌机会。
 
 ## 3. 变则两嵌
 
-偶尔还会遇到一种“分离两嵌形”。
+偶尔还会遇到一种叫“分离两嵌形”的牌姿。
 
-比如：
+例如：
 
-<img src="../hai/sou2.gif"><img src="../hai/sou4.gif"><img src="../hai/sou5.gif"><img src="../hai/sou6.gif"><img src="../hai/sou7.gif"><img src="../hai/sou9.gif">
+<img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou9.gif" width="24" height="34" />
 
-这种 6 张构成里，也存在 `8 枚` 受入。
+这是一种 6 张构成、8 枚受入的形。
 
-### 例 7
+**例 7**  
+<img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 自摸<img src="../hai/man6.gif" width="24" height="34" />
 
-<img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man5.gif"><img src="../hai/man6.gif"><img src="../hai/pin1.gif"><img src="../hai/pin3.gif"><img src="../hai/pin4.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin8.gif"><img src="../hai/pin9.gif"><img src="../hai/sou7.gif"><img src="../hai/sou7.gif">　　自摸<img src="../hai/man6.gif">
+这种形，常常会在放弃一气通贯路线时遇到。
 
-这种牌形常见于放弃一气通贯、改走门断平一杯口之类路线的时候。
+例 7 当然应该切换目标，改走门清断平和一杯口。  
+但切 <img src="../hai/pin9.gif" width="24" height="34" /> 和切 <img src="../hai/pin1.gif" width="24" height="34" />，差距可以说是天差地别。
 
-这题当然要把目标切换成门清断幺九平和一杯口，但 <img src="../hai/pin9.gif"> 切和 <img src="../hai/pin1.gif"> 切，差距极大。
+如果选后者，就会把坎 <img src="../hai/pin2.gif" width="24" height="34" /> 的受入直接弄没。
 
-如果切后者，就会把坎 <img src="../hai/pin2.gif"> 的受入直接弄没。
+<img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 自摸<img src="../hai/pin2.gif" width="24" height="34" />
 
-<img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man5.gif"><img src="../hai/man6.gif"><img src="../hai/man6.gif"><img src="../hai/pin1.gif"><img src="../hai/pin3.gif"><img src="../hai/pin4.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin8.gif"><img src="../hai/sou7.gif"><img src="../hai/sou7.gif">　　自摸<img src="../hai/pin2.gif">
-
-<img src="../hai/man4.gif"><img src="../hai/man5.gif"><img src="../hai/man5.gif"><img src="../hai/man6.gif"><img src="../hai/man6.gif"><img src="../hai/pin3.gif"><img src="../hai/pin4.gif"><img src="../hai/pin5.gif"><img src="../hai/pin6.gif"><img src="../hai/pin8.gif"><img src="../hai/pin9.gif"><img src="../hai/sou7.gif"><img src="../hai/sou7.gif">　　自摸<img src="../hai/pin2.gif">
-
-所以这类分离两嵌，实战里也要作为一个整体来识别，不能只看表面上的一张边牌。
+<img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 自摸<img src="../hai/pin2.gif" width="24" height="34" />
 
 ---
 
