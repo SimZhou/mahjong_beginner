@@ -1,106 +1,110 @@
 # 平和
 
-平和是最容易做成的手役之一。
-
-只要按照牌效率把手牌整理顺，牌形自然就会向平和靠拢。
+平和是最容易做成的手役之一。  
+只要按照效率把手牌整理好，牌往往自然就会做成平和。
 
 ## 1. 向两面变化
 
-平和要求整手全部由顺子构成，且最终听牌必须是两面。
+平和要求整手都由顺子构成，而且最终待牌必须是两面。  
+因此，做平和的重点就是不断去做两面。
 
-所以做平和时最关键的，不是死背定义，而是尽量把牌形往两面方向推进。
+---
 
-### 例 1
+**例 1**  
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" />
 
-<span class="b">例 1</span><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34">
+例 1 也是第一章的复习。  
+按照“边张不如坎张”的理论，这里拆掉 <img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man2.gif" width="24" height="34" />。
 
-例 1 也是第一章的复习题。
+筒子部分如果摸进 <img src="../hai/pin5.gif" width="24" height="34" />，就会变成两面，平和也随之确定。  
+摸 <img src="../hai/pin6.gif" width="24" height="34" /> 的话，还会变成两嵌连，受入更宽。  
+边张并没有这样的变化。
 
-按“边张不如坎张”的基本理论，这里应当拆 `12m`。
+---
 
-筒子部分只要摸到 `5p`，就会直接变成两面，平和也随之确定；就算摸到 `6p`，也能形成两坎连，受入进一步扩大。
+**例 2**  
+<img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin1.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" />
 
-边张则不会有这种向两面演化的价值，因此这里当然先拆边张。
+例 2 是两个坎张之间的比较，这里也应该比较谁更容易变成两面。
 
-### 例 2
+万子的坎张，不管是摸 <img src="../hai/man2.gif" width="24" height="34" /> 还是摸 <img src="../hai/man6.gif" width="24" height="34" />，都能变成两面；  
+而筒子的坎张，只有摸 <img src="../hai/pin4.gif" width="24" height="34" /> 时才会变化。  
+所以要拆筒子这边的坎张。
 
-<span class="b">例 2</span><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34">
+因此这手应从 <img src="../hai/pin1.gif" width="24" height="34" /> 开始切。
 
-例 2 则是在比较两个坎张时，也要看谁更容易变成两面。
+<img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/man9.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin7.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou5.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /> 摸 <img src="../hai/pin4.gif" width="24" height="34" />
 
-万子的坎张如果摸到 `2m`，也能变两面；摸到 `6m`，同样能变两面。
+不过，如果后来真摸到了 <img src="../hai/pin4.gif" width="24" height="34" />，  
+这时就会改成拆 <img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" />。  
+因此一定要从 <img src="../hai/pin1.gif" width="24" height="34" /> 起手切。
 
-但筒子的坎张，只有摸到 `4p` 才会出现明显的两面变化。
+## 2. 两嵌连
 
-因此这里应当先拆筒子坎张，也就是先切 `1p`。
+这里也还是第一章的复习。  
+所谓两嵌连，就是两个坎张连在一起的形，像 <img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /> 这样。
 
-<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34">　　摸到<img src="../hai/pin4.gif" width="24" height="34">
+不论摸 <img src="../hai/man5.gif" width="24" height="34" /> 还是摸 <img src="../hai/man7.gif" width="24" height="34" />，都能做出顺子。  
+所以它是仅次于两面的好形。  
+善用这种形，会更容易做出平和。
 
-不过，若后来摸到 `4p`，这时就会改为拆 `3m5m` 这组弱坎张，所以一开始必须从 `1p` 切起，而不是先动别的部分。
+---
 
-## 2. 两坎连
+**例 3**  
+<img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man1.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin6.gif" width="24" height="34" /><img src="../hai/pin8.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /> 摸 <img src="../hai/man9.gif" width="24" height="34" />
 
-这也是第一章的复习内容。
+比如这手，就应该切 <img src="../hai/pin4.gif" width="24" height="34" />，在筒子里做出两嵌连。
 
-两坎连，指的是像 `468m` 这样两个坎张相连的结构。
-
-这种形只要摸到 `5m` 或 `7m`，都能做出顺子，所以它被认为是仅次于两面的好形。把这种形保留下来，做平和会容易很多。
-
-### 例 3
-
-<span class="b">例 3</span><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34">　　摸到<img src="../hai/man9.gif" width="24" height="34">
-
-这手的正解是切 `4p`，把筒子做成两坎连。
-
-虽然切 `8p` 的受入枚数并不会立刻变差，但切 `4p` 更容易朝平和路线生长，因此在打点层面更有利。
+虽然切 <img src="../hai/pin8.gif" width="24" height="34" /> 受入枚数并不会变差，  
+但切 <img src="../hai/pin4.gif" width="24" height="34" /> 更容易做成平和，所以在打点上更有利。
 
 ## 3. 拆对子
 
-如果雀头是役牌，就不能成立平和，这一点必须特别注意。
+如果雀头是番牌，平和就不成立，这点必须注意。
 
-### 例 4
+---
 
-<span class="b">例 4</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">　　摸到<img src="../hai/man6.gif" width="24" height="34">
+**例 4**  
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou4.gif" width="24" height="34" /><img src="../hai/sou6.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" /><img src="../hai/tyun.gif" width="24" height="34" /> 摸 <img src="../hai/man6.gif" width="24" height="34" />
 
-即使是役牌对子，这里通常也应该把 `中` 拆掉。
+即使是役牌，这里一般也应该把 <img src="../hai/tyun.gif" width="24" height="34" /> 当对子拆掉。
 
-因为这手明显更适合朝断幺九、平和、门清高打点的方向走，而不是把 `中` 碰掉做一副一千点的便宜手。
+因为这是朝断幺九、平和做牌的思路。  
+并不是去鸣 <img src="../hai/tyun.gif" width="24" height="34" /> 做 1000 点小和的手，  
+而是门清去争高打点的手。
 
-这种“主动拆役牌对子去做平和”的场面很常见，应该熟悉。
+这种“拆对子去看平和”的打法非常常见，要记住。
 
-### 例 5
+---
 
-<span class="b">例 5</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34">　　摸到<img src="../hai/pin6.gif" width="24" height="34">
+**例 5**  
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin5.gif" width="24" height="34" /><img src="../hai/sou1.gif" width="24" height="34" /><img src="../hai/sou2.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /> 摸 <img src="../hai/pin6.gif" width="24" height="34" />
 
-例 5 是一道很经典的题。
+例 5 是一道有名的问题。
 
-这里切 `7m` 和切 `2p` 并不等价。
+切 <img src="../hai/man7.gif" width="24" height="34" /> 和切 <img src="../hai/pin2.gif" width="24" height="34" /> 并不一样。  
+如果切 <img src="../hai/man7.gif" width="24" height="34" />，万子会变成  
+<img src="../hai/man2.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man3.gif" width="24" height="34" /><img src="../hai/man4.gif" width="24" height="34" /><img src="../hai/man5.gif" width="24" height="34" /><img src="../hai/man7.gif" width="24" height="34" />，  
+还能接受 <img src="../hai/man6.gif" width="24" height="34" />。
 
-如果切 `7m`，万子会留下 `233457m` 这样的结构，后面还能接受 `6m`，形成“两面 + 坎张”的复合好形。
+这种“两面 + 坎张”的复合形很常见，别看漏。
 
-这种两面加坎张的结构在实战中很常见，不能看漏。
+---
 
-### 例 6
+**例 6**  
+<img src="../hai/man6.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/man8.gif" width="24" height="34" /><img src="../hai/pin2.gif" width="24" height="34" /><img src="../hai/pin3.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin4.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/pin9.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou3.gif" width="24" height="34" /><img src="../hai/sou7.gif" width="24" height="34" /><img src="../hai/sou8.gif" width="24" height="34" /> 摸 <img src="../hai/pin5.gif" width="24" height="34" />
 
-<span class="b">例 6</span><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/pin5.gif" width="24" height="34">
+例 6 这种手，如果切 <img src="../hai/man6.gif" width="24" height="34" />，就有点不对味了。  
+这里应该把 <img src="../hai/pin9.gif" width="24" height="34" /> 当对子拆掉。
 
-例 6 如果切 `6m`，就显得很不顺。
+这样一来，摸 <img src="../hai/man7.gif" width="24" height="34" /> 时会成为平和一向听；  
+摸 <img src="../hai/sou2.gif" width="24" height="34" /> 或 <img src="../hai/sou4.gif" width="24" height="34" /> 时，也还能去看平和。
 
-这里应该把 `9p` 当对子拆掉。
+看起来好像也能拆 <img src="../hai/sou3.gif" width="24" height="34" /> 这个对子，  
+但那样一来，能往两面变化的牌就只剩 <img src="../hai/man5.gif" width="24" height="34" /> 一种。
 
-这样一来，若摸到 `7m`，就能进入平和一向听；摸到 `2s` 或 `4s`，也依然能往平和发展。
-
-表面上看，似乎也可以拆 `3s` 对子，但那样的话，朝两面变化的机会只剩 `5m` 一种，明显不如拆 `9p`。
-
-还有一种想法是把 `3s` 浮出来不立即拆，但这种打法会让舍牌变弱，也更难在手里保留安全牌，因此并不推荐。
-
-## 这一页的结论
-
-1. 做平和的核心，是尽量让牌形往两面变化
-2. 边张、坎张的比较，不只看眼前形状，还要看未来能否变成两面
-3. 两坎连是做平和时很重要的优质材料
-4. 若役牌对子会卡死平和，很多时候就该主动拆掉
-5. 拆对子时也要比较拆完后的复合牌形和改良空间
+也可以考虑先把 <img src="../hai/sou3.gif" width="24" height="34" /> 浮出来，  
+不过这样会让舍牌变弱，而且很难在手里留安全牌，所以我不推荐。
 
 ---
 
