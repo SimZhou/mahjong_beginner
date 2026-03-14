@@ -1,111 +1,126 @@
 # 对子手（2）
 
-这一页补完七对子的做法与常规理论。
+把七对子的做法和基本理论记住吧。
 
-## 1. 七对子与面子手的分岔点
+## 1. 七对子和面子手的分歧点
 
-原则上，如果七对子和面子手的向听数相同，那么面子手的受入更广，也更容易真正进入听牌。
+基本上，面子手和七对子在向听数相同的时候，  
+**面子手的受入更广，也更容易真正进入听牌**。  
+所以如果面子手的向听数比七对子更低，  
+例如七对子两向听，而面子手一向听，
 
-因此，当同一手牌里：
+那就应该只看面子手。
 
-1. 七对子是两向听
-2. 面子手已经是一向听
+<span class="b">例 1</span>
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/man9.gif" width="24" height="34">　　宝牌<img src="../hai/man4.gif" width="24" height="34">
 
-这种时候就应直接专心做面子手，不再分心给七对子。
+例 1 当然完全不用去看七对子，直接切 <img src="../hai/man8m.gif" width="19" height="26" class="hai"> 。
 
-### 例 1
+---
 
-<span class="b">例 1</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/man9.gif" width="24" height="34">　　宝牌<img src="../hai/man4.gif" width="24" height="34">
+<span class="b">例 2</span>
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/pin2.gif" width="24" height="34">　　宝牌<img src="../hai/man4.gif" width="24" height="34">
 
-例 1 当然完全不用看七对子，直接按面子手处理，切 `8m` 即可。
+但像例 2 这样，如果七对子是一向听，  
+面子手是两向听，又该怎么打呢？  
+从手筋上来说，
 
-### 例 2
+- 面子手的手筋 -> 切 <img src="../hai/pin2m.gif" width="19" height="26">
+- 七对子的手筋 -> 切 <img src="../hai/man3m.gif" width="19" height="26">，把宝牌表示牌打掉
 
-<span class="b">例 2</span><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/pin2.gif" width="24" height="34">　　宝牌<img src="../hai/man4.gif" width="24" height="34">
+以前好像认为应该尽早决定只走一边，  
+但现在主流的思路，是一边打，一边把面子手和七对子两边都保留下来。
 
-但像例 2 这样，如果七对子是一向听，而面子手是两向听，又该怎么办？
+切 <img src="../hai/man7m.gif" width="19" height="26" class="hai"> ，就是两边都能对应的一打。
 
-传统思路往往要求你尽早选边：
+主线当然还是断幺九 + 宝牌 2，  
+但如果摸到 <img src="../hai/man2m.gif" width="19" height="26"><img src="../hai/man3m.gif" width="19" height="26"><img src="../hai/man5m.gif" width="19" height="26"> 这些牌形成七对子听牌，也不该放弃。
 
-- 面子手思路：切 `2p`
-- 七对子思路：切 `3m`
+也许有人会批评这种打法太优柔寡断，  
+但我认为切 <img src="../hai/man7m.gif" width="19" height="26" class="hai"> 才是正解。
 
-但现在更主流的想法，是在条件允许时，先保留两边可能。
+---
 
-这手里兼顾两边的好牌，就是切 `7m`。
+<span class="b">例 3</span>
+<img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34">　　摸到<img src="../hai/sou9.gif" width="24" height="34">　　宝牌<img src="../hai/sou1.gif" width="24" height="34">
 
-虽然主线依旧是断幺九、宝牌 2 的面子手，但如果之后摸到 `2m`、`3m`、`5m` 这类关键牌，七对子听牌也仍然值得保留。
+例 3 如果只考虑面子手，那当然是 <img src="../hai/sou9m.gif" width="19" height="26" class="hai"> 摸切。
 
-也许有人会觉得这种打法显得“不够果断”，但这里我同意原页的判断：切 `7m` 才是更完整的处理。
-
-### 例 3
-
-<span class="b">例 3</span><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34">　　摸到<img src="../hai/sou9.gif" width="24" height="34">　　宝牌<img src="../hai/sou1.gif" width="24" height="34">
-
-例 3 如果只看面子手，当然会把摸到的 `9s` 直接摸切。
-
-但这手面子手路线并不舒服，因此更合理的处理，是切 `1p`，让七对子和面子手两边都保留。
+但切 <img src="../hai/pin1m.gif" width="19" height="26" class="hai"> 能同时保留两边，看起来更好。
 
 ### 理论小结
 
-<span class="green">面子手很苦时，应保留七对子之眼。</span>
+<span class="green">面子手很苦时，要保留七对子之眼。</span>
 
-### 例 4
+---
 
-<span class="b">例 4</span><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/man8.gif" width="24" height="34">　　宝牌<img src="../hai/man4.gif" width="24" height="34">
+<span class="b">例 4</span>
+<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　摸到<img src="../hai/man8.gif" width="24" height="34">　　宝牌<img src="../hai/man4.gif" width="24" height="34">
 
-例 4 呢？
+例 4 又怎么样呢。
 
-如果想兼顾两边，当然可以切 `4p`。
+如果要两边都保留，应该切 <img src="../hai/pin4m.gif" width="19" height="26" class="hai"> 。
 
-但这手的面子手质量本来就很好，而且即使保留七对子可能，最后大概率还是会自然收束成面子手。因此这里最好的处理，是直接切 `3m`，把宝牌面子先确定下来，彻底专注于面子手主线。
+切 <img src="../hai/pin4m.gif" width="19" height="26" class="hai"> 也不能说错，但例 4 的牌形很好，  
+**就算保留七对子的可能，最后大概率还是会收束成面子手**，  
+所以这里最好还是只看面子手，切 <img src="../hai/man3m.gif" width="19" height="26"> ，把宝牌面子固定下来。
 
 ## 2. 七对子的待牌
 
-### 例 5
+<span class="b">例 5</span>
+<img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　　摸到<img src="../hai/man5.gif" width="24" height="34">
 
-<span class="b">例 5</span><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　　摸到<img src="../hai/man5.gif" width="24" height="34">
+常说立直当然越早越好。  
+但例 5 立刻立直，实在值得怀疑。
 
-常说立直应该尽量早挂，但例 5 这种牌，立刻立直就很值得怀疑。
+不管等哪一张，都不太容易和。
 
-因为无论等哪张，看上去都不算容易和。
+就算有 <img src="../hai/pin5redm.gif" width="19" height="26" class="hai"> ，立 <img src="../hai/pin5m.gif" width="19" height="26" class="hai"> 单骑也是坏手。
 
-就算手里有红 `5p`，硬立一个 `5p` 单骑也不是好手。单骑本来就只有 3 枚，可如果这 3 枚又都不容易被打出来，那这种待牌质量就很差。
+单骑待牌从枚数来说本来就只有 3 张。  
+既然只有 3 张，就不应该再去等那种不容易荣和的牌。
 
-那七对子单骑，究竟应该优先等什么？
+那么，单骑最好等什么牌呢？
 
-| 种类 | 说明 |
-| --- | --- |
-| 字牌 | 基本上优先等容易打出的字牌。尤其是场上已经见过 1 张的字牌，往往是极好的单骑，既能荣和，也还保留自摸空间。 |
-| 一九牌 | 同样比较容易被打出，因此很有效。二八牌也不差。 |
-| 筋挂 | 这是专门用来追求荣和的单骑技巧。比如同样是筋挂，切 `4` 后等 `7`，通常不如切 `4` 后等 `1` 更容易出。 |
-| 壁挂 | 例如场上 `3p` 已经四张全见，此时去等 `1p` 或 `2p`。别人会把它当成无机会而打出来，往往比普通筋挂更有效，同时也保留自摸可能。 |
-| 宝牌 | 如果默听就有 `6400`，立直后自摸还能上跳满，那么为了大牌，宝牌单骑也可以主动去等。 |
+<table border="1" cellpadding="2" cellspacing="2" bgcolor="#EAEAEA">
+<tr>
+<td width="106" bgcolor="#000099"><font color="#FFFFFF">字牌</font></td>
+<td width="423" bgcolor="#FFFFFF"><font color="#000000">基本上应当等容易打出的字牌。<br />尤其是场上已经见过 1 张的字牌，是绝好的待牌。<br />既能期待荣和，也能期待自摸。</font></td>
+</tr>
+<tr>
+<td bgcolor="#000099"><font color="#FFFFFF">一九牌</font></td>
+<td bgcolor="#FFFFFF"><font color="#000000">同样因为容易打出来而有效。<br />2 和 8 也不算差。</font></td>
+</tr>
+<tr>
+<td bgcolor="#000099"><font color="#FFFFFF">筋引挂</font></td>
+<td bgcolor="#FFFFFF"><font color="#000000">这是用来追求荣和时的思路。<br />同样都是筋引挂，<br />切 4 等 7，不如切 4 等 1 更有效。</font></td>
+</tr>
+<tr>
+<td bgcolor="#000099"><font color="#FFFFFF">壁引挂</font></td>
+<td bgcolor="#FFFFFF"><font color="#000000">例如场上 3 筒已经 4 张全见时，<br />去等 1 筒或 2 筒。对手会把它当成无机会而切出来。<br />比筋引挂更有效，也还能期待自摸。</font></td>
+</tr>
+<tr>
+<td bgcolor="#000099"><font color="#FFFFFF">宝牌</font></td>
+<td bgcolor="#FFFFFF"><font color="#000000">默听就有 6400，立直后自摸还能到跳满。<br />适合想要和大牌的时候。</font></td>
+</tr>
+</table>
 
-单骑待的真正强点，是你可以故意选一张更容易被别人打出来的牌来等。
+单骑待可以有意识地去追求荣和。  
+比如场上已经见过 1 张的客风单骑，就是非常好的待牌。
 
-场上已经见过 1 张的客风字牌，往往就是非常理想的七对子单骑。
+<span class="b">例 6</span>
+<img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　　摸到<img src="../hai/man5.gif" width="24" height="34">
 
-### 例 6
+如果 <img src="../hai/pin7m.gif" width="19" height="26" class="hai"> 还是生牌，而 <img src="../hai/sham.gif" width="19" height="26" class="hai"> 已经见过 1 张，
 
-<span class="b">例 6</span><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　　摸到<img src="../hai/man5.gif" width="24" height="34">
-
-如果 `7p` 还是生牌，而 `西` 在场上已经见过 1 张，那么这里就该立 `西` 单骑。
-
-虽然从剩张看，一个是 3 枚，一个是 2 枚，但在“容易荣和”的程度上，差距会非常大。
+那就应该立 <img src="../hai/sham.gif" width="19" height="26" class="hai"> 单骑。  
+待牌枚数虽然是 3 张和 2 张，但在容易和牌这件事上，差距是天壤之别。
 
 ### 理论小结
 
-<span class="green">七对子单骑，应主动挑更容易被打出来的牌来等。</span>
-
-## 这一页的结论
-
-1. 当面子手向听明显更低时，应直接专注面子手
-2. 当七对子和面子手都还有现实性时，可以先保留双路线
-3. 如果面子手很苦，七对子的备选价值就会上升
-4. 如果面子手又快又强，就不必机械保留七对子可能
-5. 七对子单骑不只看剩张，更要看“这张牌容不容易被打出来”
-6. 字牌、一九牌、二八牌、筋挂、壁挂、宝牌，都是常见的单骑候选
+<span class="green">
+单骑待牌时，要有意识地挑更容易打出来的牌去等。
+</span>
 
 ---
 
