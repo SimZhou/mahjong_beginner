@@ -1,105 +1,122 @@
 # 杠（2）
 
-下面来看一些“明明有杠材，却不应该杠”的情况。
+下面列一些“明明有杠材，却不该去杠”的情况。
 
 ## 手牌很差
 
-### 例 1
+**例 1**
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">　　自摸<img src="../hai/sou5.gif" width="24" height="34">
 
-![2m](../hai/man2.gif)![6m](../hai/man6.gif)![2p](../hai/pin2.gif)![2p](../hai/pin2.gif)![4p](../hai/pin4.gif)![7p](../hai/pin7.gif)![5s](../hai/sou5.gif)![5s](../hai/sou5.gif)![5s](../hai/sou5.gif)![8s](../hai/sou8.gif)![9s](../hai/sou9.gif)![东](../hai/ton.gif)![中](../hai/tyun.gif)　　自摸![5s](../hai/sou5.gif)
+就算这是序盘，例 1 这种手也不该杠。
 
-即使这是序盘，这手也不该杠。
+牌形已经差到这个程度，说得直白一点，
 
-牌形已经坏到这个程度时，说得直白一点，自家的和牌希望本来就很渺茫。
+自己的和牌几乎已经没希望了。
 
-而一旦杠，就会增加宝牌。可是在这种自己很难和、反而更像是别人会和牌的局面里，主动给全桌加宝牌，本身就是亏损动作。
+杠会增加宝牌。
 
-这手牌里，先切字牌都可以。
+在这种更可能是别人和牌的局里，主动把宝牌加给全桌，本来就是吃亏的行为。
 
-甚至从这一刻起就朝着弃和去想，直接把自摸来的 ![5s](../hai/sou5.gif) 切掉，也未尝不可。
+这种手牌，要么先切字牌，
+
+要么干脆从这里开始就把弃和也纳入打算，直接把 <img src="../hai/sou5.gif" width="24" height="34"> 摸切掉，也未尝不可。
 
 ## 待牌会变差
 
-这是最典型的“即使已经听牌，也不该杠”的情况。
+这是最典型的“就算已经听牌，也不该杠”的情况。
 
-### 例 2
-
-![2s](../hai/sou2.gif)![3s](../hai/sou3.gif)![4s](../hai/sou4.gif)![4s](../hai/sou4.gif)![6s](../hai/sou6.gif)![6s](../hai/sou6.gif)![6s](../hai/sou6.gif)　自摸![6s](../hai/sou6.gif)　　吃![1s](../hai/ysou1.gif)![2s](../hai/sou2.gif)![3s](../hai/sou3.gif)　　碰![9s](../hai/sou9.gif)![9s](../hai/sou9.gif)![9s](../hai/ysou9.gif)
+**例 2**
+<img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">　自摸<img src="../hai/sou6.gif" width="24" height="34">　　吃<img src="../hai/ysou1.gif" width="32" height="24"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34">　　碰<img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/sou9.gif" width="24" height="34"><img src="../hai/ysou9.gif" width="32" height="24">
 
 这是一手清一色听牌。
 
-就算自摸来了可以杠的 ![6s](../hai/sou6.gif)，也该立刻把它摸切掉。
+就算摸进了可以杠的 <img src="../hai/sou6.gif" width="24" height="34">，也该立刻把它摸切掉。
 
-确实，如果有岭上牌和杠宝牌这类额外收益，最后可能直接上到跳满以上。
+确实，如果岭上和杠宝牌一起帮忙，最终可能会变成跳满以上。
 
-但也没必要为了这些附加值，去把 ![5s](../hai/sou5.gif) 的待牌枚数主动减少。
+但也没必要为了这些附加收益，去主动减少 <img src="../hai/sou5.gif" width="24" height="34"> 的待牌枚数。
 
 ## 受入会减少
 
-### 例 3
+**例 3**
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34">　　自摸<img src="../hai/pin6.gif" width="24" height="34">
 
-![2m](../hai/man2.gif)![3m](../hai/man3.gif)![3m](../hai/man3.gif)![5m](../hai/man5.gif)![6m](../hai/man6.gif)![5p](../hai/pin5.gif)![5p](../hai/pin5.gif)![6p](../hai/pin6.gif)![6p](../hai/pin6.gif)![6p](../hai/pin6.gif)![3s](../hai/sou3.gif)![4s](../hai/sou4.gif)![5s](../hai/sou5.gif)　　自摸![6p](../hai/pin6.gif)
+如果是好形一向听，那么就算去杠，通常也没什么问题。
 
-如果是好形一向听，那么就算暗杠通常也没什么问题。
+但例 3 不一样。
 
-但这题不一样。
+把
+<img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34">
+看成
+<img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34">
++
+<img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34">
+来拆开看，
 
-把 ![5p](../hai/pin5.gif)![6p](../hai/pin6.gif)![6p](../hai/pin6.gif)![6p](../hai/pin6.gif)![6p](../hai/pin6.gif) 拆成 `![5p](../hai/pin5.gif)![6p](../hai/pin6.gif)` 和 `![6p](../hai/pin6.gif)![6p](../hai/pin6.gif)![6p](../hai/pin6.gif)` 来看，就会明白：
+就能明白筒子部分原本还保留着 <img src="../hai/pin4.gif" width="24" height="34"> 到 <img src="../hai/pin7.gif" width="24" height="34"> 的受入。
 
-筒子部分原本还保留着 ![4p](../hai/pin4.gif) 到 ![7p](../hai/pin7.gif) 的受入。
+而万子本来就是二度受，所以这里最好是打 <img src="../hai/man2.gif" width="24" height="34">，
 
-而万子部分本来就有二度受け，所以这里最好的处理是打 ![2m](../hai/man2.gif)，先把它整理成断幺九确定的一向听。
+先把它整理成断幺九确定的一向听。
 
-等之后摸进 ![3m](../hai/man3.gif) 或 ![5p](../hai/pin5.gif)，那时再暗杠立直，顺序才是对的。
+等之后摸进 <img src="../hai/man3.gif" width="24" height="34"> 或 <img src="../hai/pin5.gif" width="24" height="34">，
 
-### 例 4
+那时再暗杠立直，顺序才是对的。
 
-![7m](../hai/man7.gif)![8m](../hai/man8.gif)![9m](../hai/man9.gif)![4p](../hai/pin4.gif)![5p](../hai/pin5.gif)![7p](../hai/pin7.gif)![8p](../hai/pin8.gif)![9p](../hai/pin9.gif)![7s](../hai/sou7.gif)![8s](../hai/sou8.gif)![北](../hai/pei.gif)![北](../hai/pei.gif)![北](../hai/pei.gif)　　自摸![北](../hai/pei.gif)
+---
 
-这题里，表面上的听牌机会就算杠掉 ![北](../hai/pei.gif) 也不会立刻改变。
+**例 4**
+<img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34">　　自摸<img src="../hai/pei.gif" width="24" height="34">
 
-但如果两面部分先完成，最后就很容易变成单骑待，平和也会消失。
+例 4 这种情况，听牌机会就算杠了也不会直接改变。
 
-再加上这手还带着 `789` 三色的可能性，所以这里同样应该把这张 ![北](../hai/pei.gif) 直接摸切。
+但如果两面先完成，最后就会变成单骑待，平和也会消失。
+
+再加上这手还带着 789 三色的可能，
+
+所以还是摸切掉更好。
 
 ## 已经有人立直
 
-在他家已经立直的局面里，基本上不分你手牌长什么样，杠大多都应该视为 `NG`。
+如果场上已经有人立直，
 
-理由很简单：
+基本上不管你的手牌长什么样，杠大多都应该视为 `NG`。
 
-1. 立直的人会吃到杠里宝的收益
-2. 场上既然已经有人立直，说明你的和牌率本来就在下降
+理由是：
 
-当然也有例外：
+- 立直的人会吃到杠里宝的收益
+- 场上既然已经有人立直，就说明你的和牌率本来就在下降
 
-1. 你自己也是门清听牌
-2. 你是门清好形一向听，并且暗杠后整体仍然很好
-3. 你虽然已经副露，但等待极强，而且杠完后打点提升幅度非常大，例如 `3900 -> 7700`
+例外是：
 
-除此之外，大多数情况都不值得杠。
+- 你自己也是门清听牌
+- 你是门清好形一向听，并且暗杠后整体仍然很好
+- 你虽然已经副露，但待牌很强，而且杠完后点数提升非常大，例如 `3900 -> 7700`
+
+以及其他少数特殊情况。
 
 ## 当前是断层头名
 
-如果你现在已经是大幅领先的头名，就应该克制这种会给别人送机会的动作。
+如果当前是头名，就应该克制这种会给别人送机会的杠。
 
-尤其是在断层领先时，更不该用杠去把这一局的波动放大。
+尤其是在断层领先的时候，更是如此。
 
 ## 从门清直接大明杠
 
-![1m](../hai/man1.gif)![3m](../hai/man3.gif)![5m](../hai/man5.gif)![7p](../hai/pin7.gif)![8p](../hai/pin8.gif)![8p](../hai/pin8.gif)![2s](../hai/sou2.gif)![2s](../hai/sou2.gif)![3s](../hai/sou3.gif)![4s](../hai/sou4.gif)![东](../hai/ton.gif)![东](../hai/ton.gif)![东](../hai/ton.gif)　打出![东](../hai/ton.gif)
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34">
+　打出<img src="../hai/ton.gif" width="24" height="34">
 
-↓
+<span class="b">↓</span>
 
-![1m](../hai/man1.gif)![3m](../hai/man3.gif)![5m](../hai/man5.gif)![7p](../hai/pin7.gif)![8p](../hai/pin8.gif)![8p](../hai/pin8.gif)![2s](../hai/sou2.gif)![2s](../hai/sou2.gif)![3s](../hai/sou3.gif)![4s](../hai/sou4.gif)　　![东](../hai/ton.gif)![东](../hai/ton.gif)![东](../hai/ton.gif)![东](../hai/yton.gif)
+<img src="../hai/man1.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou3.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34">　　<img src="../hai/ton.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/yton.gif" width="32" height="24">
 
-“杠！”
+<span class="b">“杠！”</span>
 
-这是论外。
+这是论外（笑）。
 
-就算已经副露过，只要还是从没听牌的状态去大明杠，基本也不该做。
+就算已经副露过，只要还是从未听牌状态去大明杠，也不该做。
 
-更别说原本还是门清的手牌了。
+更别说原本还是门清手牌了。
 
 ---
 
