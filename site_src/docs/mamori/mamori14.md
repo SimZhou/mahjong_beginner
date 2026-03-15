@@ -75,15 +75,15 @@
   </tr>
   <tr>
     <td></td><td></td>
-    <td>![中](../hai/tyun.gif)</td>
-    <td>![9p](../hai/pin9.gif)</td>
-    <td>![东](../hai/ton.gif)</td>
-    <td>![5p](../hai/pin5.gif)</td>
-    <td>![9m](../hai/man9.gif)</td>
-    <td>![8p](../hai/pin8.gif)</td>
-    <td>![1s](../hai/sou1.gif)</td>
-    <td>![7m](../hai/man7.gif)</td>
-    <td>![赤5s](../hai/ysou5.gif)</td>
+    <td><img alt="中" src="../hai/tyun.gif" /></td>
+    <td><img alt="9p" src="../hai/pin9.gif" /></td>
+    <td><img alt="东" src="../hai/ton.gif" /></td>
+    <td><img alt="5p" src="../hai/pin5.gif" /></td>
+    <td><img alt="9m" src="../hai/man9.gif" /></td>
+    <td><img alt="8p" src="../hai/pin8.gif" /></td>
+    <td><img alt="1s" src="../hai/sou1.gif" /></td>
+    <td><img alt="7m" src="../hai/man7.gif" /></td>
+    <td><img alt="赤5s" src="../hai/ysou5.gif" /></td>
   </tr>
 </table>
 
@@ -144,17 +144,17 @@
   </tr>
   <tr>
     <td></td><td></td>
-    <td>![北](../hai/pei.gif)</td>
-    <td>![西](../hai/sha.gif)</td>
-    <td>![中](../hai/tyun.gif)</td>
-    <td>![南](../hai/nan.gif)</td>
-    <td>![1s](../hai/sou1.gif)</td>
-    <td>![2m](../hai/man2.gif)</td>
-    <td>![7m](../hai/man7.gif)</td>
-    <td>![2m](../hai/man2.gif)</td>
-    <td>![8p](../hai/pin8.gif)</td>
-    <td>![9p](../hai/pin9.gif)</td>
-    <td>![赤8s](../hai/ysou8.gif)</td>
+    <td><img alt="北" src="../hai/pei.gif" /></td>
+    <td><img alt="西" src="../hai/sha.gif" /></td>
+    <td><img alt="中" src="../hai/tyun.gif" /></td>
+    <td><img alt="南" src="../hai/nan.gif" /></td>
+    <td><img alt="1s" src="../hai/sou1.gif" /></td>
+    <td><img alt="2m" src="../hai/man2.gif" /></td>
+    <td><img alt="7m" src="../hai/man7.gif" /></td>
+    <td><img alt="2m" src="../hai/man2.gif" /></td>
+    <td><img alt="8p" src="../hai/pin8.gif" /></td>
+    <td><img alt="9p" src="../hai/pin9.gif" /></td>
+    <td><img alt="赤8s" src="../hai/ysou8.gif" /></td>
   </tr>
 </table>
 
@@ -186,18 +186,18 @@
   </tr>
   <tr>
     <td></td><td></td>
-    <td>![北](../hai/pei.gif)</td>
-    <td>![西](../hai/sha.gif)</td>
-    <td>![中](../hai/tyun.gif)</td>
-    <td>![南](../hai/nan.gif)</td>
-    <td>![1p](../hai/pin1.gif)</td>
-    <td>![9m](../hai/man9.gif)</td>
-    <td>![1m](../hai/man1.gif)</td>
-    <td>![4s](../hai/sou4.gif)</td>
-    <td>![2s](../hai/sou2.gif)</td>
-    <td>![9s](../hai/sou9.gif)</td>
-    <td>![西](../hai/sha.gif)</td>
-    <td>![赤6p](../hai/ypin6.gif)</td>
+    <td><img alt="北" src="../hai/pei.gif" /></td>
+    <td><img alt="西" src="../hai/sha.gif" /></td>
+    <td><img alt="中" src="../hai/tyun.gif" /></td>
+    <td><img alt="南" src="../hai/nan.gif" /></td>
+    <td><img alt="1p" src="../hai/pin1.gif" /></td>
+    <td><img alt="9m" src="../hai/man9.gif" /></td>
+    <td><img alt="1m" src="../hai/man1.gif" /></td>
+    <td><img alt="4s" src="../hai/sou4.gif" /></td>
+    <td><img alt="2s" src="../hai/sou2.gif" /></td>
+    <td><img alt="9s" src="../hai/sou9.gif" /></td>
+    <td><img alt="西" src="../hai/sha.gif" /></td>
+    <td><img alt="赤6p" src="../hai/ypin6.gif" /></td>
   </tr>
 </table>
 
@@ -232,15 +232,15 @@
   </tr>
   <tr>
     <td></td><td></td>
-    <td>![南](../hai/nan.gif)</td>
-    <td>![西](../hai/sha.gif)</td>
-    <td>![发](../hai/hatu.gif)</td>
-    <td>![8m](../hai/man8.gif)</td>
-    <td>![5m](../hai/man5.gif)</td>
-    <td>![1p](../hai/pin1.gif)</td>
-    <td>![北](../hai/pei.gif)</td>
-    <td>![3p](../hai/pin3.gif)</td>
-    <td>![赤2p](../hai/ypin2.gif)</td>
+    <td><img alt="南" src="../hai/nan.gif" /></td>
+    <td><img alt="西" src="../hai/sha.gif" /></td>
+    <td><img alt="发" src="../hai/hatu.gif" /></td>
+    <td><img alt="8m" src="../hai/man8.gif" /></td>
+    <td><img alt="5m" src="../hai/man5.gif" /></td>
+    <td><img alt="1p" src="../hai/pin1.gif" /></td>
+    <td><img alt="北" src="../hai/pei.gif" /></td>
+    <td><img alt="3p" src="../hai/pin3.gif" /></td>
+    <td><img alt="赤2p" src="../hai/ypin2.gif" /></td>
   </tr>
 </table>
 
@@ -291,15 +291,15 @@
   </tr>
   <tr>
     <td></td><td></td>
-    <td>![东](../hai/ton.gif)</td>
-    <td>![白](../hai/haku.gif)</td>
-    <td>![西](../hai/sha.gif)</td>
-    <td>![9s](../hai/sou9.gif)</td>
-    <td>![7p](../hai/pin7.gif)</td>
-    <td>![1m](../hai/man1.gif)</td>
-    <td>![5s](../hai/sou5.gif)</td>
-    <td>![东](../hai/ton.gif)</td>
-    <td>![赤3m](../hai/yman3.gif)</td>
+    <td><img alt="东" src="../hai/ton.gif" /></td>
+    <td><img alt="白" src="../hai/haku.gif" /></td>
+    <td><img alt="西" src="../hai/sha.gif" /></td>
+    <td><img alt="9s" src="../hai/sou9.gif" /></td>
+    <td><img alt="7p" src="../hai/pin7.gif" /></td>
+    <td><img alt="1m" src="../hai/man1.gif" /></td>
+    <td><img alt="5s" src="../hai/sou5.gif" /></td>
+    <td><img alt="东" src="../hai/ton.gif" /></td>
+    <td><img alt="赤3m" src="../hai/yman3.gif" /></td>
   </tr>
 </table>
 
