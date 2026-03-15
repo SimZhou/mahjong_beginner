@@ -1,4 +1,4 @@
-# 弃和步骤（3）
+# 完全弃和的步骤（3）
 
 接下来用具体例子来实际看一遍。
 
@@ -78,7 +78,7 @@
 
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
-  <a class="page-nav__link page-nav__link--prev" href="mamori07.html">上一节：弃和步骤（2）</a>
+  <a class="page-nav__link page-nav__link--prev" href="mamori07.html">上一节：完全弃和的步骤（2）</a>
   <a class="page-nav__link page-nav__link--next" href="mamori09.html">下一节：迂回打法</a>
 </div>
 <!-- PAGE NAV END -->
