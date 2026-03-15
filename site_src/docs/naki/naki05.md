@@ -1,122 +1,130 @@
 # 杠（1）
 
-只要同一张牌凑到四张，就可以杠。
+只要同一张牌凑到四张，就可以“杠”。
 
-但并不是任何时候杠了都会更赚。
+但并不是所有情况都杠了更赚。
 
-这页就把杠的优点和缺点都摊开来看。
+下面来同时看看杠的优点和缺点。
 
 ## 1. 杠的优点
 
-### （1）符数会上升
+<span class="red b">（1）符数会上升</span>
 
-杠子会拿到 `8 符` 到 `32 符`，所以最终和牌点数会提高。
+杠子会带来 8 符到 32 符，所以和牌时的点数会提高。
 
-尤其是幺九牌暗杠拿到的 `32 符` 非常大，所以常有人说：
+尤其是幺九牌暗杠时的 32 符非常大，
 
-**幺九牌暗杠，几乎等于多了一番。**
+俗话甚至会说：**“幺九牌暗杠，等于多了 1 番。”**
 
-### 例 1
+**例 1**
+<img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　碰<img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/ytyun.gif" width="32" height="24">　　宝牌<img src="../hai/sou5.gif" width="24" height="34">
 
-![1p](../hai/pin1.gif)![1p](../hai/pin1.gif)![1p](../hai/pin1.gif)![2p](../hai/pin2.gif)![3p](../hai/pin3.gif)![4p](../hai/pin4.gif)![5s](../hai/sou5.gif)![5s](../hai/sou5.gif)![7s](../hai/sou7.gif)![8s](../hai/sou8.gif)　　碰![中](../hai/tyun.gif)![中](../hai/tyun.gif)![中](../hai/ytyun.gif)　　宝牌![5s](../hai/sou5.gif)
+这手是 40 符 3 番，5200 点的手。
 
-这手是 `40 符 3 番`，也就是 `5200 点` 的手。
+★<img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　<img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/ytyun.gif" width="32" height="24">
 
-![1p](../hai/pin1.gif)![1p](../hai/pin1.gif)![1p](../hai/pin1.gif)![2p](../hai/pin2.gif)![3p](../hai/pin3.gif)![4p](../hai/pin4.gif)![5s](../hai/sou5.gif)![5s](../hai/sou5.gif)![7s](../hai/sou7.gif)![8s](../hai/sou8.gif)　　![中](../hai/tyun.gif)![中](../hai/tyun.gif)![中](../hai/tyun.gif)![中](../hai/ytyun.gif)
+如果把 <img src="../hai/tyun.gif" width="24" height="34"> 加杠，
 
-如果把 ![中](../hai/tyun.gif) 加杠，
+20 + 8 + 16 = 44，进位之后就是 50 符。
 
-`20 + 8 + 16 = 44`，进位后变成 `50 符`。
+这样一来，和牌点数最低也会变成 6400 点，
 
-这样一来，就算杠宝牌完全没中，和牌点数最低也会上到 `6400 点`。
+就算杠宝牌完全没中也是如此。
 
-![2p](../hai/pin2.gif)![3p](../hai/pin3.gif)![4p](../hai/pin4.gif)![5s](../hai/sou5.gif)![5s](../hai/sou5.gif)![7s](../hai/sou7.gif)![8s](../hai/sou8.gif)　　![暗杠](../hai/ura.gif)![1p](../hai/pin1.gif)![1p](../hai/pin1.gif)![暗杠](../hai/ura.gif)　![中](../hai/tyun.gif)![中](../hai/tyun.gif)![中](../hai/ytyun.gif)
+★<img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　<img src="../hai/ura.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/ura.gif" width="24" height="34">　<img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/ytyun.gif" width="32" height="24">
 
-如果把 ![1p](../hai/pin1.gif) 暗杠，
+如果把 <img src="../hai/pin1.gif" width="24" height="34"> 暗杠，
 
-`20 + 32 + 4 = 56`，进位后变成 `60 符`。
+20 + 32 + 4 = 56，进位之后就是 60 符。
 
-这样和牌点数就会上到 `7700`，甚至在切上满贯规则下直接到 `8000 点`。
+这样和牌点数就会上到 7700 点，
 
-### （2）宝牌会增加
+甚至在切上满贯规则下直接到 8000 点。
 
-一旦有人杠，就会翻出杠宝牌。
+<span class="red b">（2）宝牌会增加</span>
 
-虽然结果不确定，但也确实有可能让自己的手一下子暴涨成大物手。
+一有杠，就会翻出杠宝牌。
 
-### 例 2
+虽然结果并不确定，但也确实有可能让自己的手一下子变成大物手。
 
-![1p](../hai/pin1.gif)![1p](../hai/pin1.gif)![1p](../hai/pin1.gif)![2p](../hai/pin2.gif)![3p](../hai/pin3.gif)![4p](../hai/pin4.gif)![5s](../hai/sou5.gif)![5s](../hai/sou5.gif)![7s](../hai/sou7.gif)![8s](../hai/sou8.gif)　　碰![中](../hai/tyun.gif)![中](../hai/tyun.gif)![中](../hai/ytyun.gif)　　宝牌![3p](../hai/pin3.gif)
+**例 2**
+<img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　碰<img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/ytyun.gif" width="32" height="24">　　宝牌<img src="../hai/pin3.gif" width="24" height="34">
 
-像这种本来只有 `2000 点` 级别的手，如果杠完以后杠宝牌正好贴脸翻中，就有可能直接跳到跳满。
+像这种本来只有 2000 点的手，
 
-这大概就是杠最大的诱惑。
+一旦杠了以后杠宝牌贴脸翻中，就有可能直接跳到跳满。
 
-![1p](../hai/pin1.gif)![1p](../hai/pin1.gif)![1p](../hai/pin1.gif)![2p](../hai/pin2.gif)![3p](../hai/pin3.gif)![4p](../hai/pin4.gif)![5s](../hai/sou5.gif)![5s](../hai/sou5.gif)![7s](../hai/sou7.gif)![8s](../hai/sou8.gif)　　![中](../hai/tyun.gif)![中](../hai/tyun.gif)![中](../hai/tyun.gif)![中](../hai/ytyun.gif)　　宝牌![3p](../hai/pin3.gif)![中](../hai/tyun.gif)
+这大概就是杠最大的诱惑了。
 
-### （3）摸牌次数增加
+★<img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　<img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/ytyun.gif" width="32" height="24">　　宝牌<img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">
 
-这一点尤其容易在自摸到第四张牌时被忽略。
+<span class="red b">（3）摸牌次数增加</span>
 
-### 例 3
+如果是自己摸到第四张能杠的牌，这一点尤其不能忘。
 
-![1p](../hai/pin1.gif)![1p](../hai/pin1.gif)![1p](../hai/pin1.gif)![2p](../hai/pin2.gif)![3p](../hai/pin3.gif)![4p](../hai/pin4.gif)![6p](../hai/pin6.gif)![5s](../hai/sou5.gif)![5s](../hai/sou5.gif)![7s](../hai/sou7.gif)　　碰![中](../hai/tyun.gif)![中](../hai/tyun.gif)![中](../hai/ytyun.gif)　　　自摸![中](../hai/tyun.gif)
+**例 3**　
+<img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34">　　碰<img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/ytyun.gif" width="32" height="24">　　　自摸<img src="../hai/tyun.gif" width="24" height="34">
 
-这里把 ![中](../hai/tyun.gif) 直接摸切，当然也可以。
+这里直接把 <img src="../hai/tyun.gif" width="24" height="34"> 摸切也算一种办法，
 
-但那样等于白白失去一次摸进听牌、和牌或改良的机会。
+但那样等于平白失去了一次听牌的机会。
 
-如果你这手仍然是在朝和牌前进，那么通常还是加杠更好。
+如果目标还是和牌，那么还是加杠更好。
 
-### （4）岭上开花
+<span class="red b">（4）岭上开花</span>
 
-如果岭上牌刚好让你和牌，那么还会额外得到“岭上开花”这一番。
+如果岭上牌刚好让你和牌，就还能多拿岭上开花这 1 番。
 
-这当然不是可以事先规划的收益，但在已经听牌时，它确实是实打实的额外机会。
+这项优点只限于已经听牌的时候。
 
-### （5）可以让某张牌彻底无法被别人使用（仅限暗杠）
+<span class="red b">（5）可以让某张牌彻底不能被别人使用（仅限暗杠）</span>
 
-如果你不希望别人连吃都吃不到某张关键牌，那么暗杠有时是有效手段。
+如果你连吃都不想让别人吃到某张关键牌，暗杠就是一种有效手段。
 
 ## 2. 杠的缺点
 
-杠始终伴随着缺点。
+杠始终都带着缺点。
 
-### （1）会增加他家的宝牌机会
+<span class="red b">（1）可能会增加他家的宝牌</span>
 
 并不是只有你会因为杠而变强。
 
-翻出来的杠宝牌，同样可能替别人加分。
+翻出来的杠宝牌，同样也可能替别人加分。
 
-尤其是在已经有人立直的局面里，杠不只是多翻一张杠宝牌，还可能连杠里宝也一起送出去，这会非常危险。
+尤其是在已经有人立直的局面里，
 
-### （2）会暴露你的点数和手役目标（暗杠、大明杠）
+一旦杠，不只是多翻一张杠宝牌，
+
+还可能连杠里宝都一起送出去，非常危险。
+
+<span class="red b">（2）会暴露点数和目标手役（暗杠、大明杠）</span>
 
 最典型的例子就是大三元。
 
-### 例 4
+**例 4**<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34"><img src="../hai/hatu.gif" width="24" height="34">　　碰<img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34"><img src="../hai/ytyun.gif" width="32" height="24">
 
-![2m](../hai/man2.gif)![3m](../hai/man3.gif)![4m](../hai/man4.gif)![9m](../hai/man9.gif)![9m](../hai/man9.gif)![白](../hai/haku.gif)![白](../hai/haku.gif)![发](../hai/hatu.gif)![发](../hai/hatu.gif)![发](../hai/hatu.gif)　　碰![中](../hai/tyun.gif)![中](../hai/tyun.gif)![中](../hai/ytyun.gif)
+这里就算摸进了 <img src="../hai/hatu.gif" width="24" height="34">，
 
-这里就算摸进了 ![发](../hai/hatu.gif)，也应该尽量自然地把它摸切出去。
+也得尽量自然地把它摸切出去。
 
-如果在这里把 ![发](../hai/hatu.gif) 杠掉，![白](../hai/haku.gif) 就会一下子变得极难从别人手里打出来。
+如果在这里去杠，<img src="../hai/haku.gif" width="24" height="34"> 就会一下子变得非常难从别人手里打出来。
 
-如果是网络麻将，这种场合甚至得把“鸣牌关闭”按住才行。
+如果是网络麻将，这种场合甚至必须按住“鸣牌关闭”按钮。
 
-因为一旦场上有人打出 ![发](../hai/hatu.gif) 时出现延迟，别人很容易就会察觉到问题。
+因为只要场上打出 <img src="../hai/hatu.gif" width="24" height="34"> 时出现停顿……
 
-### （3）有些暗杠会让受入减少（仅限暗杠）
+<span class="red b">（3）有时会减少受入（仅限暗杠）</span>
 
-### 例 5
+**例 5**
+<img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34">　碰<img src="../hai/ysou2.gif" width="32" height="24"><img src="../hai/sou2.gif" width="24" height="34"><img src="../hai/sou2.gif" width="24" height="34">　吃    <img src="../hai/ypin6.gif" width="32" height="24"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34">　自摸<img src="../hai/man4.gif" width="24" height="34">
 
-![4m](../hai/man4.gif)![4m](../hai/man4.gif)![4m](../hai/man4.gif)![5m](../hai/man5.gif)![6p](../hai/pin6.gif)![7p](../hai/pin7.gif)![8p](../hai/pin8.gif)　碰![2s](../hai/ysou2.gif)![2s](../hai/sou2.gif)![2s](../hai/sou2.gif)　吃![6p](../hai/ypin6.gif)![7p](../hai/pin7.gif)![8p](../hai/pin8.gif)　自摸![4m](../hai/man4.gif)
+像这种情况大概就最容易理解了。
 
-像这种情况就很典型。
+如果这里去暗杠，就会闹出大事（笑）。
 
-如果这里去暗杠，手牌结构反而会被杠坏，结果会非常糟。
+当然，类似的形还不止这一种，
 
-当然，类似情况不止这一种，但大体思路就是这些。
+但大体上就是这些。
 
 ---
 
