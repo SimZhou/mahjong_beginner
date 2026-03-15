@@ -1,109 +1,102 @@
 # 立直还是默听（1）
 
-前一页已经把立直的优点和缺点列出来了。
+上一页列出了立直的优点和缺点，但压倒性还是优点更大，  
+所以完全可以把<span class="b">“听牌就立直是基本”</span>当成常识。  
+选择默听的情况，反而才少见。
 
-但总体来说，立直的优点还是压倒性更大，所以：
+因此，更好的方法是先记住哪些情况默听更有利，  
+只要不是这些场面，就果断立直。
 
-**“听牌以后就立直”可以视为基本答案。**
+判断立直还是默听，材料有两个。  
+一个是手牌，一个是状况。  
+（麻将几乎所有判断，都是围绕这两件事来做的）
 
-选择默听的场面反而比较少。
+<span class="b">手牌</span>：待牌、打点等，从手牌内容本身来判断  
+<span class="b">状况</span>：持点、他家动向、巡目等，从局面来判断
 
-因此更好的学习方法，不是去背“什么时候该立直”，而是先把“哪些情况默听明显更优”记住；只要不属于这些例外，就果断立直。
+先来想只看手牌时该怎么判断。
 
-判断立直还是默听，材料只有两个：
+这里先假设：
 
-1. 手牌本身
-2. 当前局况
+- 东场
+- 点数平场
+- 巡目还早
+- 他家没有动作
 
-麻将里几乎所有判断，本质上都围绕这两个东西展开。
+※这种局面通常就叫<span class="b">平场</span>
 
-这里先只看**手牌本身**。
+---
 
-假设现在是东场、点数平场、巡目还早、他家也没有明显动作。
+<span class="b">例 1</span>
 
-这种状态通常就叫“平场”。
+<img src="../hai/man1.gif" width="24"height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou9.gif"width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/ton.gif" width="24" height="34"><img src="../hai/nan.gif" width="24" height="34"><img src="../hai/sha.gif" width="24" height="34"><img src="../hai/pei.gif" width="24" height="34"><img src="../hai/hatu.gif"width="24" height="34"><img src="../hai/tyun.gif" width="24" height="34">
 
-## 例 1
+最容易理解的默听场面，就是像例 1 这样的役满。  
+立直并不会让打点再上升，所以没有立直的理由。
 
-![1m](../hai/man1.gif)![9m](../hai/man9.gif)![1p](../hai/pin1.gif)![9p](../hai/pin9.gif)![1s](../hai/sou1.gif)![9s](../hai/sou9.gif)![东](../hai/ton.gif)![东](../hai/ton.gif)![南](../hai/nan.gif)![西](../hai/sha.gif)![北](../hai/pei.gif)![发](../hai/hatu.gif)![中](../hai/tyun.gif)
+例外只有自摸四暗刻，可以立直。
 
-最容易理解的默听场面，就是像例 1 这种役满。
+---
 
-立直不会再给这手带来有意义的打点提升，所以没有立直的理由。
+<span class="b">例 2</span>
+<img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34">
 
-例外只有一个：自摸四暗刻可以立直。
+如果是默听倍满的有役听牌，这种也绝对不该立直。  
+倍满和三倍满之间差了 3 番，立直后冲上三倍满的可能性很低。  
+默听已经足够当决定打了。  
+为了立直而把荣和率降下来，明显是亏的。
 
-## 例 2
+上面是比较极端的例子，不过待牌不好的大牌，基本都该默听。  
+尤其是染手，舍牌本来就容易被警戒，更是默听有利。
 
-![1p](../hai/pin1.gif)![2p](../hai/pin2.gif)![2p](../hai/pin2.gif)![2p](../hai/pin2.gif)![3p](../hai/pin3.gif)![4p](../hai/pin4.gif)![5p](../hai/pin5.gif)![5p](../hai/pin5.gif)![6p](../hai/pin6.gif)![6p](../hai/pin6.gif)![7p](../hai/pin7.gif)![7p](../hai/pin7.gif)![9p](../hai/pin9.gif)
+如果是满贯以下的手，立直就几乎一定能提升打点。  
+但一旦超过满贯，就会出现“多 1 番也不加点”的情况。
 
-如果已经是“默听倍满”的有役听牌，这也毫无疑问应该默听。
+所以从和牌点数来看，立直和默听的分界线就在满贯。  
+这里属于灰色地带，
 
-因为倍满到三倍满之间差着 `3 番`，立直以后真正冲上三倍满的可能性并不高。
+<span class="b">如果是好形、而且巡目早，就认为立直更有利</span>，这是现在的主流看法。
 
-而你为了这点不高的增益，却要立刻付出荣和率下降的代价，明显不划算。
+---
 
-所以这种手，尤其是染手或者愚形大牌，更应该默听。
+<span class="b">例 3</span>
+<img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man6.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34"><img src="../hai/sou7.gif" width="24" height="34"><img src="../hai/sou8.gif" width="24" height="34">　　宝牌<img src="../hai/pin2.gif" width="24" height="34">
 
-上面两个例子都比较极端。
+像例 3 这样，默听已经有 7700 点，  
+只要待牌够好，也完全可以积极立直。
 
-但至少可以先得出一个大原则：
+---
 
-如果是愚形大牌，多数都该默听。
+<span class="b">例 4</span>
+<img src="../hai/man4.gif" width="24" height="34"><img src="../hai/man5.gif" width="24" height="34"><img src="../hai/man7.gif" width="24" height="34"><img src="../hai/man8.gif" width="24" height="34"><img src="../hai/man9.gif" width="24" height="34"><img src="../hai/pin4.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin6.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou1.gif" width="24" height="34"><img src="../hai/sou4.gif" width="24" height="34"><img src="../hai/sou5.gif" width="24" height="34"><img src="../hai/sou6.gif" width="24" height="34">　　宝牌<img src="../hai/man9.gif" width="24" height="34">
 
-### 满贯是重要分界线
+像例 4 这种“高目 7700，低目 2000”的手，  
+除非有特别情况，否则正解就是立直。  
+高目是外筋（1、2、8、9）还是内筋（3、4、5、6、7）都没关系。  
+就算和到低目，分数也还够看。
 
-满贯以下的手，只要立直，几乎都能稳定提高打点。
+---
 
-但一旦超过满贯，就会出现“多一番也不涨点”的情况。
+<span class="b">例 5</span>
+<img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man2.gif" width="24" height="34"><img src="../hai/man3.gif" width="24" height="34"><img src="../hai/man4.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34"><img src="../hai/pin5.gif" width="24" height="34"><img src="../hai/pin7.gif" width="24" height="34"><img src="../hai/pin8.gif" width="24" height="34"><img src="../hai/pin9.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34"><img src="../hai/haku.gif" width="24" height="34">　　宝牌<img src="../hai/haku.gif" width="24" height="34">
 
-所以立直和默听在打点上的分水岭，其实就在满贯。
+像例 5 这样，有役 8000 点而且还是愚形，  
+基本就是默听有利。
 
-如果默听已经是跳满以上，那么就算等待是两面，通常也还是默听更优。
+把上面内容整理成理论的话：
 
-至于满贯附近，则属于灰区。
+### 理论
 
-现在主流的看法是：
+<span class="green">
+如果已经确定跳满以上，就无条件默听<br />
+如果已经确定满贯，原则上默听<br />
+如果是序盘好形听牌，也可以立直
+</span>
 
-**如果是好形，而且巡目还早，那么立直更优。**
+而满贯以下的手，基本都应该为了涨点去立直，  
+也可以说，<span class="b">不立直才是“例外”</span>。
 
-## 例 3
-
-![3m](../hai/man3.gif)![4m](../hai/man4.gif)![5m](../hai/man5.gif)![6m](../hai/man6.gif)![7m](../hai/man7.gif)![2p](../hai/pin2.gif)![2p](../hai/pin2.gif)![4p](../hai/pin4.gif)![5p](../hai/pin5.gif)![6p](../hai/pin6.gif)![6s](../hai/sou6.gif)![7s](../hai/sou7.gif)![8s](../hai/sou8.gif)　　宝牌![2p](../hai/pin2.gif)
-
-像例 3 这种，就算默听已经有 `7700`，只要等待够好，仍然可以积极立直。
-
-## 例 4
-
-![4m](../hai/man4.gif)![5m](../hai/man5.gif)![7m](../hai/man7.gif)![8m](../hai/man8.gif)![9m](../hai/man9.gif)![4p](../hai/pin4.gif)![5p](../hai/pin5.gif)![6p](../hai/pin6.gif)![1s](../hai/sou1.gif)![1s](../hai/sou1.gif)![4s](../hai/sou4.gif)![5s](../hai/sou5.gif)![6s](../hai/sou6.gif)　　宝牌![9m](../hai/man9.gif)
-
-像例 4 这种“高目 `7700`、低目 `2000`”的手，除非有很特殊的局况，否则答案都是立直。
-
-高目是外筋、还是内筋，其实都不重要。
-
-关键是：低目和到了也不难看，而高目价值又明显值得争。
-
-## 例 5
-
-![2m](../hai/man2.gif)![2m](../hai/man2.gif)![2m](../hai/man2.gif)![3m](../hai/man3.gif)![4m](../hai/man4.gif)![3p](../hai/pin3.gif)![5p](../hai/pin5.gif)![7p](../hai/pin7.gif)![8p](../hai/pin8.gif)![9p](../hai/pin9.gif)![白](../hai/haku.gif)![白](../hai/haku.gif)![白](../hai/haku.gif)　　宝牌![白](../hai/haku.gif)
-
-而像例 5 这种“有役 `8000` 点的愚形”，基本就是默听更优。
-
-## 理论小结
-
-<div class="theory-block" markdown="1">
-
-跳满以上确定：无条件默听  
-满贯确定：基本默听  
-序盘好形听牌：可以立直
-
-</div>
-
-而满贯以下的手，通常都该立直去争打点。
-
-也就是说，**不立直反而才是例外。**
-
-下一页开始，就继续往下拆这些“例外”。
+从下一页开始，就来继续考虑这些例外。
 
 ---
 
