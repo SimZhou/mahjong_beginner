@@ -1,5 +1,6 @@
 ---
 description: 两向听牌理（3）：像例 1 这样，手里明摆着有 这种明显偏弱的搭子， 而浮牌又是比较厚的连续形时，就应该毫不犹豫地把 留下来。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi12.html
 ---
 
 # 两向听牌理（3）

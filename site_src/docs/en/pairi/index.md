@@ -42,7 +42,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 11. [Tile Theory at Two-Shanten (2)](./pairi11.md)
     Continuing from the previous page. Keep the perspective of cutting the least functional taatsu first.
 
-12. **Tile Theory at Two-Shanten (3)**
+12. [Tile Theory at Two-Shanten (3)](./pairi12.md)
     Check exceptional hand patterns such as hands that may turn into Chiitoitsu or hands without a pair.
 
 13. **Tile Theory at One-Shanten (1)**
