@@ -125,6 +125,6 @@ Original Japanese page: <http://beginners.biz/pairi/pairi17.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="pairi16.html">Previous: Tile Theory at One-Shanten (4)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../pairi/pairi18.html">Continue in Chinese: Tile Theory at One-Shanten (6)</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi18.html">Next: Tile Theory at One-Shanten (6)</a>
 </div>
 <!-- PAGE NAV END -->

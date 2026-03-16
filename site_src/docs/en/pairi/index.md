@@ -60,7 +60,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 17. [Tile Theory at One-Shanten (5)](./pairi17.md)
     Continuing from the previous page, this one keeps examining headless shapes.
 
-18. **Tile Theory at One-Shanten (6)**
+18. [Tile Theory at One-Shanten (6)](./pairi18.md)
     This page covers kuttsuki one-shanten. One-shanten tile theory is so important that it takes many pages.
 
 19. **Tile Theory in Tenpai**

@@ -1,5 +1,6 @@
 ---
 description: 一向听牌理（6）：| 打法 | 听牌机会 | 受入枚数 | | 切 4m | 3p 4p 5p 6p 7p 1s 2s 3s 4s 西 | 31 张（11 张好形听牌） |。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi18.html
 ---
 
 # 一向听牌理（6）
