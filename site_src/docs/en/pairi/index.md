@@ -51,7 +51,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 14. [Tile Theory at One-Shanten (2)](./pairi14.md)
     Tile efficiency at one-shanten. It is worth memorizing the shapes that appear again and again as fixed patterns.
 
-15. **Tile Theory at One-Shanten (3)**
+15. [Tile Theory at One-Shanten (3)](./pairi15.md)
     Build the habit of comparing which choice actually brings you closer to winning.
 
 16. **Tile Theory at One-Shanten (4)**

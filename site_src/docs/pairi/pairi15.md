@@ -1,5 +1,6 @@
 ---
 description: 一向听牌理（3）：这是最常见的“剩下两组两面搭子”的一向听。 这种手牌通过保留双碰受入，可以扩大听牌机会。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi15.html
 ---
 
 # 一向听牌理（3）
