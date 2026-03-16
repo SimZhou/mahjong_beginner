@@ -9,7 +9,7 @@ alt_lang_url: https://simzhou.com/mahjong_beginner/pairi/index.html
 
 ![Tile efficiency and tile theory hero image](../../images/top-image5.jpg)
 
-1. **Playing by Tile Theory**
+1. [Playing by Tile Theory](./pairi01.md)
    What does tile efficiency really mean as a way of thinking? Its essence lies in repeatedly listing your discard candidates and comparing them.
 
 2. **Effective Tiles and Tile Count**

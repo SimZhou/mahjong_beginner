@@ -5,7 +5,7 @@
 {% set meta = page.meta if page and page.meta else {} %}
 {% set seo = config.extra.seo if config.extra and config.extra.seo else {} %}
 {% set page_locale = meta.locale if meta.locale else seo.locale|default('zh_CN') %}
-{% set site_title = "Mahjong Beginner Guide" if page_locale[:2] == "en" else config.site_name %}
+{% set site_title = "Japanese Mahjong: From Beginner to Master" if page_locale[:2] == "en" else config.site_name %}
 {% set class = "md-header" %}
 {% if "navigation.tabs.sticky" in features %}
   {% set class = class ~ " md-header--shadow md-header--lifted" %}

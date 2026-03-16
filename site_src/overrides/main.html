@@ -4,8 +4,10 @@
   {{ super() }}
   {% set seo = config.extra.seo if config.extra and config.extra.seo else {} %}
   {% set meta = page.meta if page and page.meta else {} %}
+  {% set page_locale = meta.locale if meta.locale else seo.locale|default('zh_CN') %}
+  {% set localized_site_name = "Japanese Mahjong: From Beginner to Master" if page_locale[:2] == 'en' else config.site_name %}
   {% if page and page.is_homepage %}
-    {% set page_title = config.site_name %}
+    {% set page_title = localized_site_name %}
   {% else %}
     {% set page_title = meta.title if meta.title else (page.title if page and page.title else config.site_name) %}
   {% endif %}
@@ -13,7 +15,6 @@
   {% set page_robots = meta.robots if meta.robots else seo.default_robots %}
   {% set canonical_url = page.canonical_url if page and page.canonical_url else config.site_url %}
   {% set social_image = meta.image if meta.image else seo.default_social_image %}
-  {% set page_locale = meta.locale if meta.locale else seo.locale|default('zh_CN') %}
   {% set page_language = page_locale|replace('_', '-') %}
   {% if page_language[:2] == 'en' %}
     {% set home_label = 'Home' %}
@@ -25,7 +26,7 @@
   {% endif %}
   <meta name="author" content="{{ config.site_author|e }}">
   <meta name="robots" content="{{ page_robots|e }}">
-  <meta property="og:site_name" content="{{ config.site_name|e }}">
+  <meta property="og:site_name" content="{{ localized_site_name|e }}">
   <meta property="og:locale" content="{{ page_locale|e }}">
   <meta property="og:title" content="{{ page_title|e }}">
   <meta property="og:description" content="{{ page_description|e }}">
@@ -51,7 +52,7 @@
     "inLanguage": {{ page_language|tojson }},
     "isPartOf": {
       "@type": "WebSite",
-      "name": {{ config.site_name|tojson }},
+      "name": {{ localized_site_name|tojson }},
       "url": {{ config.site_url|tojson }}
     }{% if social_image %},
     "primaryImageOfPage": {
@@ -87,5 +88,22 @@
     ]
   }
   </script>
+  {% endif %}
+{% endblock %}
+
+{% block htmltitle %}
+  {% set seo = config.extra.seo if config.extra and config.extra.seo else {} %}
+  {% set meta = page.meta if page and page.meta else {} %}
+  {% set page_locale = meta.locale if meta.locale else seo.locale|default('zh_CN') %}
+  {% set localized_site_name = "Japanese Mahjong: From Beginner to Master" if page_locale[:2] == 'en' else config.site_name %}
+  {% set explicit_title = meta.title if meta.title else (page.title | striptags if page and page.title else '') %}
+  {% if page and page.is_homepage %}
+    <title>{{ localized_site_name }}</title>
+  {% elif explicit_title and explicit_title == localized_site_name %}
+    <title>{{ localized_site_name }}</title>
+  {% elif explicit_title %}
+    <title>{{ explicit_title }} - {{ localized_site_name }}</title>
+  {% else %}
+    <title>{{ localized_site_name }}</title>
   {% endif %}
 {% endblock %}

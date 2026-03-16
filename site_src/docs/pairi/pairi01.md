@@ -1,5 +1,6 @@
 ---
 description: 按牌理打牌：所谓牌理，就是为了高效率地完成四面子一雀头而形成的理论。 这是麻将做手时的根本思路。 和它意思相近的词，还有“牌效率”。
+alt_lang_url: https://simzhou.com/mahjong_beginner/en/pairi/pairi01.html
 ---
 
 # 按牌理打牌

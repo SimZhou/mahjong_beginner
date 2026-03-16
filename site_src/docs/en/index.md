@@ -1,11 +1,11 @@
-title: Mahjong Beginner Guide
+title: Japanese Mahjong: From Beginner to Master
 description: English homepage of the mahjong beginner guide, covering mahjong basics, tile efficiency, yaku, dora, calling, riichi, defense, situational judgment, and push-fold decisions.
 image: https://simzhou.com/mahjong_beginner/images/top-image_off.jpg
 locale: en_US
 robots: noindex, nofollow
 alt_lang_url: https://simzhou.com/mahjong_beginner/index.html
 
-# Mahjong Beginner Guide
+# Japanese Mahjong: From Beginner to Master
 
 Welcome to the English edition of *Beginners Luck*, an online strategy guide for riichi mahjong.
 

@@ -1,4 +1,4 @@
-site_name: 麻将入门教程
+site_name: "日麻: 从入门到精通"
 site_url: https://simzhou.com/mahjong_beginner/
 site_description: 面向初学者的日式麻将中文教程，系统讲解麻将基础、牌效率、役种、宝牌、鸣牌、立直、防守、局势判断与押引。
 site_author: SimZhou
@@ -75,11 +75,14 @@ extra:
       overview:
         title: Overview
         path: en/pairi/index.html
+      pairi01:
+        title: Playing by Tile Theory
+        path: en/pairi/pairi01.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
     default_social_image: https://simzhou.com/mahjong_beginner/images/top-image_off.jpg
-    publisher_name: 麻将入门教程
+    publisher_name: "日麻: 从入门到精通"
     publisher_url: https://simzhou.com/mahjong_beginner/
 
 nav:

@@ -1,16 +1,17 @@
 {% set en_nav = config.extra.english_nav if config.extra and config.extra.english_nav else {} %}
 {% set basics = en_nav.basics if en_nav and en_nav.basics else {} %}
 {% set tile_efficiency = en_nav.tile_efficiency if en_nav and en_nav.tile_efficiency else {} %}
+{% set en_site_title = "Japanese Mahjong: From Beginner to Master" %}
 {% set current_url = page.url if page and page.url else '' %}
 {% set basics_active = current_url.startswith('en/kihon/') %}
 {% set tile_efficiency_active = current_url.startswith('en/pairi/') %}
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="{{ config.site_url ~ 'en/index.html' }}" title="Mahjong Beginner Guide" class="md-nav__button md-logo" aria-label="Mahjong Beginner Guide" data-md-component="logo">
+    <a href="{{ config.site_url ~ 'en/index.html' }}" title="{{ en_site_title }}" class="md-nav__button md-logo" aria-label="{{ en_site_title }}" data-md-component="logo">
       {% include "partials/logo.html" %}
     </a>
-    Mahjong Beginner Guide
+    {{ en_site_title }}
   </label>
   <ul class="md-nav__list" data-md-scrollfix>
     <li class="md-nav__item{% if current_url == 'en/index.html' %} md-nav__item--active{% endif %}">
@@ -125,6 +126,13 @@
               <span class="md-ellipsis">{{ tile_efficiency.overview.title }}</span>
             </a>
           </li>
+          {% if tile_efficiency.pairi01 %}
+          <li class="md-nav__item{% if current_url == tile_efficiency.pairi01.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ tile_efficiency.pairi01.path }}" class="md-nav__link{% if current_url == tile_efficiency.pairi01.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ tile_efficiency.pairi01.title }}</span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
       </nav>
     </li>
