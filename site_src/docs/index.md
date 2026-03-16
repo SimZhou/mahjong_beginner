@@ -1,6 +1,6 @@
 description: 面向初学者的日式麻将中文教程首页，系统整理麻将基础、牌效率、役种、宝牌、鸣牌、立直、防守、局势判断与押引。
-image: https://simzhou.com/mahjong_beginner/images/top-image_off.jpg
-alt_lang_url: https://simzhou.com/mahjong_beginner/en/index.html
+image: https://simzhou.com/riichi_mahjong_book/images/top-image_off.jpg
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/index.html
 
 # 日麻: 从入门到精通
 

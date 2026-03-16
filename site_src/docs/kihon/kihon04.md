@@ -1,6 +1,6 @@
 ---
 description: 面子与搭子：麻将的和牌形里需要四组面子， 而面子有两种：刻子和顺子。
-alt_lang_url: https://simzhou.com/mahjong_beginner/en/kihon/kihon04.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon04.html
 ---
 
 # 面子与搭子

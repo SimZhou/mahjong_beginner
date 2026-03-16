@@ -1,7 +1,7 @@
 title: 第2章：牌效率与牌理
 description: 第2章牌效率与牌理，系统学习有效牌、枚数、浮牌理论、搭子理论、两向听与一向听阶段的打牌选择思路。
-image: https://simzhou.com/mahjong_beginner/images/top-image5.jpg
-alt_lang_url: https://simzhou.com/mahjong_beginner/en/pairi/index.html
+image: https://simzhou.com/riichi_mahjong_book/images/top-image5.jpg
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/index.html
 
 # 第2章：牌效率与牌理
 

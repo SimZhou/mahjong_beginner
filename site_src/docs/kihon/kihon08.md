@@ -1,6 +1,6 @@
 ---
 description: 基本形与复合形：- 面子（刻子、顺子、杠子） - 搭子（两面、嵌张、边张） - 对子 - 孤立牌
-alt_lang_url: https://simzhou.com/mahjong_beginner/en/kihon/kihon08.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon08.html
 ---
 
 # 基本形与复合形

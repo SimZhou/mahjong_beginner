@@ -1,6 +1,6 @@
 title: 第5章：鸣牌
 description: 第5章鸣牌，系统讲解副露判断、碰与吃、杠、食断、对对和、混一色、后付与鸣牌技巧等内容。
-image: https://simzhou.com/mahjong_beginner/images/top-image8.jpg
+image: https://simzhou.com/riichi_mahjong_book/images/top-image8.jpg
 
 # 第5章：鸣牌
 

@@ -1,6 +1,6 @@
 ---
 description: 麻将是什么：本网站会以麻将理论为主轴，公开我自己的麻将战术。 内容会尽量重视实战性，并且多用牌图，希望能讲得尽可能清楚易懂。 我的目标，是把麻将理论尽量整理成一套成体系的内容。
-alt_lang_url: https://simzhou.com/mahjong_beginner/en/kihon/kihon01.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon01.html
 ---
 
 # 麻将是什么

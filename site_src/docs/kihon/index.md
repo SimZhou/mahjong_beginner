@@ -1,7 +1,7 @@
 title: 第1章：麻将基础
 description: 第1章麻将基础，讲解麻将是什么、概率、听牌与向听、面子与搭子、数牌与字牌、对子和基本形等入门核心概念。
-image: https://simzhou.com/mahjong_beginner/images/top-image4.jpg
-alt_lang_url: https://simzhou.com/mahjong_beginner/en/kihon/index.html
+image: https://simzhou.com/riichi_mahjong_book/images/top-image4.jpg
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/index.html
 
 # 第1章：麻将基础
 

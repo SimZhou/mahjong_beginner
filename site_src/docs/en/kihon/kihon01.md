@@ -2,7 +2,7 @@ title: What Is Mahjong?
 description: An English translation of the introductory page on what kind of game mahjong is, how luck and skill interact, and what players may actually seek from mahjong.
 locale: en_US
 robots: noindex, nofollow
-alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/kihon01.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/kihon/kihon01.html
 
 # What Is Mahjong?
 

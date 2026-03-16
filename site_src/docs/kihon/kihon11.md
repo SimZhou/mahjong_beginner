@@ -1,6 +1,6 @@
 ---
 description: 麻将的待牌（1）：能让你和牌的牌，叫做**待牌**。 麻将里有各种各样的待牌形式，但作为基础的其实只有下面 5 种，任何多面张也都是以这 5 种为基础发展出来的。
-alt_lang_url: https://simzhou.com/mahjong_beginner/en/kihon/kihon11.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon11.html
 ---
 
 # 麻将的待牌（1）

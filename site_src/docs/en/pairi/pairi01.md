@@ -2,7 +2,7 @@ title: Playing by Tile Theory
 description: An English translation of the page explaining what tile theory and tile efficiency mean, why speed matters most, and how to compare discard candidates by analyzing hand structure.
 locale: en_US
 robots: noindex, nofollow
-alt_lang_url: https://simzhou.com/mahjong_beginner/pairi/pairi01.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/pairi01.html
 
 # Playing by Tile Theory
 

@@ -1,5 +1,5 @@
 description: 麻将链接集，整理原站 link 页中收录的麻将战术站、博客、职业团体与游戏站点外部链接。
-image: https://simzhou.com/mahjong_beginner/images/top-image_off.jpg
+image: https://simzhou.com/riichi_mahjong_book/images/top-image_off.jpg
 
 # 麻将链接集
 

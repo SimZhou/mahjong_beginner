@@ -2,7 +2,7 @@ title: Mahjong and Probability
 description: An English translation of the page explaining why hand-building is fundamentally about shape, speed, tile efficiency, and probability rather than just yaku.
 locale: en_US
 robots: noindex, nofollow
-alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/kihon02.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/kihon/kihon02.html
 
 # Mahjong and Probability
 

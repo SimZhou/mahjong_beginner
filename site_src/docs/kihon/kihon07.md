@@ -1,6 +1,6 @@
 ---
 description: 对子（2）：对子有一个特点：**当手里正好有 2 组对子时，它作为面子候补的价值最高。**
-alt_lang_url: https://simzhou.com/mahjong_beginner/en/kihon/kihon07.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon07.html
 ---
 
 # 对子（2）

@@ -1,6 +1,6 @@
 title: 第8章：局势判断
 description: 第8章局势判断，讲解名次意识、巡目与做牌、局势下的立直判断，以及最终局战术等内容。
-image: https://simzhou.com/mahjong_beginner/images/top-image11.jpg
+image: https://simzhou.com/riichi_mahjong_book/images/top-image11.jpg
 
 # 第8章：局势判断
 

@@ -2,7 +2,7 @@ title: Pairs (1)
 description: An English translation of the page explaining the role of the pair, how heads form naturally, and why you should usually prioritize completing sets over fixing the head too early.
 locale: en_US
 robots: noindex, nofollow
-alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/kihon06.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/kihon/kihon06.html
 
 # Pairs (1)
 

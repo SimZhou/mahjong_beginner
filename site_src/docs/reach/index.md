@@ -1,6 +1,6 @@
 title: 第6章：立直
 description: 第6章立直，讲解立直的优缺点、立直与默听的选择、立直理论以及取听与待牌判断。
-image: https://simzhou.com/mahjong_beginner/images/top-image9.jpg
+image: https://simzhou.com/riichi_mahjong_book/images/top-image9.jpg
 
 # 第6章：立直
 

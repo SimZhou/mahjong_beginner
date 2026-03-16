@@ -1,6 +1,6 @@
 ---
 description: 复合形（1）：三张复合形只有两种： “对子 + 搭子”的复合形，以及“两嵌”复合形。
-alt_lang_url: https://simzhou.com/mahjong_beginner/en/kihon/kihon09.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon09.html
 ---
 
 # 复合形（1）

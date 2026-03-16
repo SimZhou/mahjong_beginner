@@ -2,7 +2,7 @@ title: Composite Shapes (2)
 description: An English translation of the page explaining four-tile composite shapes built from a complete set plus a floating tile, including nobetan, middle-bulge, pseudo-ryanmen, and one-gap shapes.
 locale: en_US
 robots: noindex, nofollow
-alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/kihon10.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/kihon/kihon10.html
 
 # Composite Shapes (2)
 

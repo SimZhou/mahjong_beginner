@@ -2,7 +2,7 @@ title: Composite Shapes (1)
 description: An English translation of the page explaining the two three-tile composite shapes, pair-plus-taatsu shapes and ryan-kan shapes, and how to handle them without narrowing the hand too early.
 locale: en_US
 robots: noindex, nofollow
-alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/kihon09.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/kihon/kihon09.html
 
 # Composite Shapes (1)
 

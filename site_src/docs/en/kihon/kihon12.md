@@ -2,7 +2,7 @@ title: Basic Waits (2)
 description: An English translation of the page covering irregular multi-sided waits, including irregular two-sided waits, irregular three-sided waits, and waits with four or more winning tile types.
 locale: en_US
 robots: noindex, nofollow
-alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/kihon12.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/kihon/kihon12.html
 
 # Basic Waits (2)
 

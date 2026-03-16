@@ -2,7 +2,7 @@ title: Number Tiles and Honor Tiles
 description: An English translation of the page explaining how mahjong tiles are classified, how value tiles work, and why middle number tiles are stronger than edge tiles.
 locale: en_US
 robots: noindex, nofollow
-alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/kihon05.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/kihon/kihon05.html
 
 # Number Tiles and Honor Tiles
 

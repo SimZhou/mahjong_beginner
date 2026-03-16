@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://simzhou.com/mahjong_beginner/sitemap.xml
+Sitemap: https://simzhou.com/riichi_mahjong_book/sitemap.xml

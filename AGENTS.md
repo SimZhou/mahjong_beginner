@@ -84,12 +84,12 @@ scripts/build_site.sh
 ## 多语言与英文版规则
 
 - 当前中文主站路由保持不变：
-  - `https://simzhou.com/mahjong_beginner/`
+  - `https://simzhou.com/riichi_mahjong_book/`
 - 英文版采用同域名、同项目、语言子目录方案：
-  - `https://simzhou.com/mahjong_beginner/en/`
+  - `https://simzhou.com/riichi_mahjong_book/en/`
 - 英文正文页路径应与中文页保持镜像关系，例如：
-  - 中文：`/mahjong_beginner/kihon/kihon01.html`
-  - 英文：`/mahjong_beginner/en/kihon/kihon01.html`
+  - 中文：`/riichi_mahjong_book/kihon/kihon01.html`
+  - 英文：`/riichi_mahjong_book/en/kihon/kihon01.html`
 - 不要使用查询参数式语言路由，如：
   - `?lang=en`
 - 也不要为了做英文版去迁移现有中文路径；中文根路径的既有收录与外链应继续保留。
@@ -188,7 +188,7 @@ scripts/build_site.sh
 ## 线上抽样检查清单
 
 - 本地 `docs/` 正确，不代表线上一定已经更新。
-- 做完一批有意义的修改后，要对 `https://simzhou.com/mahjong_beginner/` 抽样检查。
+- 做完一批有意义的修改后，要对 `https://simzhou.com/riichi_mahjong_book/` 抽样检查。
 - 线上抽样至少要确认：
   - 页面返回的是真实文章，而不是 `404`
   - 部署域名下文章图示能够正常加载
@@ -212,7 +212,7 @@ scripts/build_site.sh
 
 曾确认过的线上部署问题：
 
-- `https://simzhou.com/mahjong_beginner/joukyou/joukyou09.html`
+- `https://simzhou.com/riichi_mahjong_book/joukyou/joukyou09.html`
   - 一度返回 `404 - Not found`
   - 但本地 `docs/joukyou/joukyou09.html` 实际存在且已追踪
   - 这说明问题在部署指向或发布状态，而不是本地构建缺失

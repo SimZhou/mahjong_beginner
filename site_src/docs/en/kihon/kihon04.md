@@ -2,7 +2,7 @@ title: Sets and Taatsu
 description: An English translation of the page explaining sequences, triplets, taatsu, and why open-ended shapes are the basic goal of efficient hand-building.
 locale: en_US
 robots: noindex, nofollow
-alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/kihon04.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/kihon/kihon04.html
 
 # Sets and Taatsu
 

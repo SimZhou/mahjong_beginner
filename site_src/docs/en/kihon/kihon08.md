@@ -2,7 +2,7 @@ title: Basic Shapes and Composite Shapes
 description: An English translation of the page explaining the four basic hand components and why composite shapes should be understood as composite shapes rather than forced back into simpler parts.
 locale: en_US
 robots: noindex, nofollow
-alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/kihon08.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/kihon/kihon08.html
 
 # Basic Shapes and Composite Shapes
 

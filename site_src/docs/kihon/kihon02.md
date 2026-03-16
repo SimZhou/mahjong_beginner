@@ -1,6 +1,6 @@
 ---
 description: 麻将与概率：一说到麻将里的做牌，可能有人会觉得重点在于“要做什么役”， 但我认为这种想法偏离了麻将的本质。
-alt_lang_url: https://simzhou.com/mahjong_beginner/en/kihon/kihon02.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon02.html
 ---
 
 # 麻将与概率

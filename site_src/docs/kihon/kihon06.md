@@ -1,6 +1,6 @@
 ---
 description: 对子（1）：（2）面子候补（之后再摸到 1 张相同的牌时做成刻子）
-alt_lang_url: https://simzhou.com/mahjong_beginner/en/kihon/kihon06.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon06.html
 ---
 
 # 对子（1）

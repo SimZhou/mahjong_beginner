@@ -1,6 +1,6 @@
 title: 第7章：防守
 description: 第7章防守，系统学习安全牌、筋、壁、弃和步骤、迂回打法、对副露防守、扣牌与读立直等内容。
-image: https://simzhou.com/mahjong_beginner/images/top-image10.jpg
+image: https://simzhou.com/riichi_mahjong_book/images/top-image10.jpg
 
 # 第7章：防守
 

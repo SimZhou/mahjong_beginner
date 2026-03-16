@@ -1,6 +1,6 @@
 title: 附录
 description: 附录页，整理作者介绍、麻将链接集、站外推荐资源与全站目录，补充教程正文之外的重要资料。
-image: https://simzhou.com/mahjong_beginner/images/top-image_off.jpg
+image: https://simzhou.com/riichi_mahjong_book/images/top-image_off.jpg
 
 # 附录
 

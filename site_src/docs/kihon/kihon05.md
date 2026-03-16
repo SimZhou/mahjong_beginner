@@ -1,6 +1,6 @@
 ---
 description: 数牌与字牌：麻将里一共有 34 种牌。 先来看看，这些牌各自都具有什么功能。
-alt_lang_url: https://simzhou.com/mahjong_beginner/en/kihon/kihon05.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon05.html
 ---
 
 # 数牌与字牌

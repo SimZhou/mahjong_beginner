@@ -2,7 +2,7 @@ title: Basic Waits (1)
 description: An English translation of the page introducing the basic wait types in mahjong, plus nobetan, pseudo-ryanmen, ankou-based composite waits, and the fundamental three-sided waits.
 locale: en_US
 robots: noindex, nofollow
-alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/kihon11.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/kihon/kihon11.html
 
 # Basic Waits (1)
 

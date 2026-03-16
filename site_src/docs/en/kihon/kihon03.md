@@ -2,7 +2,7 @@ title: Tenpai and Shanten
 description: An English translation of the page introducing winning hand structures, tenpai, shanten count, and the basic principle of lowering shanten.
 locale: en_US
 robots: noindex, nofollow
-alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/kihon03.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/kihon/kihon03.html
 
 # Tenpai and Shanten
 

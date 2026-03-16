@@ -2,7 +2,7 @@ title: Pairs (2)
 description: An English translation of the page explaining why pairs are at their strongest as set candidates when you have exactly two of them, and why too many pairs narrow the hand.
 locale: en_US
 robots: noindex, nofollow
-alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/kihon07.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/kihon/kihon07.html
 
 # Pairs (2)
 

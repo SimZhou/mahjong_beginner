@@ -1,9 +1,9 @@
 title: Chapter 2: Tile Efficiency and Tile Theory
 description: Chapter 2 of the English mahjong beginner guide, covering tile efficiency, effective tiles, floating tiles, taatsu theory, and hand-building choices from the opening to tenpai.
-image: https://simzhou.com/mahjong_beginner/images/top-image5.jpg
+image: https://simzhou.com/riichi_mahjong_book/images/top-image5.jpg
 locale: en_US
 robots: noindex, nofollow
-alt_lang_url: https://simzhou.com/mahjong_beginner/pairi/index.html
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 
 # Chapter 2: Tile Efficiency and Tile Theory
 

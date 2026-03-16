@@ -188,4 +188,4 @@
 当前约定：
 
 - `IndexNow` 密钥文件位于 `site_src/docs/6f0d3cf671bf4bb3b4dfe2dfef4f11d6.txt`
-- 当前站点部署在子路径 `/mahjong_beginner/` 下，因此必须通过 `keyLocation` 指向该子路径中的密钥文件
+- 当前站点部署在子路径 `/riichi_mahjong_book/` 下，因此必须通过 `keyLocation` 指向该子路径中的密钥文件

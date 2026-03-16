@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_SITEMAP = ROOT / "docs" / "sitemap.xml"
 ENDPOINT = "https://api.indexnow.org/indexnow"
 KEY = "6f0d3cf671bf4bb3b4dfe2dfef4f11d6"
-KEY_LOCATION = f"https://simzhou.com/mahjong_beginner/{KEY}.txt"
+KEY_LOCATION = f"https://simzhou.com/riichi_mahjong_book/{KEY}.txt"
 HOST = "simzhou.com"
 
 

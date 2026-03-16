@@ -1,5 +1,5 @@
 description: 站外推荐资源页，整理原站首页侧栏中的麻将书单、雀庄、麻将媒体、线上麻将与游戏资源。
-image: https://simzhou.com/mahjong_beginner/images/resource-book-kagaku.jpg
+image: https://simzhou.com/riichi_mahjong_book/images/resource-book-kagaku.jpg
 
 # 站外推荐资源
 

@@ -14,7 +14,7 @@
 
 网站地址：
 
-- <https://simzhou.com/mahjong_beginner/>
+- <https://simzhou.com/riichi_mahjong_book/>
 
 ## 本地构建
 
