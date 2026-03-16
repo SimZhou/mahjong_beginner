@@ -54,8 +54,8 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 15. [Tile Theory at One-Shanten (3)](./pairi15.md)
     Build the habit of comparing which choice actually brings you closer to winning.
 
-16. **Tile Theory at One-Shanten (4)**
-    Continuing the study of one-shanten tile theory, with attention to no-head shapes.
+16. [Tile Theory at One-Shanten (4)](./pairi16.md)
+    Continuing the study of one-shanten tile theory, with attention to headless shapes.
 
 17. **Tile Theory at One-Shanten (5)**
     Continuing from the previous page, this one keeps examining no-head shapes.

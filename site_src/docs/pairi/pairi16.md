@@ -1,5 +1,6 @@
 ---
 description: 一向听牌理（4）：先说结论，这一类形： 把它做成雀头不确定、保留“搭子 + 搭子”的形，通常会最宽。 尤其是有暗刻的时候，以及搭子能构成复合形的时候， 基本都应该这样处理。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi16.html
 ---
 
 # 一向听牌理（4）
