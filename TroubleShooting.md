@@ -149,3 +149,43 @@
 处理办法：
 
 - 在默认工作流中不要提交它们，除非用户明确要求
+
+## 批量补页面级 `description` 后，担心正文被改坏
+
+现象：
+
+- 需要给大量正文页补 SEO 描述
+- 但又不希望正文可见内容、排版或翻译文本被改动
+
+原因：
+
+- 页面级 `description` 正确做法是写在 Markdown 头部元数据里
+- 如果直接手改正文首段，容易把可见内容也一起改掉
+
+处理办法：
+
+1. 优先使用 `scripts/add_page_descriptions.py`
+2. 只给页面新增或更新 YAML 头部中的 `description`
+3. 构建后抽样检查生成 HTML 的 `<meta name="description">`
+4. 同时确认正文首屏内容没有变化
+
+## `IndexNow` 提交范围不对，把错误页也提交了
+
+现象：
+
+- `IndexNow` 提交脚本把 `404.html` 或其他不应收录的页面也带进去了
+
+原因：
+
+- 站点地图里可能包含技术上可访问、但不应主动推送给搜索引擎的页面
+
+处理办法：
+
+1. 使用 `scripts/submit_indexnow.py` 当前版本
+2. 确认提交列表里不包含 `404.html`
+3. 如果后续新增 `noindex` 页面，也要同步把过滤规则加进提交脚本
+
+当前约定：
+
+- `IndexNow` 密钥文件位于 `site_src/docs/6f0d3cf671bf4bb3b4dfe2dfef4f11d6.txt`
+- 当前站点部署在子路径 `/mahjong_beginner/` 下，因此必须通过 `keyLocation` 指向该子路径中的密钥文件

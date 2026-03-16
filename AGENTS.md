@@ -55,6 +55,32 @@ scripts/build_site.sh
 - 不要输出到 `docs/` 之外的其它目录。
 - 是否验收通过，必须以生成后的 `docs/` 为准，不能只看 Markdown 源文件。
 
+## SEO 与发现机制规则
+
+- 页面级 SEO 优先通过 Markdown 头部元数据维护：
+  - `title`
+  - `description`
+  - `image`
+- 对正文页补 `description` 时，不要改写可见正文内容；优先只新增 YAML 头部元数据。
+- 当前项目已提供批量补描述脚本：
+
+```bash
+/opt/miniforge3/bin/python scripts/add_page_descriptions.py
+```
+
+- `IndexNow` 已接入本项目，当前密钥文件位于：
+  - `site_src/docs/6f0d3cf671bf4bb3b4dfe2dfef4f11d6.txt`
+- 提交脚本位于：
+  - `scripts/submit_indexnow.py`
+- 使用 `IndexNow` 时，先完成构建并确认 `docs/sitemap.xml` 已更新，再执行：
+
+```bash
+/opt/miniforge3/bin/python scripts/submit_indexnow.py
+```
+
+- `IndexNow` 提交时不要包含 `404.html` 这类 `noindex` 页面。
+- 页面级 `description` 和 `IndexNow` 提交，原则上只影响搜索引擎抓取与摘要展示，不应引入正文可见内容变更。
+
 ## 翻译规则
 
 - 翻译必须基于 `raw_site/articles/` 下的本地日文源快照。
