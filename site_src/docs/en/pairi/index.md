@@ -15,7 +15,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 2. [Effective Tiles and Tile Count](./pairi02.md)
    Confirm one of mahjong’s most basic principles: the more tiles that help your hand, the better.
 
-3. **The Theory of Floating Tiles**
+3. [The Theory of Floating Tiles](./pairi03.md)
    Depending on how you hold your tiles, their functions can overlap. Unnecessary tiles should be discarded.
 
 4. **Taatsu Theory (1)**

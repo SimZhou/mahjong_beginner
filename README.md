@@ -1,11 +1,11 @@
-# Japanese Mahjong: From Beginner to Master
+<h1 align="center">Japanese Mahjong: From Beginner to Master</h1>
 
 <p align="center">
   <a href="./README.md">English</a> | <a href="./README.zh-CN.md">简体中文</a>
 </p>
 
 <p align="center">
-  <a href="https://simzhou.com/riichi_mahjong_book/"><img alt="Live Site" src="https://img.shields.io/badge/site-online-0f766e?style=flat-square"></a>
+  <a href="https://simzhou.com/riichi_mahjong_book/en/"><img alt="Live Site" src="https://img.shields.io/badge/site-online-0f766e?style=flat-square"></a>
   <img alt="Chinese Edition" src="https://img.shields.io/badge/chinese-complete-2563eb?style=flat-square">
   <img alt="English Edition" src="https://img.shields.io/badge/english-in%20progress-f59e0b?style=flat-square">
   <img alt="Built with MkDocs" src="https://img.shields.io/badge/built%20with-MkDocs-526CFE?style=flat-square">
@@ -16,7 +16,7 @@ A complete rebuild of a classic Japanese mahjong tutorial site, turned into a mo
 
 Faithful to the original lessons. Cleaner to read. Easier to maintain. Ready to keep growing.
 
-Live site: <https://simzhou.com/riichi_mahjong_book/>
+Live site: <https://simzhou.com/riichi_mahjong_book/en/>
 
 ## What This Repo Is
 
@@ -68,8 +68,8 @@ docs/
 
 ## Live Site
 
-- Chinese: <https://simzhou.com/riichi_mahjong_book/>
 - English: <https://simzhou.com/riichi_mahjong_book/en/>
+- Chinese: <https://simzhou.com/riichi_mahjong_book/>
 
 ## What You Can Read
 

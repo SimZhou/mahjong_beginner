@@ -1,5 +1,6 @@
 ---
 description: 浮牌理论：来看看麻将 34 种牌里，每一种牌单独拿在手中时分别具有什么功能。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi03.html
 ---
 
 # 浮牌理论

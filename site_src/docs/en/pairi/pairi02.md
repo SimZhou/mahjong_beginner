@@ -148,6 +148,6 @@ Original Japanese page: <http://beginners.biz/pairi/pairi02.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="pairi01.html">Previous: Playing by Tile Theory</a>
-  <a class="page-nav__link page-nav__link--next" href="../../pairi/pairi03.html">Continue in Chinese: The Theory of Floating Tiles</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi03.html">Next: The Theory of Floating Tiles</a>
 </div>
 <!-- PAGE NAV END -->

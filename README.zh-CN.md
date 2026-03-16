@@ -1,4 +1,4 @@
-# 日麻: 从入门到精通
+<h1 align="center">日麻: 从入门到精通</h1>
 
 <p align="center">
   <a href="./README.md">English</a> | <a href="./README.zh-CN.md">简体中文</a>
