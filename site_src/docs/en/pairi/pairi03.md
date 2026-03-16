@@ -124,6 +124,6 @@ Original Japanese page: <http://beginners.biz/pairi/pairi03.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="pairi02.html">Previous: Effective Tiles and Tile Count</a>
-  <a class="page-nav__link page-nav__link--next" href="../../pairi/pairi04.html">Continue in Chinese: Taatsu Theory (1)</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi04.html">Next: Taatsu Theory (1)</a>
 </div>
 <!-- PAGE NAV END -->

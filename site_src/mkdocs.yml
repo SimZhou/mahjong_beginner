@@ -84,6 +84,9 @@ extra:
       pairi03:
         title: The Theory of Floating Tiles
         path: en/pairi/pairi03.html
+      pairi04:
+        title: Taatsu Theory (1)
+        path: en/pairi/pairi04.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

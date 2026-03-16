@@ -1,5 +1,6 @@
 ---
 description: 搭子理论（1）：(3) 打点（与手役、宝牌的关联） (4) 真成了待牌以后，好不好出 (5) 山里看起来还剩多少枚
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi04.html
 ---
 
 # 搭子理论（1）

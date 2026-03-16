@@ -18,7 +18,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 3. [The Theory of Floating Tiles](./pairi03.md)
    Depending on how you hold your tiles, their functions can overlap. Unnecessary tiles should be discarded.
 
-4. **Taatsu Theory (1)**
+4. [Taatsu Theory (1)](./pairi04.md)
    This page compares the functions of taatsu from the viewpoints of acceptance count and the chance to improve into better shapes.
 
 5. **Taatsu Theory (2)**
