@@ -1,5 +1,6 @@
 ---
 description: 一向听牌理（5）：前面应该已经明白了，把牌做成“搭子 + 搭子”通常最宽。 那么像例 1 这样，外面只剩 1 组搭子时，又该怎么判断呢？
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi17.html
 ---
 
 # 一向听牌理（5）
