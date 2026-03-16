@@ -38,7 +38,7 @@ alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/index.html
 9. [Composite Shapes (1)](./kihon09.md)
 : An introduction to the way three-tile composite shapes work, including the basic idea behind double closed waits.
 
-10. **Composite Shapes (2)**
+10. [Composite Shapes (2)](./kihon10.md)
 : An introduction to four-tile composite shapes, a crucial foundation for understanding more complicated multi-sided waits.
 
 11. **Basic Waits (1)**

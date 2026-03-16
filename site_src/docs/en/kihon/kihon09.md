@@ -134,6 +134,6 @@ Original Japanese page: <http://beginners.biz/kihon/kihon09.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="kihon08.html">Previous: Basic Shapes and Composite Shapes</a>
-  <a class="page-nav__link page-nav__link--next" href="../../kihon/kihon10.html">Continue in Chinese: Composite Shapes (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon10.html">Next: Composite Shapes (2)</a>
 </div>
 <!-- PAGE NAV END -->

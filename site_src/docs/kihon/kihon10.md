@@ -1,5 +1,6 @@
 ---
 description: 复合形（2）：四张复合形有很多种， 这里先只讲“**面子 + 孤立牌**”这种组合。 这一类一共有 5 种基本形，而且每一种都非常重要。
+alt_lang_url: https://simzhou.com/mahjong_beginner/en/kihon/kihon10.html
 ---
 
 # 复合形（2）

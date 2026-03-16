@@ -61,6 +61,9 @@ extra:
       kihon09:
         title: Composite Shapes (1)
         path: en/kihon/kihon09.html
+      kihon10:
+        title: Composite Shapes (2)
+        path: en/kihon/kihon10.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
