@@ -127,6 +127,6 @@ Original Japanese page: <http://beginners.biz/kihon/kihon11.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="kihon10.html">Previous: Composite Shapes (2)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../kihon/kihon12.html">Continue in Chinese: Basic Waits (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon12.html">Next: Basic Waits (2)</a>
 </div>
 <!-- PAGE NAV END -->

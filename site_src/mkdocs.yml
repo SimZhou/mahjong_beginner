@@ -67,6 +67,9 @@ extra:
       kihon11:
         title: Basic Waits (1)
         path: en/kihon/kihon11.html
+      kihon12:
+        title: Basic Waits (2)
+        path: en/kihon/kihon12.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

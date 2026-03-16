@@ -44,7 +44,7 @@ alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/index.html
 11. [Basic Waits (1)](./kihon11.md)
 : An introduction to the representative wait types in mahjong, including open waits, pair waits, and closed waits.
 
-12. **Basic Waits (2)**
+12. [Basic Waits (2)](./kihon12.md)
 : A further look at irregular composite forms in which several kinds of waits are entangled together.
 
 ---
