@@ -78,6 +78,23 @@ nav:
     - 宝牌与手役选择: dora/dora05.md
     - 红宝牌麻将基础: dora/dora06.md
     - 红宝牌与祝仪: dora/dora07.md
+  - 鸣牌:
+    - 栏目导读: naki/index.md
+    - 鸣牌的优缺点: naki/naki01.md
+    - 副露判断基础: naki/naki02.md
+    - 碰与吃（1）: naki/naki03.md
+    - 碰与吃（2）: naki/naki04.md
+    - 杠（1）: naki/naki05.md
+    - 杠（2）: naki/naki06.md
+    - 鸣牌与向听数: naki/naki07.md
+    - 食断: naki/naki08.md
+    - 对对和: naki/naki09.md
+    - 混一色: naki/naki10.md
+    - 后付（1）: naki/naki11.md
+    - 后付（2）: naki/naki12.md
+    - 鸣牌技巧（1）: naki/naki13.md
+    - 鸣牌技巧（2）: naki/naki14.md
+    - 鸣牌技巧（3）: naki/naki15.md
   - 立直:
     - 栏目导读: reach/index.md
     - 立直的优缺点: reach/reach01.md
@@ -120,20 +137,3 @@ nav:
     - 栏目导读: osihiki/index.md
     - 押引铁则: osihiki/osihiki01.md
     - 判断依据: osihiki/osihiki02.md
-  - 鸣牌:
-    - 栏目导读: naki/index.md
-    - 鸣牌的优缺点: naki/naki01.md
-    - 副露判断基础: naki/naki02.md
-    - 碰与吃（1）: naki/naki03.md
-    - 碰与吃（2）: naki/naki04.md
-    - 杠（1）: naki/naki05.md
-    - 杠（2）: naki/naki06.md
-    - 鸣牌与向听数: naki/naki07.md
-    - 食断: naki/naki08.md
-    - 对对和: naki/naki09.md
-    - 混一色: naki/naki10.md
-    - 后付（1）: naki/naki11.md
-    - 后付（2）: naki/naki12.md
-    - 鸣牌技巧（1）: naki/naki13.md
-    - 鸣牌技巧（2）: naki/naki14.md
-    - 鸣牌技巧（3）: naki/naki15.md

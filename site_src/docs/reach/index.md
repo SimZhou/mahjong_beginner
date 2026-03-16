@@ -32,7 +32,7 @@
 
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
-  <a class="page-nav__link page-nav__link--prev" href="../dora/dora07.html">上一章：宝牌与红宝牌</a>
+  <a class="page-nav__link page-nav__link--prev" href="../naki/naki15.html">上一章：鸣牌</a>
   <a class="page-nav__link page-nav__link--next" href="reach01.html">下一节：立直的优缺点</a>
 </div>
 <!-- PAGE NAV END -->

@@ -77,6 +77,6 @@
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="naki14.html">上一节：鸣牌技巧（2）</a>
-  <span class="page-nav__spacer"></span>
+  <a class="page-nav__link page-nav__link--next" href="../reach/index.html">下一章：立直</a>
 </div>
 <!-- PAGE NAV END -->

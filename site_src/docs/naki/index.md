@@ -53,7 +53,7 @@
 
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
-  <a class="page-nav__link page-nav__link--prev" href="../osihiki/osihiki02.html">上一章：押引</a>
+  <a class="page-nav__link page-nav__link--prev" href="../dora/dora07.html">上一章：宝牌与红宝牌</a>
   <a class="page-nav__link page-nav__link--next" href="naki01.html">下一节：鸣牌的优点与缺点</a>
 </div>
 <!-- PAGE NAV END -->

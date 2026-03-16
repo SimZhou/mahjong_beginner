@@ -174,6 +174,6 @@
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="osihiki01.html">上一节：押引铁则</a>
-  <a class="page-nav__link page-nav__link--next" href="../naki/index.html">下一章：鸣牌</a>
+  <span class="page-nav__spacer"></span>
 </div>
 <!-- PAGE NAV END -->

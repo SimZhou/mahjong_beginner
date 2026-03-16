@@ -126,6 +126,6 @@
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="dora06.html">上一节：红宝牌麻将基础</a>
-  <a class="page-nav__link page-nav__link--next" href="../reach/index.html">下一章：立直</a>
+  <a class="page-nav__link page-nav__link--next" href="../naki/index.html">下一章：鸣牌</a>
 </div>
 <!-- PAGE NAV END -->
