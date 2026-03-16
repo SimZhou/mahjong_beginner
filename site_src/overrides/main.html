@@ -4,7 +4,11 @@
   {{ super() }}
   {% set seo = config.extra.seo if config.extra and config.extra.seo else {} %}
   {% set meta = page.meta if page and page.meta else {} %}
-  {% set page_title = meta.title if meta.title else (page.title if page and page.title else config.site_name) %}
+  {% if page and page.is_homepage %}
+    {% set page_title = config.site_name %}
+  {% else %}
+    {% set page_title = meta.title if meta.title else (page.title if page and page.title else config.site_name) %}
+  {% endif %}
   {% set page_description = meta.description if meta.description else config.site_description %}
   {% set page_robots = meta.robots if meta.robots else seo.default_robots %}
   {% set canonical_url = page.canonical_url if page and page.canonical_url else config.site_url %}
