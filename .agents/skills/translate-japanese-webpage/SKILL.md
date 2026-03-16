@@ -1,122 +1,148 @@
 ---
 name: translate-japanese-webpage
-description: Translate original Japanese webpage HTML into clear, faithful Chinese while preserving all meaning and all important presentation elements. Use when working from raw Japanese HTML pages or article bodies and the task is to produce Chinese markdown/HTML that keeps every example, diagram, table, heading, emphasis, warning, and important visual cue without adding agent narration or dropping information.
+description: 将日文网页 HTML 准确翻译成清晰、忠实的中文，同时保留全部含义与重要呈现元素。适用于从原始日文 HTML 页面或正文片段出发，产出保留例题、图示、表格、标题、强调、警示和关键信息密度的中文 markdown/HTML，不要加入代理式说明文字。
 ---
 
-# Translate Japanese Webpage
+# 日文网页翻译
 
-## Overview
+## 概述
 
-Translate Japanese webpage content into plain, readable Chinese while preserving structure and information density.
+将日文网页内容翻译成自然、清楚的中文，同时保留原始结构与信息密度。
 
-The output must keep:
+输出必须保留：
 
-1. all text information
-2. all example order
-3. all diagrams and image references
-4. all tables and table structure
-5. all headings and section boundaries
-6. all emphasis signals such as bold text, color emphasis, warning phrases, and key conclusions
+1. 全部文本信息
+2. 全部例题顺序
+3. 全部图示和图片引用
+4. 全部表格及其结构
+5. 全部标题和分段边界
+6. 全部强调信号，例如粗体、颜色强调、警示语和关键结论
 
-Do not add agent-style narration such as "我将..."、"下面进行翻译..."、"这里我会...".
+不要加入代理式说明文字，例如“我将……”“下面进行翻译……”“这里我会……”。
 
-## Required Workflow
+## 必须遵循的流程
 
-1. Read the original Japanese HTML or extracted article body first.
-2. Identify every content-bearing element before translating:
-   - headings
-   - paragraphs
-   - lists
-   - tables
-   - inline tile/figure images
-   - standalone diagrams under `../images/...`
-   - emphasized text such as `<strong>`, colored spans, warning classes, green summary blocks
-3. Translate in original order. Do not merge sections unless the original already does.
-4. Preserve every example block. If the original has `例1`, `例2`, keep them all.
-5. Preserve every diagram reference. If the original shows an article diagram, the Chinese page must also show it.
-6. Preserve tables structurally. Translate headers and cells, but do not collapse a table into prose unless the target format truly cannot represent tables.
-7. Preserve emphasis. If the original marks something as important with bold/color/summary styling, express that importance in the target markdown/HTML.
-8. After translating, compare the source and output again for omissions.
+1. 先阅读原始日文 HTML 或提取出的正文内容。
+2. 翻译前先识别所有承载内容的元素：
+   - 标题
+   - 段落
+   - 列表
+   - 表格
+   - 行内牌图或插图
+   - `../images/...` 下的独立图示
+   - 各类强调内容，例如 `<strong>`、彩色文字、警示块、绿色总结块
+3. 按原始顺序翻译，不要擅自合并分段，除非原文本来就是合并结构。
+4. 保留全部例题块。原文有 `例1`、`例2`，就必须全部保留。
+5. 保留全部图示引用。原文出现的文章图示，中文页中也必须出现。
+6. 结构化保留表格。可以翻译表头和单元格，但不要把表格压缩成散文，除非目标格式确实无法承载表格。
+7. 保留强调。原文如果通过粗体、颜色或总结块表达重要性，目标 markdown/HTML 也必须保留这种重要性。
+8. 翻译完成后，再次对照原文检查是否有遗漏。
 
-## Fidelity Rules
+## 保真规则
 
-Treat these as hard requirements:
+以下都是硬性要求：
 
-1. Do not omit any paragraph, example, condition, footnote-like caution, or theory summary.
-2. Do not replace concrete examples with summaries.
-3. Do not drop repeated example hands just because they look similar.
-4. Do not remove tables.
-5. Do not remove image blocks.
-6. Do not remove inline image-based tile examples.
-7. Do not weaken strong wording when the original is intentionally emphatic.
-8. Do not invent new theory, new examples, or explanatory meta-text not supported by the source.
+1. 不得遗漏任何段落、例题、条件、类似脚注的提醒或理论总结。
+2. 不得把具体例子替换成概括性总结。
+3. 不得因为牌例相似就省略重复例题。
+4. 不得删除表格。
+5. 不得删除图片块。
+6. 不得删除行内的牌图示例。
+7. 原文刻意强调的句子，不得弱化语气。
+8. 不得凭空添加原文没有的新理论、新例题或解释性旁白。
 
-## Translation Style
+## 翻译风格
 
-Use Chinese that is:
+中文表达应满足：
 
-1. accurate first
-2. readable second
-3. concise only when the source is concise
+1. 准确优先
+2. 可读性其次
+3. 只有原文本来简洁时，才跟着简洁
 
-Prefer:
+优先采用：
 
-1. natural Chinese teaching prose
-2. explicit logical links when the Japanese source makes them explicit
-3. stable Chinese Mahjong terminology within the project
+1. 自然的中文教学式表达
+2. 原文有明确逻辑连接时，在中文里也明确表达
+3. 项目内稳定一致的中文麻将术语
 
-Avoid:
+避免：
 
-1. machine-translation wording
-2. untranslated Japanese technical terms when a clear Chinese rendering exists
-3. agent narration
-4. decorative rewriting that changes the meaning or density
+1. 机器翻译味过重的措辞
+2. 明明有清晰中文对应却残留日文术语
+3. 代理式旁白
+4. 为了“润色”而改变原始含义或信息密度
 
-## Element Preservation Rules
+## 元素保留规则
 
-### Diagrams
+### 非正文文章页
 
-If the original contains standalone article diagrams such as:
+对于以下页面：
+
+- 首页 / index 页
+- 站点地图页
+- 作者介绍 / 链接集 / 资源推荐页
+- 附录导览页
+
+也要使用与正文文章相同的保真标准：
+
+1. 如果原页中的欢迎语、更新履历、区块顺序本身承载信息，就要保留
+2. 如果原页是依赖缩略图组织推荐内容，不要把它们压扁成纯文字链接列表
+3. 如果内容被拆分到首页和附录，必须保证原始信息完整保留在重建站点中，同时避免重复漂移
+4. 这类页面很容易被过度概括，编辑后务必再次回看原始源码
+
+### 图示
+
+如果原文存在独立文章图示，例如：
 
 - `<img src="../images/...">`
 
-keep them in place relative to the surrounding explanation.
+要保留它们与周围说明文字的相对位置。
 
-Do not move a diagram away from the text that explains it.
+不要把图示挪到脱离上下文的位置。
 
-### Tables
+### 缩略图与推荐图
 
-If the original contains a table, preserve:
+如果原页包含书封、游戏缩略图或其它推荐图片区块：
 
-1. row and column structure
-2. header meaning
-3. numeric values
-4. warning or ranking relationships shown by the table
+1. 要把它们视为承载信息的内容，而不是装饰
+2. 保证图片与对应标题、说明的配对关系正确
+3. 优先使用本地镜像素材，不要依赖远程热链
+4. 如果重建页采用卡片布局，图片区尺寸要统一，保证正文块起点对齐
 
-Markdown tables are acceptable if the target file is markdown.
+### 表格
 
-### Emphasis and importance
+如果原文有表格，要保留：
 
-Preserve importance signals such as:
+1. 行列结构
+2. 表头含义
+3. 数值
+4. 表格所表达的警示、排序或强弱关系
 
-1. bolded key conclusions
-2. red warning phrases
-3. green summary blocks
-4. highlighted theory lines
+如果目标文件是 Markdown，可以使用 Markdown 表格。
 
-If color-specific HTML cannot be preserved exactly, preserve the emphasis semantically using markdown or equivalent HTML.
+### 强调与重要性
 
-## Final Checks
+要保留如下重要性信号：
 
-Before considering the translation done, verify:
+1. 粗体关键结论
+2. 红色警示语
+3. 绿色总结块
+4. 高亮的理论句
 
-1. no original example is missing
-2. no standalone diagram is missing
-3. no table is missing
-4. no bold/summary/warning content was flattened away
-5. no agent-style narration was introduced
-6. no Japanese source text remains unless it is intentionally kept as a proper noun or unavoidable label
+如果不能逐字保留颜色表现，也要在语义上保留这种强调强度。
 
-## Output Constraint
+## 最终检查
 
-The translated page must read like the finished page itself, not like commentary about translation work.
+在认为翻译完成之前，必须确认：
+
+1. 没有漏掉原文中的任何例题
+2. 没有漏掉任何独立图示
+3. 没有漏掉任何表格
+4. 没有把粗体、总结、警示内容压平
+5. 没有加入代理式旁白
+6. 除专有名词或不可避免标签外，没有残留无意义的日文原文
+7. 对于带缩略图的推荐页，本地图片必须正常渲染，卡片与正文对齐也必须稳定
+
+## 输出约束
+
+翻译后的页面必须像页面成品本身，而不是“关于翻译过程的说明文字”。
