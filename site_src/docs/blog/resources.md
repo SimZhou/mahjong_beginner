@@ -103,6 +103,9 @@
     </div>
   </article>
   <article class="resource-card">
+    <div class="resource-card__media">
+      <img src="../images/resource-game-nyumon.jpg" alt="麻雀入门" />
+    </div>
     <div class="resource-card__body">
       <h3>麻雀入门</h3>
       <p>原站首页推荐的新近麻将游戏资源之一。</p>
@@ -110,6 +113,9 @@
     </div>
   </article>
   <article class="resource-card">
+    <div class="resource-card__media">
+      <img src="../images/resource-game-tetsuman.jpg" alt="彻万女神 Special" />
+    </div>
     <div class="resource-card__body">
       <h3>彻万女神 Special</h3>
       <p>原站首页推荐的新近麻将游戏资源之一。</p>
