@@ -1,4 +1,5 @@
 ---
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi07.html
 description: 打牌选择的思考方法：单纯去选择“朝和牌前进”的打牌， 本来就不应该是一件多难的事。 高手往往能一眼就判断出最有效率的一手。
 ---
 

@@ -93,6 +93,9 @@ extra:
       pairi06:
         title: Taatsu Theory (3)
         path: en/pairi/pairi06.html
+      pairi07:
+        title: How to Think About Discard Choices
+        path: en/pairi/pairi07.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

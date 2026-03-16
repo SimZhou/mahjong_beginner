@@ -27,7 +27,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 6. [Taatsu Theory (3)](./pairi06.md)
    A look at composite taatsu that appear frequently in actual play and how to handle them.
 
-7. **How to Think About Discard Choices**
+7. [How to Think About Discard Choices](./pairi07.md)
    How should you practice tile efficiency? How do strong players think differently? This page touches the core of tile theory.
 
 8. **Early-Hand Tile Theory (1)**

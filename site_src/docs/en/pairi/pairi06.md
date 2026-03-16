@@ -90,6 +90,6 @@ Original Japanese page: <http://beginners.biz/pairi/pairi06.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="pairi05.html">Previous: Taatsu Theory (2)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../pairi/pairi07.html">Continue in Chinese: How to Think About Discard Choices</a>
+  <a class="page-nav__link page-nav__link--next" href="pairi07.html">Next: How to Think About Discard Choices</a>
 </div>
 <!-- PAGE NAV END -->
