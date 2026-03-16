@@ -140,9 +140,17 @@ img {
 .md-typeset .resource-card__media img {
   display: block;
   width: 100%;
-  max-width: 11rem;
-  margin: 0 auto;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
   border-radius: 0.45rem;
+}
+
+.md-typeset .resource-card__media {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 13.5rem;
 }
 
 .md-typeset .resource-card__body h3 {
