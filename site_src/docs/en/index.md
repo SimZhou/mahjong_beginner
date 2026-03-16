@@ -1,10 +1,8 @@
----
 title: Mahjong Beginner Guide
 description: English homepage of the mahjong beginner guide, covering mahjong basics, tile efficiency, yaku, dora, calling, riichi, defense, situational judgment, and push-fold decisions.
 image: https://simzhou.com/mahjong_beginner/images/top-image_off.jpg
 locale: en_US
 robots: noindex, nofollow
----
 
 # Mahjong Beginner Guide
 
@@ -128,6 +126,6 @@ Original Japanese page: <http://beginners.biz/>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <span class="page-nav__spacer"></span>
-  <a class="page-nav__link page-nav__link--next" href="../kihon/index.md">Continue in Chinese: Chapter 1 - Mahjong Basics</a>
+  <a class="page-nav__link page-nav__link--next" href="../kihon/index.html">Continue in Chinese: Chapter 1 - Mahjong Basics</a>
 </div>
 <!-- PAGE NAV END -->
