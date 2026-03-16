@@ -39,7 +39,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 10. [Tile Theory at Two-Shanten (1)](./pairi10.md)
     Learn the tile efficiency of hands that are at two-shanten and getting closer to completion.
 
-11. **Tile Theory at Two-Shanten (2)**
+11. [Tile Theory at Two-Shanten (2)](./pairi11.md)
     Continuing from the previous page. Keep the perspective of cutting the least functional taatsu first.
 
 12. **Tile Theory at Two-Shanten (3)**

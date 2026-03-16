@@ -1,4 +1,5 @@
 ---
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi11.html
 description: 两向听牌理（2）：接下来讲的是“1 面子完成 + 4 搭子块”这种模式。 如果没有明显浮牌，选择大致只有两种
 ---
 
