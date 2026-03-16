@@ -41,7 +41,7 @@ alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/index.html
 10. [Composite Shapes (2)](./kihon10.md)
 : An introduction to four-tile composite shapes, a crucial foundation for understanding more complicated multi-sided waits.
 
-11. **Basic Waits (1)**
+11. [Basic Waits (1)](./kihon11.md)
 : An introduction to the representative wait types in mahjong, including open waits, pair waits, and closed waits.
 
 12. **Basic Waits (2)**

@@ -64,6 +64,9 @@ extra:
       kihon10:
         title: Composite Shapes (2)
         path: en/kihon/kihon10.html
+      kihon11:
+        title: Basic Waits (1)
+        path: en/kihon/kihon11.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
