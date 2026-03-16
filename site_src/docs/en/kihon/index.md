@@ -17,7 +17,7 @@ alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/index.html
 2. [Mahjong and Probability](./kihon02.md)
 : An introduction to the most basic way of thinking about probability in mahjong.
 
-3. **Tenpai and Shanten**
+3. [Tenpai and Shanten](./kihon03.md)
 : Before aiming to win, you need to understand two unavoidable ideas: tenpai and shanten.
 
 4. **Mentsu and Taatsu**

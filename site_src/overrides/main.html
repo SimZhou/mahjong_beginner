@@ -89,37 +89,3 @@
   </script>
   {% endif %}
 {% endblock %}
-
-{% block announce %}
-  {% set seo = config.extra.seo if config.extra and config.extra.seo else {} %}
-  {% set meta = page.meta if page and page.meta else {} %}
-  {% set page_locale = meta.locale if meta.locale else seo.locale|default('zh_CN') %}
-  {% set page_language = page_locale|replace('_', '-') %}
-  {% if meta.alt_lang_url %}
-    {% set switch_url = meta.alt_lang_url %}
-    {% if page_language[:2] == 'en' %}
-      {% set switch_label = '中文' %}
-    {% else %}
-      {% set switch_label = 'English' %}
-    {% endif %}
-  {% elif page and page.url %}
-    {% if page.url[:3] == 'en/' %}
-      {% set switch_url = config.site_url ~ page.url[3:] %}
-      {% set switch_label = '中文' %}
-    {% else %}
-      {% set switch_url = config.site_url ~ 'en/index.html' %}
-      {% set switch_label = 'English' %}
-    {% endif %}
-  {% else %}
-    {% if page_language[:2] == 'en' %}
-      {% set switch_url = config.site_url %}
-      {% set switch_label = '中文' %}
-    {% else %}
-      {% set switch_url = config.site_url ~ 'en/index.html' %}
-      {% set switch_label = 'English' %}
-    {% endif %}
-  {% endif %}
-  <div class="lang-switch-bar">
-    <a class="lang-switch-bar__link" href="{{ switch_url|e }}">{{ switch_label }}</a>
-  </div>
-{% endblock %}

@@ -89,6 +89,6 @@ Original Japanese page: <http://beginners.biz/kihon/kihon02.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="kihon01.html">Previous: What Is Mahjong?</a>
-  <a class="page-nav__link page-nav__link--next" href="../../kihon/kihon03.html">Continue in Chinese: Tenpai and Shanten</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon03.html">Next: Tenpai and Shanten</a>
 </div>
 <!-- PAGE NAV END -->

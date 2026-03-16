@@ -21,6 +21,13 @@ extra_css:
   - stylesheets/extra.css
 
 extra:
+  alternate:
+    - name: 简体中文
+      lang: zh-CN
+      link: https://simzhou.com/mahjong_beginner/
+    - name: English
+      lang: en
+      link: https://simzhou.com/mahjong_beginner/en/index.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

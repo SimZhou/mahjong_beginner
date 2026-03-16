@@ -1,5 +1,6 @@
 ---
 description: 听牌与向听：这里开始学习麻将做牌时的重要概念。 比起手役，更重要的是先学会用“牌形”来看手牌。
+alt_lang_url: https://simzhou.com/mahjong_beginner/en/kihon/kihon03.html
 ---
 
 # 听牌与向听
