@@ -124,6 +124,6 @@ Original Japanese page: <http://beginners.biz/kihon/kihon01.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="index.html">Back to Chapter 1 Guide</a>
-  <a class="page-nav__link page-nav__link--next" href="../../kihon/kihon02.html">Continue in Chinese: Mahjong and Probability</a>
+  <a class="page-nav__link page-nav__link--next" href="kihon02.html">Next: Mahjong and Probability</a>
 </div>
 <!-- PAGE NAV END -->

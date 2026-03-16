@@ -14,7 +14,7 @@ alt_lang_url: https://simzhou.com/mahjong_beginner/kihon/index.html
 1. [What Is Mahjong?](./kihon01.md)
 : What kind of game is mahjong, really? This opening page serves as an introduction and also outlines the author’s basic view of mahjong.
 
-2. **Mahjong and Probability**
+2. [Mahjong and Probability](./kihon02.md)
 : An introduction to the most basic way of thinking about probability in mahjong.
 
 3. **Tenpai and Shanten**
