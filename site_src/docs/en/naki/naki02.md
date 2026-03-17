@@ -97,6 +97,6 @@ Original Japanese page: <http://beginners.biz/naki/naki02.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="naki01.html">Previous: Advantages and Disadvantages of Calling</a>
-  <a class="page-nav__link page-nav__link--next" href="../../naki/naki03.html">Continue in Chinese: Pon and Chi (1)</a>
+  <a class="page-nav__link page-nav__link--next" href="naki03.html">Next: Pon and Chi (1)</a>
 </div>
 <!-- PAGE NAV END -->

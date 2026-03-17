@@ -1,5 +1,6 @@
 ---
 description: 碰与吃（1）：无论切 还是切 ，都是同样的 4 种 15 枚一向听。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki03.html
 ---
 
 # 碰与吃（1）

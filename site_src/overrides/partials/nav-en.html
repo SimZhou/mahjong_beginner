@@ -483,6 +483,13 @@
             </a>
           </li>
           {% endif %}
+          {% if calling and calling.naki03 %}
+          <li class="md-nav__item{% if current_url == calling.naki03.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ calling.naki03.path }}" class="md-nav__link{% if current_url == calling.naki03.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ calling.naki03.title }}</span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
       </nav>
     </li>

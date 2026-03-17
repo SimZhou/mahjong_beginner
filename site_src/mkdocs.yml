@@ -207,6 +207,9 @@ extra:
       naki02:
         title: The Basics of Calling Decisions
         path: en/naki/naki02.html
+      naki03:
+        title: Pon and Chi (1)
+        path: en/naki/naki03.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

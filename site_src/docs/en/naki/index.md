@@ -17,7 +17,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/index.html
 2. [The Basics of Calling Decisions](./naki02.md)
    How should you decide whether to call or not?
 
-3. Pon and Chi (1)
+3. [Pon and Chi (1)](./naki03.md)
    Pon and chi both use tiles discarded by other players, but there are important differences between them.
 
 4. Pon and Chi (2)
