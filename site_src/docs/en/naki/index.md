@@ -11,7 +11,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/index.html
 
 ![Calling main image](../../images/top-image8.jpg)
 
-1. Advantages and Disadvantages of Calling
+1. [Advantages and Disadvantages of Calling](./naki01.md)
    To use calling well, you first need to understand its strengths and weaknesses. This is also called *furo* or an open-call hand.
 
 2. The Basics of Calling Decisions

@@ -201,6 +201,9 @@ extra:
       overview:
         title: Overview
         path: en/naki/index.html
+      naki01:
+        title: Advantages and Disadvantages of Calling
+        path: en/naki/naki01.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
