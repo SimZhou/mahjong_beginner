@@ -1,5 +1,6 @@
 ---
 description: 状况与做牌（2）：接着来看：**按照场况来做牌。** 观察场上已经打出的牌，以及他家已经鸣掉的牌， 有时就必须根据这些信息来调整手作。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/joukyou/joukyou04.html
 ---
 
 # 状况与做牌（2）

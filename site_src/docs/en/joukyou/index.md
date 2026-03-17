@@ -20,7 +20,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/index.html
 3. [Hand-Building and Situation (1)](./joukyou03.md)
    "Hand-building based on the turn count" means that even with the same hand, the correct discard can change depending on how late the hand is.
 
-4. Situation and Hand-Building (2)
+4. [Hand-Building and Situation (2)](./joukyou04.md)
    A continuation of the previous page, this time going deeper into how hand-building changes with the state of the round.
 
 5. Situation and Hand-Building (3)
