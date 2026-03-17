@@ -1,5 +1,6 @@
 ---
 description: 状况与做牌（1）：巡目可以以舍牌所在的行数为参考，大致分成下面 3 种状况
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/joukyou/joukyou03.html
 ---
 
 # 状况与做牌（1）

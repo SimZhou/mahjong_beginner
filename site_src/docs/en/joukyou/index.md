@@ -17,7 +17,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/index.html
 2. [Playing With Rank Awareness](./joukyou02.md)
    Whether you care about placement points or raw score, you need a style of play that is conscious of rank.
 
-3. Situation and Hand-Building (1)
+3. [Hand-Building and Situation (1)](./joukyou03.md)
    "Hand-building based on the turn count" means that even with the same hand, the correct discard can change depending on how late the hand is.
 
 4. Situation and Hand-Building (2)
