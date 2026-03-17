@@ -1,5 +1,6 @@
 ---
 description: 立直还是默听（3）：像前一页那样，如果是好形听牌，基本都可以毫不犹豫地立直。 那么，如果等待不好，又该怎么判断呢？
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/reach/reach04.html
 ---
 
 # 立直还是默听（3）

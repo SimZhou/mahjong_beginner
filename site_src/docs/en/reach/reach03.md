@@ -142,6 +142,6 @@ Original Japanese page: <http://beginners.biz/reach/reach03.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="reach02.html">Previous: Riichi or Damaten? (1)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../reach/reach04.html">Continue in Chinese: Riichi or Damaten? (3)</a>
+  <a class="page-nav__link page-nav__link--next" href="reach04.html">Next: Riichi or Damaten? (3)</a>
 </div>
 <!-- PAGE NAV END -->

@@ -260,6 +260,9 @@ extra:
       reach03:
         title: Riichi or Damaten? (2)
         path: en/reach/reach03.html
+      reach04:
+        title: Riichi or Damaten? (3)
+        path: en/reach/reach04.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

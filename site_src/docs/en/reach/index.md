@@ -20,7 +20,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/index.html
 3. [Riichi or Damaten? (2)](./reach03.md)
    This page focuses on hands that still have room to improve. Should you stay dama and wait for a better hand, or riichi immediately?
 
-4. Riichi or Damaten? (3)
+4. [Riichi or Damaten? (3)](./reach04.md)
    What should you do when you reach tenpai with a poor wait?
 
 5. Riichi Theory (1)

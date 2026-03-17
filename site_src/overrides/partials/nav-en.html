@@ -621,6 +621,13 @@
             </a>
           </li>
           {% endif %}
+          {% if reach and reach.reach04 %}
+          <li class="md-nav__item{% if current_url == reach.reach04.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ reach.reach04.path }}" class="md-nav__link{% if current_url == reach.reach04.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ reach.reach04.title }}</span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
       </nav>
     </li>
