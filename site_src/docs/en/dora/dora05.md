@@ -131,6 +131,6 @@ Original Japanese page: <http://beginners.biz/dora/dora05.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="dora04.html">Previous Page: When to Cut a Dora</a>
-  <a class="page-nav__link page-nav__link--next" href="../dora/dora06.html">Continue in Chinese: The Basics of Red-Five Mahjong</a>
+  <a class="page-nav__link page-nav__link--next" href="dora06.html">Next Page: The Basics of Red-Five Mahjong</a>
 </div>
 <!-- PAGE NAV END -->

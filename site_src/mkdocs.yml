@@ -190,6 +190,9 @@ extra:
       dora05:
         title: Choosing Between Dora and Yaku
         path: en/dora/dora05.html
+      dora06:
+        title: The Basics of Red-Five Mahjong
+        path: en/dora/dora06.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

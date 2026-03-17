@@ -1,5 +1,6 @@
 ---
 description: 红宝牌麻将基础：现在街上大多数雀庄都在使用红牌。 尤其是自由桌里，还有会附带祝仪、甚至能只靠红牌和牌的店。 既然现在已经是红牌麻将的全盛时代，就必须采用与之相适应的打法。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/dora/dora06.html
 ---
 
 # 红宝牌麻将基础

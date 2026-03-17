@@ -26,7 +26,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/dora/index.html
 5. [Choosing Between Dora and Yaku](dora05.html)
    The factors behind that choice include acceptance width, hand value, and more.
 
-6. The Basics of Red-Five Mahjong
+6. [The Basics of Red-Five Mahjong](dora06.html)
    How is it different from rules without red fives? In red-five mahjong, what kind of play works better?
 
 7. Red Tiles and Bonus Chips
