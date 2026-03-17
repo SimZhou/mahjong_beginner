@@ -275,6 +275,11 @@ extra:
       reach08:
         title: Choosing Riichi Waits (2)
         path: en/reach/reach08.html
+    mamori:
+      title: "Chapter 7: Defense"
+      overview:
+        title: Overview
+        path: en/mamori/index.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

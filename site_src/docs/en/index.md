@@ -78,7 +78,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <span>Riichi is not just a declaration. It comes with both benefits and costs, so the real question is whether this riichi is truly necessary.</span>
     </div>
   </a>
-  <div class="home-card">
+  <a class="home-card" href="./mamori/index.html">
     <div class="home-card__media">
       <img src="../images/top7_off.jpg" alt="Chapter 7: Defense" />
     </div>
@@ -86,7 +86,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <strong>Chapter 7: Defense</strong>
       <span>Some players underestimate defense, but defensive skill directly affects long-term results. Reducing unnecessary deal-ins can improve your results dramatically.</span>
     </div>
-  </div>
+  </a>
   <div class="home-card">
     <div class="home-card__media">
       <img src="../images/top8_off.jpg" alt="Chapter 8: Situational Judgment" />

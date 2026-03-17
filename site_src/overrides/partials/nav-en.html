@@ -659,8 +659,23 @@
         </ul>
       </nav>
     </li>
-    <li class="md-nav__item">
-      <span class="md-nav__link"><span class="md-ellipsis">Chapter 7: Defense</span></span>
+    {% set mamori = config.extra.english_nav.mamori %}
+    <li class="md-nav__item md-nav__item--nested{% if current_url == 'en/mamori/index.html' %} md-nav__item--active{% endif %}">
+      <nav class="md-nav" aria-label="{{ mamori.title if mamori else 'Chapter 7: Defense' }}" data-md-level="1">
+        <label class="md-nav__title" for="__nav_en_mamori">
+          <span class="md-nav__icon md-icon"></span>
+          {{ mamori.title if mamori else 'Chapter 7: Defense' }}
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          {% if mamori and mamori.overview %}
+          <li class="md-nav__item{% if current_url == mamori.overview.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ mamori.overview.path }}" class="md-nav__link{% if current_url == mamori.overview.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ mamori.overview.title }}</span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </nav>
     </li>
     <li class="md-nav__item">
       <span class="md-nav__link"><span class="md-ellipsis">Chapter 8: Situational Judgment</span></span>
