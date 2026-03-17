@@ -29,7 +29,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/index.html
 6. [Folding Procedure (1)](./mamori06.md)
    Full folding has a clear procedure. The goal is to become able to follow that procedure in real play.
 
-7. Folding Procedure (2)
+7. [Folding Procedure (2)](./mamori07.md)
    The basic theory of full folding is to discard the safer tiles first. So what exactly counts as safer?
 
 8. Folding Procedure (3)

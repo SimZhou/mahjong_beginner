@@ -660,7 +660,7 @@
       </nav>
     </li>
     {% set mamori = config.extra.english_nav.mamori %}
-    <li class="md-nav__item md-nav__item--nested{% if current_url == 'en/mamori/index.html' or (mamori and mamori.mamori01 and current_url == mamori.mamori01.path) or (mamori and mamori.mamori02 and current_url == mamori.mamori02.path) or (mamori and mamori.mamori03 and current_url == mamori.mamori03.path) or (mamori and mamori.mamori04 and current_url == mamori.mamori04.path) or (mamori and mamori.mamori05 and current_url == mamori.mamori05.path) or (mamori and mamori.mamori06 and current_url == mamori.mamori06.path) %} md-nav__item--active{% endif %}">
+    <li class="md-nav__item md-nav__item--nested{% if current_url == 'en/mamori/index.html' or (mamori and mamori.mamori01 and current_url == mamori.mamori01.path) or (mamori and mamori.mamori02 and current_url == mamori.mamori02.path) or (mamori and mamori.mamori03 and current_url == mamori.mamori03.path) or (mamori and mamori.mamori04 and current_url == mamori.mamori04.path) or (mamori and mamori.mamori05 and current_url == mamori.mamori05.path) or (mamori and mamori.mamori06 and current_url == mamori.mamori06.path) or (mamori and mamori.mamori07 and current_url == mamori.mamori07.path) %} md-nav__item--active{% endif %}">
       <nav class="md-nav" aria-label="{{ mamori.title if mamori else 'Chapter 7: Defense' }}" data-md-level="1">
         <label class="md-nav__title" for="__nav_en_mamori">
           <span class="md-nav__icon md-icon"></span>
@@ -713,6 +713,13 @@
           <li class="md-nav__item{% if current_url == mamori.mamori06.path %} md-nav__item--active{% endif %}">
             <a href="{{ config.site_url ~ mamori.mamori06.path }}" class="md-nav__link{% if current_url == mamori.mamori06.path %} md-nav__link--active{% endif %}">
               <span class="md-ellipsis">{{ mamori.mamori06.title }}</span>
+            </a>
+          </li>
+          {% endif %}
+          {% if mamori and mamori.mamori07 %}
+          <li class="md-nav__item{% if current_url == mamori.mamori07.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ mamori.mamori07.path }}" class="md-nav__link{% if current_url == mamori.mamori07.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ mamori.mamori07.title }}</span>
             </a>
           </li>
           {% endif %}
