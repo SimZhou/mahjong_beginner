@@ -1,5 +1,6 @@
 ---
 description: 平和：平和是最容易做成的手役之一。 只要按照效率把手牌整理好，牌往往自然就会做成平和。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/teyaku/teyaku04.html
 ---
 
 # 平和

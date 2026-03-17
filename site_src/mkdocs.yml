@@ -148,6 +148,9 @@ extra:
       teyaku03:
         title: Yakuhai
         path: en/teyaku/teyaku03.html
+      teyaku04:
+        title: Pinfu
+        path: en/teyaku/teyaku04.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
