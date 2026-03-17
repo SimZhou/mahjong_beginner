@@ -1,5 +1,6 @@
 ---
 description: 完全弃和的步骤（1）：完全弃和有明确的步骤。 只要严格按步骤退，放铳就会明显减少。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori06.html
 ---
 
 # 完全弃和的步骤（1）

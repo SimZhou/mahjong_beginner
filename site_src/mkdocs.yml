@@ -295,6 +295,9 @@ extra:
       mamori05:
         title: Kabe
         path: en/mamori/mamori05.html
+      mamori06:
+        title: Folding Procedure (1)
+        path: en/mamori/mamori06.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

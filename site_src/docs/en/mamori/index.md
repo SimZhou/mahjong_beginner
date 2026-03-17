@@ -26,7 +26,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/index.html
 5. [Kabe](./mamori05.md)
    Next, learn kabe. Kabe is another way to look for safe tiles.
 
-6. Folding Procedure (1)
+6. [Folding Procedure (1)](./mamori06.md)
    Full folding has a clear procedure. The goal is to become able to follow that procedure in real play.
 
 7. Folding Procedure (2)
