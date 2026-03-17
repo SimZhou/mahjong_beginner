@@ -280,6 +280,9 @@ extra:
       overview:
         title: Overview
         path: en/mamori/index.html
+      mamori01:
+        title: Defense Fundamentals
+        path: en/mamori/mamori01.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

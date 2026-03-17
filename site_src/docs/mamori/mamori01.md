@@ -1,5 +1,6 @@
 ---
 description: 防守基础：麻将里理想的防守，是只停住真正的和牌张，除此之外别的牌照常切出去。 但现实里这当然做不到。就算靠读牌去缩小对手的和牌范围，命中率通常也连 30% 都到不了。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori01.html
 ---
 
 # 防守基础

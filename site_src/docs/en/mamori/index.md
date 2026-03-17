@@ -11,7 +11,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/index.html
 
 ![Defense main image](../../images/top-image10.jpg)
 
-1. Defense Fundamentals
+1. [Defense Fundamentals](./mamori01.md)
    What do full folding and maneuvering mean? This page also touches on why defense matters so much.
 
 2. Safe Tiles
@@ -63,6 +63,6 @@ Original Japanese page: <http://beginners.biz/mamori/>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="../reach/reach08.html">Previous Chapter: Riichi</a>
-  <a class="page-nav__link page-nav__link--next" href="../mamori/mamori01.html">Continue in Chinese: Defense Fundamentals</a>
+  <a class="page-nav__link page-nav__link--next" href="mamori01.html">Next: Defense Fundamentals</a>
 </div>
 <!-- PAGE NAV END -->
