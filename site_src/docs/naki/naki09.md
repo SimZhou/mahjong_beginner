@@ -1,5 +1,6 @@
 ---
 description: 对对和：但正因为太喜欢，实战里经常会有人把这个役种做过头。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki09.html
 ---
 
 # 对对和

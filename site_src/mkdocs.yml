@@ -225,6 +225,9 @@ extra:
       naki08:
         title: Open Tanyao
         path: en/naki/naki08.html
+      naki09:
+        title: Toitoi
+        path: en/naki/naki09.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

@@ -35,7 +35,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/index.html
 8. [Open Tanyao](./naki08.md)
    When should you break a closed hand and start calling for open Tanyao?
 
-9. Toitoi
+9. [Toitoi](./naki09.md)
    A yaku that beginners especially like, but of course there are also cases where you should not aim for Toitoi.
 
 10. Honitsu

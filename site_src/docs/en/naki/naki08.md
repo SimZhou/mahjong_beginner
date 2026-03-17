@@ -134,6 +134,6 @@ Original Japanese page: <http://beginners.biz/naki/naki08.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="naki07.html">Previous: Calling and Shanten Count</a>
-  <a class="page-nav__link page-nav__link--next" href="../../naki/naki09.html">Continue in Chinese: Toitoi</a>
+  <a class="page-nav__link page-nav__link--next" href="naki09.html">Next: Toitoi</a>
 </div>
 <!-- PAGE NAV END -->
