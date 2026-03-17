@@ -108,6 +108,6 @@ Original Japanese page: <http://beginners.biz/reach/reach05.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="reach04.html">Previous: Riichi or Damaten? (3)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../reach/reach06.html">Continue in Chinese: Riichi Theory (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="reach06.html">Next: Riichi Theory (2)</a>
 </div>
 <!-- PAGE NAV END -->

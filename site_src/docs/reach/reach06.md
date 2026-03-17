@@ -1,5 +1,6 @@
 ---
 description: 立直理论（2）：平时当然会去考虑摸 后变成两面，所以切 是很正常的打法。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/reach/reach06.html
 ---
 
 # 立直理论（2）

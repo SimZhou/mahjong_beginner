@@ -26,7 +26,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/reach/index.html
 5. [Riichi Theory (1)](./reach05.md)
    This page introduces some of the basic theory behind riichi.
 
-6. Riichi Theory (2)
+6. [Riichi Theory (2)](./reach06.md)
    A continuation of the previous page. It goes deeper into riichi theory and also touches on the idea of a "strong discard pond."
 
 7. Choosing Riichi Waits (1)

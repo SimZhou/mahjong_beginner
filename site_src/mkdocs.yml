@@ -266,6 +266,9 @@ extra:
       reach05:
         title: Riichi Theory (1)
         path: en/reach/reach05.html
+      reach06:
+        title: Riichi Theory (2)
+        path: en/reach/reach06.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
