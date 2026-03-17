@@ -29,7 +29,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/index.html
 6. [Kan (2)](./naki06.md)
    Cases where you technically can kan, but should not.
 
-7. Calling and Shanten Count
+7. [Calling and Shanten Count](./naki07.md)
    When you call, pay attention to shanten count. This page also covers “calls that do not change shanten.”
 
 8. Open Tanyao

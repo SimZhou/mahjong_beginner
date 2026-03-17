@@ -219,6 +219,9 @@ extra:
       naki06:
         title: Kan (2)
         path: en/naki/naki06.html
+      naki07:
+        title: Calling and Shanten Count
+        path: en/naki/naki07.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

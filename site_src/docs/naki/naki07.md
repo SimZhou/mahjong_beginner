@@ -1,5 +1,6 @@
 ---
 description: 鸣牌与向听数：这里就专门把注意力放在向听数上，来考虑鸣牌到底是否合理。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki07.html
 ---
 
 # 鸣牌与向听数
