@@ -187,6 +187,9 @@ extra:
       dora04:
         title: When to Cut a Dora
         path: en/dora/dora04.html
+      dora05:
+        title: Choosing Between Dora and Yaku
+        path: en/dora/dora05.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

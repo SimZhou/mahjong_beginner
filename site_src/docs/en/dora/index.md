@@ -23,7 +23,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/dora/index.html
 4. [When to Cut a Dora](dora04.html)
    Too early is bad, and too late is bad too. For a dora that becomes troublesome if someone calls it, when is the best moment to discard it?
 
-5. Choosing Between Dora and Yaku
+5. [Choosing Between Dora and Yaku](dora05.html)
    The factors behind that choice include acceptance width, hand value, and more.
 
 6. The Basics of Red-Five Mahjong

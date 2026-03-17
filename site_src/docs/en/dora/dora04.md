@@ -115,6 +115,6 @@ Original Japanese page: <http://beginners.biz/dora/dora04.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="dora03.html">Previous Page: When You Have Two or More Dora</a>
-  <a class="page-nav__link page-nav__link--next" href="../dora/dora05.html">Continue in Chinese: Choosing Between Dora and Yaku</a>
+  <a class="page-nav__link page-nav__link--next" href="dora05.html">Next Page: Choosing Between Dora and Yaku</a>
 </div>
 <!-- PAGE NAV END -->

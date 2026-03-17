@@ -1,5 +1,6 @@
 ---
 description: 宝牌与手役选择：很多时候，宝牌和手役必须放弃一边。 那种时候，该怎么决定切牌，就来想一想。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/dora/dora05.html
 ---
 
 # 宝牌与手役选择
