@@ -248,3 +248,4 @@ scripts/build_site.sh
 
 - 在执行 `scripts/build_site.sh` 期间，`git status` 可能会暂时显示 `docs/` 下大量文件被删除，因为 MkDocs 会先清空输出目录再重建。不要把这个中间态误判为真实回归，必须等构建结束后再看。
 - `docs/sitemap.xml` 与 `docs/sitemap.xml.gz` 经常会随重建变化，但当前工作流中默认不提交，除非用户明确要求。
+- 使用 `git add` 时，如果某个目录下的文件需要整体纳入提交，优先直接 `git add /path/to/dir/`，不要把同目录下的文件逐个递归列出。这样可以显著缩短命令长度，也能减少不必要的 token 消耗。
