@@ -1,5 +1,6 @@
 ---
 description: 手役思路（2）：基本上，手役并不是“主动去指定”的，而是“做着做着自然形成”的。 如果先在脑子里把最终形定死，然后把所有不符合那个终局的牌都切掉，这种打法就叫“定向打”。 我。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/teyaku/teyaku02.html
 ---
 
 # 手役思路（2）

@@ -14,7 +14,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/index.html
 1. **[Thinking About Yaku (1)](./teyaku01.md)**
    The pleasure of mahjong lies in building yaku.
 
-2. **Thinking About Yaku (2)**
+2. **[Thinking About Yaku (2)](./teyaku02.md)**
    This page looks at so-called committed yaku play, and at the balance between yaku value and speed.
 
 3. **Yakuhai**

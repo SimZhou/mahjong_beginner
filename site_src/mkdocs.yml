@@ -142,6 +142,9 @@ extra:
       teyaku01:
         title: Thinking About Yaku (1)
         path: en/teyaku/teyaku01.html
+      teyaku02:
+        title: Thinking About Yaku (2)
+        path: en/teyaku/teyaku02.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
