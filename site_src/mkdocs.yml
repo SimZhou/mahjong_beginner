@@ -145,6 +145,9 @@ extra:
       teyaku02:
         title: Thinking About Yaku (2)
         path: en/teyaku/teyaku02.html
+      teyaku03:
+        title: Yakuhai
+        path: en/teyaku/teyaku03.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

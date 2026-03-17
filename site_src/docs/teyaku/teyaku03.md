@@ -1,5 +1,6 @@
 ---
 description: 役牌：役牌（番牌）的优点，就在于几乎没有什么限制。 断幺九和平和当然也是容易和牌的役，但它们会对 14 张牌全部施加限制。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/teyaku/teyaku03.html
 ---
 
 # 役牌
