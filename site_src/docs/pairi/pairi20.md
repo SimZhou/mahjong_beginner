@@ -1,5 +1,6 @@
 ---
 description: 向听回退：先说结论。 把向听数打回去之后，最后反而更快和牌的情况，其实并不算多。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi20.html
 ---
 
 # 向听回退

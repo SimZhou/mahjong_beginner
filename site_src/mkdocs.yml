@@ -132,6 +132,9 @@ extra:
       pairi19:
         title: Tile Theory in Tenpai
         path: en/pairi/pairi19.html
+      pairi20:
+        title: Shanten Reversal
+        path: en/pairi/pairi20.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

@@ -66,7 +66,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/pairi/index.html
 19. [Tile Theory in Tenpai](./pairi19.md)
     In tenpai there are often not many choices, but it is still worth looking at concrete examples.
 
-20. **Shanten Reversal**
+20. [Shanten Reversal](./pairi20.md)
     Sometimes, even though it moves you farther from winning in the short term, there are cases where stepping back in shanten is correct.
 
 ---
