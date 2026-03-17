@@ -394,6 +394,13 @@
             </a>
           </li>
           {% endif %}
+          {% if dora and dora.dora02 %}
+          <li class="md-nav__item{% if current_url == dora.dora02.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ dora.dora02.path }}" class="md-nav__link{% if current_url == dora.dora02.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ dora.dora02.title }}</span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
       </nav>
     </li>

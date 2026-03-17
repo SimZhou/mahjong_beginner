@@ -178,6 +178,9 @@ extra:
       dora01:
         title: How to Handle Dora (1)
         path: en/dora/dora01.html
+      dora02:
+        title: How to Handle Dora (2)
+        path: en/dora/dora02.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

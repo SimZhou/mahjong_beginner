@@ -1,5 +1,6 @@
 ---
 description: 宝牌应对（2）：和切 的差别，在于将来如果以双碰形听牌时，宝牌到底还能不能用上。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/dora/dora02.html
 ---
 
 # 宝牌应对（2）
