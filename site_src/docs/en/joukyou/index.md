@@ -23,7 +23,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/index.html
 4. [Hand-Building and Situation (2)](./joukyou04.md)
    A continuation of the previous page, this time going deeper into how hand-building changes with the state of the round.
 
-5. Situation and Hand-Building (3)
+5. [Hand-Building and Situation (3)](./joukyou05.md)
    Learn to distinguish between situations where you should chase value and situations where you should prioritize speed.
 
 6. Situation and Riichi Judgment

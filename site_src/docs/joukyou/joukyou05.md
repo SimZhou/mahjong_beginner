@@ -1,5 +1,6 @@
 ---
 description: 状况与做牌（3）：例 1 这手虽然还有一定持点，但眼下正在和下家争头名。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/joukyou/joukyou05.html
 ---
 
 # 状况与做牌（3）
