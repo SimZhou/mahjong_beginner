@@ -47,7 +47,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/index.html
 12. [Tile Restriction (2)](./mamori12.md)
    A continuation of the previous page, this time using concrete examples.
 
-13. How to Avoid Dealing In
+13. [How to Avoid Dealing In](./mamori13.md)
    This page introduces ways to improve defense, in other words, to lower your deal-in rate.
 
 14. Reading Riichi (1)

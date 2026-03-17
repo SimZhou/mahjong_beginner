@@ -660,7 +660,7 @@
       </nav>
     </li>
     {% set mamori = config.extra.english_nav.mamori %}
-    <li class="md-nav__item md-nav__item--nested{% if current_url == 'en/mamori/index.html' or (mamori and mamori.mamori01 and current_url == mamori.mamori01.path) or (mamori and mamori.mamori02 and current_url == mamori.mamori02.path) or (mamori and mamori.mamori03 and current_url == mamori.mamori03.path) or (mamori and mamori.mamori04 and current_url == mamori.mamori04.path) or (mamori and mamori.mamori05 and current_url == mamori.mamori05.path) or (mamori and mamori.mamori06 and current_url == mamori.mamori06.path) or (mamori and mamori.mamori07 and current_url == mamori.mamori07.path) or (mamori and mamori.mamori08 and current_url == mamori.mamori08.path) or (mamori and mamori.mamori09 and current_url == mamori.mamori09.path) or (mamori and mamori.mamori10 and current_url == mamori.mamori10.path) or (mamori and mamori.mamori11 and current_url == mamori.mamori11.path) or (mamori and mamori.mamori12 and current_url == mamori.mamori12.path) %} md-nav__item--active{% endif %}">
+    <li class="md-nav__item md-nav__item--nested{% if current_url == 'en/mamori/index.html' or (mamori and mamori.mamori01 and current_url == mamori.mamori01.path) or (mamori and mamori.mamori02 and current_url == mamori.mamori02.path) or (mamori and mamori.mamori03 and current_url == mamori.mamori03.path) or (mamori and mamori.mamori04 and current_url == mamori.mamori04.path) or (mamori and mamori.mamori05 and current_url == mamori.mamori05.path) or (mamori and mamori.mamori06 and current_url == mamori.mamori06.path) or (mamori and mamori.mamori07 and current_url == mamori.mamori07.path) or (mamori and mamori.mamori08 and current_url == mamori.mamori08.path) or (mamori and mamori.mamori09 and current_url == mamori.mamori09.path) or (mamori and mamori.mamori10 and current_url == mamori.mamori10.path) or (mamori and mamori.mamori11 and current_url == mamori.mamori11.path) or (mamori and mamori.mamori12 and current_url == mamori.mamori12.path) or (mamori and mamori.mamori13 and current_url == mamori.mamori13.path) %} md-nav__item--active{% endif %}">
       <nav class="md-nav" aria-label="{{ mamori.title if mamori else 'Chapter 7: Defense' }}" data-md-level="1">
         <label class="md-nav__title" for="__nav_en_mamori">
           <span class="md-nav__icon md-icon"></span>
@@ -755,6 +755,13 @@
           <li class="md-nav__item{% if current_url == mamori.mamori12.path %} md-nav__item--active{% endif %}">
             <a href="{{ config.site_url ~ mamori.mamori12.path }}" class="md-nav__link{% if current_url == mamori.mamori12.path %} md-nav__link--active{% endif %}">
               <span class="md-ellipsis">{{ mamori.mamori12.title }}</span>
+            </a>
+          </li>
+          {% endif %}
+          {% if mamori and mamori.mamori13 %}
+          <li class="md-nav__item{% if current_url == mamori.mamori13.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ mamori.mamori13.path }}" class="md-nav__link{% if current_url == mamori.mamori13.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ mamori.mamori13.title }}</span>
             </a>
           </li>
           {% endif %}

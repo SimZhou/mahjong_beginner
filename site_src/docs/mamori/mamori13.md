@@ -1,5 +1,6 @@
 ---
 description: 避免放铳：比如第 6 巡，你的手牌变成这样： 这时还没人立直，也没人副露。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori13.html
 ---
 
 # 避免放铳
