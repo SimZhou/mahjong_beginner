@@ -124,6 +124,6 @@ Original Japanese page: <http://beginners.biz/mamori/mamori11.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="mamori10.html">Previous: Defense Against Open Hands</a>
-  <a class="page-nav__link page-nav__link--next" href="../../mamori/mamori12.md">Continue in Chinese: Tile Restriction (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="mamori12.html">Next: Tile Restriction (2)</a>
 </div>
 <!-- PAGE NAV END -->

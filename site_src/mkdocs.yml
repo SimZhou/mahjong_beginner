@@ -313,6 +313,9 @@ extra:
       mamori11:
         title: Tile Restriction (1)
         path: en/mamori/mamori11.html
+      mamori12:
+        title: Tile Restriction (2)
+        path: en/mamori/mamori12.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

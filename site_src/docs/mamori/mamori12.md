@@ -1,5 +1,6 @@
 ---
 description: 扣牌（2）：很多需要扣牌的场面，都是下家在做混一色的时候。 这题里，下家明显就是在做索子一色手。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori12.html
 ---
 
 # 扣牌（2）

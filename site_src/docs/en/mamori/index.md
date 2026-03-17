@@ -44,7 +44,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/index.html
 11. [Tile Restriction (1)](./mamori11.md)
    What is tile restriction, and in what kinds of situations should you do it?
 
-12. Tile Restriction (2)
+12. [Tile Restriction (2)](./mamori12.md)
    A continuation of the previous page, this time using concrete examples.
 
 13. How to Avoid Dealing In
