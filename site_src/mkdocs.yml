@@ -154,6 +154,9 @@ extra:
       teyaku05:
         title: Tanyao
         path: en/teyaku/teyaku05.html
+      teyaku06:
+        title: Flushes (1)
+        path: en/teyaku/teyaku06.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

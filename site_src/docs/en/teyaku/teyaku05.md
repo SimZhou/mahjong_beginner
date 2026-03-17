@@ -93,6 +93,6 @@ Original Japanese page: <http://beginners.biz/teyaku/teyaku05.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="teyaku04.html">Previous Page: Pinfu</a>
-  <a class="page-nav__link page-nav__link--next" href="../../teyaku/teyaku06.html">Continue in Chinese: Flushes (1)</a>
+  <a class="page-nav__link page-nav__link--next" href="teyaku06.html">Next Page: Flushes (1)</a>
 </div>
 <!-- PAGE NAV END -->

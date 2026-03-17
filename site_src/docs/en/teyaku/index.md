@@ -26,7 +26,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/teyaku/index.html
 5. **[Tanyao](./teyaku05.md)**
    In red-five mahjong, this is an extremely important yaku.
 
-6. **Flushes (1)**
+6. **[Flushes (1)](./teyaku06.md)**
    How to aim at Honitsu and Chinitsu, and when it is right to do so.
 
 7. **Flushes (2)**
