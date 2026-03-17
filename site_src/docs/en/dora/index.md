@@ -9,7 +9,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/dora/index.html
 
 # Chapter 4: Dora and Red Fives
 
-![Dora and red fives main image](../images/top-image7.jpg)
+![Dora and red fives main image](../../images/top-image7.jpg)
 
 1. [How to Handle Dora (1)](dora01.html)
    Always keep "dora acceptance" in mind: play in a way that does not waste dora.
