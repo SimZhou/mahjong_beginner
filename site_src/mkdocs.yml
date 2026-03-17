@@ -292,6 +292,9 @@ extra:
       mamori04:
         title: Suji (2)
         path: en/mamori/mamori04.html
+      mamori05:
+        title: Kabe
+        path: en/mamori/mamori05.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

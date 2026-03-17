@@ -23,7 +23,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/index.html
 4. [Suji (2)](./mamori04.md)
    A continuation of the previous page, with a more detailed look at suji.
 
-5. Kabe
+5. [Kabe](./mamori05.md)
    Next, learn kabe. Kabe is another way to look for safe tiles.
 
 6. Folding Procedure (1)

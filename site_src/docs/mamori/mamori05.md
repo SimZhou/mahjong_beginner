@@ -1,5 +1,6 @@
 ---
 description: 壁牌：例如，如果对手是等 - 的两面， 那么他手里至少得有一张 和一张 。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori05.html
 ---
 
 # 壁牌

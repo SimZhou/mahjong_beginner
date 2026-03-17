@@ -126,6 +126,6 @@ Original Japanese page: <http://beginners.biz/mamori/mamori04.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="mamori03.html">Previous: Suji (1)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../mamori/mamori05.md">Continue in Chinese: Kabe</a>
+  <a class="page-nav__link page-nav__link--next" href="mamori05.html">Next: Kabe</a>
 </div>
 <!-- PAGE NAV END -->
