@@ -1,5 +1,6 @@
 ---
 description: 宝牌应对（1）：宝牌这种东西，只要拿在手里，分数就会提高，当然很可贵。 所以重要的是，要学会不浪费宝牌的打牌方式。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/dora/dora01.html
 ---
 
 # 宝牌应对（1）
