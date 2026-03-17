@@ -1,5 +1,6 @@
 ---
 description: 鸣牌技巧（2）：但在现在这种带赤牌的麻将里，真正能拉开差距的，可能恰恰就是这些“小技巧”。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki14.html
 ---
 
 # 鸣牌技巧（2）

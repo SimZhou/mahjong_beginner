@@ -240,6 +240,9 @@ extra:
       naki13:
         title: Calling Techniques (1)
         path: en/naki/naki13.html
+      naki14:
+        title: Calling Techniques (2)
+        path: en/naki/naki14.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

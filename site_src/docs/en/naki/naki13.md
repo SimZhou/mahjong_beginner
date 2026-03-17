@@ -166,6 +166,6 @@ Original Japanese page: <http://beginners.biz/naki/naki13.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="naki12.html">Previous: Atozuke (2)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../naki/naki14.html">Continue in Chinese: Calling Techniques (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="naki14.html">Next: Calling Techniques (2)</a>
 </div>
 <!-- PAGE NAV END -->

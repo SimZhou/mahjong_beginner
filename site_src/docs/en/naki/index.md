@@ -50,7 +50,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/index.html
 13. [Calling Techniques (1)](./naki13.md)
    Learn some practical calling techniques you can actually use in real games. Calling skill directly affects your win rate.
 
-14. Calling Techniques (2)
+14. [Calling Techniques (2)](./naki14.md)
    Techniques for open Tanyao, which comes up often in red-five mahjong.
 
 15. Calling Techniques (3)
