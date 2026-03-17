@@ -213,6 +213,9 @@ extra:
       naki04:
         title: Pon and Chi (2)
         path: en/naki/naki04.html
+      naki05:
+        title: Kan (1)
+        path: en/naki/naki05.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

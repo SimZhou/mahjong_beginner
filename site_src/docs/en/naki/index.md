@@ -23,7 +23,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/naki/index.html
 4. [Pon and Chi (2)](./naki04.md)
    The key ideas for situations where you have multiple pairs that can be pon'ed, or multiple different ways to chi.
 
-5. Kan (1)
+5. [Kan (1)](./naki05.md)
    Just like pon and chi, kan also has both merits and drawbacks.
 
 6. Kan (2)

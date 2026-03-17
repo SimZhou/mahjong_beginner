@@ -1,5 +1,6 @@
 ---
 description: 杠（1）：杠子会带来 8 符到 32 符，所以和牌时的点数会提高。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki05.html
 ---
 
 # 杠（1）
