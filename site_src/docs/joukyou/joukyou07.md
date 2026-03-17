@@ -1,5 +1,6 @@
 ---
 description: 最终局战术（1）：如果是亲家，和牌以后再看“咦，翻过去了吗”也还来得及；
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/joukyou/joukyou07.html
 ---
 
 # 最终局战术（1）

@@ -348,6 +348,9 @@ extra:
       joukyou06:
         title: Situation and Riichi Judgment
         path: en/joukyou/joukyou06.html
+      joukyou07:
+        title: South 4 Strategy (1)
+        path: en/joukyou/joukyou07.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

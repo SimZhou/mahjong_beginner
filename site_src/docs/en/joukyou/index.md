@@ -29,7 +29,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/joukyou/index.html
 6. [Situation and Riichi Judgment](./joukyou06.md)
    Riichi decisions made while considering score situation and the discard rows of the other players.
 
-7. South 4 Strategy (1)
+7. [South 4 Strategy (1)](./joukyou07.md)
    What you should pay special attention to in the final hand, where situational judgment is tested the most.
 
 8. South 4 Strategy (2)
