@@ -13,7 +13,7 @@ This section gathers the supplemental material outside the main tutorial itself,
 
 ## Appendix Contents
 
-1. Author Profile
+1. [Author Profile](prof.md)
    A translated profile page introducing the author and the site's operator.
 
 2. Mahjong Link Directory
@@ -42,6 +42,6 @@ Compiled from: <http://beginners.biz/>、<http://beginners.biz/link/>、<http://
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="../index.html">Back to Home</a>
-  <a class="page-nav__link page-nav__link--next" href="../../blog/prof.html">Continue in Chinese: Author Profile</a>
+  <a class="page-nav__link page-nav__link--next" href="prof.html">Next: Author Profile</a>
 </div>
 <!-- PAGE NAV END -->

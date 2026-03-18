@@ -944,6 +944,13 @@
               <span class="md-ellipsis">{{ appendix.overview.title if appendix and appendix.overview else 'Overview' }}</span>
             </a>
           </li>
+          {% if appendix and appendix.prof %}
+          <li class="md-nav__item{% if current_url == appendix.prof.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ appendix.prof.path }}" class="md-nav__link{% if current_url == appendix.prof.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ appendix.prof.title }}</span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
       </nav>
     </li>

@@ -373,6 +373,9 @@ extra:
       overview:
         title: Overview
         path: en/blog/index.html
+      prof:
+        title: Author Profile
+        path: en/blog/prof.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large
