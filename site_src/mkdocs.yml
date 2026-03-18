@@ -382,6 +382,9 @@ extra:
       resources:
         title: Recommended External Resources
         path: en/blog/resources.html
+      sitemap:
+        title: Full Site Map
+        path: en/sitemap/index.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

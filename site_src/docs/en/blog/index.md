@@ -22,7 +22,7 @@ This section gathers the supplemental material outside the main tutorial itself,
 3. [Recommended External Resources](resources.md)
    A single page collecting the original site's sidebar recommendations, including books, lectures, magazines, mahjong parlors, and online mahjong resources.
 
-4. Full Site Map
+4. [Full Site Map](../sitemap/index.md)
    A complete listing of the rebuilt site, matching the original `sitemap/` structure.
 
 ## How to Use It

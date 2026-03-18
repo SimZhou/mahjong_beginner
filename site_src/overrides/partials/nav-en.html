@@ -965,6 +965,13 @@
             </a>
           </li>
           {% endif %}
+          {% if appendix and appendix.sitemap %}
+          <li class="md-nav__item{% if current_url == appendix.sitemap.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ appendix.sitemap.path }}" class="md-nav__link{% if current_url == appendix.sitemap.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ appendix.sitemap.title }}</span>
+            </a>
+          </li>
+          {% endif %}
         </ul>
       </nav>
     </li>

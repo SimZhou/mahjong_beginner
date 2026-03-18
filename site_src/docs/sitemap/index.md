@@ -1,5 +1,6 @@
 description: 全站目录页，按章节列出麻将入门教程与附录的全部页面，便于检索与搜索引擎抓取。
 image: https://simzhou.com/riichi_mahjong_book/images/top-image_off.jpg
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/sitemap/index.html
 
 # 全站目录
 
