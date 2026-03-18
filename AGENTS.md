@@ -154,6 +154,23 @@ scripts/build_site.sh
   - `hreflang`
   - 意外残留的 `noindex`
   - 重复标题与重复描述
+- 当前本地构建基线审计结果应保持为：
+  - `html_pages=233`
+  - `missing_title=0`
+  - `missing_description=0`
+  - `missing_canonical=0`
+  - `missing_og_title=0`
+  - `missing_json_ld=0`
+  - `missing_hreflang_cluster=0`
+  - `duplicate_hreflang_labels=0`
+  - `unexpected_noindex=0`
+  - `duplicate_titles=0`
+  - `duplicate_descriptions=0`
+- Bing Webmaster Tools 文件验证已接入：
+  - `site_src/docs/BingSiteAuth.xml`
+  - 构建后对应线上路径：
+    - `https://simzhou.com/riichi_mahjong_book/BingSiteAuth.xml`
+- 当前项目已完成 Google / Bing / IndexNow 侧的技术准备，后续更可能进入平台收录反馈观察期，而不是继续做站内结构改动。
 
 ## 多语言与英文版规则
 
@@ -279,6 +296,8 @@ scripts/build_site.sh
   - `hreflang` / `x-default` 已按逐页镜像关系输出
   - `robots.txt` 已声明主 sitemap 与中英分语言 sitemap
   - `IndexNow` 已可基于最新 sitemap 主动提交
+  - Bing 文件验证已可通过 `BingSiteAuth.xml` 完成
+  - 当前更适合等待 7 到 14 天后查看 Google Search Console / Bing Webmaster Tools 的抓取与收录反馈
 
 已确认线上正常的抽样页面：
 
