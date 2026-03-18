@@ -1,5 +1,6 @@
 ---
 description: 鸣牌的优点与缺点：要重新把鸣牌学好，第一步就是先确认它的优点和缺点。
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki01.html
 ---
 
 # 鸣牌的优点与缺点

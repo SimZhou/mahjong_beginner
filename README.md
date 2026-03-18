@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://simzhou.com/riichi_mahjong_book/en/"><img alt="Live Site" src="https://img.shields.io/badge/site-online-0f766e?style=flat-square"></a>
   <img alt="Chinese Edition" src="https://img.shields.io/badge/chinese-complete-2563eb?style=flat-square">
-  <img alt="English Edition" src="https://img.shields.io/badge/english-in%20progress-f59e0b?style=flat-square">
+  <img alt="English Edition" src="https://img.shields.io/badge/english-complete-2563eb?style=flat-square">
   <img alt="Built with MkDocs" src="https://img.shields.io/badge/built%20with-MkDocs-526CFE?style=flat-square">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-16a34a?style=flat-square">
 </p>
@@ -23,7 +23,7 @@ Live site: <https://simzhou.com/riichi_mahjong_book/en/>
 This repository turns a locally mirrored Japanese mahjong teaching site into a maintainable MkDocs project with:
 
 - a complete Chinese edition
-- an in-progress English edition
+- a complete English edition
 - preserved article logic, diagrams, tables, and example hands
 - deployable static output for GitHub Pages
 - modern publishing and deployment workflow
@@ -42,17 +42,17 @@ This project tries to keep both:
 - the original teaching value
 - a modern documentation workflow
 - cleaner navigation and presentation
-- room for multilingual expansion
+- a finished bilingual reading experience
 
 ## Highlights
 
 - Complete Chinese coverage of the mirrored source site
-- 110 mirrored Japanese source pages mapped to 110 translated Chinese pages
+- 113 mirrored Japanese source pages mapped to 113 rebuilt article pages
 - Chapter order aligned with the original sitemap
 - Diagram-heavy articles preserved instead of flattened into plain text
 - Dedicated appendix section for author info, links, and resource recommendations
 - Responsive homepage and resource-card layouts
-- English site scaffold already online under `/en/`
+- English edition fully online under `/en/`
 
 ## Quick Start
 
@@ -73,7 +73,7 @@ docs/
 
 ## What You Can Read
 
-The rebuilt Chinese edition currently covers the full mirrored tutorial:
+Both language editions currently cover the full mirrored tutorial:
 
 1. Mahjong Basics
 2. Tile Efficiency and Tile Theory
@@ -85,7 +85,7 @@ The rebuilt Chinese edition currently covers the full mirrored tutorial:
 8. Situational Judgment
 9. Push/Fold Decisions
 
-Appendix pages include:
+Appendix pages also exist in both languages:
 
 - Author profile
 - Mahjong links

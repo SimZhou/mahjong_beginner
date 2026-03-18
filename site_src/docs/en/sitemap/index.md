@@ -147,6 +147,9 @@ This page corresponds to the original site's sitemap and lists the rebuilt tutor
 1. [Overview](../osihiki/index.md)
 2. [Push/Fold Fundamentals](../osihiki/osihiki01.md)
 3. [Judgment Materials](../osihiki/osihiki02.md)
+4. [Push/Fold Standards](../osihiki/osihiki03.md)
+5. [Push/Fold in Real Hands](../osihiki/osihiki04.md)
+6. [Push/Fold in Real Hands (2)](../osihiki/osihiki05.md)
 
 ## Appendix
 
@@ -154,6 +157,7 @@ This page corresponds to the original site's sitemap and lists the rebuilt tutor
 2. [Author Profile](../blog/prof.md)
 3. [Mahjong Link Directory](../blog/link.md)
 4. [Recommended External Resources](../blog/resources.md)
+5. [Full Site Map](../sitemap/index.md)
 
 ---
 

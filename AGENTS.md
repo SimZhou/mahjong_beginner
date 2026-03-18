@@ -19,13 +19,13 @@
 ## 当前项目状态
 
 - 当前已完成对本地镜像原站内容的整站中文覆盖：
-  - `raw_site/articles/` 中的镜像源页面：`110`
-  - `site_src/docs/` 中的对应翻译页面：`110`
+  - `raw_site/articles/` 中的镜像源页面：`113`
+  - `site_src/docs/` 中的对应翻译文章页面：`113`
   - 已知缺失的镜像页面：`0`
-- 当前中文重建站的 Markdown 页面总数为：`113`
+- 当前中文重建站的 Markdown 页面总数为：`116`
   - 其中包含首页、9 个章节、附录与全站目录
   - `404.md` 不计入正文页面统计
-- 当前英文镜像站的 Markdown 页面总数为：`113`
+- 当前英文镜像站的 Markdown 页面总数为：`116`
   - 与中文站保持路径镜像关系
   - 已知缺失的英文页面：`0`
 - 当前英文站已完成并正式上线：
@@ -139,6 +139,21 @@ scripts/build_site.sh
 
 - `IndexNow` 提交时不要包含 `404.html` 这类 `noindex` 页面。
 - 页面级 `description` 和 `IndexNow` 提交，原则上只影响搜索引擎抓取与摘要展示，不应引入正文可见内容变更。
+- 当前项目也提供整站 SEO 审计脚本：
+
+```bash
+/opt/miniforge3/bin/python scripts/audit_seo.py
+```
+
+- 该脚本当前用于检查：
+  - `title`
+  - `description`
+  - canonical
+  - `og:title`
+  - JSON-LD
+  - `hreflang`
+  - 意外残留的 `noindex`
+  - 重复标题与重复描述
 
 ## 多语言与英文版规则
 
@@ -258,6 +273,12 @@ scripts/build_site.sh
   - 如果本地 `docs/...` 与线上 HTML/CSS 实际内容都正确，但浏览器仍显示旧布局，应先强制刷新，再判断是否发布失败
 
 ## 当前抽样结论
+
+- 当前中英文站均已完成上线收尾：
+  - 英文站已从 `noindex` 切换为正式可索引
+  - `hreflang` / `x-default` 已按逐页镜像关系输出
+  - `robots.txt` 已声明主 sitemap 与中英分语言 sitemap
+  - `IndexNow` 已可基于最新 sitemap 主动提交
 
 已确认线上正常的抽样页面：
 

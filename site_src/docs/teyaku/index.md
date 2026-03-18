@@ -1,6 +1,7 @@
 title: 第3章：麻将役种
 description: 第3章麻将役种，讲解手役思路、役牌、平和、断幺九、染手、三色与对子手等常见役种的判断与取舍。
 image: https://simzhou.com/riichi_mahjong_book/images/top-image6.jpg
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/teyaku/index.html
 
 # 第3章：麻将役种
 

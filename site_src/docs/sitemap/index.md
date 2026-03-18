@@ -143,10 +143,17 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/sitemap/index.html
 1. [栏目导读](../osihiki/index.md)
 2. [押引铁则](../osihiki/osihiki01.md)
 3. [判断依据](../osihiki/osihiki02.md)
+4. [押引的基准](../osihiki/osihiki03.md)
+5. [实际局面中的押引](../osihiki/osihiki04.md)
+6. [实际局面中的押引 2](../osihiki/osihiki05.md)
 
 ## 附录页面
 
 1. [附录导览](../blog/index.md)
+2. [作者介绍](../blog/prof.md)
+3. [麻将链接集](../blog/link.md)
+4. [站外推荐资源](../blog/resources.md)
+5. [全站目录](../sitemap/index.md)
 
 ---
 

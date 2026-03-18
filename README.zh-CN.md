@@ -7,14 +7,14 @@
 <p align="center">
   <a href="https://simzhou.com/riichi_mahjong_book/"><img alt="在线站点" src="https://img.shields.io/badge/site-online-0f766e?style=flat-square"></a>
   <img alt="中文版" src="https://img.shields.io/badge/chinese-complete-2563eb?style=flat-square">
-  <img alt="英文版" src="https://img.shields.io/badge/english-in%20progress-f59e0b?style=flat-square">
+  <img alt="英文版" src="https://img.shields.io/badge/english-complete-2563eb?style=flat-square">
   <img alt="构建框架" src="https://img.shields.io/badge/built%20with-MkDocs-526CFE?style=flat-square">
   <img alt="许可证" src="https://img.shields.io/badge/license-MIT-16a34a?style=flat-square">
 </p>
 
 这是一个把经典日文麻将教程站点完整重构为现代文档站的项目。
 
-忠实保留原始教学内容，重新整理结构与阅读体验，并逐步扩展为一个中英双语的长期维护仓库。
+忠实保留原始教学内容，重新整理结构与阅读体验，并完成为一个中英双语的长期维护仓库。
 
 在线地址：<https://simzhou.com/riichi_mahjong_book/>
 
@@ -25,7 +25,7 @@
 当前包含：
 
 - 完整的中文版本
-- 正在建设中的英文版本
+- 完整的英文版本
 - 保留原文例题、表格、图示的页面级重构
 - 可直接部署到 GitHub Pages 的静态产物
 - 现代化的发布与维护工作流
@@ -42,16 +42,16 @@
 - 原站的教学价值
 - 现代化的文档化工作流
 - 更清晰的导航和呈现方式
-- 面向多语言扩展的空间
+- 已完成的中英双语阅读体验
 
 ## 项目亮点
 
 - 已完整覆盖本地镜像中的全部中文正文页面
-- `110` 个日文镜像源页，对应 `110` 个中文翻译页
+- `113` 个日文镜像源页，对应 `113` 个重建文章页
 - 章节顺序与原始 `sitemap` 保持一致
 - 正文图示不被扁平化，保留原有教学价值
 - 首页、附录、资源页经过重新组织，适合现代阅读
-- 英文站已上线基础骨架，并开始逐页建设
+- 英文站已完整上线，并与中文站保持镜像路径
 
 ## 快速开始
 
@@ -72,7 +72,7 @@ docs/
 
 ## 当前可阅读内容
 
-中文站当前已覆盖完整镜像教程：
+当前中英文站都已覆盖完整镜像教程：
 
 1. 麻将基础
 2. 牌理与牌效率
@@ -84,7 +84,7 @@ docs/
 8. 局势判断
 9. 押引
 
-附录内容包括：
+附录内容也已提供中英文版本：
 
 - 作者介绍
 - 麻将链接集
