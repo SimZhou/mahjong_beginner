@@ -357,6 +357,11 @@ extra:
       joukyou09:
         title: South 4 Strategy (3)
         path: en/joukyou/joukyou09.html
+    osihiki:
+      title: "Chapter 9: Push/Fold Decisions"
+      overview:
+        title: Overview
+        path: en/osihiki/index.html
   seo:
     locale: zh_CN
     default_robots: index, follow, max-image-preview:large

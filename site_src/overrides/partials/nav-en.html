@@ -6,6 +6,7 @@
 {% set calling = en_nav.calling if en_nav and en_nav.calling else {} %}
 {% set reach = en_nav.reach if en_nav and en_nav.reach else {} %}
 {% set joukyou = en_nav.joukyou if en_nav and en_nav.joukyou else {} %}
+{% set osihiki = en_nav.osihiki if en_nav and en_nav.osihiki else {} %}
 {% set en_site_title = "Japanese Mahjong: From Beginner to Master" %}
 {% set current_url = page.url if page and page.url else '' %}
 {% set basics_active = current_url.startswith('en/kihon/') %}
@@ -15,6 +16,7 @@
 {% set calling_active = current_url.startswith('en/naki/') %}
 {% set reach_active = current_url.startswith('en/reach/') %}
 {% set joukyou_active = current_url.startswith('en/joukyou/') %}
+{% set osihiki_active = current_url.startswith('en/osihiki/') %}
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
@@ -881,8 +883,29 @@
         </ul>
       </nav>
     </li>
-    <li class="md-nav__item">
-      <span class="md-nav__link"><span class="md-ellipsis">Chapter 9: Push/Fold Decisions</span></span>
+    <li class="md-nav__item md-nav__item--nested{% if osihiki_active %} md-nav__item--active{% endif %}">
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__nav_en_osihiki" {% if osihiki_active %}checked{% endif %}>
+      <div class="md-nav__link md-nav__container">
+        <a href="{{ config.site_url ~ (osihiki.overview.path if osihiki and osihiki.overview else 'en/osihiki/index.html') }}" class="md-nav__link{% if osihiki and osihiki.overview and current_url == osihiki.overview.path %} md-nav__link--active{% endif %}">
+          <span class="md-ellipsis">{{ osihiki.title if osihiki else 'Chapter 9: Push/Fold Decisions' }}</span>
+        </a>
+        <label class="md-nav__link{% if osihiki and osihiki.overview and current_url == osihiki.overview.path %} md-nav__link--active{% endif %}" for="__nav_en_osihiki" id="__nav_en_osihiki_label" tabindex="0">
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      </div>
+      <nav class="md-nav" aria-labelledby="__nav_en_osihiki_label" aria-expanded="{{ osihiki_active | tojson }}" data-md-level="1">
+        <label class="md-nav__title" for="__nav_en_osihiki">
+          <span class="md-nav__icon md-icon"></span>
+          {{ osihiki.title if osihiki else 'Chapter 9: Push/Fold Decisions' }}
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          <li class="md-nav__item{% if osihiki and osihiki.overview and current_url == osihiki.overview.path %} md-nav__item--active{% endif %}">
+            <a href="{{ config.site_url ~ (osihiki.overview.path if osihiki and osihiki.overview else 'en/osihiki/index.html') }}" class="md-nav__link{% if osihiki and osihiki.overview and current_url == osihiki.overview.path %} md-nav__link--active{% endif %}">
+              <span class="md-ellipsis">{{ osihiki.overview.title if osihiki and osihiki.overview else 'Overview' }}</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
     </li>
     <li class="md-nav__item">
       <span class="md-nav__link"><span class="md-ellipsis">Appendix</span></span>

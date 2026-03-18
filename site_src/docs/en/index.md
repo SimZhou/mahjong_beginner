@@ -96,7 +96,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <span>Even with the same hand, the correct strategy often changes depending on discards, table information, and score situation. The key is identifying what matters most for winning the game right now.</span>
     </div>
   </a>
-  <div class="home-card">
+  <a class="home-card" href="./osihiki/index.html">
     <div class="home-card__media">
       <img src="../images/top9_off.jpg" alt="Chapter 9: Push and Fold" />
     </div>
@@ -104,7 +104,7 @@ The ideas collected here apply across many different mahjong environments. Wheth
       <strong>Chapter 9: Push and Fold</strong>
       <span>You cannot get good results by attacking every hand, but you also cannot gain points if you never attack. Judging when to push and when to fold is a skill that appears everywhere in mahjong.</span>
     </div>
-  </div>
+  </a>
 </div>
 
 ## Update Log

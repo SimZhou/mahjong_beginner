@@ -1,6 +1,7 @@
 title: 第9章：押引
 description: 第9章押引，讲解押引铁则、判断材料以及结合实战场面的押与退思路。
 image: https://simzhou.com/riichi_mahjong_book/images/top-image12.jpg
+alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/osihiki/index.html
 
 # 第9章：押引
 
