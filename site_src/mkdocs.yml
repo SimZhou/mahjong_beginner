@@ -21,7 +21,7 @@ extra_css:
   - stylesheets/extra.css
 
 extra:
-  alternate:
+  language_switch:
     - name: 简体中文
       lang: zh-CN
       link: https://simzhou.com/riichi_mahjong_book/
