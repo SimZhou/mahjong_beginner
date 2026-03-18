@@ -126,6 +126,6 @@ Original Japanese page: <http://beginners.biz/joukyou/joukyou05.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="joukyou04.html">Previous: Hand-Building and Situation (2)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../joukyou/joukyou06.html">Continue in Chinese: Situation and Riichi Judgment</a>
+  <a class="page-nav__link page-nav__link--next" href="joukyou06.html">Next: Situation and Riichi Judgment</a>
 </div>
 <!-- PAGE NAV END -->

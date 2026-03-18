@@ -34,7 +34,7 @@ The value of honor tiles is simpler: tiles that can become valuable triplets are
 Value honor tiles that can secure one han by calling are quite valuable, and are often more important than terminal tiles.  
 But **once even one copy is discarded, their value drops sharply. If the second copy is visible, they become almost useless for attacking.**
 
-At that point, if you keep them, it is usually as a [safe tile](../../mamori/mamori02.md).
+At that point, if you keep them, it is usually as a [safe tile](../mamori/mamori02.md).
 
 ## 2. Interaction Between Tiles
 

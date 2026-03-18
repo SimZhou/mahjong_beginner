@@ -59,6 +59,6 @@ Original Japanese page: <http://beginners.biz/joukyou/joukyou02.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="joukyou01.html">Previous: Situational Judgment Basics</a>
-  <a class="page-nav__link page-nav__link--next" href="../../joukyou/joukyou03.html">Continue in Chinese: Hand-Building and Situation (1)</a>
+  <a class="page-nav__link page-nav__link--next" href="joukyou03.html">Next: Hand-Building and Situation (1)</a>
 </div>
 <!-- PAGE NAV END -->

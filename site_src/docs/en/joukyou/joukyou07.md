@@ -162,6 +162,6 @@ Original Japanese page: <http://beginners.biz/joukyou/joukyou07.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="joukyou06.html">Previous: Situation and Riichi Judgment</a>
-  <a class="page-nav__link page-nav__link--next" href="../../joukyou/joukyou08.html">Continue in Chinese: South 4 Strategy (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="joukyou08.html">Next: South 4 Strategy (2)</a>
 </div>
 <!-- PAGE NAV END -->

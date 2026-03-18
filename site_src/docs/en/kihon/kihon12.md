@@ -106,6 +106,6 @@ Original Japanese page: <http://beginners.biz/kihon/kihon12.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="kihon11.html">Previous: Basic Waits (1)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../pairi/index.html">Continue in Chinese: Chapter 2 Overview</a>
+  <a class="page-nav__link page-nav__link--next" href="../pairi/index.html">Next: Chapter 2 Overview</a>
 </div>
 <!-- PAGE NAV END -->

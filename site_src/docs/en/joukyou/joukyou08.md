@@ -153,6 +153,6 @@ Original Japanese page: <http://beginners.biz/joukyou/joukyou08.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="joukyou07.html">Previous: South 4 Strategy (1)</a>
-  <a class="page-nav__link page-nav__link--next" href="../../joukyou/joukyou09.html">Continue in Chinese: South 4 Strategy (3)</a>
+  <a class="page-nav__link page-nav__link--next" href="joukyou09.html">Next: South 4 Strategy (3)</a>
 </div>
 <!-- PAGE NAV END -->

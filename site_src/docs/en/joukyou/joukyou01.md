@@ -91,6 +91,6 @@ Original Japanese page: <http://beginners.biz/joukyou/joukyou01.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="index.html">Back to Overview: Situational Judgment</a>
-  <a class="page-nav__link page-nav__link--next" href="../../joukyou/joukyou02.html">Continue in Chinese: Playing With Rank Awareness</a>
+  <a class="page-nav__link page-nav__link--next" href="joukyou02.html">Next: Playing With Rank Awareness</a>
 </div>
 <!-- PAGE NAV END -->

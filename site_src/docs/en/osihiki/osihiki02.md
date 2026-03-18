@@ -180,6 +180,6 @@ Original Japanese page: <http://beginners.biz/osihiki/osihiki02.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="osihiki01.html">Previous: Push/Fold Fundamentals</a>
-  <a class="page-nav__link page-nav__link--next" href="../../osihiki/osihiki03.html">Continue in Chinese: Push/Fold Standards</a>
+  <a class="page-nav__link page-nav__link--next" href="../blog/index.html">Next: Appendix</a>
 </div>
 <!-- PAGE NAV END -->

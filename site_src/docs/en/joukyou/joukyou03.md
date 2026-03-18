@@ -111,6 +111,6 @@ Original Japanese page: <http://beginners.biz/joukyou/joukyou03.html>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="joukyou02.html">Previous: Playing With Rank Awareness</a>
-  <a class="page-nav__link page-nav__link--next" href="../../joukyou/joukyou04.html">Continue in Chinese: Hand-Building and Situation (2)</a>
+  <a class="page-nav__link page-nav__link--next" href="joukyou04.html">Next: Hand-Building and Situation (2)</a>
 </div>
 <!-- PAGE NAV END -->

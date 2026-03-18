@@ -48,7 +48,7 @@ There are roughly four kinds of completely safe tiles:
 3. The fourth visible honor tile, when kokushi musou is not possible
 4. A complete no-chance tile
 
-The last category will be explained later on the Chinese [Kabe](../../mamori/mamori05.md) page.
+The last category will be explained later on the [Kabe](mamori05.md) page.
 
 ---
 

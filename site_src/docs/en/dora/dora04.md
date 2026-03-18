@@ -99,7 +99,7 @@ so I do not feel any need to keep the dora.
 It is not impossible to use both dora,
 
 but if you play with winning speed as the priority, discarding the dora gives the widest hand.  
-(See the [tile-efficiency chapter](../../pairi/index.md).)
+(See the [tile-efficiency chapter](../pairi/index.md).)
 
 With draws like <img src="../../hai/pin4m.gif" width="19" height="26"><img src="../../hai/pin6m.gif" width="19" height="26"><img src="../../hai/sou5m.gif" width="19" height="26">, the hand becomes a Pinfu one-shanten;  
 and when you look at the score situation for all four players, this is not a spot where a huge hand is required, so you should cut the dora here.

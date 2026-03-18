@@ -28,7 +28,7 @@ In a hand like this, you can expand your tenpai chances by keeping the shanpon b
 
 Keeping the nobetan shape in souzu does leave some room to drift toward Ittsuu, but even after considering score, I do not think that is the better play.
 
-If the shanpon backup tiles later become thin, you can also switch them into [safe tiles](../../mamori/mamori02.md).
+If the shanpon backup tiles later become thin, you can also switch them into [safe tiles](../mamori/mamori02.md).
 
 ---
 

@@ -63,6 +63,6 @@ Original Japanese page: <http://beginners.biz/naki/>
 <!-- PAGE NAV START -->
 <div class="page-nav" markdown="0">
   <a class="page-nav__link page-nav__link--prev" href="../dora/dora07.html">Previous Chapter: Dora and Red Fives</a>
-  <a class="page-nav__link page-nav__link--next" href="../../naki/naki01.html">Continue in Chinese: Advantages and Disadvantages of Calling</a>
+  <a class="page-nav__link page-nav__link--next" href="naki01.html">Next: Advantages and Disadvantages of Calling</a>
 </div>
 <!-- PAGE NAV END -->
