@@ -71,7 +71,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/reach/reach04.html
 
 不过，当然也有默听更好的情况。
 
-<img src="../images/25.gif" width="383" height="406" />
+<img src="../images/25.gif" width="383" height="406" alt="早巡高打点时默听更优的局面图" />
 
 上面的画面里，只是第 2 巡，就已经是宝牌 2 的听牌。  
 这种时候，流石还是不立直，等手变更有利。

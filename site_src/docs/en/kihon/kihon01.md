@@ -46,7 +46,7 @@ Now let us look at an example.
 You have already won the first two games, and in the third you have just drawn a `6000 all`, putting yourself far in front.
 In the middle of that perfect run, the dealer declares riichi.
 
-<img src="../../images/h001.gif">
+<img src="../../images/h001.gif" alt="Hand diagram for facing a dealer riichi while leading after consecutive wins">
 
 If you still ride the momentum and cut <img height="34" src="../../hai/sou3.gif" width="24" /> or <img height="34" src="../../hai/man2.gif" width="24" />, you are probably one of the losers.
 

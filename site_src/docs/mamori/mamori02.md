@@ -8,7 +8,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori02.html
 例如，面对下面这个立直，  
 有哪些牌切出去以后**绝对不会被荣和**？
 
-<img src="../images/27.gif" width="396" height="420" />
+<img src="../images/27.gif" width="396" height="420" alt="立直后现物与安全牌说明局面图" />
 
 根据振听规则，**只要对方自己打过的牌，就不能荣和。**  
 所以对手自己河里的牌，全部都是安全牌。

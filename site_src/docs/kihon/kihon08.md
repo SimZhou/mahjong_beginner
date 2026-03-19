@@ -22,7 +22,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon08.html
 
 如果拿到这样的起手牌，
 
-<img src="../images/008.gif" width="338" height="70">
+<img src="../images/008.gif" width="338" height="70" alt="起手牌拆分为基本形部件的示意图">
 
 就能像图里这样，把它拆成基本形部件。
 
@@ -48,7 +48,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon08.html
 这两种解释并不是谁对谁错。
 我更强烈建议的是：**复合形就按复合形来看。**
 
-<img src="../images/009.gif" width="326" height="79">
+<img src="../images/009.gif" width="326" height="79" alt="复合形拆分示意图">
 
 麻将牌只要组合在一起，就会产生复杂的功能。
 想不漏看这些功能，最好的办法就是把各种复合形的性质单独作为知识记住。

@@ -95,7 +95,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori05.html
 
 接下来实际看一手怎么利用壁找安全牌。
 
-<img src="../images/h009.gif" width="500" height="500" />
+<img src="../images/h009.gif" width="500" height="500" alt="利用壁寻找安全牌的例题局面图" />
 
 这里切立直者的现物 ![9m](../hai/man9m.gif) 当然也不差，  
 但这题更好的答案是切 ![9p](../hai/pin9m.gif)。

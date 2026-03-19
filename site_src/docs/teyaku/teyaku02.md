@@ -50,7 +50,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/teyaku/teyaku02.html
 ---
 
 **例 2**  
-<img src="../images/01.jpg" width="370" height="127" />
+<img src="../images/01.jpg" width="370" height="127" alt="看似靠赤牌和出的例2牌形图" />
 
 这手牌乍看像是“赤 3 幸运和出来了”的牌谱。  
 但实际上，打牌的人是非常明确地在做手役。

@@ -28,7 +28,7 @@ In other words, taking first means gaining `5000 × 4 = 20000` points.
 
 So the result looks like this:
 
-<img src="../../images/40.gif" width="451" height="276" />
+<img src="../../images/40.gif" width="451" height="276" alt="Diagram showing how uma and oka affect final results" />
 
 That is the basic idea.  
 Under modern rules, what matters more for your final result is often not the raw points during the game itself, but rather the **points added and subtracted according to final placement**.

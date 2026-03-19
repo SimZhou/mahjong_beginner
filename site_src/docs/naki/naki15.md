@@ -18,7 +18,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki15.html
 一发本身的概率并没有高到那个程度，
 所以通常没必要为了消一发，特地去冒风险鸣牌。
 
-<img src="../images/h003.gif" width="495" height="501" />
+<img src="../images/h003.gif" width="495" height="501" alt="零风险消一发的判断局面图" />
 
 相反，如果是完全零风险，那一发消除就是赚的。
 

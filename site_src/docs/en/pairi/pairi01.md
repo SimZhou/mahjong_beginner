@@ -55,7 +55,7 @@ At this point, they cut <img src="../../hai/sou5.gif" width="24" height="34" />.
 
 What matters is to start thinking in terms of how the 13 tiles, plus the drawn tile, are structured.
 
-<img src="../../images/42.gif" width="392" height="100" />
+<img src="../../images/42.gif" width="392" height="100" alt="Diagram showing one way to break the hand into structural components" />
 
 This hand can be broken down like that.
 

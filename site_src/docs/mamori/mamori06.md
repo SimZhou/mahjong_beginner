@@ -40,7 +40,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori06.html
 
 ### 例
 
-<img src="../images/h006.gif" width="500" height="500" />
+<img src="../images/h006.gif" width="500" height="500" alt="手牌已散乱时的防守判断局面图" />
 
 这手已经散得很厉害了，  
 从这里去跟亲家的立直硬拼，几乎等于自杀。

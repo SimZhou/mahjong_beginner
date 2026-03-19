@@ -17,7 +17,7 @@ If a hand is so poor that it is unlikely to win no matter what you do, a slightl
 
 You can choose your discard by following the flow below.
 
-<img src="../../images/011.gif" width="487" height="576" />
+<img src="../../images/011.gif" width="487" height="576" alt="Flowchart for choosing a discard in iishanten tile theory" />
 
 Read the chart from top to bottom. The diamond shapes are branch points.
 

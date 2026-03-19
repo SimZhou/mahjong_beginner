@@ -80,7 +80,7 @@ There are only two principles at work here:
 
 From those two points, you can work out that **certain tiles will not deal into a ryanmen wait**.
 
-<img src="../../images/28.gif" width="396" height="420" />
+<img src="../../images/28.gif" width="396" height="420" alt="Table situation for judging relatively safe suji tiles" />
 
 Now go back to this example.
 

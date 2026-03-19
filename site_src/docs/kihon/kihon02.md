@@ -55,7 +55,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon02.html
 
 所以，取成枚数更多的 <img src="../hai/pin2.gif" width="24" height="34"> 到 <img src="../hai/pin5.gif" width="24" height="34"> 听牌，和牌概率自然更高。
 
-<img src="../images/003a.gif">
+<img src="../images/003a.gif" alt="两种听牌选择的受入枚数比较图">
 
 **“选择切哪张牌，才能让自己以更有利的概率去参加抽签。”**
 这就是做牌的最基本思路。

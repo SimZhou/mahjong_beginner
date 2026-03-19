@@ -84,7 +84,7 @@ an ugly-shape riichi is completely acceptable.
 
 That said, there are still cases where damaten is better.
 
-<img src="../../images/25.gif" width="383" height="406" />
+<img src="../../images/25.gif" width="383" height="406" alt="Early-round high-value tenpai position where damaten is better" />
 
 In the position above, you already have a tenpai with two dora on only turn 2.
 

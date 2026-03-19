@@ -29,7 +29,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki02.html
 
 可以把它想成下面这样一杆天秤。
 
-<img src="../images/ten01.gif" width="288" height="145" />
+<img src="../images/ten01.gif" width="288" height="145" alt="副露判断天秤示意图：优点与缺点的比较">
 
 往左倾就鸣，往右倾就不鸣。
 
@@ -52,7 +52,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki02.html
 
 再把巡目和“东场子家”也考虑进去，大致就会变成下面这样。
 
-<img src="../images/ten02.gif" width="287" height="144" />
+<img src="../images/ten02.gif" width="287" height="144" alt="结合巡目与座位后的副露判断天秤图">
 
 天秤往右倾了。
 
@@ -73,7 +73,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki02.html
 
 **打点**：如果门清立直，通常能做到 7700 以上，所以鸣出去之后打点会明显下降。
 
-<img src="../images/ten03.gif" width="282" height="146" />
+<img src="../images/ten03.gif" width="282" height="146" alt="例2中副露收益大于损失的判断天秤图">
 
 而且别忘了，亲家只要和了就能连庄，
 

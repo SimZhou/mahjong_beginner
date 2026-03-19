@@ -81,7 +81,7 @@ The real difference appears when they improve into ryanmen.
 To turn the penchan <img src="../../hai/pin1.gif" width="24" height="34"><img src="../../hai/pin2.gif" width="24" height="34"> into a ryanmen,
 you need to draw <img src="../../hai/pin4.gif" width="24" height="34"> and then <img src="../../hai/pin5.gif" width="24" height="34">.
 
-<img src="../../images/005.gif" width="330" height="67">
+<img src="../../images/005.gif" width="330" height="67" alt="Diagram showing a penchan needing two steps to become ryanmen">
 
 <span class="blue">In mahjong, needing a two-step improvement is already a fairly hopeless probability.</span>
 You can hardly expect penchan to become ryanmen.
@@ -89,7 +89,7 @@ You can hardly expect penchan to become ryanmen.
 If the shape is the kanchan <img src="../../hai/pin1.gif" width="24" height="34"><img src="../../hai/pin3.gif" width="24" height="34">,
 then drawing <img src="../../hai/pin4.gif" width="24" height="34"> immediately turns it into ryanmen.
 
-<img src="../../images/006.gif" width="217" height="67">
+<img src="../../images/006.gif" width="217" height="67" alt="Diagram showing a kanchan improving to ryanmen in one step">
 
 If the improvement only takes one step, then it is still realistic to hope for it.
 

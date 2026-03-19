@@ -69,7 +69,7 @@ and in this hand, `456` or `567` Sanshoku is also still in play.
 ---
 
 **Example 5**  
-<img src="../../images/001.gif" width="472" height="503" />
+<img src="../../images/001.gif" width="472" height="503" alt="Example 5 position balancing the widest acceptance against hand value" />
 
 If you only look at pure acceptance, the widest discard here is a tsumogiri of <img src="../../hai/sou2.gif" width="24" height="34" />.  
 But in the actual game, the discard was <img src="../../hai/man6.gif" width="24" height="34" />.

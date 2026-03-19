@@ -134,7 +134,7 @@ For example, if you cut <img src="../../hai/man1.gif" width="24" height="34"> he
 
 To move into iishanten, you should cut <img src="../../hai/man6.gif" width="24" height="34"> or <img src="../../hai/pin3.gif" width="24" height="34">.
 
-<img src="../../images/004.gif">
+<img src="../../images/004.gif" alt="Step-by-step diagram from shanten progression to winning">
 
 Mahjong is a game in which you reach a win by climbing the steps shown in the diagram.
 You can never skip one of those steps midway.

@@ -70,7 +70,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki08.html
 
 那就必须放弃门清，开始仕挂。
 
-<img src="../images/36.gif" width="432" height="461" />
+<img src="../images/36.gif" width="432" height="461" alt="应当放弃门清开始仕挂的局面图" />
 
 像这种局面，就应该对 <img src="../hai/sou2.gif" width="24" height="34"> 果断喊碰。
 

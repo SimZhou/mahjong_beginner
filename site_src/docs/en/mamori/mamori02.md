@@ -10,7 +10,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/mamori/mamori02.html
 For example, against the riichi below,  
 which tiles can you discard with **zero chance of being ron'd**?
 
-<img src="../../images/27.gif" width="396" height="420" />
+<img src="../../images/27.gif" width="396" height="420" alt="Table situation showing genbutsu and completely safe tiles after riichi" />
 
 Under the furiten rule, **a player cannot ron on any tile they have already discarded.**  
 So every tile in that player's own discard pond is safe.

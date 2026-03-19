@@ -56,7 +56,7 @@ If you were drawing lottery tickets, you would obviously prefer the side with mo
 
 So if you take the wait with more tiles, <img src="../../hai/pin2.gif" width="24" height="34"> to <img src="../../hai/pin5.gif" width="24" height="34">, the probability of winning is naturally higher.
 
-<img src="../../images/003a.gif">
+<img src="../../images/003a.gif" alt="Comparison diagram of acceptance counts for two tenpai choices">
 
 **"Choose your discard so that you enter the draw with the most favorable odds."**  
 That is the most basic way to think about hand-building.

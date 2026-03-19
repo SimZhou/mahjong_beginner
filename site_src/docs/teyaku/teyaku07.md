@@ -49,7 +49,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/teyaku/teyaku07.html
 
 <span class="b">例 3</span>
 
-<img src="../images/002.gif" width="420" height="450" />
+<img src="../images/002.gif" width="420" height="450" alt="例3：不应轻易切出关键搭子的局面图" />
 
 既然需要的面子已经齐了，就不要轻易切出 <img src="../hai/man6.gif" width="24" height="34"> ，而应先从 <img src="../hai/pin5.gif" width="24" height="34"> 切起。  
 只是一个小小的工夫，却能让混一色更不容易被看穿。

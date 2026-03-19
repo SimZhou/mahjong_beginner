@@ -29,7 +29,7 @@ So you cannot afford to throw tiles carelessly anymore.
 
 As the chart below shows, these choices can be broadly divided into five strategies.
 
-<img src="../../images/26.gif" width="233" height="147">
+<img src="../../images/26.gif" width="233" height="147" alt="Diagram of five broad attack and defense strategies">
 
 If you are willing to give up on winning in order to avoid dealing in,
 then naturally you choose <span class="b">full folding.</span>

@@ -52,7 +52,7 @@ it can still occasionally be effective in Honitsu.
 
 **Example 3**
 
-<img src="../../images/002.gif" width="420" height="450" />
+<img src="../../images/002.gif" width="420" height="450" alt="Example 3 position where you should not casually cut the key taatsu" />
 
 Since the necessary melds are already in place, you should not casually cut <img src="../../hai/man6.gif" width="24" height="34" />.  
 You should start with <img src="../../hai/pin5.gif" width="24" height="34" /> instead.  

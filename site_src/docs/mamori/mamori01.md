@@ -25,7 +25,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori01.html
 
 大致可以像下图一样，分成 `5` 种大战略。
 
-<img src="../images/26.gif" width="233" height="147" />
+<img src="../images/26.gif" width="233" height="147" alt="防守与进攻五种大战略示意图" />
 
 如果你已经打算放弃和牌，只求避免放铳，那么当然就是走**完全弃和**。  
 如果你决定继续向和牌前进，那就是**全押**。

@@ -27,7 +27,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori09.html
 
 ### 例1
 
-<img src="../images/33.gif" width="445" height="463" />
+<img src="../images/33.gif" width="445" height="463" alt="例1：迂回有效的防守局面图" />
 
 这手就是很典型的“迂回有效”的例子。
 
@@ -45,7 +45,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori09.html
 
 ### 例2
 
-<img src="../images/34.gif" width="432" height="462" />
+<img src="../images/34.gif" width="432" height="462" alt="例2：是否迂回的防守局面图" />
 
 如果场上没有立直，这手正常会先拆筒子的坎张。  
 就算选择全押，通常也还是这么打。

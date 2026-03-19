@@ -70,7 +70,7 @@ Number tiles run from 1 to 9,
 but there is a huge difference in how well each tile works for making sets.
 The following diagram makes that very clear.
 
-<img src="../../images/003b.gif">
+<img src="../../images/003b.gif" alt="Diagram of meld-forming strength for number tiles one through nine">
 
 Tiles from `3` to `7` can form taatsu with four different tile types,  
 consisting of two ryanmen possibilities and two kanchan possibilities.
@@ -83,7 +83,7 @@ and they can only become poor shapes such as penchan or kanchan.
 
 So number tiles in mahjong can be ranked roughly like this.
 
-<img src="../../images/003c.png">
+<img src="../../images/003c.png" alt="Ranking diagram for number tile value">
 
 There are slight differences even among the rank-A tiles from `3` to `7`,
 but worrying about those tiny differences is mostly just self-satisfaction.

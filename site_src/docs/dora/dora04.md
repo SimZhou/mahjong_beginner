@@ -91,7 +91,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/dora/dora04.html
 
 <span class="b">例 4</span>
 
-<img src="../images/h002.gif" width="500" height="500">
+<img src="../images/h002.gif" width="500" height="500" alt="例4：两张宝牌利用与牌效率取舍的局面图">
 
 虽然不是完全不能把 2 张宝牌都用上，
 

@@ -69,7 +69,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon05.html
 但它们单独具备的面子构成能力差别非常大。
 看下面这张图就很清楚了。
 
-<img src="../images/003b.gif">
+<img src="../images/003b.gif" alt="1到9数牌面子构成能力示意图">
 
 `3` 到 `7` 这些牌，可以和 4 种不同的牌组成搭子，
 而且其中包含 2 种两面、2 种嵌张。
@@ -82,7 +82,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon05.html
 
 因此，麻将里的数牌大致可以排成下面这个等级。
 
-<img src="../images/003c.png">
+<img src="../images/003c.png" alt="数牌价值排序示意图">
 
 虽然作为 rankA 的 `3` 到 `7` 之间也存在一点细微差别，
 但纠结那点差异，基本只是自我满足而已。

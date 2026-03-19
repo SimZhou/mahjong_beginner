@@ -46,7 +46,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon01.html
 前两战已经两连胜，来到第三战，这个半庄里你又自摸了 `6000 ALL`，目前遥遥领先。
 就在这种绝好状态下，亲家立直了。
 
-<img src="../images/h001.gif">
+<img src="../images/h001.gif" alt="连胜领先时面对亲家立直的手牌示意图">
 
 如果你这时还凭着气势去切 <img height="34" src="../hai/sou3.gif" width="24" /> 或 <img height="34" src="../hai/man2.gif" width="24" />，那你大概就是输家。
 

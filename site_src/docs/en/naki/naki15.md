@@ -21,7 +21,7 @@ Once any call is made after a riichi, the right to ippatsu disappears.
 
 The actual chance of ippatsu is not high enough that you should take a real risk just to erase it.
 
-<img src="../../images/h003.gif" width="495" height="501" />
+<img src="../../images/h003.gif" width="495" height="501" alt="Position for judging a risk-free call to cancel ippatsu" />
 
 But if it is completely risk-free, cancelling ippatsu is simply profitable.
 

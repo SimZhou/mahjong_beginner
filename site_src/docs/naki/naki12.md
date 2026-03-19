@@ -77,7 +77,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/naki/naki12.html
 
 ### 例 4
 
-<img src="../images/41.gif" width="415" height="443" />
+<img src="../images/41.gif" width="415" height="443" alt="例4：需要尽早决定开门的点棒局面图" />
 
 像图 4 这样的点数局面，如果还在等 ![南](../hai/nan.gif) 出现再决定开门，那就太软了。
 

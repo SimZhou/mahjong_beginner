@@ -76,7 +76,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori03.html
 
 由这两条，就能推出：**某些牌至少不会点进两面。**
 
-<img src="../images/28.gif" width="396" height="420" />
+<img src="../images/28.gif" width="396" height="420" alt="通过筋牌判断相对安全牌的局面图" />
 
 再回到这张图来看。
 

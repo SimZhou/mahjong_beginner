@@ -85,7 +85,7 @@ The typical example is South 4 in a close game where any win means a comeback.
 
 ### Example 4
 
-<img src="../../images/41.gif" width="415" height="443" />
+<img src="../../images/41.gif" width="415" height="443" alt="Example 4 score situation where you should decide to open early" />
 
 In a score situation like Example 4, it is too soft to keep waiting for <img src="../../hai/nan.gif" width="24" height="34"> before you decide to open.
 

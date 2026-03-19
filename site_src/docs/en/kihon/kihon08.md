@@ -22,7 +22,7 @@ Let us look at an example.
 
 Suppose you are dealt a starting hand like this.
 
-<img src="../../images/008.gif" width="338" height="70">
+<img src="../../images/008.gif" width="338" height="70" alt="Diagram breaking a starting hand into basic shape components">
 
 As shown above, you can divide it into basic shape components.
 
@@ -49,7 +49,7 @@ Neither interpretation is the one correct answer.
 I strongly recommend this way of thinking instead:  
 **treat a composite shape as a composite shape.**
 
-<img src="../../images/009.gif" width="326" height="79">
+<img src="../../images/009.gif" width="326" height="79" alt="Composite shape breakdown diagram">
 
 Mahjong tiles create complicated functions when they combine with one another.
 The best way not to overlook those functions is to learn the properties of each composite shape as knowledge in its own right.

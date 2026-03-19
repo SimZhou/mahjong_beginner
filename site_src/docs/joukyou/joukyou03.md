@@ -86,7 +86,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/joukyou/joukyou03.html
 
 **`例5`**
 
-<img src="../images/h007.png" width="500" height="500" />
+<img src="../images/h007.png" width="500" height="500" alt="例5：终盘进阶技巧的局面图" />
 
 来看一个终盘里稍微进阶一点的技巧。  
 例 5 是在他家已经立直的情况下，终盘取到形式听牌的场面。

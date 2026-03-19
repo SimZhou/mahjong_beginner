@@ -59,7 +59,7 @@ It is a game of competing over who has the sharper sense of gain and loss.
 In Example 1, we compared waits in a tenpai hand.  
 But even before you reach tenpai, if you can compare hands by which one has more useful tiles and which one has fewer, the correct discard becomes much clearer.
 
-<img src="../../images/004.gif" width="229" height="227" />
+<img src="../../images/004.gif" width="229" height="227" alt="Diagram of progressing through shanten steps toward a win" />
 
 Let us bring back this diagram once more.
 

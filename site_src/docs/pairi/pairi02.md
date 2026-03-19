@@ -55,7 +55,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi02.html
 例 1 比较的是听牌时两种待牌的差异。  
 但即使手牌还没有听牌，只要能用“枚数多还是少”来比较两手牌，就能明确看出该切什么。
 
-<img src="../images/004.gif" width="229" height="227" />
+<img src="../images/004.gif" width="229" height="227" alt="沿着向听阶段推进到和牌的示意图" />
 
 把这张图再拿出来看一次。
 

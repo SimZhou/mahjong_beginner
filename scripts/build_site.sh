@@ -10,4 +10,5 @@ rm -rf docs
 cd site_src
 "$PYTHON_BIN" -m mkdocs build -d ../docs
 cd "$ROOT_DIR"
+"$POST_PYTHON_BIN" scripts/add_missing_img_alt.py
 "$POST_PYTHON_BIN" scripts/generate_locale_sitemaps.py

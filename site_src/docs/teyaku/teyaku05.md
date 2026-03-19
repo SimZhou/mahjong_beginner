@@ -66,7 +66,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/teyaku/teyaku05.html
 ---
 
 **例 5**  
-<img src="../images/001.gif" width="472" height="503" />
+<img src="../images/001.gif" width="472" height="503" alt="例5：受入最宽与手役价值取舍的局面图" />
 
 这手如果单看最大受入，最宽的当然是自摸切 <img src="../hai/sou2.gif" width="24" height="34" />。  
 但实战里切的是 <img src="../hai/man6.gif" width="24" height="34" />。

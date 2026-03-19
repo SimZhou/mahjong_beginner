@@ -128,7 +128,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon03.html
 
 为了推进到一向听，应该切 <img src="../hai/man6.gif" width="24" height="34"> 或 <img src="../hai/pin3.gif" width="24" height="34">。
 
-<img src="../images/004.gif">
+<img src="../images/004.gif" alt="从向听推进到和牌的阶段示意图">
 
 麻将就是像图里那样，沿着一个个台阶推进到和牌。
 中途绝不可能跳过某一级。

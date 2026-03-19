@@ -11,7 +11,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori12.html
 
 ## 下家在做染手
 
-<img src="../images/37.gif" width="432" height="462" />
+<img src="../images/37.gif" width="432" height="462" alt="下家做混一色时的扣牌局面图" />
 
 很多需要扣牌的场面，都是下家在做混一色的时候。  
 这题里，下家明显就是在做索子一色手。
@@ -40,7 +40,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori12.html
 
 ## 后付的字牌
 
-<img src="../images/38.gif" width="432" height="463" />
+<img src="../images/38.gif" width="432" height="463" alt="后付字牌手的扣牌局面图" />
 
 这题里，亲家副露了两面以后，偏偏摸进来的是 ![东](../hai/ton.gif)。  
 这张牌我认为**绝对要扣**。
@@ -80,7 +80,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori12.html
 
 但如果场况是下面这样：
 
-<img src="../images/39.gif" width="432" height="464" />
+<img src="../images/39.gif" width="432" height="464" alt="场况变化后需要重新判断扣牌的局面图" />
 
 这时就不能只按纯牌效率走了。
 

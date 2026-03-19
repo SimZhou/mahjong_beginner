@@ -55,7 +55,7 @@ It is better to think of yaku like this:
 ---
 
 **Example 2**  
-<img src="../../images/01.jpg" width="370" height="127" />
+<img src="../../images/01.jpg" width="370" height="127" alt="Example 2 hand shape that looks like a lucky red-five win" />
 
 At first glance, this looks like a lucky game log where someone just happened to win with three red fives.  
 But the player is actually making a very deliberate yaku-oriented choice.

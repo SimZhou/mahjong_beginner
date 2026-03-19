@@ -80,7 +80,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon04.html
 边张 <img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin2.gif" width="24" height="34"> 如果想变成两面，
 必须先摸到 <img src="../hai/pin4.gif" width="24" height="34">，再摸到 <img src="../hai/pin5.gif" width="24" height="34">。
 
-<img src="../images/005.gif" width="330" height="67">
+<img src="../images/005.gif" width="330" height="67" alt="边张需要两步才能变化成两面的示意图">
 
 <span class="blue">在麻将里，需要两步才变好的情况，概率已经相当绝望。</span>
 边张几乎不能指望它变成两面。
@@ -88,7 +88,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/kihon/kihon04.html
 而嵌张 <img src="../hai/pin1.gif" width="24" height="34"><img src="../hai/pin3.gif" width="24" height="34">，
 只要摸到 <img src="../hai/pin4.gif" width="24" height="34">，立刻就能变成两面。
 
-<img src="../images/006.gif" width="217" height="67">
+<img src="../images/006.gif" width="217" height="67" alt="嵌张一步变化成两面的示意图">
 
 如果只需要一步变化，就还算值得期待。
 

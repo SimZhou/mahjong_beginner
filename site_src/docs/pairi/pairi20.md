@@ -34,7 +34,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi20.html
 
 **例 2**  
 
-<img src="../images/h013.gif" width="500" height="500" />
+<img src="../images/h013.gif" width="500" height="500" alt="碰双东即可听牌的例2局面图" />
 
 碰双东就能听牌。  
 但是待牌 <img src="../hai/sou2m.gif" width="19" height="26" /> 已经在场上现了 `3` 张。

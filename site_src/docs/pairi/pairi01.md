@@ -50,7 +50,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi01.html
 
 重要的是，要开始从“这 13 张（加上摸进来的 1 张）在结构上是怎么组成的”这个角度来思考。
 
-<img src="../images/42.gif" width="392" height="100" />
+<img src="../images/42.gif" width="392" height="100" alt="手牌结构分解示意图" />
 
 这副手牌可以分解成这样。
 

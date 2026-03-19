@@ -15,7 +15,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/pairi/pairi13.html
 
 打牌选择可以按照下面这个流程来进行：
 
-<img src="../images/011.gif" width="487" height="576" />
+<img src="../images/011.gif" width="487" height="576" alt="一向听牌理的打牌判断流程图" />
 
 这个流程图要从上往下看，菱形代表分支。  
 最难的地方在于特殊情况，也就是：

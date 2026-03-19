@@ -26,7 +26,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/joukyou/joukyou02.html
 
 也就是说，就会变成下面这样：
 
-<img src="../images/40.gif" width="451" height="276" />
+<img src="../images/40.gif" width="451" height="276" alt="乌马与冈对最终收支影响的示意图" />
 
 就像图里那样。  
 在现在常见的规则下，麻将的最终收支，与其说更看对局中的素点，  

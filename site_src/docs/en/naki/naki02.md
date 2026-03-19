@@ -31,7 +31,7 @@ So deciding whether to call or not means:
 
 It helps to imagine a scale like this.
 
-<img src="../../images/ten01.gif" width="288" height="145" />
+<img src="../../images/ten01.gif" width="288" height="145" alt="Calling judgment scale comparing the pros and cons of opening">
 
 If it tilts left, you call; if it tilts right, you do not.
 
@@ -54,7 +54,7 @@ Let us break it down a little further.
 
 If you also take into account the turn number and the fact that you are a child player in East round, the scale looks roughly like this:
 
-<img src="../../images/ten02.gif" width="287" height="144" />
+<img src="../../images/ten02.gif" width="287" height="144" alt="Calling judgment scale after factoring in turn number and seat position">
 
 It tilts to the right.
 
@@ -75,7 +75,7 @@ Let us think about it the same way.
 
 **Value**: If you stay closed and riichi, the hand is usually worth 7700 or more, so the drop in value is large.
 
-<img src="../../images/ten03.gif" width="282" height="146" />
+<img src="../../images/ten03.gif" width="282" height="146" alt="Calling judgment scale showing Example 2 favoring an open hand">
 
 And since you are dealer, winning also means a repeat dealership,
 

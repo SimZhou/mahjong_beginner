@@ -11,7 +11,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori08.html
 
 ### 例1
 
-<img src="../images/31.gif" width="472" height="502" />
+<img src="../images/31.gif" width="472" height="502" alt="例1：两家似乎都在弃和时的押引局面图" />
 
 左右两家看起来也都已经在弃和了，  
 所以这是一个只需要专心对这一家立直彻底弃和的局面。
@@ -41,7 +41,7 @@ alt_lang_url: https://simzhou.com/riichi_mahjong_book/en/mamori/mamori08.html
 
 ### 例2
 
-<img src="../images/32.gif" width="465" height="499" />
+<img src="../images/32.gif" width="465" height="499" alt="例2：终盘连续两家立直时的押引局面图" />
 
 这是终盘连续进来两家立直的局面。
 

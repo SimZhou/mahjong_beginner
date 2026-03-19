@@ -72,7 +72,7 @@ If the hand is already late, or there are clearly faster players at the table,
 
 then you need to give up on staying closed and start calling.
 
-<img src="../../images/36.gif" width="432" height="461" />
+<img src="../../images/36.gif" width="432" height="461" alt="Position where you should give up on staying closed and start calling" />
 
 In a situation like this, you should call pon on <img src="../../hai/sou2.gif" width="24" height="34"> without hesitation.
 
